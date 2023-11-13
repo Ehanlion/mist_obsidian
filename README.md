@@ -1,2 +1,5 @@
 # mist_obsidian
-Ethan's Obsidian vaults for his D&amp;D adventure, Mist. Used to store updated backups of the Mist vault.
+
+This project is an Obsidian vault. It is Ethan's work environment for his D&D project, codenamed 'Mist!' The following is the short description of this magical land:
+
+*If you sail the seas long enough, you may find yourself sailing through a glittering mist. A veil of fog. A wall of soothing sea mist. If you sail far enough, you may set your gaze upon the white cliffs and tall mountains of Mist. Off its coast bob colorful ships and trawlers, taming the rough seas to make a days catch. Arcane runes glow and swirls around sea obelisks as you sail past, their magic revered, and unmuddied. If you set your ship to port, the vibrant chimes of the towns ring through your sails and jaunty music from the harbors drift into your ears. And if you leave your ship? The adventures that lay ahead may well just define your life. For this is the island of Mist; a sequestered jewel of magic, mystery, adventure, and wildlife; its people unique and mysterious; its ways, a trove of treasure yet to discover. This is Mist.*
