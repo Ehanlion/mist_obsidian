@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "a5413a864a36cef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c4a4cb4ca1a602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dece82b2b2822e78",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "9e2fc818bb8aa3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The Discordant Plains/The Ruins of Gorlan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b12371a91f7bc607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/_Template for Locations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a46bfd16d5b47a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/_Template for NPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcba85fcf4802918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/_Template for Effects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c92f7f9da29c45e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/_Template for NPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2df7146331c6c87",
+    "type": "split",
+    "children": [
+      {
+        "id": "e31d839df93f6cbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a564abe5cd1c3cce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "025a5d0db715eb26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "345ef2a2c7eaec7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b443c80cf00953f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a96af3565ecb481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c1cd7e373521eaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Templates/_Template for NPC.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1b73b027fdd91e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Templates/_Template for NPC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2403650e615f086f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4b0d840349d62df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Templates/_Template for NPC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c92f7f9da29c45e",
+  "lastOpenFiles": [
+    "_Templates/_Template for Effects.md",
+    "_Templates/_Template for Games.md",
+    "_Templates",
+    "_Templates/_Template for NPC.md",
+    "_Templates/_Template for Locations.md",
+    "1. The Discordant Plains/The Ruins of Gorlan.md",
+    "Ethan's Player Mechanics/Surge Against the Dying Light.md",
+    "Ethan's Player Mechanics/Steady Arcanum.md",
+    "Ethan's Player Mechanics/Spell Channel.md",
+    "Ethan's Player Mechanics/Scry Life.md",
+    "Ethan's Player Mechanics/Meditated Exposure.md",
+    "Ethan's Player Mechanics/Kinetic Convergence.md",
+    "Ethan's Player Mechanics/Kinetic  Divergence.md",
+    "Ethan's Player Mechanics/Honor of the Forest, Ancient.md",
+    "Ethan's Player Mechanics/Counterspell Surge.md",
+    "Ethan's Player Mechanics/Blood-Fueled Casting.md",
+    "1. The Green Order/The Deep Woods.md",
+    "1. The Green Order/The Evernight Woods.md",
+    "1. The Green Order/The Twilight Woods.md",
+    "Drop-in Locations/NPCs/Morghoul the Resurrected Sovereign.md",
+    "Drop-in Locations/Temple to the Returned Lord.md",
+    "Drop-in Locations/The Quaint and Rustic II.md",
+    "Ethan's Curses/The Whisperer's Curse.md",
+    "Redactive Counterspell.md",
+    "GM Screen/Combat Actions/counterspell rules.md",
+    "0. The South-West Arid Expanse",
+    "0. The South-East Coastline",
+    "0. The South-East Mountains",
+    "0. The North-East Forests",
+    "0. The North-West Steppe",
+    "_Assets/The Quaint and Rustic II Tavern.png",
+    "1. The Discordant Plains/The Solemn Flutes.md",
+    "Ethan's Player Mechanics",
+    "1. The Green Order/NPCs",
+    "1. The Discordant Plains/NPCs",
+    "1. The Discordant Plains",
+    "_Assets/Temple to the Returned Lord.png",
+    "Untitled.canvas"
+  ]
+}

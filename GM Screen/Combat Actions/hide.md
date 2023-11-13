@@ -1,0 +1,1 @@
+You make a stealth check in an attempt to become hidden, both unseen and unheard. This costs your action unless otherwise stated.
