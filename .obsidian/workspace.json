@@ -16,69 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "9e2fc818bb8aa3c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. The Discordant Plains/The Ruins of Gorlan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b12371a91f7bc607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/_Template for Locations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a46bfd16d5b47a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/_Template for NPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcba85fcf4802918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/_Template for Effects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c92f7f9da29c45e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/_Template for NPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/_Template for NPC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/_Template for NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Templates/_Template for NPC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,17 +139,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a564abe5cd1c3cce",
+  "active": "dece82b2b2822e78",
   "lastOpenFiles": [
+    "1. The Discordant Plains/The Ruins of Gorlan.md",
+    "_Templates/_Template for Locations.md",
+    "_Templates/_Template for NPC.md",
+    "_Templates/_Template for Effects.md",
     "README.md",
+    "0. The North-East Forests/Regional Description for North-East Forests.md",
+    "0. The North-West Steppe/Regional Description for North-West Steppe.md",
+    "0. The South-East Mountains/Regional Description for South-East Mountains.md",
+    "1. The Thousand Acre Woods/The Oddly Boggy Swamp.md",
+    "1. The Thousand Acre Woods/The Rickety Tree-House.md",
+    "Untitled.md",
+    "0. The South-East Coastline/Regional Description for South-East Coastline.md",
+    "1. The Thousand Acre Woods/NPCs",
+    "0. The South-West Arid Expanse/Regional Description for South-West Arid Expanse.md",
     "New Text Document.txt",
     "1. The Thousand Acre Woods",
-    "_Templates/_Template for Effects.md",
     "_Templates/_Template for Games.md",
     "_Templates",
-    "_Templates/_Template for NPC.md",
-    "_Templates/_Template for Locations.md",
-    "1. The Discordant Plains/The Ruins of Gorlan.md",
     "Ethan's Player Mechanics/Surge Against the Dying Light.md",
     "Ethan's Player Mechanics/Steady Arcanum.md",
     "Ethan's Player Mechanics/Spell Channel.md",
@@ -227,22 +171,13 @@
     "Ethan's Player Mechanics/Blood-Fueled Casting.md",
     "1. The Green Order/The Deep Woods.md",
     "1. The Green Order/The Evernight Woods.md",
-    "1. The Green Order/The Twilight Woods.md",
-    "Drop-in Locations/NPCs/Morghoul the Resurrected Sovereign.md",
-    "Drop-in Locations/Temple to the Returned Lord.md",
-    "Drop-in Locations/The Quaint and Rustic II.md",
-    "Ethan's Curses/The Whisperer's Curse.md",
-    "Redactive Counterspell.md",
-    "GM Screen/Combat Actions/counterspell rules.md",
     "0. The South-West Arid Expanse",
     "0. The South-East Coastline",
     "0. The South-East Mountains",
     "0. The North-East Forests",
     "0. The North-West Steppe",
     "_Assets/The Quaint and Rustic II Tavern.png",
-    "1. The Discordant Plains/The Solemn Flutes.md",
     "Ethan's Player Mechanics",
-    "1. The Green Order/NPCs",
     "_Assets/Temple to the Returned Lord.png",
     "Untitled.canvas"
   ]
