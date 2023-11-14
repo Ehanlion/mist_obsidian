@@ -1,0 +1,1 @@
+A curse, usually caused by a lost relationship to a power of the night sky. Maybe a constellation went out that gave someone their powers, maybe a star was magically snuffed out in the night sky, something along those lines.

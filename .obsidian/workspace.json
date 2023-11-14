@@ -18,91 +18,31 @@
             }
           },
           {
-            "id": "a52d3f39588a4f11",
+            "id": "ef5639fa953c4f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/Combat Actions/cast a spell.md",
+                "file": "1. The Green Order/NPCs/Elder Thistleton.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61795dfb800db91b",
+            "id": "0958aacbbc178265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Mountains/The Tideblade Corsairs/NPCs/Red-Fang the Terrible.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68bcca43d04b42df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The South-East Mountains/The Tideblade Corsairs/Missions for the Tideblade Corsairs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cee34c2b70f6d7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The South-East Mountains/The Summit Syndicate/NPCs/Erax the Hooded.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "729a1961965253d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The South-East Mountains/the three mountain passes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee9acd7be60b1f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The South-East Mountains/the three mountain passes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b0508140b2cdcf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The South-East Mountains/the three mountain passes.md",
+                "file": "0. The North-East Forests/The Twilight Woods.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The South-East Mountains/the three mountain passes.md",
+                "file": "0. The North-East Forests/The Twilight Woods.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The South-East Mountains/the three mountain passes.md",
+                "file": "0. The North-East Forests/The Twilight Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The South-East Mountains/the three mountain passes.md"
+                "file": "0. The North-East Forests/The Twilight Woods.md"
               }
             }
           }
@@ -228,44 +168,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b0508140b2cdcf1",
+  "active": "0958aacbbc178265",
   "lastOpenFiles": [
+    "0. The North-East Forests/The Deep Woods.md",
+    "1. The Green Order/NPCs/Elder Thistleton.md",
+    "1. The Green Order/NPCs/Sylvia Starlight.md",
+    "1. The Green Order/Library of the Willow Collective.md",
+    "1. The Green Order/Quest to Save Sylvia's Starlight Grove.md",
+    "1. The Green Order/The Ritual of the Newborn Star.md",
+    "1. The Green Order/The Green Order.md",
+    "1. The Green Order/Sylvia's Starlight Grove.md",
+    "Ethan's Curses/The Curse of the Lost Star.md",
+    "_Templates/_Template for NPC.md",
+    "1. The Green Order/NPCs",
+    "GM Screen/Combat Actions/cast a spell.md",
+    "0. The South-East Mountains/The Tideblade Corsairs/NPCs/Red-Fang the Terrible.md",
+    "0. The South-East Mountains/The Tideblade Corsairs/Missions for the Tideblade Corsairs.md",
+    "0. The South-East Mountains/The Summit Syndicate/NPCs/Erax the Hooded.md",
+    "0. The South-East Mountains/the three mountain passes.md",
+    "0. The North-East Forests/The Evernight Woods.md",
+    "0. The North-East Forests/The Twilight Woods.md",
     "0. The South-East Mountains/The Summit Syndicate/The Summit Syndicate.md",
     "0. The South-East Mountains/Solemn's Peaks/Solemn's Peaks.md",
-    "0. The South-East Mountains/the three mountain passes.md",
     "0. The South-East Mountains/Solemn's Peaks",
     "0. The South-East Mountains/The Tideblade Corsairs/The Tideblade Corsairs.md",
     "0. The South-East Mountains/The Summit Syndicate/Missions for the Summit Syndacite.md",
-    "0. The South-East Mountains/The Summit Syndicate/NPCs/Erax the Hooded.md",
-    "0. The South-East Mountains/The Tideblade Corsairs/Missions for the Tideblade Corsairs.md",
-    "0. The South-East Mountains/The Tideblade Corsairs/NPCs/Red-Fang the Terrible.md",
     "NPCs.md",
     "0. The South-East Mountains/The Summit Syndicate/NPCs",
     "0. The South-East Mountains/The Summit Syndicate",
     "0. The South-East Mountains/The Tideblade Corsairs/NPCs",
-    "GM Screen/Combat Actions/cast a spell.md",
     "0. The South-East Mountains/The Tideblade Corsairs",
     "README.md",
     "1. The Discordant Plains/The Ruins of Gorlan.md",
     "_Templates/_Template for Locations.md",
-    "_Templates/_Template for NPC.md",
     "_Templates/_Template for Effects.md",
-    "0. The North-East Forests/Regional Description for North-East Forests.md",
-    "0. The North-West Steppe/Regional Description for North-West Steppe.md",
-    "0. The South-East Mountains/Regional Description for South-East Mountains.md",
-    "1. The Thousand Acre Woods/The Oddly Boggy Swamp.md",
-    "1. The Thousand Acre Woods/The Rickety Tree-House.md",
-    "0. The South-East Coastline/Regional Description for South-East Coastline.md",
     "1. The Thousand Acre Woods/NPCs",
-    "0. The South-West Arid Expanse/Regional Description for South-West Arid Expanse.md",
     "New Text Document.txt",
     "1. The Thousand Acre Woods",
-    "_Templates/_Template for Games.md",
     "_Templates",
-    "Ethan's Player Mechanics/Surge Against the Dying Light.md",
-    "Ethan's Player Mechanics/Steady Arcanum.md",
-    "Ethan's Player Mechanics/Spell Channel.md",
-    "0. The South-West Arid Expanse",
     "_Assets/The Quaint and Rustic II Tavern.png",
     "_Assets/Temple to the Returned Lord.png",
     "Untitled.canvas"
