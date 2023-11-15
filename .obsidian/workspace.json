@@ -16,8 +16,33 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "0797d7913afe68a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Steppe/Regional Description for North-West Steppe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e12140665371b410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-East Forests/Regional Description for North-East Forests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. The North-East Forests/Regional Description for North-East Forests.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. The North-East Forests/Regional Description for North-East Forests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,14 +147,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. The North-East Forests/Regional Description for North-East Forests.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,10 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dece82b2b2822e78",
+  "active": "e12140665371b410",
   "lastOpenFiles": [
-    "1. The Green Order/NPCs/Elder Thistleton.md",
+    "_Templates/The focus of this vault.md",
+    "Untitled 1.md",
+    "0. The North-West Steppe/Regional Description for North-West Steppe.md",
+    "0. The North-East Forests/Regional Description for North-East Forests.md",
+    "Drop-in Locations/The Quaint and Rustic II.md",
+    "Drop-in Locations/Temple to the Returned Lord.md",
     "1. The Green Order/NPCs/Sylvia Starlight.md",
+    "1. The Green Order/NPCs/Elder Thistleton.md",
     "1. The Green Order/Library of the Willow Collective.md",
     "1. The Green Order/Quest to Save Sylvia's Starlight Grove.md",
     "1. The Green Order/Sylvia's Starlight Grove.md",
@@ -163,16 +198,10 @@
     "0. The South-East Mountains/Solemn's Peaks/Solemn's Peaks.md",
     "0. The South-East Mountains/Solemn's Peaks",
     "0. The South-East Mountains/The Tideblade Corsairs/The Tideblade Corsairs.md",
-    "0. The South-East Mountains/The Summit Syndicate/Missions for the Summit Syndacite.md",
-    "NPCs.md",
     "0. The South-East Mountains/The Summit Syndicate/NPCs",
     "0. The South-East Mountains/The Summit Syndicate",
     "0. The South-East Mountains/The Tideblade Corsairs/NPCs",
     "0. The South-East Mountains/The Tideblade Corsairs",
-    "README.md",
-    "1. The Discordant Plains/The Ruins of Gorlan.md",
-    "_Templates/_Template for Locations.md",
-    "_Templates/_Template for Effects.md",
     "1. The Thousand Acre Woods/NPCs",
     "New Text Document.txt",
     "1. The Thousand Acre Woods",
