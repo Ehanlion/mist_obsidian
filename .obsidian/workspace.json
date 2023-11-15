@@ -16,33 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "ef5639fa953c4f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. The Green Order/NPCs/Elder Thistleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0958aacbbc178265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-East Forests/The Twilight Woods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-East Forests/The Twilight Woods.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-East Forests/The Twilight Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. The North-East Forests/The Twilight Woods.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,26 +139,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0958aacbbc178265",
+  "active": "dece82b2b2822e78",
   "lastOpenFiles": [
-    "0. The North-East Forests/The Deep Woods.md",
     "1. The Green Order/NPCs/Elder Thistleton.md",
     "1. The Green Order/NPCs/Sylvia Starlight.md",
     "1. The Green Order/Library of the Willow Collective.md",
     "1. The Green Order/Quest to Save Sylvia's Starlight Grove.md",
+    "1. The Green Order/Sylvia's Starlight Grove.md",
+    "0. The South-East Mountains/The Tideblade Corsairs/Missions for the Tideblade Corsairs.md",
+    "0. The North-East Forests/The Twilight Woods.md",
+    "0. The North-East Forests/The Deep Woods.md",
     "1. The Green Order/The Ritual of the Newborn Star.md",
     "1. The Green Order/The Green Order.md",
-    "1. The Green Order/Sylvia's Starlight Grove.md",
     "Ethan's Curses/The Curse of the Lost Star.md",
     "_Templates/_Template for NPC.md",
     "1. The Green Order/NPCs",
     "GM Screen/Combat Actions/cast a spell.md",
     "0. The South-East Mountains/The Tideblade Corsairs/NPCs/Red-Fang the Terrible.md",
-    "0. The South-East Mountains/The Tideblade Corsairs/Missions for the Tideblade Corsairs.md",
     "0. The South-East Mountains/The Summit Syndicate/NPCs/Erax the Hooded.md",
     "0. The South-East Mountains/the three mountain passes.md",
     "0. The North-East Forests/The Evernight Woods.md",
-    "0. The North-East Forests/The Twilight Woods.md",
     "0. The South-East Mountains/The Summit Syndicate/The Summit Syndicate.md",
     "0. The South-East Mountains/Solemn's Peaks/Solemn's Peaks.md",
     "0. The South-East Mountains/Solemn's Peaks",
