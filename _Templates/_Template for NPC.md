@@ -13,3 +13,6 @@ Are there important people that this character interacts with? Who do they hate?
 # Character Locations:
 Where would this character be found? Do they frequent many locations? Are there multiple that this character would be found in? List factions, cities, and locations that this character would interact with,
 
+# Character Missions:
+Are there things a player can do for this NPC to win their favor? Does this NPC need something done or maybe they relate to another mission in some way. 
+

@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "e12140665371b410",
+            "id": "a2ba32ac42fdcf44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. The Discordant Plains/The Solemn Flutes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d617058ddef9359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Map of Mist.md",
+                "file": "_Templates/_Template for NPC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map of Mist.md",
+                "file": "_Templates/_Template for NPC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map of Mist.md",
+                "file": "_Templates/_Template for NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map of Mist.md"
+                "file": "_Templates/_Template for NPC.md"
               }
             }
           }
@@ -168,34 +156,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d617058ddef9359",
+  "active": "a2ba32ac42fdcf44",
   "lastOpenFiles": [
-    "README.md",
-    "Map of Mist.md",
-    "1. The Discordant Plains/The Solemn Flutes.md",
-    "Ethan's Buffs/Toll of the Unbound Spirits.md",
-    "_Templates/The focus of this vault.md",
-    "Drop-in Locations/Temple to the Returned Lord.md",
+    "_Templates/_Template for Locations.md",
     "0. The North-East Forests/Regional Description for North-East Forests.md",
-    "1. The Discordant Planes/The Ruins of Gorlan.md",
+    "0. The North-East Forests/The North-East Forests.md",
     "0. The North-East Forests/The Twilight Woods.md",
+    "0. The North-West Highlands/King Gillian's Channel.md",
+    "0. The North-West Highlands/Regional Description for North-West Highlands.md",
+    "0. The North-West Highlands/The North-West Highlands.md",
+    "_Templates/_Template for NPC.md",
+    "_Templates/The focus of this vault.md",
+    "0. The North-West Highlands",
+    "Drop-in Locations/Temple to the Returned Lord.md",
+    "Drop-in Locations/The Quaint and Rustic II.md",
+    "1. The Green Order/Quest to Save Sylvia's Starlight Grove.md",
+    "1. The Green Order/Sylvia's Starlight Grove.md",
+    "1. The Green Order/The Green Order.md",
+    "1. The Green Order/The Ritual of the Newborn Star.md",
+    "1. The Discordant Plains/The Solemn Flutes.md",
+    "Map of Mist.md",
+    "README.md",
+    "Ethan's Buffs/Toll of the Unbound Spirits.md",
+    "1. The Discordant Planes/The Ruins of Gorlan.md",
     "0. The North-East Forests/The Evernight Woods.md",
     "1. The Green Order/NPCs/Elder Thistleton.md",
     "Drop-in Locations/NPCs/Valtoraxx the Sky Tyrant.md",
     "Drop-in Locations/NPCs/Rexire Stormfellow.md",
     "Drop-in Locations/NPCs/Pud Mountain-Breaker.md",
     "Drop-in Locations/NPCs/Greg the Drunken Master.md",
-    "Drop-in Locations/NPCs/Necroxus, the Shrouded Dominion.md",
-    "Drop-in Locations/NPCs/Morghoul the Resurrected Sovereign.md",
-    "Untitled 1.md",
-    "0. The North-West Steppe/Regional Description for North-West Steppe.md",
-    "Drop-in Locations/The Quaint and Rustic II.md",
-    "1. The Green Order/NPCs/Sylvia Starlight.md",
-    "1. The Green Order/Library of the Willow Collective.md",
-    "1. The Green Order/Quest to Save Sylvia's Starlight Grove.md",
-    "1. The Green Order/Sylvia's Starlight Grove.md",
-    "0. The South-East Mountains/The Tideblade Corsairs/Missions for the Tideblade Corsairs.md",
-    "0. The North-East Forests/The Deep Woods.md",
     "1. The Green Order/NPCs",
     "0. The South-East Mountains/Solemn's Peaks",
     "0. The South-East Mountains/The Summit Syndicate/NPCs",
@@ -205,7 +194,6 @@
     "1. The Thousand Acre Woods/NPCs",
     "New Text Document.txt",
     "1. The Thousand Acre Woods",
-    "_Templates",
     "_Assets/The Quaint and Rustic II Tavern.png",
     "_Assets/Temple to the Returned Lord.png",
     "Untitled.canvas"
