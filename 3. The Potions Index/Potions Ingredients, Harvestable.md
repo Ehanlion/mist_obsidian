@@ -1,0 +1,1 @@
+These are ingredients a player can harvest from a creature. The creature can be alive or dead to do this, but that is more dependent on what they are trying to harvest from the creature. 

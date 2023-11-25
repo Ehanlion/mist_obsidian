@@ -30,10 +30,11 @@ List of Animals within [[The North-East Forests]] (allowable for Wild-Shape, sor
 	-  Brown Bear
 	-  Giant Rocktopus (spec)
 	-  Moonbounder 
+Have the players roll a History check or something to try and deduce what kind of animals could be found in the [[The Twilight Woods]]. This is NOT a full list, but it is a good couple that the player could refer to. 
 
 A note on difficulty: A CR 1/4 creature is easier to emulate than a CR 1 creature. If setting DCs, they should be a little higher for CR 1 and the number of success required (if thinking in terms of a skill check challenge) should be slightly higher for the task list below.
 
-I am NOT going to write the *exact* list of tasks that a player would need to emulate for each individual creature and rather stick to a list of generic tasks that are generalized:
+I am NOT going to write the *exact* list of tasks that a player would need to emulate for each individual creature and rather stick to a list of generic tasks that are generalized. Ethan, you should create the tasks on the fly if a player chooses a creature:
 
 **Task List**:
 -  Learn how to walk and move like the creature.
@@ -46,33 +47,8 @@ I am NOT going to write the *exact* list of tasks that a player would need to em
 	-  Animal handling check, done with [[advantage]] if you have food from earlier. 
 
 # Studying Nature and Plants:
-Refer to [[The North-East Forests Plant List]]: for a full list. This challenge takes place within the [[The Twilight Woods]], so I will use a list of plant just for this area. 
+Refer to [[Potions Ingredients, Harvestable]] and  [[Potion Ingredients, Forageable]] for the full lists of gatherable ingredients. This challenge takes place within the [[The Twilight Woods]], so will pull out a small subset of the list to use for this mission. 
 
-add mushrooms
+Useful resource for potion brewing in DND: https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV. I think emulating the system in here would be great to sort of create this self contained kind of foraging adventure. It could be turned into a larger system for the party to always sort of have as something they can do during travels. 
+
 Plants in the [[The Twilight Woods]]:
--  Common Plants:
-	-  Mint
-	-  Thyme
-	-  Rosemary
-	-  Beech Tree Leaves
-	-  Juniper Berries
-	-  Crab Apple
-	-  Scots Pine Needles
-	-  Wild Cherries
-	-  Blackcurrant
-	-  Amber currant
-	-  Wild Blackberries
-	-  Silver Pine Needles
-	-  Chamomile Flowers
-	-  Lavender Stems
-	-  Willow Bark
-	-  Gel from Aloe Vera
-	-  Oregano
-	-  Black Peppercorns 
-	-  Echinacea
-	-  Calendula Flowers
-	-  Wild Garlic
-	-  Saffron 
--  Rarer Plants:
-	-  
--  Legendary Plants:

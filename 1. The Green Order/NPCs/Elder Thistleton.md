@@ -11,5 +11,5 @@ It is said that Thistleton is an ancient relative of [[Sylvia Starlight]], and h
 
 # Character Locations:
 - Since [[The Green Order]] is located in the North-East forests, (refer to [[Regional Description for North-East Forests]]), specifically [[The Twilight Woods]], this is where Thistleton spends most of his time. 
--  He is a tentative librarian at the [[Library of the Willow Collective]] and as such spends his time there. If asked, he searches for ways to heal [[Sylvia's Starlight Grove]] since it is losing its power. (Refer to [[Quest to Save Sylvia's Starlight Grove]])
+-  He is a tentative librarian at the [[Library of the Willow Collective]] and as such spends his time there. If asked, he searches for ways to heal [[Sylvia's Starlight Grove]] since it is losing its power. (Refer to [[Mission, Save Sylvia's Starlight Grove]])
 
