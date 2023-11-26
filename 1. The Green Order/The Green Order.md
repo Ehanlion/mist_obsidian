@@ -16,6 +16,7 @@ The Green Order is located just to the East of [[The North-West Highlands]], in 
 
 # Related Missions:
 - [[Mission, Entering the Green Order]]: Needed to complete in order to be allowed deeper into the Green Order's territory. If not completed, maybe not the first combat, but a later encounter will seal the fate of the party if they are found trespassing. 
+- [[Mission, Potions for the Green Order]]: Only completable after Entering the Green Order. Players go on deep expeditions into the [[The Twilight Woods]] and beyond in order to search for rare ingredients and harvestable things in order to create exotic potions for the Green Order. For which they will pay a pretty penny. Assigned by [[Pombo Wrinkle, the Short One]] if the players are accepted into the Green Order and express interest in potions. 
 
 # Deeper Dive:
 This section needs to cover the types of people that populate the area, events (if any) that occur in this location, buildings or structures etc. that make up this location, and anything else. Basically, if a player asks about something, you should aim to have an answer here.
