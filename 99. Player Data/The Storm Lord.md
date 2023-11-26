@@ -1,0 +1,1 @@
+*There are rainfalls and tempests and typhoons, but there is only one TRUE storm. Its rage is eternal. It dominates all lands and lives through all planes. It brings destruction to each one. The Storm Lord is the herald of this terrifying event. He carrying with h*

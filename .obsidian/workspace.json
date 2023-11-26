@@ -35,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_To-Do List.md",
+                "file": "99. Player Data/The Storm Lord.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Potions Index/Potions with Poisoner's Kit.md",
+                "file": "99. Player Data/The Storm Lord.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Potions Index/Potions with Poisoner's Kit.md",
+                "file": "99. Player Data/The Storm Lord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Potions Index/Potions with Poisoner's Kit.md"
+                "file": "99. Player Data/The Storm Lord.md"
               }
             }
           }
@@ -170,44 +170,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "399cbec6f1ea28f9",
+  "active": "64586057d38bb6ba",
   "lastOpenFiles": [
-    "3. The Potions Index/Potions with Alchemist's Supplies.md",
-    "3. The Potions Index/Potions with Herbalism Kit.md",
-    "3. The Potions Index/Potions with Poisoner's Kit.md",
-    "3. The Potions Index/Potion Ingredients, Forageable.md",
-    "3. The Potions Index/Potions Ingredients, Harvestable.md",
+    "99. Player Data/Kelswin Lovejoy.md",
+    "-1. Lore of Mist/The Calamitous Typhoon.md",
+    "99. Player Data/The Storm Lord.md",
+    "-1. Lore of Mist",
+    "99. Player Data/Wake.md",
     "_To-Do List.md",
-    "2. Missions/Mission, Potions for the Green Order.md",
+    "99. Player Data",
+    "Map of Mist.md",
     "2. Missions/Mission, Save Sylvia's Starlight Grove.md",
+    "2. Missions/Mission, Time Heist.md",
+    "3. The Potions Index/Potions Ingredients, Harvestable.md",
+    "3. The Potions Index/Potion Ingredients, Forageable.md",
+    "3. The Potions Index/Potions with Herbalism Kit.md",
+    "3. The Potions Index/Potions with Alchemist's Supplies.md",
+    "Drop-in Locations/Temple to the Returned Lord.md",
+    "Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
+    "Ethan's Gambling Games/Silver-wing's Duels.md",
+    "Ethan's Gambling Games/Black-wing's Duels.md",
+    "_Templates/_Template for Locations.md",
+    "_Templates/_Template for Games.md",
+    "_Templates/_Template for Effects.md",
+    "1. The Discordant Plains/The Discordant Planes.md",
+    "3. The Potions Index/Potions with Poisoner's Kit.md",
+    "2. Missions/Mission, Potions for the Green Order.md",
     "2. Missions/Mission, Entering the Green Order.md",
     "2. Missions/_Mission Index.md",
     "2. Missions/Mission, Escort Across the North-West.md",
     "1. The Green Order/The Green Order.md",
-    "1. The Green Order/NPCs/Pombo Wrinkle, the Short One.md",
-    "0. The North-East Forests/The North-East Forests Plant List.md",
-    "_Templates/_Template for Locations.md",
-    "2. Missions/Mission, Time Heist.md",
     "3. The Potions Index",
-    "_Templates/_Template for Games.md",
-    "_Templates/_Template for NPC.md",
-    "0. The North-East Forests/Foraging in the North-East Forests.md",
-    "0. The North-East Forests/Regional Description for North-East Forests.md",
-    "0. The North-West Highlands/King Gillian's Channel.md",
     "2. Missions",
-    "0. The North-West Highlands/Regional Description for North-West Highlands.md",
-    "0. The North-East Forests/The North-East Forests.md",
-    "0. The North-East Forests/The Twilight Woods.md",
-    "0. The North-West Highlands/The North-West Highlands.md",
-    "_Templates/The focus of this vault.md",
     "0. The North-West Highlands",
     "1. The Green Order/NPCs",
     "0. The South-East Mountains/Solemn's Peaks",
     "0. The South-East Mountains/The Summit Syndicate/NPCs",
     "0. The South-East Mountains/The Summit Syndicate",
     "0. The South-East Mountains/The Tideblade Corsairs/NPCs",
-    "0. The South-East Mountains/The Tideblade Corsairs",
-    "1. The Thousand Acre Woods/NPCs",
     "_Assets/The Quaint and Rustic II Tavern.png",
     "_Assets/Temple to the Returned Lord.png",
     "Untitled.canvas"
