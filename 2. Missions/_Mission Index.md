@@ -7,4 +7,5 @@ Master list of all missions indexed within the Missions folder. Full coverage fo
 	- [ ] [[Mission, Potions for the Green Order]]
 	- [ ] [[Mission, Save Sylvia's Starlight Grove]]
 - [ ] [[Mission, Escort Across the North-West]]
+- [ ] [[Mission, De-throne Garrick]]
 - [ ] [[Mission, Time Heist]]

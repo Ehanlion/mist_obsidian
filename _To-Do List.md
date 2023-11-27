@@ -4,13 +4,19 @@ List of tasks on my mind to work on:
 	- [ ] Finish up the entering the green order missions
 		- [ ] Add druidic aspects:
 			- [x] wild shape learning
-			- [ ] nature/survival proficiency teachings
+			- [ ] Nature/Survival gives potion making skills
 			- [ ] nature-related spell casting
 				- [ ] Figure our reward spells / spells to emulate
 	- [ ] Add good stuff about sylvia starlight
 		- [ ] I want there to be something about finding her grave but not immediately knowing its her grave BEFORE they talk to the green order and learn more. 
 	- [ ] Work on the mission pertaining to sylvia starlight
 	- [ ] work on the potions mission for Pombo Wrinkle and develop a cool exploration, sneaking, hunting, and foraging mission. 
+- [ ] Work on the Mountains region for Deion
+	- [ ] Flesh out Garrick
+	- [ ] Flesh of the Iron-first Marauders
+	- [ ] Flesh out the Red-Stone Pass
+	- [ ] Work on Puck. You should add stuff about how he will tie in later to Deion in the wilds, not just in the past. 
+		- [ ] Work on his path through the Marauders
 - [ ] Finish the Potions/Harvesting/Foraging system
 	- [ ] Find a way to neatly have a list for each region
 	- [ ] Read through botanicals book mother gave me

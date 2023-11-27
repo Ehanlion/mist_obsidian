@@ -25,6 +25,7 @@ Follows the caravan to the large city at the bottom edge of [[The North-West Hig
 Fights as seasoned gladiator in the city for money. Personal champion of some noble to help pay living expenses.  
 
 Wants to comeback and remove the bandit tribe from power because of their misdeeds. 
+Specifically, he wants to remove [[Garrick Blackthorn]] and his inner circle from power. This is the leader of the marauders and the most evil, tyrannical member of the group. 
 - Deion wants to remove the higher ups and supplant him and his inner circle with kinder, more lenient, and 
 Seeking strength and power in his absence from the tribe. 
 VERY headstrong. 
