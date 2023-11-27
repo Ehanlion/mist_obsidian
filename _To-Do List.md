@@ -17,6 +17,7 @@ List of tasks on my mind to work on:
 	- [ ] Flesh out the Red-Stone Pass
 	- [ ] Work on Puck. You should add stuff about how he will tie in later to Deion in the wilds, not just in the past. 
 		- [ ] Work on his path through the Marauders
+		- [ ] Maybe a sinister confrontation when Deion realizes that Puck is actually following the path of Garrick (evil and cruel) and this can be a good thing for either a face down or Deion to try to change Puck's ways. 
 - [ ] Finish the Potions/Harvesting/Foraging system
 	- [ ] Find a way to neatly have a list for each region
 	- [ ] Read through botanicals book mother gave me
