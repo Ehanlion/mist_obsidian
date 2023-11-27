@@ -1,0 +1,1 @@
+Friend to [[Deion Deus]] from when they were almost brothers in the tribe.
