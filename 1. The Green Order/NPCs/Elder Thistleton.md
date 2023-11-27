@@ -10,6 +10,6 @@ Elder Thistleton (also called Grumpy Thorns by the children of the forest) is a 
 It is said that Thistleton is an ancient relative of [[Sylvia Starlight]], and he is the heir to [[Sylvia's Starlight Grove]]. (This of course, is true, but Thistleton does not believe it. However, finding a text amidst the [[Library of the Willow Collective]] that can concretely prove Thistleton's lineage would case SOMETHING COOL TO HAPPEN NOT SURE YET THO HAHAH)
 
 # Character Locations:
-- Since [[The Green Order]] is located in the North-East forests, (refer to [[Regional Description for North-East Forests]]), specifically [[The Twilight Woods]], this is where Thistleton spends most of his time. 
+- Since [[The Green Order]] is located in the North-East forests,    specifically [[The Twilight Woods]], this is where Thistleton spends most of his time. 
 -  He is a tentative librarian at the [[Library of the Willow Collective]] and as such spends his time there. If asked, he searches for ways to heal [[Sylvia's Starlight Grove]] since it is losing its power. (Refer to [[Mission, Save Sylvia's Starlight Grove]])
 

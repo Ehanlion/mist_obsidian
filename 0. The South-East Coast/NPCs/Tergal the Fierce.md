@@ -1,0 +1,1 @@
+Tergal the Fierce, just Tergal by his followers, is the leader of [[The Black-Tide Reapers]], one of the pirate faction in [[Hope Town]], the largest town along [[The South-East Coast]]. 

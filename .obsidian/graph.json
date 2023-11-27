@@ -1,22 +1,44 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:Wake",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "file:Kelswin Lovejoy",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "file:Deion Deus",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.8,
   "nodeSizeMultiplier": 0.891145833333333,
   "lineSizeMultiplier": 1.50364583333333,
-  "collapse-forces": false,
-  "centerStrength": 0.333333333333333,
-  "repelStrength": 11.0416666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.287941787941788,
+  "repelStrength": 14.7401247401247,
   "linkStrength": 1,
-  "linkDistance": 299,
-  "scale": 0.45818382840472777,
+  "linkDistance": 372,
+  "scale": 0.2760105502454332,
   "close": true
 }

@@ -18,6 +18,19 @@ List of tasks on my mind to work on:
 	- [ ] Work on Puck. You should add stuff about how he will tie in later to Deion in the wilds, not just in the past. 
 		- [ ] Work on his path through the Marauders
 		- [ ] Maybe a sinister confrontation when Deion realizes that Puck is actually following the path of Garrick (evil and cruel) and this can be a good thing for either a face down or Deion to try to change Puck's ways. 
+- [ ] Work on the south-east coast for Wake
+	- [ ] Flesh out pirate leaders:
+		- [ ] Fedorov
+		- [ ] Pavel
+		- [ ] Tergal
+	- [ ] Flesh out pirate factions
+		- [ ] Legion
+		- [ ] Blue coats
+		- [ ] reapers
+	- [ ] Work on Hope Town:
+		- [ ] Develop industries
+		- [ ] Choose which group gets what resources
+		- [ ] Develop a couple key places in each part of the town. 
 - [ ] Finish the Potions/Harvesting/Foraging system
 	- [ ] Find a way to neatly have a list for each region
 	- [ ] Read through botanicals book mother gave me

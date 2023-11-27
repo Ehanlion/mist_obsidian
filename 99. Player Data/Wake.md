@@ -28,3 +28,10 @@ What is Wake's goal:
 She wants to be a hero.
 She wants to be aligned with a good-er faction
 She wants to defy her notoriety of being 'a Living Disaster' and a sort of enigma and rise as a savior and hero of the beaches; to truly live up to her name of "The King of the Beach"
+
+Wake's relationships:
+- A hero of [[The Storm Lord]].
+- Walked into the sea amidst [[The Calamitous Typhoon]].
+- Lived along [[The South-East Coast]]. 
+- Friendly towards [[Pavel Hard]] and [[The Blue Coat Brigade]], a pirate faction in [[Hope Town]], the largest town along [[The South-East Coast]].
+- Works against [[The Black-Tide Reapers]] and [[Fedorov's Legion]].

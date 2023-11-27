@@ -16,6 +16,7 @@ Their reward could be one of the following, corresponding to what they learn:
 	-  Trance abilities from Elvish racial features
 	-  The fey ancestry feat, giving [[advantage]] on being [[charmed]].
 
+_______________________________________________________________________________
 # Studying Animals (Wild Shape Training):
 List of Animals within [[The North-East Forests]] (allowable for Wild-Shape, sorted by CR):
 -  CR 1/4:
@@ -34,7 +35,7 @@ Have the players roll a History check or something to try and deduce what kind o
 
 A note on difficulty: A CR 1/4 creature is easier to emulate than a CR 1 creature. If setting DCs, they should be a little higher for CR 1 and the number of success required (if thinking in terms of a skill check challenge) should be slightly higher for the task list below.
 
-I am NOT going to write the *exact* list of tasks that a player would need to emulate for each individual creature and rather stick to a list of generic tasks that are generalized. Ethan, you should create the tasks on the fly if a player chooses a creature:
+> I am NOT going to write the *exact* list of tasks that a player would need to emulate for each individual creature and rather stick to a list of generic tasks that are generalized. Ethan, you should create the tasks on the fly if a player chooses a creature:
 
 **Task List**:
 -  Learn how to walk and move like the creature.
@@ -46,10 +47,12 @@ I am NOT going to write the *exact* list of tasks that a player would need to em
 -  Learn how to take care of the creature's young.
 	-  Animal handling check, done with [[advantage]] if you have food from earlier. 
 
+
+_______________________________________________________________________________
 # Studying Nature and Plants:
 Refer to [[Potions Ingredients, Harvestable]] and  [[Potion Ingredients, Forageable]] for the full lists of gatherable ingredients. This challenge takes place within the [[The Twilight Woods]], so will pull out a small subset of the list to use for this mission. 
 
-Useful resource for potion brewing in DND: https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV. I think emulating the system in here would be great to sort of create this self contained kind of foraging adventure. It could be turned into a larger system for the party to always sort of have as something they can do during travels. 
+Useful resource for potion brewing in DND:  [Potion's Website](https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV). I think emulating the system in here would be great to sort of create this self contained kind of foraging adventure. It could be turned into a larger system for the party to always sort of have as something they can do during travels. 
 
 Refer to the [[Potion Ingredients, Forageable]] and the [[Potions Ingredients, Harvestable]] lists for ingredients that can be found. Refine this down to a subset using the following guidelines:
 - Plants here should rely on twilight, not full darkness, not full light to grow.
@@ -76,12 +79,16 @@ The ingredients are both the focus and not the focus. They are the *reason* that
 - An ingredient is a prized by a small group in the forest. They can be bribed using it and will give something that is prized to you in return. 
 Just link every ingredient with something that can be done to FIND that ingredient. Make multiple clues accessible in a given 'image' (or the scene that the player is in).
 
+> **HOW TO GET THE CLUES:**
+DO NOT: Just give the player the clues without any work. Don't give them just a book with all the knowledge in it. Make the player WORK to get the clues.
+
 Regardless of how the player finds the ingredients, they will need to find the materials to make 3 randomly chose potions (given that the potions can be made using only ingredients from [[The Twilight Woods]]). Once they do so they can attempt to create the potion using their chosen kit, between herbalism, poisoners, and alchemists. (Refer to: [[Potions with Herbalism Kit]], [[Potions with Poisoner's Kit]], [[Potions with Alchemist's Supplies]] for more details)
 
 List the possible potions here:
 - Potions 1
 - etc.
 
+_______________________________________________________________________________
 # Conjuring Druid-Related Spells:
 I think for this one, the idea of having the player search for a shine that has inscribed on it knowledge of how to cast a specific spell would be good. Then to test their skill they have to use the spell to complete a couple skill challenges to use the spell to solve problems or something.
 
@@ -89,3 +96,7 @@ Basically have them learn the spell and then use it in creative ways to teach th
 
 **List the appropriate spells here:**
 Also list the challenges and trials the character will face if they choose to go after a given spell. This entire section should allow you to run the challenge.
+- [Freedom of the Waves](https://5e.tools/spells.html#freedom%20of%20the%20waves_tdcsr)
+	- Level 3 Spell. 
+
+
