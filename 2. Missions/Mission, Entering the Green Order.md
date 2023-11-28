@@ -117,7 +117,7 @@ Also list the challenges and trials the character will face if they choose to go
 	- When you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.
 	- If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 	- At Higher Levels. When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
-	> **Shrine Description:** 
+	> **Shrine Description:** This shrine is shrouded with mist and rests atop an open hill in a small clearing. As you approach you can hear the rumbling of storms, the scent of ozone, and a cool breeze in the face. The sides of the shrine are dark stone and engraved with deep, intricate pictures of storms and lightning.  ![[Twilight woods shrine to the storm.png]]
 
 - [Erupting Earth](https://5e.tools/spells.html#erupting%20earth_xge)
 	- 3rd-level transmutation
@@ -127,5 +127,5 @@ Also list the challenges and trials the character will face if they choose to go
 	- Duration: Instantaneous
 	- Description: Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
 	- At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
-	> **Shrine Description:** 
+	> **Shrine Description:** This shrine sits in a small clearing with packed sandstone surrounding it. The shrine is made from tan, clay bricks. It has depictions of earthquakes and tremors. When you walk to it, despite the cool of the forest, you feel hot and your face feels dry. You can hear the rustling of sand whistling in the background and the ground feels warm. ![[Twilight woods shrine to earthquakes.png]]
 
