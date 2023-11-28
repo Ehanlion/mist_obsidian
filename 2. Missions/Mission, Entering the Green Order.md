@@ -97,6 +97,35 @@ Basically have them learn the spell and then use it in creative ways to teach th
 **List the appropriate spells here:**
 Also list the challenges and trials the character will face if they choose to go after a given spell. This entire section should allow you to run the challenge.
 - [Freedom of the Waves](https://5e.tools/spells.html#freedom%20of%20the%20waves_tdcsr)
-	- Level 3 Spell. 
+	- 3rd-level conjuration
+	- Casting Time: 1 action
+	- Range: 120 feet
+	- Components: V, S, M (a strand of wet hair)
+	- Duration: Instantaneous
+	- Description: You conjure a deluge of seawater in a 15-foot-radius, 10-foot-tall cylinder centered on a point within range. This water takes the form of a tidal wave, a whirlpool, a waterspout, or another form of your choice. Each creature in the area must succeed on a Strength saving throw against your spell save DC or take 2d8 bludgeoning damage and fall prone. You can choose a number of creatures equal to your spellcasting modifier (minimum of 1) to automatically succeed on this saving throw. 
+	- If you are within the spell's area, as part of the action you use to cast the spell, you can vanish into the deluge and teleport to an unoccupied space that you can see within the spell's area.
+	- The following is the location and challenge for this spell:
+	> **Shine description:** This shrine is made from sea stones, hewn into beautifully intricate inscriptions. As you walk closer to the temple, you can hear the crashing of ocean waves and the fragrant scent of sea salt. Each wall of the temple has inscriptions of behavior of the ocean. ![[Twilight forest temple of Waves.png]]
 
+- [Call Lightning](https://5e.tools/spells.html#call%20lightning_phb)
+	- 3rd-level conjuration
+	- Casting Time: 1 action
+	- Range: 120 feet
+	- Components: V, S
+	- Duration: Concentration, up to 10 minutes
+	- Description: A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
+	- When you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.
+	- If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
+	- At Higher Levels. When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
+	> **Shrine Description:** 
+
+- [Erupting Earth](https://5e.tools/spells.html#erupting%20earth_xge)
+	- 3rd-level transmutation
+	- Casting Time: 1 action
+	- Range: 120 feet
+	- Components: V, S, M (a piece of obsidian)
+	- Duration: Instantaneous
+	- Description: Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
+	- At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
+	> **Shrine Description:** 
 
