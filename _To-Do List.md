@@ -11,6 +11,7 @@ List of tasks on my mind to work on:
 		- [ ] I want there to be something about finding her grave but not immediately knowing its her grave BEFORE they talk to the green order and learn more. 
 	- [ ] Work on the mission pertaining to sylvia starlight
 	- [ ] work on the potions mission for Pombo Wrinkle and develop a cool exploration, sneaking, hunting, and foraging mission. 
+	- [ ] Understand and finalize the potion making system. Slim down the potion making levelling and make it easier to use. 
 - [ ] Work on the Mountains region for Deion
 	- [ ] Flesh out Garrick
 	- [ ] Flesh of the Iron-first Marauders

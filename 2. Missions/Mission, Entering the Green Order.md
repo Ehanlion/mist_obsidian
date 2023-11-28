@@ -45,8 +45,10 @@ A note on difficulty: A CR 1/4 creature is easier to emulate than a CR 1 creatur
 -  Learn how to fight as the creature (e.g. emulate combat abilities and tactics).
 	-  No check, but you have to survive combat. Combat should place the followed creature in a 1v1 with an enemy and you in a 1v1 with the same type of enemy. Make sure the followed creature's 1v1 transpires first so the player can observe it. 
 -  Learn how to take care of the creature's young.
-	-  Animal handling check, done with [[advantage]] if you have food from earlier. 
+	-  Animal handling check, done with [[advantage]] if you have food from earlier.
 
+ > #### Reward:
+ > If the player complete the challenge they get the Moon Druid ability to wild shape into the chosen animal as a bonus action. They can do this once per long rest. They can choose to learn new animals, but only if at a different time they repeat the steps they took to get here.
 
 _______________________________________________________________________________
 # Studying Nature and Plants:
@@ -61,11 +63,11 @@ Refer to the [[Potion Ingredients, Forageable]] and the [[Potions Ingredients, H
 - No bold creatures. They should skulk and slink. 
 - Creatures need to rely on darkvision and twilight to hunt.
 
-List the Forageable ingredients here:
+#### List the Forageable ingredients here:
 - forageable 1
 - etc.
 
-List the Harvestable ingredients here:
+#### List the Harvestable ingredients here:
 - Harvestable 1
 - etc.
 
@@ -88,6 +90,10 @@ List the possible potions here:
 - Potions 1
 - etc.
 
+#### How to make potions:
+
+ > #### Reward:
+ > If the player completes this challenge, they will get access to potion crafting. They will gain proficiency in their chosen kit (herbalism, alchemist, or poisoners) and they will gain a level in potion making.
 _______________________________________________________________________________
 # Conjuring Druid-Related Spells:
 I think for this one, the idea of having the player search for a shine that has inscribed on it knowledge of how to cast a specific spell would be good. Then to test their skill they have to use the spell to complete a couple skill challenges to use the spell to solve problems or something.
@@ -129,3 +135,5 @@ Also list the challenges and trials the character will face if they choose to go
 	- At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
 	> **Shrine Description:** This shrine sits in a small clearing with packed sandstone surrounding it. The shrine is made from tan, clay bricks. It has depictions of earthquakes and tremors. When you walk to it, despite the cool of the forest, you feel hot and your face feels dry. You can hear the rustling of sand whistling in the background and the ground feels warm. ![[Twilight woods shrine to earthquakes.png]]
 
+ > #### Reward:
+ > If the player completes this challenge, they will get some spell casting abilities from the Druid spell list. For each spell ritual completed, they will get access to that spell, usable once per long rest without expending a spell slot. The spell gets added to their list of learned spells. 
