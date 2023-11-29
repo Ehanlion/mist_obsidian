@@ -29,7 +29,7 @@ List of tasks on my mind to work on:
 		- [ ] Blue coats
 		- [ ] reapers
 	- [ ] Work on Hope Town:
-		- [ ] Develop industries
+		- [x] Develop industries
 		- [ ] Choose which group gets what resources
 		- [ ] Develop a couple key places in each part of the town. 
 - [ ] Finish the Potions/Harvesting/Foraging system

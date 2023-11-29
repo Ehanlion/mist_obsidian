@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Coast/Pirate Factions/The Blue Coat Brigade.md",
+                "file": "0. The South-East Coast/Hope Town.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. The South-East Coast/Hope Town.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. The South-East Coast/Hope Town.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. The South-East Coast/Hope Town.md"
+              }
             }
           }
         ]
@@ -151,13 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dece82b2b2822e78",
+  "active": "478791b557adab44",
   "lastOpenFiles": [
-    "_Assets/Hope town the blue coats.png",
+    "_To-Do List.md",
+    "0. The South-East Coast/Hope Town.md",
+    "0. The South-East Coast/The Bay of Trade.md",
     "0. The South-East Coast/Pirate Factions/The Blue Coat Brigade.md",
+    "_Assets/Hope town the blue coats.png",
     "0. The South-East Coast/Pirate Factions/The Black-Tide Reapers.md",
     "0. The South-East Coast/Pirate Factions/Fedorov's Legion.md",
-    "0. The South-East Coast/Hope Town.md",
     "0. The South-East Coast/NPCs/Tergal the Fierce.md",
     "0. The South-East Coast/NPCs/Pavel Hard.md",
     "0. The South-East Coast/NPCs/Fedorov Barovick VII.md",
@@ -168,7 +175,6 @@
     "-1. Lore of Mist/The Calamitous Typhoon.md",
     "-1. Lore of Mist/Deities/The Storm Lord.md",
     "3. The Potions Index/How to Make Potions.md",
-    "_To-Do List.md",
     "3. The Potions Index/Potions with Poisoner's Kit.md",
     "2. Missions/Mission, Entering the Green Order.md",
     "2. Missions/Mission, Escort Across the North-West.md",

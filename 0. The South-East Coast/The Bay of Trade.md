@@ -1,0 +1,1 @@
+This is the central bay in [[Hope Town]]. It serves as a generic bay for ships to moor and trade ships to sail into to drop off goods so that they can be sold on the market. 
