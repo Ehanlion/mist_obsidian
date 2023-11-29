@@ -28,6 +28,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45e24aba88b24cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The South-East Coast/The Great Market.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -158,18 +170,28 @@
   },
   "active": "478791b557adab44",
   "lastOpenFiles": [
-    "_To-Do List.md",
-    "0. The South-East Coast/Hope Town.md",
+    "0. The South-East Coast/The Great Market.md",
     "0. The South-East Coast/The Bay of Trade.md",
-    "0. The South-East Coast/Pirate Factions/The Blue Coat Brigade.md",
-    "_Assets/Hope town the blue coats.png",
-    "0. The South-East Coast/Pirate Factions/The Black-Tide Reapers.md",
+    "0. The South-East Coast/Hugo's Arena.md",
+    "0. The South-East Coast/Hope Town.md",
+    "0. The South-East Coast/The Green Stacks.md",
+    "0. The South-East Coast/The Pirate Fighting League.md",
+    "0. The South-East Coast/NPCs/Hugo the Great.md",
+    "0. The South-East Coast/Pirate Factions/Fedorov Barovick VII.md",
     "0. The South-East Coast/Pirate Factions/Fedorov's Legion.md",
-    "0. The South-East Coast/NPCs/Tergal the Fierce.md",
-    "0. The South-East Coast/NPCs/Pavel Hard.md",
-    "0. The South-East Coast/NPCs/Fedorov Barovick VII.md",
-    "_Assets/Hope town black tide reapers.png",
+    "_Assets/Twilight woods shrine to the storm.png",
+    "_Assets/Twilight forest temple of Waves.png",
+    "_Assets/Twilight woods shrine to earthquakes.png",
+    "_Assets/The Quaint and Rustic II Tavern.png",
+    "_Assets/Temple to the Returned Lord.png",
     "_Assets/Hope town fedorovs legion.png",
+    "_Assets/Hope town the blue coats.png",
+    "_Assets/Hope town black tide reapers.png",
+    "_To-Do List.md",
+    "0. The South-East Coast/Pirate Factions/The Blue Coat Brigade.md",
+    "0. The South-East Coast/Pirate Factions/The Black-Tide Reapers.md",
+    "0. The South-East Coast/Pirate Factions/Tergal the Fierce.md",
+    "0. The South-East Coast/Pirate Factions/Pavel Hard.md",
     "0. The South-East Coast/The South-East Coast.md",
     "99. Player Data/Wake.md",
     "-1. Lore of Mist/The Calamitous Typhoon.md",
@@ -182,14 +204,6 @@
     "_Templates/0_Formatting.md",
     "_Templates/_Template for NPC.md",
     "_Templates/The focus of this vault.md",
-    "1. The Green Order/The Green Order.md",
-    "_Assets/Twilight woods shrine to earthquakes.png",
-    "_Assets/Twilight woods shrine to the storm.png",
-    "_Assets/Twilight forest temple of Waves.png",
-    "1. The Green Order/NPCs/Sylvia Starlight.md",
-    "0. The South-East Mountains/The Under-Mountain Pass/The Under-Mountain Pass.md",
-    "0. The South-East Mountains/The Cold Road/The Cold Road.md",
-    "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
     "0. The South-East Mountains/The Cold Road",
     "0. The South-East Mountains/The Under-Mountain Pass",
     "0. The South-East Mountains/The Red-Stone Pass",
@@ -200,8 +214,6 @@
     "-1. Lore of Mist/Deities",
     "0. The South-East Mountains/NPCs",
     "0. The South-East Mountains",
-    "_Assets/The Quaint and Rustic II Tavern.png",
-    "_Assets/Temple to the Returned Lord.png",
     "Untitled.canvas"
   ]
 }

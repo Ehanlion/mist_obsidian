@@ -56,16 +56,15 @@ Hope Town is large, enough to house three competing factions and people with roo
 The city has three main bays, one for each faction. Then there is a central bay, called [[The Bay of Trade]]. If you can imagine it, [[The Blue Coat Brigade]] and [[The Black-Tide Reapers]] share one side of the city, their bays distinct but next to each-other. Their side is then divided from the bay controlled by [[Fedorov's Legion]] by [[The Bay of Trade]]. Thus there are four bays. The three for each faction are small and [[The Bay of Trade]] is quite large. 
 
 Now for the important locations in the city. There will only be a few. The GM should add random shops and such as this location is played through. It would take to much time to add every single small shop, but there are shops for everything here. 
-### The Green Stacks:
->*The smell of dirt, fresh fruits and fragrant veggies, and fish twist in the air as you walk closer to the green stacks. You can hear bartering and chirping of merchants bickering with customers. The shouts of enforcers and the stamping of their boots are apparent as you can see flashes of weapons brandished against offenders.*
 
-This it the central food market in the city. Yes the two main markets are separate. The Green Stacks are a multitiered collection of 'stacks,' located directly on the water front of [[The Bay of Trade]]. Farmers, who farm outside the town bring their goods to market here and fishermen who bring in large catches of generic fish sail their ships up to the docks of the market to sell. Any generic food item that you could think of could be found here. Spices and exotic resources are sold at the Great Market, not here. 
+**Food Locations:**
+These are locations where everyone goes for their food. These are communal locations and are sanctioned and supported mutually by all factions.
+1. [[The Green Stacks]]: The market for food and fish in the city.
 
-All factions have representation here since this is a communal area. As such, enforcers from each faction watch over the market together. This is one of the few places where the factions will work together. They have an understanding that, since they (in the end), are all pirates that they at least need to work together to keep the market a safe place for the trade of food. 
-### The Great Market:
->*There is no quick way to describe what greets you as you step into the great market. The vastness is the first thing to greet you: three massive circular tiers rise up into the sky. Coverings and tents of every shape and color crowd each tier as merchants have their shops setup. The very top tier has an awning covering it so the stalls there look more permanent and well made. It is loud. Very loud. Merchant yell into the crowds offering their wares and consumers shout and banter with them in return. You see enforcers representing each faction; here the are separated between rings, each defending their territory. *
+**Utility Locations:**
+These are locations where people go for resources. Since trades are separated by faction support, these locations are usually only supported by factions if their trade is represented, and even then they only support the sellers of their resource.
+1. [[The Great Market]]: The market for every faction-sanctioned trade resource in the city.
 
-This is the central market in the city. It is huge. Every merchant in the city tries to sell their wares here. Every trade is represented in the market, so it is pretty easy to find everything you could want here. If imagining this place, envision a stadium where each level represents a different faction. The upper, outer ring is covered by vaulted, shading fabric to shield it from the weather. The other levels are not so lucky. 
-
-Unlike the Green Stacks, the Great Market is NOT a communal area. Enforcers only guard the areas that merchants who sell a good represented by their faction work. The market itself is divided into three rings, each at a different level. [[The Blue Coat Brigade]] sells on the lowest level, [[The Black-Tide Reapers]] sell on the middle level, and [[Fedorov's Legion]] sell on the highest level. 
-
+**Other Locations:**
+These are general city locations. Faction involvement is location-dependent. Most places have faction involvement to some degree. 
+1. [[Hugo's Arena]]: The arena where matches for [[The Pirate Fighting League]] are fought.

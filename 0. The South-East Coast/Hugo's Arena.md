@@ -1,0 +1,4 @@
+### Hugo's Arena
+> *Image the coliseum from Rome. Now imagine it filled with hundred of screaming pirates. That is Hugo's Arena: the battlegrounds of the Pirate Fighting League. The stands are dirty and grimy and there is an alarming amount of blood on the stands. The center of the arena is peculiar. It is filled with water. On it floats what appears to be a barge, tied with ropes to the sides of the arena. It look like a mock-up of a real ship with a mast, railings, sails, and a deck for the helm.*
+
+This is a medium sized area used to host fights for [[The Pirate Fighting League]]. The stands are much more analogous to the quidditch arena for the world cup in Harry Potter. The places where people watch are standing levels and they make up stacked, vertical tiers rising up the sides of the arena. The center is a small reservoir of water, used for the combats. The fighting conditions change with every fight. 
