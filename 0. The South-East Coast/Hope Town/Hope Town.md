@@ -57,14 +57,14 @@ The city has three main bays, one for each faction. Then there is a central bay,
 
 Now for the important locations in the city. There will only be a few. The GM should add random shops and such as this location is played through. It would take to much time to add every single small shop, but there are shops for everything here. 
 
-**Food Locations:**
+##### **Food Locations:**
 These are locations where everyone goes for their food. These are communal locations and are sanctioned and supported mutually by all factions.
 1. [[The Green Stacks]]: The market for food and fish in the city.
 
-**Utility Locations:**
+##### **Utility Locations:**
 These are locations where people go for resources. Since trades are separated by faction support, these locations are usually only supported by factions if their trade is represented, and even then they only support the sellers of their resource.
 1. [[The Great Market]]: The market for every faction-sanctioned trade resource in the city.
 
-**Other Locations:**
+###### **Other Locations:**
 These are general city locations. Faction involvement is location-dependent. Most places have faction involvement to some degree. 
 1. [[Hugo's Arena]]: The arena where matches for [[The Pirate Fighting League]] are fought.
