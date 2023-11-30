@@ -1,0 +1,1 @@
+This is a great book regarding the adventures of [[Ignel Valis]]. The book ends with the tragic tale of his demise as he fought an Ancient Black Dragon named [[Fenrix the Plague-Bringer]]. The story tells the great tales of his mighty deeds. 

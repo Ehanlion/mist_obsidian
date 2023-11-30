@@ -5,8 +5,8 @@ List of tasks on my mind to work on:
 		- [ ] Add druidic aspects:
 			- [x] wild shape learning
 			- [ ] Nature/Survival gives potion making skills
-			- [ ] nature-related spell casting
-				- [ ] Figure our reward spells / spells to emulate
+			- [x] nature-related spell casting
+				- [x] Figure our reward spells / spells to emulate
 	- [ ] Add good stuff about sylvia starlight
 		- [ ] I want there to be something about finding her grave but not immediately knowing its her grave BEFORE they talk to the green order and learn more. 
 	- [ ] Work on the mission pertaining to sylvia starlight
@@ -29,9 +29,14 @@ List of tasks on my mind to work on:
 		- [ ] Blue coats
 		- [ ] reapers
 	- [ ] Work on Hope Town:
-		- [x] Develop industries
+		- [ ] Develop industries
 		- [ ] Choose which group gets what resources
 		- [ ] Develop a couple key places in each part of the town. 
+		- [x] Develop a pirate fighting league for 1v1s
+- [ ] Work on the north eastern highland for Kelswin
+	- [ ] Implement Ignel as a not-so good guy working for the pirates
+	- [ ] work on a way to challenge Kelswin love for his mother by kidnapping here
+		- [ ] Plot in the north west involving a dominated, mind controlling crab and some cultists
 - [ ] Finish the Potions/Harvesting/Foraging system
 	- [ ] Find a way to neatly have a list for each region
 	- [ ] Read through botanicals book mother gave me

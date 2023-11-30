@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Player Data/Kelswin Lovejoy.md",
+                "file": "0. The North-West Highlands/NPCs/Ignel Valis.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Player Data/Kelswin Lovejoy.md",
+                "file": "0. The North-West Highlands/NPCs/Ignel Valis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Player Data/Kelswin Lovejoy.md",
+                "file": "0. The North-West Highlands/NPCs/Ignel Valis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Player Data/Kelswin Lovejoy.md"
+                "file": "0. The North-West Highlands/NPCs/Ignel Valis.md"
               }
             }
           }
@@ -158,9 +158,20 @@
   },
   "active": "d4bf3e97436504d9",
   "lastOpenFiles": [
-    "3. The Potions Index/How to Make Potions.md",
-    "99. Player Data/Kelswin Lovejoy.md",
+    "-1. Lore of Mist/The Greatest of the Great (A Treatise).md",
+    "0. The North-East Forests/NPCs/Fenrix the Plague-Bringer.md",
     "0. The North-West Highlands/NPCs/Ignel Valis.md",
+    "0. The North-East Forests/NPCs",
+    "GM Screen/Ethan's Item Sheet.md",
+    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+    "_To-Do List.md",
+    "_Templates/_Template for NPC.md",
+    "_Templates/_Template for Locations.md",
+    "_Templates/_Template for Effects.md",
+    "_Templates/_Template for Games.md",
+    "0. The South-East Coast/NPCs/Hugo the Great.md",
+    "99. Player Data/Kelswin Lovejoy.md",
+    "3. The Potions Index/How to Make Potions.md",
     "0. The South-East Coast/Hope Town/Hope Town.md",
     "0. The South-East Coast/Hope Town/Hugo's Arena.md",
     "0. The South-East Coast/Hope Town/The Bay of Trade.md",
@@ -171,7 +182,6 @@
     "99. Player Data/Deion Deus.md",
     "99. Player Data/Wake.md",
     "0. The North-West Highlands/Saddle-Port.md",
-    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
     "0. The North-West Highlands/King Gillian's Channel.md",
     "0. The North-West Highlands/The North-West Highlands.md",
     "0. The North-West Highlands/NPCs",
@@ -185,16 +195,6 @@
     "_Assets/Hope town fedorovs legion.png",
     "_Assets/Hope town black tide reapers.png",
     "0. The South-East Coast/Pirate Factions/Fedorov's Legion.md",
-    "0. The South-East Coast/Pirate Factions/The Black-Tide Reapers.md",
-    "0. The South-East Coast/Pirate Factions/The Blue Coat Brigade.md",
-    "0. The South-East Coast/The South-East Coast.md",
-    "0. The South-East Coast/NPCs/Hugo the Great.md",
-    "0. The South-East Coast/Pirate Factions/Fedorov Barovick VII.md",
-    "_To-Do List.md",
-    "0. The South-East Coast/Pirate Factions/Tergal the Fierce.md",
-    "0. The South-East Coast/Pirate Factions/Pavel Hard.md",
-    "-1. Lore of Mist/The Calamitous Typhoon.md",
-    "-1. Lore of Mist/Deities/The Storm Lord.md",
     "0. The South-East Mountains/The Cold Road",
     "0. The South-East Mountains/The Under-Mountain Pass",
     "0. The South-East Mountains/The Red-Stone Pass",
@@ -202,7 +202,6 @@
     "0. The South-East Coast/Pirate Factions",
     "0. The South-East Coast/NPCs",
     "0. The South-East Coast",
-    "-1. Lore of Mist/Deities",
     "Untitled.canvas"
   ]
 }
