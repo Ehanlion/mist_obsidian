@@ -21,4 +21,4 @@ It should be noted that Ignel working for the Legion is a bit of knowledge that 
 # Character Locations:
 Ignel would be found in the palace of [[Fedorov's Legion]] along [[The South-East Coast]] in [[Hope Town]]. He frequents matches at [[Hugo's Arena]] and love [[The Pirate Fighting League]] and often referees for it, since Fedorov's Legion is in command of the fighting trade in Hope Town. 
 # Character Missions:
-Are there things a player can do for this NPC to win their favor? Does this NPC need something done or maybe they relate to another mission in some way. 
+No missions for Ignel yet. 
