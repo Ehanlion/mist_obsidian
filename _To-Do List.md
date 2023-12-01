@@ -12,6 +12,15 @@ List of tasks on my mind to work on:
 	- [ ] Work on the mission pertaining to sylvia starlight
 	- [ ] work on the potions mission for Pombo Wrinkle and develop a cool exploration, sneaking, hunting, and foraging mission. 
 	- [ ] Understand and finalize the potion making system. Slim down the potion making levelling and make it easier to use. 
+- [ ] Work on the introduction mission
+	- [ ] split it into multiple missions
+		- [ ] Learn from locals in Kelswin's home town about the van 
+		- [ ] gathering info from towns surrounding the vanishings
+		- [ ] there should be something to do exploring the creatures behind the vanishings
+		- [ ] This should tie into the large, inland sea caves.
+		- [ ] The final boss should be a massive crab, mind controlling ocean creatures, mutating them, and causing they to raid the villages
+			- [ ] the stolen people are used for information and as worker drones since the crab is mining the sea caves for minerals
+		- [ ] There should be some reveal at the very end that the crab was being controlled itself by some powerful creature. This needs to lead them towards the forests and the green order. 
 - [ ] Work on the Mountains region for Deion
 	- [ ] Flesh out Garrick
 	- [ ] Flesh of the Iron-first Marauders
@@ -34,7 +43,7 @@ List of tasks on my mind to work on:
 		- [ ] Develop a couple key places in each part of the town. 
 		- [x] Develop a pirate fighting league for 1v1s
 - [ ] Work on the north eastern highland for Kelswin
-	- [ ] Implement Ignel as a not-so good guy working for the pirates
+	- [x] Implement Ignel as a not-so good guy working for the pirates
 	- [ ] work on a way to challenge Kelswin love for his mother by kidnapping here
 		- [ ] Plot in the north west involving a dominated, mind controlling crab and some cultists
 - [ ] Finish the Potions/Harvesting/Foraging system

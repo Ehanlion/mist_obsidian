@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Ignel Valis.md",
+                "file": "_To-Do List.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Ignel Valis.md",
+                "file": "_To-Do List.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Ignel Valis.md",
+                "file": "_To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Ignel Valis.md"
+                "file": "_To-Do List.md"
               }
             }
           }
@@ -158,12 +158,27 @@
   },
   "active": "d4bf3e97436504d9",
   "lastOpenFiles": [
+    "2. Missions/_Mission Index.md",
+    "2. Missions/Mission, Time Heist.md",
+    "2. Missions/Mission, De-throne Garrick.md",
+    "2. Missions/Mission, Welcome to Mist.md",
+    "2. Missions/Mission, Raids on the North-East Coast.md",
     "-1. Lore of Mist/The Greatest of the Great (A Treatise).md",
-    "0. The North-East Forests/NPCs/Fenrix the Plague-Bringer.md",
+    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+    "0. The North-East Forests/The Dark Woods.md",
     "0. The North-West Highlands/NPCs/Ignel Valis.md",
+    "_Assets/Twilight woods shrine to the storm.png",
+    "_Assets/Twilight woods shrine to earthquakes.png",
+    "_Assets/Twilight forest temple of Waves.png",
+    "_Assets/The Quaint and Rustic II Tavern.png",
+    "_Assets/Temple to the Returned Lord.png",
+    "_Assets/Hope town the blue coats.png",
+    "_Assets/Hope town hugos arena.png",
+    "_Assets/Hope town fedorovs legion.png",
+    "_Assets/Hope town black tide reapers.png",
+    "0. The North-East Forests/NPCs/Fenrix the Plague-Bringer.md",
     "0. The North-East Forests/NPCs",
     "GM Screen/Ethan's Item Sheet.md",
-    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
     "_To-Do List.md",
     "_Templates/_Template for NPC.md",
     "_Templates/_Template for Locations.md",
@@ -180,21 +195,7 @@
     "0. The South-East Coast/Hope Town/The Pirate Fighting League.md",
     "0. The South-East Coast/Hope Town",
     "99. Player Data/Deion Deus.md",
-    "99. Player Data/Wake.md",
-    "0. The North-West Highlands/Saddle-Port.md",
-    "0. The North-West Highlands/King Gillian's Channel.md",
-    "0. The North-West Highlands/The North-West Highlands.md",
     "0. The North-West Highlands/NPCs",
-    "_Assets/Hope town the blue coats.png",
-    "_Assets/Hope town hugos arena.png",
-    "_Assets/Twilight woods shrine to the storm.png",
-    "_Assets/Twilight woods shrine to earthquakes.png",
-    "_Assets/Twilight forest temple of Waves.png",
-    "_Assets/The Quaint and Rustic II Tavern.png",
-    "_Assets/Temple to the Returned Lord.png",
-    "_Assets/Hope town fedorovs legion.png",
-    "_Assets/Hope town black tide reapers.png",
-    "0. The South-East Coast/Pirate Factions/Fedorov's Legion.md",
     "0. The South-East Mountains/The Cold Road",
     "0. The South-East Mountains/The Under-Mountain Pass",
     "0. The South-East Mountains/The Red-Stone Pass",
