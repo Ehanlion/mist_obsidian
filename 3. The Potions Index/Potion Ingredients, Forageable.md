@@ -1,8 +1,4 @@
 These are ingredients that can be found in nature. They are naturally occurring in a given environment, provided you can look hard enough. 
-
-**Making checks to find ingredients:**
-Checks can be made with Nature/Survival/Investigation. Identifying weird ingredients is Survival/Arcana/History.
-
 # Common Ingredients:
 These ingredients are easy to find. DC 10 check.
 -  Acid Dew
@@ -22,7 +18,7 @@ These ingredients are easy to find. DC 10 check.
 -  Muroosa Bush
 -  Nightshade
 -  Olisuba Bush
--  Red Aminata Mushroom
+-  Red Aminata Mushroom (these are the healing potion ingredient)
 -  Singing Nettle
 -  Sourgrass
 -  Theki Root

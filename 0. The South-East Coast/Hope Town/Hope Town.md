@@ -1,5 +1,6 @@
 This is the largest town along [[The South-East Coast]]. Parts of the city are controlled by powerful, pirate factions called [[The Blue Coat Brigade]], [[The Black-Tide Reapers]], and the fearsome [[Fedorov's Legion]]. Each faction controls some of the trade in the city. Normal people in the city can live in faction protected territory or live on the outskirts with no faction protection. Not everyone is an explicit member of a faction, but people do play favorites. It is a town of pirates after all. 
 
+_______________________________________________________________________________
 # Demographics:
 Hope Town is wildly diverse. You can be anything you want here and you can be anyone you want to be. Apart from strict regulations on trade, the city is mostly unregulated apart from specific rules to each factions territory. 
 ### Occupations:
@@ -12,11 +13,12 @@ There are many popular occupations in the city but what follows are some of the 
 > - **Faction Merchant:** 
 > 	- Merchants who work for factions. These merchants have to pay taxes to factions that regulate the trades that they deal with. 
 
-## Races and Peoples:
+### Races and Peoples:
 The city is the most diverse on the island of Mist. It combines people from every region of the map, of every race, and of every upbringing and heritage. Most come from [[The South-East Coast]] because this is where Hope Town is located and the coast is slightly cutoff. However, people from all over funnel into the city through the mountain passes, and over time the city has grown into a rich jewel on the backs of its diversity. 
 
 You can find any race/class combination in this city. There is a 0% chance you cannot find someone that you can imagine, that's how diverse the city is. 
 
+_______________________________________________________________________________
 # City Markets:
 These are the different markets present within the city. There is a lot of underground trade as well as smaller exchanges but only the major import/exports of the city are listed below.
 > #### **Generic Markets**:
@@ -39,6 +41,26 @@ These are the different markets present within the city. There is a lot of under
 > - The Foundry (e.g. weapons, forged goods, etc.)
 
 Of course, lets not forget that this is, in fact, a city made of pirates. While there is order, that does not mean that factions get along well. There is stiff competition for which faction controls which trade. There is also a rich black market for non-sanctioned goods. Of course, all factions deny this, but they all utilize the market.
+#### Controlled Trades:
+[[Fedorov's Legion]]:
+These are the trade streams that the Legion controls.
+1. Spices and Exotic foods
+2. Magical Items, Armor, and Weapons
+3. Gems, Jewels, and Mining Resources
+4. Alcohol and Spirits
+
+[[The Black-Tide Reapers]]:
+These are the trade streams that the Reapers control:
+1. Monstrous Sea Creatures and Exotic Animals
+2. Stolen Artifacts and Rare Curios
+3. The Foundry (e.g. weapons, forged goods, etc.)
+
+[[The Blue Coat Brigade]]:
+These are the trade streams that the Brigade controls:
+1. Medicine, Herbal Remedies, and Potions
+2. Lumber and Forestry
+
+_______________________________________________________________________________
 # How trade works:
 Some trades are unregulated, namely the trade of necessaries like food and water. No one faction regulates this trade, but rather normal supply and demand causes the prices to fluctuate. Other trades however, are regulated by specific factions. Anyone hoping to be a *sanctioned* importer of a good or resource must do so through the faction that owns that trade. The merchant declares their imports with the faction and pays a tax to them to sell their goods. They then sell their goods under the banner of that faction. A merchant can import multiple different products, but they will have to pay tax to every faction that controls a trade they are importing.
 
@@ -68,3 +90,5 @@ These are locations where people go for resources. Since trades are separated by
 ###### **Other Locations:**
 These are general city locations. Faction involvement is location-dependent. Most places have faction involvement to some degree. 
 1. [[Hugo's Arena]]: The arena where matches for [[The Pirate Fighting League]] are fought.
+
+_______________________________________________________________________________

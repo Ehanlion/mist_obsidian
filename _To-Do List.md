@@ -21,6 +21,9 @@ List of tasks on my mind to work on:
 		- [ ] The final boss should be a massive crab, mind controlling ocean creatures, mutating them, and causing they to raid the villages
 			- [ ] the stolen people are used for information and as worker drones since the crab is mining the sea caves for minerals
 		- [ ] There should be some reveal at the very end that the crab was being controlled itself by some powerful creature. This needs to lead them towards the forests and the green order. 
+- [ ] Work on "The Many"
+	- [ ] Finish the obelisk field
+	- [ ] add some other locations around the map that could relate as well, ideally in locations that tie to the players back stories. 
 - [ ] Work on the Mountains region for Deion
 	- [ ] Flesh out Garrick
 	- [ ] Flesh of the Iron-first Marauders
@@ -38,8 +41,8 @@ List of tasks on my mind to work on:
 		- [ ] Blue coats
 		- [ ] reapers
 	- [ ] Work on Hope Town:
-		- [ ] Develop industries
-		- [ ] Choose which group gets what resources
+		- [x] Develop industries
+		- [x] Choose which group gets what resources
 		- [ ] Develop a couple key places in each part of the town. 
 		- [x] Develop a pirate fighting league for 1v1s
 - [ ] Work on the north eastern highland for Kelswin
@@ -48,8 +51,9 @@ List of tasks on my mind to work on:
 		- [ ] Plot in the north west involving a dominated, mind controlling crab and some cultists
 - [ ] Finish the Potions/Harvesting/Foraging system
 	- [ ] Find a way to neatly have a list for each region
-	- [ ] Read through botanicals book mother gave me
+	- [x] Read through botanicals book mother gave me
 	- [ ] Create a full list of all the potions
 	- [ ] Sort the list by difficulty (use the resource in the green order mission)
-	- [ ] Make the *fantasy* foraged ingredients into real forageable ingredients from the book mom gave me. Keep the harvestable ingredients the same
+	- [x] Make the *fantasy* foraged ingredients into real forageable ingredients from the book mom gave me. Keep the harvestable ingredients the same
+		- [x] Use the actual fantasy ingredients instead and maybe just add some of the ingredients from the book later
 - [ ] Work on the full map (hand-drawn, not in Obsidian)

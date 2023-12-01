@@ -1,5 +1,6 @@
 These are ingredients a player can harvest from a creature. The creature can be alive or dead to do this, but that is more dependent on what they are trying to harvest from the creature. 
 
+In the original system, there were 5 categories of rarities and I reduced it to just 3. You would also get different experience for each different rarity which I reduced to just the same amount of experience. 
 # Common Creature Products:
 These creatures are easy to find and east to harvest. DC 10 check.
 -  Ankheg Ichor
@@ -19,7 +20,6 @@ These creatures are harder to find and harder to harvest. DC 15 check.
 -  Elemental Essence
 -  Giant's Fingernails
 -  Imp's Heart
-
 # Legendary Creature Products
 These creatures are Legendary amongst hunters and are the hardest to track, find, and take down. They are the hardest to harvest too. DC 20 check. 
 -  Purple Worm Poison
