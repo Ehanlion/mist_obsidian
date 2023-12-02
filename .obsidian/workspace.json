@@ -32,14 +32,12 @@
             }
           },
           {
-            "id": "f63646c36de65eb1",
+            "id": "d946749623386725",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "3. The Potions Index/Potions with Alchemist's Supplies.md",
-                "mode": "source",
-                "source": false
+                "file": "_Assets/Obelisk field in north sea.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Potions Index/Potions with Alchemist's Supplies.md",
+                "file": "_Assets/Obelisk field in north sea.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Potions Index/Potions with Alchemist's Supplies.md",
+                "file": "_Assets/Obelisk field in north sea.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Potions Index/Potions with Alchemist's Supplies.md"
+                "file": "_Assets/Obelisk field in north sea.png"
               }
             }
           }
@@ -170,13 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f63646c36de65eb1",
+  "active": "a564abe5cd1c3cce",
   "lastOpenFiles": [
-    "3. The Potions Index/How to Make Potions.md",
-    "2. Missions/Mission, Entering the Green Order.md",
     "_To-Do List.md",
-    "0. The South-East Coast/Hope Town/Hope Town.md",
+    "99. Player Data/Wake.md",
+    "99. Player Data/Kelswin Lovejoy.md",
+    "2. Missions/Mission, Welcome to Mist.md",
+    "2. Missions/Mission, Potions for the Green Order.md",
+    "2. Missions/Mission, Entering the Green Order.md",
+    "2. Missions/Mission, De-throne Garrick.md",
+    "0. The North-West Highlands/The Obelisk Field.md",
+    "0. The North-West Highlands/The North Sea.md",
+    "0. The North-West Highlands/The King's City.md",
+    "0. The North-West Highlands/The North-West Highlands.md",
+    "0. The North-West Highlands/The West Sea.md",
+    "_Assets/Obelisk field in north sea.png",
     "3. The Potions Index/Potions with Alchemist's Supplies.md",
+    "3. The Potions Index/How to Make Potions.md",
+    "0. The South-East Coast/Hope Town/Hope Town.md",
     "3. The Potions Index/Potion Ingredients, Forageable.md",
     "3. The Potions Index/Potions Ingredients, Harvestable.md",
     "3. The Potions Index/Potions with Poisoner's Kit.md",
@@ -186,16 +195,8 @@
     "GM Screen/Ethan's Item Sheet.md",
     "0. The North-West Highlands/NPCs/Ignel Valis.md",
     "-1. Lore of Mist/Deities/The Many.md",
-    "0. The North-West Highlands/The Obelisk Field.md",
     "0. The North-West Highlands/King Gillian's Channel.md",
-    "0. The North-West Highlands/The King's City.md",
     "2. Missions/_Mission Index.md",
-    "2. Missions/Mission, Time Heist.md",
-    "2. Missions/Mission, De-throne Garrick.md",
-    "2. Missions/Mission, Welcome to Mist.md",
-    "2. Missions/Mission, Raids on the North-East Coast.md",
-    "-1. Lore of Mist/The Greatest of the Great (A Treatise).md",
-    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
     "_Assets/Twilight woods shrine to the storm.png",
     "_Assets/Twilight woods shrine to earthquakes.png",
     "_Assets/Twilight forest temple of Waves.png",
@@ -205,9 +206,7 @@
     "_Assets/Hope town hugos arena.png",
     "_Assets/Hope town fedorovs legion.png",
     "_Assets/Hope town black tide reapers.png",
-    "0. The North-East Forests/NPCs/Fenrix the Plague-Bringer.md",
     "0. The North-East Forests/NPCs",
-    "_Templates/_Template for NPC.md",
     "0. The South-East Coast/Hope Town",
     "0. The North-West Highlands/NPCs",
     "0. The South-East Mountains/The Cold Road",
