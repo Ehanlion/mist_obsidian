@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "d946749623386725",
+            "id": "0302167465983aa9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_Assets/Obelisk field in north sea.png"
+                "file": "3. The Potions Index/Potions with Alchemist's Supplies.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Assets/Obelisk field in north sea.png",
+                "file": "3. The Potions Index/Potions with Alchemist's Supplies.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Assets/Obelisk field in north sea.png",
+                "file": "3. The Potions Index/Potions with Alchemist's Supplies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Assets/Obelisk field in north sea.png"
+                "file": "3. The Potions Index/Potions with Alchemist's Supplies.md"
               }
             }
           }
@@ -168,44 +170,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a564abe5cd1c3cce",
+  "active": "0302167465983aa9",
   "lastOpenFiles": [
+    "-1. Lore of Mist/The Greatest of the Great (A Treatise).md",
     "_To-Do List.md",
+    "GM Screen/Ethan's Item Sheet.md",
+    "-1. Lore of Mist/The Many (The Founders of Mist).md",
+    "0. The South-East Mountains/NPCs/Puck.md",
+    "0. The South-East Mountains/NPCs/Garrick Blackthorn.md",
+    "2. Missions/_Mission Index.md",
+    "0. The North-West Highlands/NPCs/Ignel Valis.md",
+    "3. The Potions Index/How to Make Potions.md",
+    "_Assets/Twilight woods shrine to the storm.png",
+    "_Assets/Twilight woods shrine to earthquakes.png",
+    "_Assets/Twilight forest temple of Waves.png",
+    "_Assets/The Quaint and Rustic II Tavern.png",
+    "_Assets/Temple to the Returned Lord.png",
+    "_Assets/Obelisk field in north sea.png",
+    "_Assets/Hope town the blue coats.png",
+    "_Assets/Hope town hugos arena.png",
+    "_Assets/Hope town fedorovs legion.png",
+    "_Assets/Hope town black tide reapers.png",
+    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+    "0. The North-West Highlands/The Obelisk Field.md",
+    "-1. Lore of Mist/Deities/The Many.md",
     "99. Player Data/Wake.md",
     "99. Player Data/Kelswin Lovejoy.md",
     "2. Missions/Mission, Welcome to Mist.md",
     "2. Missions/Mission, Potions for the Green Order.md",
     "2. Missions/Mission, Entering the Green Order.md",
     "2. Missions/Mission, De-throne Garrick.md",
-    "0. The North-West Highlands/The Obelisk Field.md",
     "0. The North-West Highlands/The North Sea.md",
     "0. The North-West Highlands/The King's City.md",
     "0. The North-West Highlands/The North-West Highlands.md",
     "0. The North-West Highlands/The West Sea.md",
-    "_Assets/Obelisk field in north sea.png",
     "3. The Potions Index/Potions with Alchemist's Supplies.md",
-    "3. The Potions Index/How to Make Potions.md",
     "0. The South-East Coast/Hope Town/Hope Town.md",
     "3. The Potions Index/Potion Ingredients, Forageable.md",
     "3. The Potions Index/Potions Ingredients, Harvestable.md",
-    "3. The Potions Index/Potions with Poisoner's Kit.md",
-    "3. The Potions Index/Potions with Herbalism Kit.md",
-    "0. The North-East Forests/The Dark Woods.md",
-    "-1. Lore of Mist/The Many (The Founders of Mist).md",
-    "GM Screen/Ethan's Item Sheet.md",
-    "0. The North-West Highlands/NPCs/Ignel Valis.md",
-    "-1. Lore of Mist/Deities/The Many.md",
-    "0. The North-West Highlands/King Gillian's Channel.md",
-    "2. Missions/_Mission Index.md",
-    "_Assets/Twilight woods shrine to the storm.png",
-    "_Assets/Twilight woods shrine to earthquakes.png",
-    "_Assets/Twilight forest temple of Waves.png",
-    "_Assets/The Quaint and Rustic II Tavern.png",
-    "_Assets/Temple to the Returned Lord.png",
-    "_Assets/Hope town the blue coats.png",
-    "_Assets/Hope town hugos arena.png",
-    "_Assets/Hope town fedorovs legion.png",
-    "_Assets/Hope town black tide reapers.png",
     "0. The North-East Forests/NPCs",
     "0. The South-East Coast/Hope Town",
     "0. The North-West Highlands/NPCs",

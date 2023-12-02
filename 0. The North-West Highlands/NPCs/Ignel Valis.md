@@ -5,6 +5,8 @@ He now goes by the name 'Silvan Gile' (an anagram of Ignel Valis) and uses this 
 Remember Ethan, DO NOT call Ignel as Ignel. His name is Silvan and will not answer to Ignel since he has made a new, secret life for himself in [[Hope Town]].
 # Character Description:
 >*Ignel stands erect and still. His form a paragon of perfect composure. His thick handlebar moustache covers the traces of a grin on his lips. His electric blue eyes seem to crackle with power and intrigue. He wears a simple red cloak that drapes down to his ankles. His clothes are simple but noticeably rich, with golden threads and subtle intricate weavings in the fabrics. He wields a tall staff and his boots seem to shimmer.*
+### Ignel's Past:
+Ignel started off as a powerful wizard. He was well liked and loved as a hero. He was wilting inside though; his aspirations drew away from being a hero. The praise, the stress, the desperation he felt to always be better than before ate away at him. He felt bitter that people cared about the person and only the deeds that they did. He sought an end for his old life, a way out and he settled on faking his death. He joined with [[Garrick Blackthorn]] to adventure into [[The Dark Woods]] to kill [[Fenrix the Plague-Bringer]]. He sought a shard, a powerful artifact he had heard about from his travels. He knew Garrick wanted the soul of the dragon and thought this was the perfect way out. He had Garrick organize some local writers to create [[The Greatest of the Great (A Treatise)]] where he was written as having died fighting Fenrix. He assumed a new identity as Silvan Gale and went to join the pirates; to feed his bitterness from feeling like an object to those who read about him and to become just a little bit evil. Maybe Garrick rubbed off on him. 
 
 **Deeper Description:**
 -  Ignel is a male human. He is an evocation wizard.
@@ -12,6 +14,7 @@ Remember Ethan, DO NOT call Ignel as Ignel. His name is Silvan and will not answ
 -  Ignel is shorter than expected, only 5'5". His build is lithe and athletic with nondescript but strong muscles.
 -  Staff of the Magi, [Boots of Golden Luck](https://www.5esrd.com/database/magicitem/boots-of-golden-luck/)
 -  [Cloak of Eyes](https://www.5esrd.com/database/magicitem/cloak-of-eyes/) Ignel wears a weird cloak what appear to be bloody eyes on it; it is certainly unnerving. 
+- A Shard.
 # Character Relationships: 
 Ignel is a very worldly wizard and has travelled all over Mist in his many years of life. He knows are can draw from many connections.
 - Ignel is revered by [[Kelswin Lovejoy]] as his hero. Ignel has had many books written about him and as such many wizard look up to him as a sort of hero, Kelswin included.
