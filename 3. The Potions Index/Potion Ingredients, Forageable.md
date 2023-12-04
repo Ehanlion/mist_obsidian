@@ -1,5 +1,5 @@
 These are ingredients that can be found in nature. They are naturally occurring in a given environment, provided you can look hard enough. 
-# Common Ingredients:
+# Common Ingredients, DC 10:
 These ingredients are easy to find. DC 10 check.
 -  Acid Dew
 -  Bane Berry
@@ -18,13 +18,12 @@ These ingredients are easy to find. DC 10 check.
 -  Muroosa Bush
 -  Nightshade
 -  Olisuba Bush
--  Red Aminata Mushroom (these are the healing potion ingredient)
+-  Red Aminata Mushroom
 -  Singing Nettle
 -  Sourgrass
 -  Theki Root
 -  Willowshade fruit
-
-# Rare Ingredients
+# Rare Ingredients, DC 15:
 These ingredients are the medium difficulty to find. DC 15 check.
 -  Angle's Trumpet
 -  Ashblossom
@@ -41,5 +40,5 @@ These ingredients are the medium difficulty to find. DC 15 check.
 -  Silverthorn
 -  White Ghost Orchid
 -  Wolfsbane
-# Legendary Ingredients
+# Legendary Ingredients, DC 20:
 These ingredients are the hardest to find. DC 20 check.
