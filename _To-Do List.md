@@ -50,10 +50,10 @@ List of tasks on my mind to work on:
 	- [ ] work on a way to challenge Kelswin love for his mother by kidnapping here
 		- [ ] Plot in the north west involving a dominated, mind controlling crab and some cultists
 - [ ] Finish the Potions/Harvesting/Foraging system
-	- [ ] Find a way to neatly have a list for each region
+	- [x] Find a way to neatly have a list for each region
 	- [x] Read through botanicals book mother gave me
-	- [ ] Create a full list of all the potions
-	- [ ] Sort the list by difficulty (use the resource in the green order mission)
+	- [x] Create a full list of all the potions
+	- [x] Sort the list by difficulty (use the resource in the green order mission)
 	- [x] Make the *fantasy* foraged ingredients into real forageable ingredients from the book mom gave me. Keep the harvestable ingredients the same
 		- [x] Use the actual fantasy ingredients instead and maybe just add some of the ingredients from the book later
 - [ ] Work on the full map (hand-drawn, not in Obsidian)

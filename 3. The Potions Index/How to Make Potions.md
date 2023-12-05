@@ -10,22 +10,22 @@ Every player has a potions level. Unless trained in potion making by an expert, 
 #### Levelling-up Potion level:
 You can get experience for gathering ingredients and crafting potions successfully. Here are the experiences values:
 >**Experience from foraged and harvested ingredients:**
->Every time you harvest a new ingredient you gain +1 experience.
+>Every time you harvest a new ingredient you gain experience.
 
 > **Experience from crafting potions:**
-> Every time you successfully craft a potion, you get +5 experience.
+> Every time you successfully craft a potion, you get experience.
 #### Experience needed to level-up
 There are 5 levels of potions crafting, with people starting at level 0. Each level increases the modifier you get to apply to potion crafting and ingredient harvesting rolls. 
 > **Experience level:**
-> - L0: 0 exp, Prof +0
-> - L1: 8 exp, Prof +1
-> - L2: 32 exp, Prof +3
-> - L3: 128 exp, Prof +5
-> - L4: 512 exp, Prof +7
-> - L5: 2048 exp, Prof +10
-> - Prestige: Keep tracking exp past L5.
+> - L0: Prof +0
+> - L1: Prof +1
+> - L2: Prof +3
+> - L3: Prof +5
+> - L4: Prof +7
+> - L5: Prof +10
+> - Prestige
 > 
-> *The experience scales at a multiple of 4x starting from level 1 since the original system has 10 levels and that's too many.*
+> *Levelling up in potion making is based upon completable milestones as you progress. Maybe your first legendary potion craft levels you up; maybe completing a mission will get you to the next level because who you helped is a master in potion making and teaches you. DON'T do exp, its too clunky.*
 
 ______________________________________________________________________________
 # Finding Ingredients:

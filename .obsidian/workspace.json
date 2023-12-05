@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Potions Index/Potions with Herbalism Kit.md",
+                "file": "3. The Potions Index/Potion Ingredients by Environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Potions Index/Potions with Herbalism Kit.md",
+                "file": "3. The Potions Index/Potion Ingredients by Environment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Potions Index/Potions with Herbalism Kit.md",
+                "file": "3. The Potions Index/Potion Ingredients by Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Potions Index/Potions with Herbalism Kit.md"
+                "file": "3. The Potions Index/Potion Ingredients by Environment.md"
               }
             }
           }
@@ -172,21 +172,30 @@
   },
   "active": "0302167465983aa9",
   "lastOpenFiles": [
-    "3. The Potions Index/Potions with Poisoner's Kit.md",
-    "3. The Potions Index/Potions with Alchemist's Supplies.md",
-    "3. The Potions Index/Potions with Herbalism Kit.md",
+    "3. The Potions Index/How to Make Potions.md",
+    "_To-Do List.md",
+    "3. The Potions Index/Potion Ingredients by Environment.md",
     "3. The Potions Index/Potion Ingredients, Forageable.md",
     "3. The Potions Index/Potions Ingredients, Harvestable.md",
+    "3. The Potions Index/Potions with Alchemist's Supplies.md",
+    "3. The Potions Index/Potions with Poisoner's Kit.md",
+    "3. The Potions Index/Potions with Herbalism Kit.md",
+    "2. Missions/_Mission Index.md",
+    "2. Missions/Mission, De-throne Garrick.md",
+    "2. Missions/Mission, Entering the Green Order.md",
+    "2. Missions/Mission, Escort Across the North-West.md",
+    "2. Missions/Mission, Potions for the Green Order.md",
+    "2. Missions/Mission, Raids on the North-East Coast.md",
+    "2. Missions/Mission, Save Sylvia's Starlight Grove.md",
+    "2. Missions/Mission, Time Heist.md",
+    "2. Missions/Mission, Welcome to Mist.md",
     "GM Screen/Spell Books and Spell Scrolls.md",
-    "3. The Potions Index/How to Make Potions.md",
     "GM Screen/Ethan's Useful Link.md",
     "-1. Lore of Mist/The Greatest of the Great (A Treatise).md",
-    "_To-Do List.md",
     "GM Screen/Ethan's Item Sheet.md",
     "-1. Lore of Mist/The Many (The Founders of Mist).md",
     "0. The South-East Mountains/NPCs/Puck.md",
     "0. The South-East Mountains/NPCs/Garrick Blackthorn.md",
-    "2. Missions/_Mission Index.md",
     "0. The North-West Highlands/NPCs/Ignel Valis.md",
     "_Assets/Twilight woods shrine to the storm.png",
     "_Assets/Twilight woods shrine to earthquakes.png",
@@ -199,15 +208,6 @@
     "_Assets/Hope town fedorovs legion.png",
     "_Assets/Hope town black tide reapers.png",
     "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
-    "0. The North-West Highlands/The Obelisk Field.md",
-    "-1. Lore of Mist/Deities/The Many.md",
-    "99. Player Data/Wake.md",
-    "99. Player Data/Kelswin Lovejoy.md",
-    "2. Missions/Mission, Welcome to Mist.md",
-    "2. Missions/Mission, Potions for the Green Order.md",
-    "2. Missions/Mission, Entering the Green Order.md",
-    "2. Missions/Mission, De-throne Garrick.md",
-    "0. The North-West Highlands/The North Sea.md",
     "0. The North-East Forests/NPCs",
     "0. The South-East Coast/Hope Town",
     "0. The North-West Highlands/NPCs",

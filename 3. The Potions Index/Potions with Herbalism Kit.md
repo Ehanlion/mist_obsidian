@@ -92,7 +92,7 @@ A very peculiar potion that changes its colour, clarity as well as the shape and
 This warm drink removes one level of exhaustion from whoever drinks it.
 
 	Ingredients: Morning Dew, Cat's Tongue
-#### Polymorph Antidote
+#### Thessaltoxin Antidote
 This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the Polymorph effect.
 
 	Ingredients: White Ghost Orchid Seed, Theki Root
@@ -153,7 +153,7 @@ Highly sought after by spellcasters, this ink black potion grant 2 uses of legen
 
 	Ingredients: Black Sap, Mindflayer Stinkhorn, Mandrake Root
 #### Potion of Protection
-A steel grey, mirky liquid with tiny, yellow, green, red, blue, purple, white and black beads floating around in it. Drinking this potion grants the drinker immunity to all status effects apart from prone, grappeled, restrained or unconsious for 1 hour.
+A steel grey, mirky liquid with tiny, yellow, green, red, blue, purple, white and black beads floating around in it. Drinking this potion grants the drinker immunity to all status effects apart from prone, grappled, restrained or unconscious for 1 hour.
 
 	Ingredients: Hagfinger, Idle Claws, White Ghost Orchid Seed
 #### Potion of Supreme Healing
