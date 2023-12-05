@@ -49,7 +49,7 @@ List of tasks on my mind to work on:
 	- [x] Implement Ignel as a not-so good guy working for the pirates
 	- [ ] work on a way to challenge Kelswin love for his mother by kidnapping here
 		- [ ] Plot in the north west involving a dominated, mind controlling crab and some cultists
-- [ ] Finish the Potions/Harvesting/Foraging system
+- [x] Finish the Potions/Harvesting/Foraging system
 	- [x] Find a way to neatly have a list for each region
 	- [x] Read through botanicals book mother gave me
 	- [x] Create a full list of all the potions

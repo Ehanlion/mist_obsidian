@@ -49,7 +49,7 @@ _______________________________________________________________________________
 # Crafting Potions:
 It takes time to craft a potion and then you make a check after. The check is detailed below. I believe that every potion should take the same amount of time. We will use 30 minutes per potion to make this streamlined. A potion can be made as part of a short rest and long rest. You are limited to one potion per short rest, and 3 potions per long rest. 
 
-It also costs gold, which varies with level: Common = 25, Rare = 100 or 400, Legendary = 850. If you fail to craft a potion, your ingredients are fully expended but you keep your gold. The gold component is only consumed if the crafting succeeds. 
+It also costs gold, which varies with level: Common = 25, Rare = 100 or 400, Legendary = 850. If you fail to craft the potion, the gold is consumed but the ingredients are saved.
 
 TL;DR: **It takes 30 minutes and an amount of gold based on rarity to make ANY potion.**
 _______________________________________________________________________________

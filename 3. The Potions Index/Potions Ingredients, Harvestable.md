@@ -145,7 +145,6 @@ These creatures are harder to find and harder to harvest. DC 15 check.
 -  Vampiric Blood
 -  Drider's poison
 -  Elemental Essence
--  Giant's Fingernails
 -  Imp's Heart
 
 #### Carrion Crawler
@@ -201,19 +200,6 @@ Respective elemental essence
 	(Earth) Potion of Resistance (poison),
 	(Fire) Potion of Fire Breath,
 	(Water) Oil of Slipperiness, Potion of Waterbreathing, Potion of Aqueous Form
-
-#### Giants
-Huge giants, Varies (CR Varies)
-Location: Hills and Forests (Hill), Artic (Frost), Caves (Stone), Volcanoes and Rocky Mountains (Fire), High Altitude Mountains (Cloud), Extreme Altitude Mountains (Storm)
-
-**Ingredient:**
-Giant’s fingernail
-
-	Rarity: Rare DC 15
-	Harvesting: a knife (DC 10)
-	Quantity: 7 nails
-	Creature Condition: Dead or Incapacitated, or trade
-	Uses (2): Potion of Giant’s Strength, Thor's Might
 #### Imp
 Tiny fiend (Devil), Lawful evil (CR 1)
 Location: Varies
@@ -235,6 +221,7 @@ _______________________________________________________________________________
 These creatures are Legendary amongst hunters and are the hardest to track, find, and take down. They are the hardest to harvest too. DC 20 check. 
 -  Purple Worm Poison
 -  Remorhaz Ichor
+-  Giant's Fingernails
 -  Dragon's Blood
 -  Wyvern's poison
 
@@ -262,6 +249,18 @@ Remorhaz Ichor
 	Quantity: 1d6, 3d6 vials
 	Condition: Dead or incapacitated
 	Uses (1): Superior Potion of Mana
+#### Giants
+Huge giants, Varies (CR Varies)
+Location: Hills and Forests (Hill), Artic (Frost), Caves (Stone), Volcanoes and Rocky Mountains (Fire), High Altitude Mountains (Cloud), Extreme Altitude Mountains (Storm)
+
+**Ingredient:**
+Giant’s fingernail
+
+	Rarity: Rare DC 15
+	Harvesting: a knife (DC 10)
+	Quantity: 7 nails
+	Creature Condition: Dead or Incapacitated, or trade
+	Uses (2): Potion of Giant’s Strength, Thor's Might
 #### True Dragons
 Varying Dragon, Varying Alignment (CR Varies)
 Location: Varies
