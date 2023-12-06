@@ -11,7 +11,7 @@ List of tasks on my mind to work on:
 		- [ ] I want there to be something about finding her grave but not immediately knowing its her grave BEFORE they talk to the green order and learn more. 
 	- [ ] Work on the mission pertaining to sylvia starlight
 	- [ ] work on the potions mission for Pombo Wrinkle and develop a cool exploration, sneaking, hunting, and foraging mission. 
-	- [ ] Understand and finalize the potion making system. Slim down the potion making levelling and make it easier to use. 
+	- [x] Understand and finalize the potion making system. Slim down the potion making levelling and make it easier to use. 
 - [ ] Work on the introduction mission
 	- [ ] split it into multiple missions
 		- [ ] Learn from locals in Kelswin's home town about the van 
@@ -56,4 +56,10 @@ List of tasks on my mind to work on:
 	- [x] Sort the list by difficulty (use the resource in the green order mission)
 	- [x] Make the *fantasy* foraged ingredients into real forageable ingredients from the book mom gave me. Keep the harvestable ingredients the same
 		- [x] Use the actual fantasy ingredients instead and maybe just add some of the ingredients from the book later
+- [x] Blood fueled casting
+- [ ] counter-spell surge
+- [x] scry life
+- [x] turtle stance
+	- [ ] who knows it
+	- [x] how does Garrick know it
 - [ ] Work on the full map (hand-drawn, not in Obsidian)

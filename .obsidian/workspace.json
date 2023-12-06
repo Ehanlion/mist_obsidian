@@ -30,9 +30,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "48af7f33262f02dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_To-Do List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,33 +170,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be67b1555d75c7ca",
+  "active": "48af7f33262f02dc",
   "lastOpenFiles": [
-    "3. The Potions Index/How to Make Potions.md",
-    "3. The Potions Index/Potion Ingredients, Forageable.md",
-    "_To-Do List.md",
-    "3. The Potions Index/Potion Ingredients by Environment.md",
-    "3. The Potions Index/Potions Ingredients, Harvestable.md",
-    "3. The Potions Index/Potions with Alchemist's Supplies.md",
-    "3. The Potions Index/Potions with Poisoner's Kit.md",
-    "3. The Potions Index/Potions with Herbalism Kit.md",
-    "2. Missions/_Mission Index.md",
-    "2. Missions/Mission, De-throne Garrick.md",
     "2. Missions/Mission, Entering the Green Order.md",
-    "2. Missions/Mission, Escort Across the North-West.md",
-    "2. Missions/Mission, Potions for the Green Order.md",
-    "2. Missions/Mission, Raids on the North-East Coast.md",
-    "2. Missions/Mission, Save Sylvia's Starlight Grove.md",
-    "2. Missions/Mission, Time Heist.md",
-    "2. Missions/Mission, Welcome to Mist.md",
-    "GM Screen/Spell Books and Spell Scrolls.md",
-    "GM Screen/Ethan's Useful Link.md",
-    "-1. Lore of Mist/The Greatest of the Great (A Treatise).md",
-    "GM Screen/Ethan's Item Sheet.md",
-    "-1. Lore of Mist/The Many (The Founders of Mist).md",
-    "0. The South-East Mountains/NPCs/Puck.md",
+    "3. The Potions Index/Potion Ingredients by Environment.md",
     "0. The South-East Mountains/NPCs/Garrick Blackthorn.md",
-    "0. The North-West Highlands/NPCs/Ignel Valis.md",
+    "0. The South-East Mountains/The Cold Road/The Cold Road.md",
+    "_To-Do List.md",
+    "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
+    "0. The North-West Highlands/Saddle-Port.md",
+    "1. The Green Order/The Ritual of the Newborn Star.md",
+    "1. The Green Order/The Green Order.md",
+    "1. The Green Order/Sylvia's Starlight Grove.md",
+    "2. Missions/Mission, Welcome to Mist.md",
+    "2. Missions/Mission, Raids on the North-East Coast.md",
+    "2. Missions/Mission, Potions for the Green Order.md",
+    "2. Missions/Mission, Escort Across the North-West.md",
+    "2. Missions/Mission, De-throne Garrick.md",
+    "0. The South-East Mountains/NPCs/Mona Shadowbloom.md",
+    "0. The South-East Coast/Pirate Factions/The Blue Coat Brigade.md",
+    "0. The South-East Coast/Pirate Factions/Pavel Hard.md",
+    "0. The South-East Coast/Pirate Factions/Fedorov's Legion.md",
+    "0. The South-East Coast/Pirate Factions/Tergal the Fierce.md",
+    "_Assets/Hope town black tide reapers.png",
+    "Ethan's Player Mechanics/Blood-Fueled Casting.md",
+    "Ethan's Player Mechanics/Counterspell Surge.md",
+    "Ethan's Player Mechanics/Turtle Stance.md",
+    "Ethan's Player Mechanics/Surge Against the Dying Light.md",
+    "Ethan's Player Mechanics/Steady Arcanum.md",
+    "Ethan's Player Mechanics/Spell Channel.md",
     "_Assets/Twilight woods shrine to the storm.png",
     "_Assets/Twilight woods shrine to earthquakes.png",
     "_Assets/Twilight forest temple of Waves.png",
@@ -194,8 +208,6 @@
     "_Assets/Hope town the blue coats.png",
     "_Assets/Hope town hugos arena.png",
     "_Assets/Hope town fedorovs legion.png",
-    "_Assets/Hope town black tide reapers.png",
-    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
     "0. The North-East Forests/NPCs",
     "0. The South-East Coast/Hope Town",
     "0. The North-West Highlands/NPCs",

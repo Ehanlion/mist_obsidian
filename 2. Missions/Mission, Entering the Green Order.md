@@ -63,13 +63,7 @@ Refer to the [[Potion Ingredients, Forageable]] and the [[Potions Ingredients, H
 - No bold creatures. They should skulk and slink. 
 - Creatures need to rely on darkvision and twilight to hunt.
 
-#### List the Forageable ingredients here:
-- forageable 1
-- etc.
-
-#### List the Harvestable ingredients here:
-- Harvestable 1
-- etc.
+Refer to [[Potion Ingredients by Environment]] to see what ingredients. Refer to the ingredients, forageable and harvestable, under the Forest sub-section. 
 
 Now there is a list of ingredients, this is how they tie into this trial:
 **Important: This will be BORING if it is just a challenge of -> Roll to find, find or don't, okay great that it!** 
@@ -85,15 +79,23 @@ Just link every ingredient with something that can be done to FIND that ingredie
 DO NOT: Just give the player the clues without any work. Don't give them just a book with all the knowledge in it. Make the player WORK to get the clues.
 
 Regardless of how the player finds the ingredients, they will need to find the materials to make 3 randomly chose potions (given that the potions can be made using only ingredients from [[The Twilight Woods]]). Once they do so they can attempt to create the potion using their chosen kit, between herbalism, poisoners, and alchemists. (Refer to: [[Potions with Herbalism Kit]], [[Potions with Poisoner's Kit]], [[Potions with Alchemist's Supplies]] for more details)
+### Choosing a potion kit:
+Players can choose one of the following:
+- Alchemist's Kit
+- Poisoner's Kit
+- Herbalism's Kit
 
-List the possible potions here:
-- Potions 1
-- etc.
-
+This will determine what potions you can make. The potions are you can craft are reliant on the kit that you are using to make the potions.
+### Potions List:
+[[Potions with Alchemist's Supplies]], [[Potions with Herbalism Kit]], [[Potions with Poisoner's Kit]]. 
+Some potions will on display in the shop run by [[Pombo Wrinkle, the Short One]] and he can suggest some good ones one each kit that the players could use. 
 #### How to make potions:
+Refer to [[How to Make Potions]] to have this information. General idea is that you need either an Alchemist's, Herbalism, or Poisoner's kit to create the potions. You also need ingredients, but that part is done earlier.
 
  > #### Reward:
  > If the player completes this challenge, they will get access to potion crafting. They will gain proficiency in their chosen kit (herbalism, alchemist, or poisoners) and they will gain a level in potion making.
+ 
+
 _______________________________________________________________________________
 # Conjuring Druid-Related Spells:
 I think for this one, the idea of having the player search for a shine that has inscribed on it knowledge of how to cast a specific spell would be good. Then to test their skill they have to use the spell to complete a couple skill challenges to use the spell to solve problems or something.
@@ -134,6 +136,9 @@ Also list the challenges and trials the character will face if they choose to go
 	- Description: Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
 	- At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
 	> **Shrine Description:** This shrine sits in a small clearing with packed sandstone surrounding it. The shrine is made from tan, clay bricks. It has depictions of earthquakes and tremors. When you walk to it, despite the cool of the forest, you feel hot and your face feels dry. You can hear the rustling of sand whistling in the background and the ground feels warm. ![[Twilight woods shrine to earthquakes.png]]
+
+### Challenges:
+The challenges should appeal to as many different ways that the player could possibly use the spell that they are going to the shrine of. The spells should require the player to read about aspects of the spell from its description, become familiar with how it works and then use parts of it to try and pass certain challenges.
 
  > #### Reward:
  > If the player completes this challenge, they will get some spell casting abilities from the Druid spell list. For each spell ritual completed, they will get access to that spell, usable once per long rest without expending a spell slot. The spell gets added to their list of learned spells. 

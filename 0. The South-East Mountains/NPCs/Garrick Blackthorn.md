@@ -29,3 +29,5 @@ Garrick wears the Belt of Cloud Giant Strength (Strength 27). He got it from kil
 **Empowered Breath Weapon:**
 Garrick has the breath weapon of a Young Black Dragon, making him a brutal foe in combat. 
 
+[[Turtle Stance]], Master-Level:
+Garrick has learned the turtle stance. He once passed through [[The Green Order]] in his much younger days under a disguise. He learned from [[Mona Shadowbloom]], a young student under the master of those days. She left to travel with Garrick and eventually died by his side. He was only there searching for the dragon, [[Fenrix the Plague-Bringer]] and knowledge about it of which he was successful. 
