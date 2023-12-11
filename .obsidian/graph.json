@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:Wake",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "file:Slug Stoll",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 14.7401247401247,
   "linkStrength": 1,
   "linkDistance": 372,
-  "scale": 0.17639715823149157,
+  "scale": 0.24730579905685968,
   "close": true
 }
