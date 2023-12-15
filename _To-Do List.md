@@ -49,6 +49,13 @@ List of tasks on my mind to work on:
 	- [x] Implement Ignel as a not-so good guy working for the pirates
 	- [ ] work on a way to challenge Kelswin love for his mother by kidnapping here
 		- [ ] Plot in the north west involving a dominated, mind controlling crab and some cultists
+- [ ] Work on the South west arid expanse for Slug
+	- [ ] Add a town for him to be from
+	- [ ] Add his parents
+		- [ ] make sure his dad and mom are not in the same place
+	- [ ] Expand on the dagger trade
+	- [ ] add a large central trading town between north west and south west areas
+	- [ ] flesh out the desert
 - [x] Finish the Potions/Harvesting/Foraging system
 	- [x] Find a way to neatly have a list for each region
 	- [x] Read through botanicals book mother gave me
