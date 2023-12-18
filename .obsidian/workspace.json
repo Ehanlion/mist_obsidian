@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "16d1192c32053c2b",
+            "id": "caf01911108a101d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Brainstorming/Creation challenge from Tik-Tok.md",
+                "file": "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Brainstorming/Creation challenge from Tik-Tok.md",
+                "file": "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Brainstorming/Creation challenge from Tik-Tok.md",
+                "file": "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Brainstorming/Creation challenge from Tik-Tok.md"
+                "file": "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md"
               }
             }
           }
@@ -170,38 +170,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16d1192c32053c2b",
+  "active": "caf01911108a101d",
   "lastOpenFiles": [
+    "0. The South-East Mountains/The Red-Stone Pass/The Bastion of Blood.md",
+    "0. The South-East Mountains/The Red-Stone Pass/The Iron-fist Marauders.md",
+    "0. The South-East Mountains/The Red-Stone Pass/Creatures of the Red-Stone Pass.md",
+    "0. The South-East Mountains/The Followers of Grumbar/The Followers of Grumbar.md",
+    "0. The South-East Mountains/The Creatures of the South-East Mountains.md",
+    "0. The South-East Mountains/The Followers of Grumbar/Grumbar.md",
+    "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
+    "0. The South-East Mountains/The South-East Mountains.md",
+    "0. The South-East Mountains/The Followers of Grumbar/The Labyrinth of Stone.md",
+    "0. The South-East Mountains/The Followers of Grumbar",
+    "0. The South-East Mountains/The Under-Mountain Pass/The Under-Mountain Pass.md",
+    "0. The South-East Mountains/The Cold Road/The Cold Road.md",
+    "0. The South-East Mountains/NPCs/Garrick Blackthorn.md",
+    "0. The South-East Mountains/NPCs/Puck.md",
+    "0. The South-East Mountains/NPCs/Mona Shadowbloom.md",
+    "2. Missions/Mission, Entering the Green Order.md",
+    "_To-Do List.md",
+    "99. Player Data/Deion Deus.md",
+    "99. Player Data/Kelswin Lovejoy.md",
+    "99. Player Data/Wake.md",
+    "-1. Lore of Mist/The Many (The Founders of Mist).md",
     "99. Brainstorming/Ideas for character's backstories.md",
     "99. Brainstorming/Creation challenge from Tik-Tok.md",
-    "_To-Do List.md",
-    "99. Brainstorming",
+    "2. Missions/Mission, Raids on the North-East Coast.md",
     "99. Player Data/Slug Stoll.md",
+    "99. Brainstorming",
     "0. The South-East Coast/NPCs/James Stoll.md",
-    "0. The North-East Forests/NPCs/Leah Stoll.md",
-    "0. The North-East Forests/The Dark Woods.md",
-    "0. The North-East Forests/The Twilight Woods.md",
-    "0. The North-East Forests/The Deep Woods.md",
-    "0. The South-East Arid Expanse/Bellmawr.md",
     "0. The South-East Arid Expanse/NPCs/Master Smith Claudia.md",
-    "99. Player Data/Wake.md",
-    "99. Player Data/Kelswin Lovejoy.md",
-    "0. The South-East Arid Expanse/The South-East Arid Expanse.md",
     "0. The South-East Arid Expanse/NPCs",
     "0. The South-East Arid Expanse",
-    "0. The South-East Mountains/The South-East Arid Expanse",
-    "99. Player Data/Deion Deus.md",
-    "-1. Lore of Mist/The Greatest of the Great (A Treatise).md",
-    "3. The Potions Index/Potions with Alchemist's Supplies.md",
-    "3. The Potions Index/Potions with Herbalism Kit.md",
-    "3. The Potions Index/Potions with Poisoner's Kit.md",
-    "2. Missions/Mission, Entering the Green Order.md",
-    "3. The Potions Index/Potion Ingredients by Environment.md",
-    "0. The South-East Mountains/NPCs/Garrick Blackthorn.md",
-    "0. The South-East Mountains/The Cold Road/The Cold Road.md",
-    "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
-    "0. The North-West Highlands/Saddle-Port.md",
-    "1. The Green Order/The Ritual of the Newborn Star.md",
     "_Assets/Hope town black tide reapers.png",
     "_Assets/Twilight woods shrine to the storm.png",
     "_Assets/Twilight woods shrine to earthquakes.png",
