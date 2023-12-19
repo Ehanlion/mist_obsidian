@@ -8,4 +8,4 @@ He, and his followers, oppose the creation of new landmarks on and below the ear
 # The Sleeping of Grumbar
 Shrines, whispering in dreams, and a faint call draw those who wander the mountains to the following of Grumbar. However, the god himself slumbers; his essence weak and scattered across the mountains. His followers seek to rebuild his soul so that he can awaken once more to lead them. 
 # Enemies of Grumbar
-Grumbar hates [[The Iron-fist Marauders]] for their defiling of the great mountains and the creation of [[The Red-Stone Pass]]. Grumbar sees it as an atrocity and an abomination and he sends his followers to destroy what has been built. 
+Grumbar hates [[The Iron-fist Marauders]] for their defiling of the great mountains and the creation of [[The Blood-Stone Pass]]. Grumbar sees it as an atrocity and an abomination and he sends his followers to destroy what has been built. 

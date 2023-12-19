@@ -8,7 +8,7 @@ Cloak of the Magi worn by [[Ignel Valis]]
 [Cloak of Eyes](https://www.5esrd.com/database/magicitem/cloak-of-eyes/) worn by [[Ignel Valis]]
 
 # Where the Shards Are:
-- [x] Shard 1: Already within an Obelisk.
+- [ ] Shard 1: Already within an Obelisk.
 - [ ] Shard 2: Held as a prized piece of [[Ignel Valis]] and [[Fedorov Barovick VII]] collection of loot in [[Hope Town]] on [[The South-East Coast]].
 - [ ] Shard 3: ???
 - [ ] Shard 4: ???

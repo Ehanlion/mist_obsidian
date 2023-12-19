@@ -9,3 +9,5 @@ Good home-rule: I like the idea that doing this allows you to *reach* your high 
 You can pull yourself up from where you jump to (this is if your high jump doesn't take you above the height you want to jump) with half your movement, like the [[prone]] condition. If you lack the movement, you dangle in the air.
 
 Furthermore, you *can* [[attack]] with you attack action while you jump like this, if choosing to hit a higher up target, but the attack rolls are made at [[disadvantage]].
+
+You can exert yourself to jump further as detailed in [[extended jumps]] rules.

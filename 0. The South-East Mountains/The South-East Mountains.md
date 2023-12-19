@@ -1,0 +1,1 @@
+> Standing from afar, these mountains are daunting, no two ways about that. Their peaks, amidst stormy weather are often shrouded in dark clouds, their steep slopes layered with dense, white snow. On clear, spring days, 

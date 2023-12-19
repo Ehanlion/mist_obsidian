@@ -14,7 +14,7 @@ Garrick was never good aligned. Don't make that mistake. He has been, and will a
 -  Garrick is [[Deion Deus]]'s (Sean's character) sworn enemy. Deion vows to remove Garrick, and those in his inner circle, from power over the Iron-fist.
 - Garrick used to adventure with [[Ignel Valis]] in there old adventuring days. That is until their fight with [[Fenrix the Plague-Bringer]]. 
 # Character Locations:
-He is always found at the stronghold of [[The Iron-fist Marauders]], lovingly called [[The Bastion of Blood]]. He sometimes patrols [[The Red-Stone Pass]] with his elite guard in an effort to instill fear and order to the pass. 
+He is always found at the stronghold of [[The Iron-fist Marauders]], lovingly called [[The Bastion of Blood]]. He sometimes patrols [[The Blood-Stone Pass]] with his elite guard in an effort to instill fear and order to the pass. 
 # Character Missions:
 - [[Mission, De-throne Garrick]] This is the mission relating to [[Deion Deus]] and his desire to 'save' the [[The Iron-fist Marauders]] from [[Garrick Blackthorn]]'s abusive and tyrannical rule. 
 

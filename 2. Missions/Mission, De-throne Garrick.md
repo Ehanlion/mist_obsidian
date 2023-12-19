@@ -2,7 +2,7 @@ Preamble:
 This mission is to be completed for Deion. He has a score to settle with [[Garrick Blackthorn]] and [[The Iron-fist Marauders]]. It will involve the scouting, infiltration, sneaking, deceiving, and dethroning of Garrick from the Marauders. This is a long quest.
 
 # Phase One:
-Somehow the party has to get into [[The Red-Stone Pass]]. It is heavily patrolled and monitored by [[The Iron-fist Marauders]]. Brute forcing their way in will be disastrous. To get past the entry gate, they will need to be smart and cunning.
+Somehow the party has to get into [[The Blood-Stone Pass]]. It is heavily patrolled and monitored by [[The Iron-fist Marauders]]. Brute forcing their way in will be disastrous. To get past the entry gate, they will need to be smart and cunning.
 # Phase Two:
 Now the party has to get into [[The Bastion of Blood]]. That is given that the party has figured out that [[Garrick Blackthorn]] resides here. Now the party has to sneak their way into the Bastion. Either that, or they brute force their way in. But this will likely result in capture or death. There are many ways in: breaking into the sewers or a couple secret passage ways.
 
