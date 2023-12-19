@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "caf01911108a101d",
+            "id": "a8b55f4df332c3f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
+                "file": "GM Screen/Combat Actions/free actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
+                "file": "GM Screen/Combat Actions/free actions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
+                "file": "GM Screen/Combat Actions/free actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md"
+                "file": "GM Screen/Combat Actions/free actions.md"
               }
             }
           }
@@ -170,15 +170,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caf01911108a101d",
+  "active": "a8b55f4df332c3f4",
   "lastOpenFiles": [
+    "_To-Do List.md",
+    "GM Screen/Combat Actions/free actions.md",
+    "99. Player Data/Slug Stoll.md",
+    "99. Player Data/Deion Deus.md",
+    "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
     "0. The South-East Mountains/The Red-Stone Pass/The Bastion of Blood.md",
     "0. The South-East Mountains/The Red-Stone Pass/The Iron-fist Marauders.md",
     "0. The South-East Mountains/The Red-Stone Pass/Creatures of the Red-Stone Pass.md",
     "0. The South-East Mountains/The Followers of Grumbar/The Followers of Grumbar.md",
     "0. The South-East Mountains/The Creatures of the South-East Mountains.md",
     "0. The South-East Mountains/The Followers of Grumbar/Grumbar.md",
-    "0. The South-East Mountains/The Red-Stone Pass/The Red-Stone Pass.md",
     "0. The South-East Mountains/The South-East Mountains.md",
     "0. The South-East Mountains/The Followers of Grumbar/The Labyrinth of Stone.md",
     "0. The South-East Mountains/The Followers of Grumbar",
@@ -188,18 +192,14 @@
     "0. The South-East Mountains/NPCs/Puck.md",
     "0. The South-East Mountains/NPCs/Mona Shadowbloom.md",
     "2. Missions/Mission, Entering the Green Order.md",
-    "_To-Do List.md",
-    "99. Player Data/Deion Deus.md",
     "99. Player Data/Kelswin Lovejoy.md",
     "99. Player Data/Wake.md",
     "-1. Lore of Mist/The Many (The Founders of Mist).md",
     "99. Brainstorming/Ideas for character's backstories.md",
     "99. Brainstorming/Creation challenge from Tik-Tok.md",
     "2. Missions/Mission, Raids on the North-East Coast.md",
-    "99. Player Data/Slug Stoll.md",
     "99. Brainstorming",
     "0. The South-East Coast/NPCs/James Stoll.md",
-    "0. The South-East Arid Expanse/NPCs/Master Smith Claudia.md",
     "0. The South-East Arid Expanse/NPCs",
     "0. The South-East Arid Expanse",
     "_Assets/Hope town black tide reapers.png",

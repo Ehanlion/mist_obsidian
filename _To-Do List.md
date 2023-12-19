@@ -30,7 +30,10 @@ List of tasks on my mind to work on:
 	- [ ] Flesh out the Red-Stone Pass
 	- [ ] Work on Puck. You should add stuff about how he will tie in later to Deion in the wilds, not just in the past. 
 		- [ ] Work on his path through the Marauders
-		- [ ] Maybe a sinister confrontation when Deion realizes that Puck is actually following the path of Garrick (evil and cruel) and this can be a good thing for either a face down or Deion to try to change Puck's ways. 
+		- [ ] Maybe a sinister confrontation when Deion realizes that Puck is actually following the path of Garrick (evil and cruel) and this can be a good thing for either a face down or Deion to try to change Puck's ways.
+	- [ ] Add the followers of Grumbar 
+		- [ ] add the labyrinth
+		- [ ] 
 - [ ] Work on the south-east coast for Wake
 	- [ ] Flesh out pirate leaders:
 		- [ ] Fedorov
