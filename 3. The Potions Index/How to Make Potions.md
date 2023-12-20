@@ -16,23 +16,27 @@ You can get experience for gathering ingredients and crafting potions successful
 > Every time you successfully craft a potion, you get experience.
 #### Experience needed to level-up
 There are 5 levels of potions crafting, with people starting at level 0. Each level increases the modifier you get to apply to potion crafting and ingredient harvesting rolls. 
-> **Experience level:**
-> - L0: Prof +0
-> - L1: Prof +1
-> - L2: Prof +3
-> - L3: Prof +5
-> - L4: Prof +7
-> - L5: Prof +10
-> - Prestige
-> 
-> *Levelling up in potion making is based upon completable milestones as you progress. Maybe your first legendary potion craft levels you up; maybe completing a mission will get you to the next level because who you helped is a master in potion making and teaches you. DON'T do exp, its too clunky.*
+
+| Level  | Proficiency Bonus |
+| - | - |
+| 0 | +0 |
+| 1 | +1 |
+| 2 | +3 |
+| 3 | +5 |
+| 4 | +7 |
+| 5 | +10 |
+| Prestige | --- |
+
+Levelling up in potion making is based upon completable milestones as you progress. Maybe your first legendary potion craft levels you up; maybe completing a mission will get you to the next level because who you helped is a master in potion making and teaches you. 
+
+Prestige allows up to your proficiency bonus of 'free' crafts of potions per day. Meaning you make no roll and have no chance to fail. You are legendary at brewing potions. 
 
 ______________________________________________________________________________
 # Finding Ingredients:
 
 Foraging and collecting means searching through the environment and Harvesting ingredients means collecting them carefully from a creature that is dead (or alive if you are sneaky).
 
-**Making checks to forage for ingredients:**
+#### Making Checks for Foraging:
 You can make checks with Perception, Investigation, Nature, or Survival. It is a purely whichever the player prefers. This gives them a greater chance of actually finding ingredients. You can describe the process differently depending on the checks:
 - Nature would mean remembering something from your learnings about your environment and searching for it using clues of the setting. 
 - Survival would draw on your primal instincts to hunt and gather and be a core reaction to foraging that you have trained to lead you in the correct direction.
@@ -41,7 +45,7 @@ You can make checks with Perception, Investigation, Nature, or Survival. It is a
 
 It takes 30 minutes everytime you search for ingredients in an area. If you find anything, harvesting them is included in this time frame.
 
-**Making checks to harvest ingredients:**
+#### Making Checks to Harvest:
 A lot of times, you won't need to search for a harvestable unless you are not the one to have killed the creature you are trying to harvest from. Either way, this also costs 30 minutes of your time.
 
 **TL;DR: It takes 30 minutes to forage and collect ingredients and 30 minutes to harvest ingredients from a creature source.**
@@ -53,10 +57,9 @@ It also costs gold, which varies with level: Common = 25, Rare = 100 or 400, Leg
 
 TL;DR: **It takes 30 minutes and an amount of gold based on rarity to make ANY potion.**
 _______________________________________________________________________________
-
 # Actually using this:
-- Character_Proficiency is your character's proficiency bonus, applied IF you are proficient with the given tool-set that you are using: Herbalist's, Alchemist's, or Poisoner's kits.
-- Potion_Proficiency is your proficiency bonus from your potion making level, applied to all of these checks no matter what. 
+- **Character_Proficiency** is your character's proficiency bonus, applied IF you are proficient with the given tool-set that you are using: Herbalist's, Alchemist's, or Poisoner's kits.
+- **Potion_Proficiency** is your proficiency bonus from your potion making level, applied to all of these checks no matter what. 
 - To **HARVEST** an ingredient you **DO NOT** have to have proficiency with the tool kit that would be used; you simply **DO NOT** add the bonus for the tool kit to the roll.
 - To **CRAFT A POTION**, you **HAVE TO HAVE PROFICIENCY** with the tool kit used to craft the potion **NO MATTER WHAT**. 
 

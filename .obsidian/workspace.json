@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c9c4fb8bdf592cc2",
+            "id": "701e5b188314d44e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-East Forests/The Deep Woods.md",
+                "file": "2. Missions/Mission, Welcome to Mist.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-East Forests/The Deep Woods.md",
+                "file": "2. Missions/Mission, Welcome to Mist.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-East Forests/The Deep Woods.md",
+                "file": "2. Missions/Mission, Welcome to Mist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-East Forests/The Deep Woods.md"
+                "file": "2. Missions/Mission, Welcome to Mist.md"
               }
             }
           }
@@ -170,37 +170,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9c4fb8bdf592cc2",
+  "active": "701e5b188314d44e",
   "lastOpenFiles": [
-    "0. The North-East Forests/The Dark Woods.md",
-    "0. The North-East Forests/The Deep Woods.md",
-    "-1. Lore of Mist/The Many.md",
-    "-1. Lore of Mist/Deities/The Many.md",
+    "0. The North-East Forests/The Twilight Woods.md",
+    "2. Missions/Mission, Welcome to Mist.md",
+    "_To-Do List.md",
     "-1. Lore of Mist/The Timeline.md",
+    "-1. Lore of Mist/The Many.md",
+    "99. Player Data/Wake.md",
+    "0. The North-East Forests/The North-East Forests.md",
+    "0. The North-East Forests/The Deep Woods.md",
+    "0. The North-East Forests/The Dark Woods.md",
+    "_Templates/_Template for Regional Descriptions.md",
+    "0. The South-East Arid Expanse/Bellmawr.md",
+    "_Templates/The focus of this vault.md",
+    "_Templates/0_Formatting.md",
+    "2. Missions/Mission, Entering the Green Order.md",
+    "2. Missions/_Mission Index.md",
+    "3. The Potions Index/How to Make Potions.md",
+    "3. The Potions Index/Potion Ingredients by Environment.md",
+    "2. Missions/Mission, De-throne Garrick.md",
+    "-1. Lore of Mist/Deities/The Many.md",
     "-1. Lore of Mist/The Calamitous Typhoon.md",
     "-1. Lore of Mist/Deities/The Storm Lord.md",
     "-1. Lore of Mist/Deities/Greg the Drunken Master.md",
-    "_Templates/The focus of this vault.md",
-    "_Templates/_Template for Regional Descriptions.md",
     "0. The North-West Highlands/The North-West Highlands.md",
     "0. The North-West Highlands/The North Sea.md",
     "0. The North-East Forests/NPCs/Leah Stoll.md",
     "0. The North-East Forests/Foraging in the North-East Forests.md",
-    "0. The North-East Forests/NPCs/Fenrix the Plague-Bringer.md",
-    "README.md",
-    "Map of Mist.md",
-    "Ethan's Player Mechanics/Unfinished/Counterspell Surge.md",
-    "Ethan's Player Mechanics/Unfinished/Surge Against the Dying Light.md",
-    "Ethan's Player Mechanics/Buffs/Toll of the Unbound Spirits.md",
     "Ethan's Player Mechanics/Unfinished",
     "Ethan's Player Mechanics/Buffs",
     "Ethan's Player Mechanics/Curses",
-    "Ethan's Player Mechanics/Curses.md",
-    "Ethan's Gambling Games/Hands of Fate.md",
-    "Ethan's Gambling Games/Tamora's Twisted Twenty.md",
-    "Ethan's Gambling Games/Silver-wing's Duels.md",
-    "Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
-    "Ethan's Gambling Games/Black-wing's Duels.md",
     "-1. Lore of Mist/NPCs",
     "Ethan's Player Mechanics/Completed",
     "0. The South-East Mountains/The Followers of Grumbar",

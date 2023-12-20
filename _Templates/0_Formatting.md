@@ -12,3 +12,10 @@ This is a normal block of text:
 	> asdjasd
 
 	> ajkjaksd
+
+Tables are really easy to add, just use the '|' character:
+
+| Column 1 | Column 2 |
+| - | - |
+| data field 1 | description 1 |
+| ... | ... |

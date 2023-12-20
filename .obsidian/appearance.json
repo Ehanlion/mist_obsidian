@@ -1,5 +1,7 @@
 {
-  "accentColor": "#824dff",
+  "accentColor": "",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 17,
+  "translucency": false,
+  "cssTheme": "Typewriter"
 }
