@@ -1,85 +1,11 @@
-List of tasks on my mind to work on:
-
-- [ ] Work on the Green Order Missions
-	- [x] Finish up the entering the green order missions
-		- [x] Add druidic aspects:
-			- [x] wild shape learning
-			- [x] Nature/Survival gives potion making skills
-			- [x] nature-related spell casting
-				- [x] Figure our reward spells / spells to emulate
-	- [ ] Add good stuff about sylvia starlight
-		- [ ] I want there to be something about finding her grave but not immediately knowing its her grave BEFORE they talk to the green order and learn more. 
-	- [ ] Work on the mission pertaining to sylvia starlight
-	- [ ] work on the potions mission for Pombo Wrinkle and develop a cool exploration, sneaking, hunting, and foraging mission. 
-	- [x] Understand and finalize the potion making system. Slim down the potion making levelling and make it easier to use. 
-- [ ] Work on the introduction mission
-	- [ ] split it into multiple missions
-		- [ ] Learn from locals in Kelswin's home town about the van 
-		- [ ] gathering info from towns surrounding the vanishings
-		- [ ] there should be something to do exploring the creatures behind the vanishings
-		- [ ] This should tie into the large, inland sea caves.
-		- [ ] The final boss should be a massive crab, mind controlling ocean creatures, mutating them, and causing they to raid the villages
-			- [ ] the stolen people are used for information and as worker drones since the crab is mining the sea caves for minerals
-		- [ ] There should be some reveal at the very end that the crab was being controlled itself by some powerful creature. This needs to lead them towards the forests and the green order. 
-- [ ] Work on "The Many"
-	- [ ] Finish the obelisk field
-	- [ ] add some other locations around the map that could relate as well, ideally in locations that tie to the players back stories. 
-- [ ] Work on the Mountains region for Deion
-	- [ ] Flesh out Garrick
-	- [ ] Flesh of the Iron-first Marauders
-	- [ ] Flesh out the Red-Stone Pass
-	- [ ] Work on Puck. You should add stuff about how he will tie in later to Deion in the wilds, not just in the past. 
-		- [ ] Work on his path through the Marauders
-		- [ ] Maybe a sinister confrontation when Deion realizes that Puck is actually following the path of Garrick (evil and cruel) and this can be a good thing for either a face down or Deion to try to change Puck's ways.
-	- [ ] Add the followers of Grumbar 
-		- [ ] add the labyrinth
-		- [ ] 
-- [ ] Work on the south-east coast for Wake
-	- [ ] Flesh out pirate leaders:
-		- [ ] Fedorov
-		- [ ] Pavel
-		- [ ] Tergal
-	- [ ] Flesh out pirate factions
-		- [ ] Legion
-		- [ ] Blue coats
-		- [ ] reapers
-	- [ ] Work on Hope Town:
-		- [x] Develop industries
-		- [x] Choose which group gets what resources
-		- [ ] Develop a couple key places in each part of the town. 
-		- [x] Develop a pirate fighting league for 1v1s
-- [ ] Work on the north eastern highland for Kelswin
-	- [x] Implement Ignel as a not-so good guy working for the pirates
-	- [ ] work on a way to challenge Kelswin love for his mother by kidnapping here
-		- [ ] Plot in the north west involving a dominated, mind controlling crab and some cultists
-- [ ] Work on the South west arid expanse for Slug
-	- [ ] Add a town for him to be from
-	- [ ] Add his parents
-		- [ ] make sure his dad and mom are not in the same place
-	- [ ] Expand on the dagger trade
-	- [ ] add a large central trading town between north west and south west areas
-	- [ ] flesh out the desert
-- [x] Finish the Potions/Harvesting/Foraging system
-	- [x] Find a way to neatly have a list for each region
-	- [x] Read through botanicals book mother gave me
-	- [x] Create a full list of all the potions
-	- [x] Sort the list by difficulty (use the resource in the green order mission)
-	- [x] Make the *fantasy* foraged ingredients into real forageable ingredients from the book mom gave me. Keep the harvestable ingredients the same
-		- [x] Use the actual fantasy ingredients instead and maybe just add some of the ingredients from the book later
-- [x] Blood fueled casting
-- [ ] counter-spell surge
-- [x] scry life
-- [x] turtle stance
-	- [ ] who knows it
-	- [x] how does Garrick know it
-- [ ] Work on the full map (hand-drawn, not in Obsidian)
-
-
 # Revised Region List:
 - [ ] Feel every region
 	 - [ ] add feelers and descriptions of just the land for the following
 		 - [ ] north west highlands
-		 - [ ] north east forest
+		 - [x] north east forest
+			 - [x] twilight woods
+			 - [x] deep woods
+			 - [x] dark woods
 		 - [ ] south east mountains
 		 - [ ] south east coast
 		 - [ ] south west arid expanse
@@ -88,6 +14,7 @@ List of tasks on my mind to work on:
 	- [ ] name the main peaks in the south east mountains
 	- [ ] re-name the passes in the south east mountains
 	- [ ] name the forests in the north east forests
+	- [ ] name some rivers in the north east forests
 	- [ ] name the highlands in the north west highlands
 - [ ] add the large, inland sea caves to the north west highlands
 - [ ] add a large trading town between the north west highland and south west arid expanses
@@ -138,3 +65,10 @@ List of tasks on my mind to work on:
 	- [ ] work on Fedorov
 	- [ ] work on Tergal
 	- [ ] work on Hugo the Great
+- [ ] north east NPCs
+	- [ ] Green order characters
+		- [ ] elder Thistleton 
+		- [ ] sylvia starlight
+		- [ ] Master willow
+		- [ ] Pombo wrinkle
+	- [ ] Fenrix the plague bringer

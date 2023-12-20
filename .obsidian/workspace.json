@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a5413a864a36cef7",
+    "id": "a27e7ebdcfc57713",
     "type": "split",
     "children": [
       {
-        "id": "46c4a4cb4ca1a602",
+        "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
         "children": [
           {
-            "id": "478791b557adab44",
+            "id": "0e87e4dfa6d9bf35",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "be67b1555d75c7ca",
+            "id": "710cd3f304a918fd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "701e5b188314d44e",
+            "id": "e5fd77df2ac9d906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0. The North-East Forests/The Green Order/NPCs/Sylvia Starlight.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d2df7146331c6c87",
+    "id": "1975c39d22c6e679",
     "type": "split",
     "children": [
       {
-        "id": "e31d839df93f6cbc",
+        "id": "a38923bc55b5fc73",
         "type": "tabs",
         "children": [
           {
-            "id": "a564abe5cd1c3cce",
+            "id": "c463d6e74c344419",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "025a5d0db715eb26",
+            "id": "471eaa71a75ed05c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "345ef2a2c7eaec7b",
+            "id": "d11886068bd903bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,47 +94,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 300
   },
   "right": {
-    "id": "b443c80cf00953f4",
+    "id": "7b7aee8262e2b7e9",
     "type": "split",
     "children": [
       {
-        "id": "6a96af3565ecb481",
+        "id": "ca8d0f2f71f322e8",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1cd7e373521eaa",
+            "id": "8ef2a28687c7360c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "0. The North-East Forests/The Green Order/NPCs/Sylvia Starlight.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1b73b027fdd91e5b",
+            "id": "2851cf02add1d82c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0. The North-East Forests/The Green Order/NPCs/Sylvia Starlight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2403650e615f086f",
+            "id": "8eb972b3d634be86",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +145,12 @@
             }
           },
           {
-            "id": "b4b0d840349d62df",
+            "id": "795dc82c4553c5f0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0. The North-East Forests/The Green Order/NPCs/Sylvia Starlight.md"
               }
             }
           }
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,54 +171,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "701e5b188314d44e",
+  "active": "e5fd77df2ac9d906",
   "lastOpenFiles": [
-    "2. Missions/Mission, Welcome to Mist.md",
-    "0. The North-East Forests/The Twilight Woods.md",
+    "0. The North-East Forests/The Green Order/NPCs/Pombo Wrinkle, the Short One.md",
+    "0. The North-East Forests/The Green Order/NPCs/Master Willow Thick-Trunk.md",
+    "0. The North-East Forests/The Green Order/NPCs/Elder Thistleton.md",
+    "_Assets/Twilight woods 1.png",
+    "0. The North-East Forests/The Green Order/The Green Order.md",
     "_To-Do List.md",
-    "-1. Lore of Mist/The Timeline.md",
-    "-1. Lore of Mist/The Many.md",
-    "99. Player Data/Wake.md",
+    "0. The North-East Forests/The Green Order/Sylvia's Starlight Grove.md",
+    "0. The North-East Forests/The Green Order/Library of the Birch Collective.md",
     "0. The North-East Forests/The North-East Forests.md",
+    "0. The North-East Forests/The Twilight Woods.md",
+    "_Assets/Twilight woods and plains border.png",
     "0. The North-East Forests/The Deep Woods.md",
     "0. The North-East Forests/The Dark Woods.md",
     "_Templates/_Template for Regional Descriptions.md",
-    "0. The South-East Arid Expanse/Bellmawr.md",
-    "_Templates/The focus of this vault.md",
-    "_Templates/0_Formatting.md",
-    "2. Missions/Mission, Entering the Green Order.md",
-    "2. Missions/_Mission Index.md",
-    "3. The Potions Index/How to Make Potions.md",
-    "3. The Potions Index/Potion Ingredients by Environment.md",
-    "2. Missions/Mission, De-throne Garrick.md",
-    "-1. Lore of Mist/Deities/The Many.md",
-    "-1. Lore of Mist/The Calamitous Typhoon.md",
-    "-1. Lore of Mist/Deities/The Storm Lord.md",
-    "-1. Lore of Mist/Deities/Greg the Drunken Master.md",
-    "0. The North-West Highlands/The North-West Highlands.md",
-    "0. The North-West Highlands/The North Sea.md",
-    "0. The North-East Forests/NPCs/Leah Stoll.md",
-    "0. The North-East Forests/Foraging in the North-East Forests.md",
-    "Ethan's Player Mechanics/Unfinished",
-    "Ethan's Player Mechanics/Buffs",
-    "Ethan's Player Mechanics/Curses",
-    "-1. Lore of Mist/NPCs",
-    "Ethan's Player Mechanics/Completed",
-    "0. The South-East Mountains/The Followers of Grumbar",
-    "99. Brainstorming",
-    "0. The South-East Arid Expanse/NPCs",
-    "0. The South-East Arid Expanse",
-    "_Assets/Hope town black tide reapers.png",
-    "_Assets/Twilight woods shrine to the storm.png",
-    "_Assets/Twilight woods shrine to earthquakes.png",
-    "_Assets/Twilight forest temple of Waves.png",
-    "_Assets/The Quaint and Rustic II Tavern.png",
-    "_Assets/Temple to the Returned Lord.png",
-    "_Assets/Obelisk field in north sea.png",
-    "_Assets/Hope town the blue coats.png",
-    "_Assets/Hope town hugos arena.png",
-    "_Assets/Hope town fedorovs legion.png",
-    "0. The North-East Forests/NPCs",
-    "Untitled.canvas"
+    "_Templates/_Template for NPC.md",
+    "_Assets/Macro view of deep woods and dark woods.png",
+    "_Assets/dark woods 1.png",
+    "_Assets/Deep woods and twilight woods border.png",
+    "0. The South-East Coast/Pirate Factions/Fedorov's Legion.md",
+    "0. The South-East Mountains/The Blood-Stone Pass/The Bastion of Blood.md",
+    "_Assets/The deep woods 1.png",
+    "-1. Lore of Mist/The Many.md",
+    "1. The Discordant Plains/The Solemn Flutes.md"
   ]
 }

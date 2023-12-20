@@ -10,4 +10,4 @@ Founder of Mist over 5,000 years ago.
 # What locations tie back to them?
 Okay Ethan, don't be dumb. These location are NOT explicitly known. This is just the full list of all the locations that link back to The Many.
 1. [[The Obelisk Field]]: A field of obelisks now located in the sea off the coast of [[The North-West Highlands]].
-2. 
+2. [[The Solemn Flutes]]: A series of odd stone rings located in [[The Discordant Plains]].
