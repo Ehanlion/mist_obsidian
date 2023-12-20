@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Missions/Mission, Welcome to Mist.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Missions/Mission, Welcome to Mist.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Missions/Mission, Welcome to Mist.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Missions/Mission, Welcome to Mist.md"
+                "file": "README.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "701e5b188314d44e",
   "lastOpenFiles": [
-    "0. The North-East Forests/The Twilight Woods.md",
     "2. Missions/Mission, Welcome to Mist.md",
+    "0. The North-East Forests/The Twilight Woods.md",
     "_To-Do List.md",
     "-1. Lore of Mist/The Timeline.md",
     "-1. Lore of Mist/The Many.md",
