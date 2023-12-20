@@ -1,1 +1,0 @@
-Founder of Mist over 10,000 years ago. 

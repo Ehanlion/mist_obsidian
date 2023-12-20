@@ -1,4 +1,4 @@
-Fenrix is an Ancient Black Dragon, and according to [[The Greatest of the Great (A Treatise)]], [[Ignel Valis]] slayed this dragon and went down in the fight.
+Fenrix is an Ancient Black Dragon, and according to [[Book - The Greatest of the Great]], [[Ignel Valis]] slayed this dragon and went down in the fight.
 
 This is, of course, false. Ignel did defeat Fenrix, but he bound his soul to someone that he was working with: a great warlord, now the leader of [[The Iron-fist Marauders]] who's named [[Garrick Blackthorn]]. Garrick now has the power of the ancient soul of the dragon, allowing him to perform ungodly feats that no normal black dragonborn could manage. 
 

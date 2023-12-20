@@ -1,3 +1,3 @@
 Mona Shadowbloom was a great female, elf warrior of [[The Green Order]]. She met [[Garrick Blackthorn]] when he was travelling through the forests of [[The North-East Forests]] in search of [[Fenrix the Plague-Bringer]]. She found his power and fearsomeness intimidating but fascinating, and sought to follow him in his journeys.
 
-She left behind the Green Order and joined [[Garrick Blackthorn]]. She would eventually die by his side in the fight against [[Fenrix the Plague-Bringer]] detailed in [[The Greatest of the Great (A Treatise)]].
+She left behind the Green Order and joined [[Garrick Blackthorn]]. She would eventually die by his side in the fight against [[Fenrix the Plague-Bringer]] detailed in [[Book - The Greatest of the Great]].
