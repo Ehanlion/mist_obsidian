@@ -1,5 +1,0 @@
-*Not much is know about Sylvia, at least from a first hand account. Generational tales passed down between elves and kin in the [[The Green Order]] mark Sylvia as the founder of a sacred grove, now called [[Sylvia's Starlight Grove]]. The power of nature that it gives to the [[The Green Order]] is said to have been given to the grove by Sylvia as she faded into twilight, never to be seen again.*
-
-Unbeknownst to the [[The Green Order]], Sylvia is very much alive. She is a sort of half-god, not a true immortal or trans-planar being, but strong enough to survive the ritual she underwent to imbue the grove with her powers. (The ritual she cast being [[The Ritual of the Newborn Star]])
-
-The idea is to have Sylvia be trapped by some power (tbd here haha) and to have the grove be getting weaker e.g. the powers it imbues the Green order with are faltering. Link this to the effects from [[The Curse of the Lost Star]]. 

@@ -6,7 +6,10 @@
 			 - [x] twilight woods
 			 - [x] deep woods
 			 - [x] dark woods
-		 - [ ] south east mountains
+		 - [ ] south east mountain
+			 - [ ] Name the peaks of the mountains
+			 - [ ] write a small blurb about each peak
+			 - [ ] name the three passes through the mountains
 		 - [ ] south east coast
 		 - [ ] south west arid expanse
 - [ ] Add actual names for every region's main points of interest
@@ -19,7 +22,7 @@
 - [ ] add the large, inland sea caves to the north west highlands
 - [x] add a large trading town between the north west highland and south west arid expanses
 - [ ] tie Gandoras into both Kelswin and Slug's backstories
-
+- [ ] Add more locations to each region
 # Revised Player List
 - [ ] slug
 	- [ ] figure out where his parents are

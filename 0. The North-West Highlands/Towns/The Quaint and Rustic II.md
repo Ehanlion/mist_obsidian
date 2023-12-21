@@ -1,4 +1,0 @@
-**The Quaint and Rustic, Art is AI Generated:**![[The Quaint and Rustic II Tavern.png]]
-Notes: The tavern overlooks the ocean and sits away from any town, upon a small knoll. The grasslands surrounding it hiss and swish with the gusting of ocean breezes. The tables and outer shacks have a crusting of salt on their damp woods. The tavern rises 2 stories above the ground with a large water tower, made from a barrel standing at the tallest point. There is a warm glow that can be seen like a beacon from far away; the tavern radiates with a sense of comfort. To anyone making the journey, the final hurdle is climbing a stone rock face before the final, well trodden path. Don't worry, there is a rope and clear climbing marks to help you get up. 
-
-Tavern is run by [[Pud Mountain-Breaker]] and [[Rexire Stormfellow]]. 
