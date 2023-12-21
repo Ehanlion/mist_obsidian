@@ -8,7 +8,7 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 | Character | introduction Method |
 | - | - |
 | [[Kelswin Lovejoy]] | Starts in his hometown of [[Saddle-Port]], in the library that he lives in with his mother. |
-| [[Deion Deus]] | Was the muscle for a trade mission that was heading down into [[Emerald-Crest City]]. He spent the night in [[Saddle-Port]] since his caravan will carry on with a different hired hand from the next village. |
+| [[Deion Deus]] | Was the muscle for a trade mission that was heading down into [[Gandoras City]]. He spent the night in [[Saddle-Port]] since his caravan will carry on with a different hired hand from the next village. |
 | [[Wake]] | She is travelling up here hunting a member of [[Fedorov's Legion]] who killed multiple key people within [[The Blue Coat Brigade]]. |
 | [[Slug Stoll]] | He is currently peddling his dagger wears and is waiting for his merchant ship to make its way back to [[Saddle-Port]]. |
 
