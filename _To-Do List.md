@@ -17,8 +17,8 @@
 	- [ ] name some rivers in the north east forests
 	- [ ] name the highlands in the north west highlands
 - [ ] add the large, inland sea caves to the north west highlands
-- [ ] add a large trading town between the north west highland and south west arid expanses
-	- [ ] tie this into both Kelswin and Slug
+- [x] add a large trading town between the north west highland and south west arid expanses
+- [ ] tie Gandoras into both Kelswin and Slug's backstories
 
 # Revised Player List
 - [ ] slug
@@ -72,3 +72,16 @@
 		- [ ] Master willow
 		- [ ] Pombo wrinkle
 	- [ ] Fenrix the plague bringer
+- [ ] north west NPCs
+	- [ ] characters for the welcome to mist mission
+		- [x] Jordan
+		- [ ] Vivian
+
+# Working List:
+- [ ] welcome to mist mission
+	- [ ] add more towns to the north west
+	- [ ] work on the capital town
+	- [ ] work on the raids on the north west
+	- [ ] work on who is getting taken and why
+	- [ ] create the next steps after learning about the raids and having Vivian take in a raid.
+	- [ ] you need to add the large in-land sea caves because this is where the crab will live

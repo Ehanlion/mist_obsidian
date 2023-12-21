@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:Wake",
@@ -45,14 +45,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -1.7,
+  "textFadeMultiplier": -2.5,
   "nodeSizeMultiplier": 1.325,
   "lineSizeMultiplier": 1.19739583333333,
-  "collapse-forces": true,
-  "centerStrength": 0.203125,
-  "repelStrength": 16.0416666666667,
-  "linkStrength": 0.802083333333333,
-  "linkDistance": 304,
-  "scale": 0.2748472518795083,
+  "collapse-forces": false,
+  "centerStrength": 0.329002079002079,
+  "repelStrength": 10.9043659043659,
+  "linkStrength": 0.852910602910603,
+  "linkDistance": 159,
+  "scale": 0.33519902329817824,
   "close": true
 }

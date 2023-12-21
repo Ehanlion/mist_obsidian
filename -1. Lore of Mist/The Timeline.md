@@ -9,12 +9,16 @@ A great time passes, the world rebuilds, Mist is left untouched.
 #### The Many arrive:
 	The lost founders settle the island, Mist becoming the mechanism by which they survive. They would sleep of course, waiting to be re-awoken far far in the future.
 
+8 of The Many escape.
 The Many escape and take to the seas to find refuge from their enemies.
 The Many were the first to find the island, 5000 years prior to current time.
 They settle, over generations they build monuments and powerful creations.
 They build obelisks off the North-East highlands.
+The build the stone-flutes on the discordant plains.
+Each of the 8 forges a powerful Key, each one and expression of its creator.
+The Keys are used to create powerful devices that only all The Many control.
 They build the Aether-veil and create the Mist Codex to control it. 
-The Many are chased, the Mist is penetrated, and The Many are slaughtered. 
+The Many are chased, the Mist is penetrated, 7 are killed.
 Only one remains.
 He figures out that they are chased if they are awake.
 He puts himself into an eternal sleep to wait until the day that his chasers have forgotten.
@@ -24,4 +28,6 @@ The island goes dormant for the time being.
 	Lying dormant for years, people would get lost, 'captured' by the Mist and unable to leave. They would stay, settle, and make good lives, forgetting where they came from to start. Everyone is from Mist.
 
 The first new arrival does not find Mist until 3000 years after The Many.
-society builds itself up from the ground.
+Society builds itself up from the ground.
+A great black dragon creates the dark woods. 
+The Great Cosmic Aligning happens, creating the twilight woods.

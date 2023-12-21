@@ -32,15 +32,15 @@ Saddle-Port, like many towns, has a small trading port where merchant cargos sel
 
 Carried are simple goods, two healing potions, and a potion of water breathing. He has many troves of old fishing gear. He also knows when the next caravan is due in because they run on a relatively regular schedule. 
 
-The trading post also stocks basic food supplies from a supply caravan that runs up the coast from [[Gandoras City]]. 
+The trading post also stocks basic food supplies from a supply caravan that runs up the coast from [[Gandoras City]]. The caravan comes just about every week and will sell basic goods to Yugo, who will then sell them to the people of saddle-port. 
 
 1. Yugo Stolid: Young and squat halfling who is very noticing. Good at bartering to make a sale.
 
 #### The Market Stalls:
-Goods are sold here daily. Fishermen bringing in a catch sell their goods here to the local people. People with gardens will bring some of their produce to sel
+Goods are sold here daily. Fishermen bringing in a catch sell their goods here to the local people. People with gardens will bring some of their produce to sell. Anything sold here is done as an augmentation to the goods that can be bought from Yugo and the Trading Post, since it stocks most of the basic necessities. 
 
-# Related Locations:
-List related locations to this location.
+# Events
+Eventually, a raid will occur on the village as described in [[The Vanishings in the North-West]]. They will target [[Vivian Lovejoy]] because she is a librarian.
 
 # Related Missions:
 1. [[Mission, Welcome to Mist]]: this is the location where the adventure begins.
