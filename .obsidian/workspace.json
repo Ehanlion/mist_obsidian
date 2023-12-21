@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+                "file": "0. The North-West Highlands/Saddle-Port.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+                "file": "0. The North-West Highlands/Saddle-Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+                "file": "0. The North-West Highlands/Saddle-Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Vivian Lovejoy.md"
+                "file": "0. The North-West Highlands/Saddle-Port.md"
               }
             }
           }
@@ -173,12 +173,15 @@
   },
   "active": "e5fd77df2ac9d906",
   "lastOpenFiles": [
+    "_Templates/_Template for Locations.md",
+    "0. The North-West Highlands/Saddle-Port.md",
+    "2. Missions/Mission, Raids on the North-East Coast.md",
+    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
     "0. The North-West Highlands/NPCs/Wake's Quarry/Igor Larionov.md",
     "0. The North-West Highlands/NPCs/Wake's Quarry/Dmitri Mironov.md",
     "0. The North-West Highlands/NPCs/Ignel Valis.md",
     "0. The North-West Highlands/NPCs/Pud Mountain-Breaker.md",
     "0. The North-West Highlands/NPCs/Rexire Stormfellow.md",
-    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
     "0. The North-West Highlands/Emerald-Crest City.md",
     "0. The North-West Highlands/The North Sea.md",
     "0. The North-West Highlands/The Quaint and Rustic II.md",
@@ -199,9 +202,6 @@
     "0. The North-East Forests/The North-East Forests.md",
     "0. The North-East Forests/The Twilight Woods.md",
     "_Assets/Twilight woods and plains border.png",
-    "0. The North-East Forests/The Deep Woods.md",
-    "0. The North-East Forests/The Dark Woods.md",
-    "_Templates/_Template for Regional Descriptions.md",
     "_Assets/Macro view of deep woods and dark woods.png",
     "_Assets/dark woods 1.png",
     "_Assets/Deep woods and twilight woods border.png",
