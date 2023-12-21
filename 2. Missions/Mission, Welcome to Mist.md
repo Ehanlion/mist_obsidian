@@ -18,3 +18,9 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 | Town's Guard in the Tavern | There have been multiple cases of people missing up the coast. It is known that two of the people missing are Librarians from other villages. |
 | Poor Merchant | A merchant is town had his boat sunk just off shore. He couldn't retrieve his lockbox with his valuables in it and needs it returned or he faces ruin. |
 
+#### Town's Guard in the Tavern:
+Walking through town you hear murmurings of people being taken or having gone missing from towns up the coast from [[Saddle-Port]]. 
+
+**The Tavern:**
+A man by the name of [[Jordan Leabrook]] is the town's guard. He knows a little about people going missing up the coast of [[The North-West Highlands]]. He is motivated to learn more about the missing people because none have gone missing from [[Saddle-Port]] yet, and since he has kids, he wants to make sure that they are not in danger. 
+
