@@ -24,15 +24,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_To-Do List.md",
+                "file": "99. Brainstorming/_To-Do List.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-East Forests/Features/The Green Order/Library of the Birch Collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-East Forests/Features/The Green Order/Library of the Birch Collective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. The North-East Forests/Features/The Green Order/Library of the Birch Collective.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,44 +153,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c463d6e74c344419",
+  "active": "0e87e4dfa6d9bf35",
   "lastOpenFiles": [
+    "99. Brainstorming/_To-Do List.md",
+    "0. The South-East Coast/Features/The Veil.md",
+    "0. The Discordant Plains/Features/Lake Middle-Mist.md",
+    "0. The Discordant Plains/Features/The Tamed River.md",
+    "0. The North-East Forests/Features/The Wild River.md",
+    "0. The Discordant Plains/Features/The Vast Sand Shelf.md",
+    "0. The Discordant Plains/Towns, Cities/Sand-Shelf Heights.md",
+    "0. The North-East Forests/Features/The Bog Beast Swamps.md",
+    "0. The North-East Forests/Towns, Cities/Dark Hunters Lodge.md",
+    "0. The North-East Forests/Towns, Cities/Feller's Nook.md",
+    "0. The North-East Forests/Towns, Cities/The Twilight Sanctum.md",
+    "0. The North-East Forests/Features/The Green Order/The Green Order.md",
+    "0. The North-East Forests/Features/The Green Order/Sylvia's Starlight Grove.md",
+    "0. The North-East Forests/Features/The Green Order/Library of the Birch Collective.md",
+    "GM Screen/travel pace.md",
+    "0. The South-East Arid Expanse/Towns, Cities/Sonderton.md",
+    "0. The South-East Arid Expanse/Towns, Cities/Fang-Haven Hideout.md",
+    "0. The South-East Arid Expanse/Towns, Cities/Fort Cliff Rock.md",
+    "0. The South-East Arid Expanse/Towns, Cities/Fort Sand Rock.md",
+    "0. The South-East Arid Expanse/Features/Scorchsand Wastes.md",
+    "0. The South-East Arid Expanse/Towns, Cities/Bellmawr.md",
+    "0. The South-East Arid Expanse/Events",
+    "0. The South-East Arid Expanse/Towns, Cities",
+    "0. The South-East Arid Expanse/Features",
     "0. The South-East Mountains/Towns, Cities",
     "0. The North-East Forests/Events",
-    "0. The North-East Forests/Features/The Green Order/Sylvia's Starlight Grove.md",
     "0. The North-East Forests/NPCs/Sylvia Starlight.md",
     "0. The North-East Forests/Features/The Green Order/The Ritual of the Newborn Star.md",
     "0. The Discordant Plains/Features/The Solemn Flutes.md",
     "0. The North-East Forests/Towns, Cities",
     "0. The North-East Forests/Features",
-    "_To-Do List.md",
     "0. The Discordant Plains/Features",
     "0. The Discordant Plains/Events",
     "0. The Discordant Plains/Towns, Cities",
-    "0. The Discordant Plains/NPCs",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/The Iron-fist Marauders.md",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/The Blood-Stone Pass.md",
-    "0. The North-West Highlands/Features/The Sunken Caverns.md",
-    "0. The South-East Mountains/Features",
-    "0. The South-East Mountains/Towns, Cities",
-    "0. The South-East Mountains/Events",
-    "0. The North-West Highlands/Features/Shimmer Mist Lagoon.md",
-    "0. The North-West Highlands/Features/The Echoing Grotto.md",
-    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-    "0. The North-West Highlands/The North-West Great Sea Caves.md",
-    "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
-    "0. The North-West Highlands/Features/The Obelisk Field.md",
-    "0. The North-West Highlands/Features/The Distant Sea.md",
-    "0. The North-West Highlands/Features/King Gillian's Channel.md",
-    "0. The South-East Coast/Features/River of Gold.md",
-    "0. The South-East Coast/Features/River of Silver.md",
-    "_Templates/Building this Vault.md",
-    "_Templates/0_Formatting.md",
-    "_Templates/_Template for Regional Descriptions.md",
-    "_Templates/_Template for NPC.md",
-    "_Templates/_Template for Locations.md",
-    "_Templates/_Template for Games.md",
-    "_Templates/_Template for Effects.md",
     "_Assets/Twilight woods 1.png",
     "_Assets/Twilight woods and plains border.png",
     "_Assets/Macro view of deep woods and dark woods.png",

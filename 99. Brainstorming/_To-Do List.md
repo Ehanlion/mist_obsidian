@@ -62,29 +62,5 @@
 - [ ] figure out what they did to be hunted
 - [ ] add an NPC, of the many, who still lives, asleep somewhere safe
 
-# Revised NPC List:
-- [ ] south east NPCs
-	- [ ] work on Pavel Hard
-	- [ ] work on Fedorov
-	- [ ] work on Tergal
-	- [ ] work on Hugo the Great
-- [ ] north east NPCs
-	- [ ] Green order characters
-		- [ ] elder Thistleton 
-		- [ ] sylvia starlight
-		- [ ] Master willow
-		- [ ] Pombo wrinkle
-	- [ ] Fenrix the plague bringer
-- [ ] north west NPCs
-	- [ ] characters for the welcome to mist mission
-		- [x] Jordan
-		- [ ] Vivian
-
-# Working List:
-- [ ] welcome to mist mission
-	- [ ] add more towns to the north west
-	- [ ] work on the capital town
-	- [ ] work on the raids on the north west
-	- [ ] work on who is getting taken and why
-	- [ ] create the next steps after learning about the raids and having Vivian take in a raid.
-	- [ ] you need to add the large in-land sea caves because this is where the crab will live
+# Ideas:
+Do all of the locations first. Add cities and name them to every region. Add features to every region. Then write a description for every region. This should finish building the 'structure' of the island
