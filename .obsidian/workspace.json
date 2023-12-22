@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/The Many.md",
+                "file": "0. The Discordant Plains/Events/The Dissonant Ringing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/The Many.md",
+                "file": "0. The Discordant Plains/Events/The Dissonant Ringing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/The Many.md",
+                "file": "0. The Discordant Plains/Events/The Dissonant Ringing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/The Many.md"
+                "file": "0. The Discordant Plains/Events/The Dissonant Ringing.md"
               }
             }
           }
@@ -172,6 +172,12 @@
   },
   "active": "a62cf4dcd82c0515",
   "lastOpenFiles": [
+    "0. The Discordant Plains/NPCs/The Lost Prowlers.md",
+    "0. The Discordant Plains/Events/The Dissonant Ringing.md",
+    "0. The Discordant Plains/Features/The Solemn Flutes.md",
+    "solemn flutes 1.png",
+    "solemn flutes.png",
+    "-1. Lore of Mist/The Many.md",
     "-1. Lore of Mist/The Greatest of the Great.md",
     "-1. Lore of Mist/The Great Cosmic Aligning.md",
     "-1. Lore of Mist/The Calamitous Typhoon.md",
@@ -194,10 +200,6 @@
     "0. The North-East Forests/Towns, Cities/The Twilight Sanctum.md",
     "0. The North-East Forests/Features/The Green Order/The Green Order.md",
     "0. The North-East Forests/Features/The Green Order/Sylvia's Starlight Grove.md",
-    "0. The North-East Forests/Features/The Green Order/Library of the Birch Collective.md",
-    "GM Screen/travel pace.md",
-    "0. The South-East Arid Expanse/Towns, Cities/Sonderton.md",
-    "0. The South-East Arid Expanse/Towns, Cities/Fang-Haven Hideout.md",
     "0. The South-East Arid Expanse/Events",
     "0. The South-East Arid Expanse/Towns, Cities",
     "0. The South-East Arid Expanse/Features",

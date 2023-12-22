@@ -16,7 +16,7 @@ They found Mist as a haven from their hunters.
 The Many were considered master magic wielders -- and master architects. They were the architects to their King and built powerful weapons and invention that could be used to fight and destroy neighboring civilizations. 
 
 # What locations tie back to them?
-Okay Ethan, don't be dumb. These location are NOT explicitly known. This is just the full list of all the locations that link back to The Many.
+To the people of Mist, it is NOT known that these locations tie back into The Many. However the locations are magical and do possess some amount of intrigue. 
 1. [[The Obelisk Field]]: A field of obelisks now located in the sea off the coast of [[The North-West Highlands]].
 2. [[The Solemn Flutes]]: A series of odd stone rings located in [[The Discordant Plains]].
 
