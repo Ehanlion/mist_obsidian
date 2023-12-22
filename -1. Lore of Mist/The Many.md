@@ -1,11 +1,19 @@
 # Who are the Many?
-It is said that a group was first to settle Mist, over 10,000 years ago. They are called by the few historians of Mist who still care, The Many. There is precious little known about them other than that there are still some lingering remnants of their time on Mist scattered around the island. 
+The Many are a group of travelers who settled Mist as a haven to escape from their pursuers. 
 
-Founder of Mist over 5,000 years ago. 
+There were 8 members of The Many. They are of an unknown and foreign race to anything that is known by the current inhabitants of Mist. Their major defining feature is that they have 4 arms.
+
+The group are like brothers to each other, all very smart and cunning. They were considered vastly intelligent by their society before they were forced to escape.
 
 # Where did they come from?
+The Many came from lands far beyond Mist, lands that are unknown to anyone that currently lives on Mist. These lands do not have a name.
+#### Why did they come to Mist
+The Many came to Mist because they stole a powerful artifact and killed the King who bore the artifact. The artifact was being used to mind control The Many, forcing them to do as their King commanded. They were used by their leader for their intelligence and skills and killed him out of revenge. They escaped on a powerful sea-ship and sailed away from their lands in a hurry.
+
+They found Mist as a haven from their hunters. 
 
 # How could they create such creations?
+The Many were considered master magic wielders -- and master architects. They were the architects to their King and built powerful weapons and invention that could be used to fight and destroy neighboring civilizations. 
 
 # What locations tie back to them?
 Okay Ethan, don't be dumb. These location are NOT explicitly known. This is just the full list of all the locations that link back to The Many.
