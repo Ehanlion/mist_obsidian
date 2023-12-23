@@ -1,0 +1,13 @@
+| Potion Name | Visual | Description |
+| - | - | - |
+| Lesser healing potion | A dull red liquid. | Heal 2d4 + 2 health |
+| Greater healing potion | A faintly glowing red liquid. | Heal 4d4 + 4 health |
+| Superior healing potion | A glowing red liquid. | Heal 8d4 + 8 | 
+| Supreme healing potion | A powerfully glowing red and gold liquid. | Heal 10d4 + 20 |
+| Potion of elemental resistance | A swirling vortex of color. | Roll a d10: acid 1, cold 2, fire 3, force 4, lightning 5, necrotic 6, poison 7, psychic 8, radiant 9, thunder 10. Gain resistance to that type of damage for 1 hour. |
+| Potion of invulnerability | A potion filled with silvery liquid. | Gain resistance to all damage for 1 minute. | 
+| Potion of invisibility | A clear liquid that glints ever so softly. | Gain the effects of the invisibility spell for 1 minute or until you break invisibility. |
+| Potion of Dragon Majesty (blue) | A potion with a single blue metallic scale suspended in the middle of it. | Transform into an [Adult Blue Dragon](https://www.dndbeyond.com/monsters/16765-adult-blue-dragon) for 1 hour. You can use every ability EXCEPT lair actions, legendary actions, and legendary resistances. |
+| | | |
+| | | |
+| | | |

@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "a62cf4dcd82c0515",
+            "id": "30f9cddef7b6c151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The Discordant Plains/Events/The Dissonant Ringing.md",
-                "mode": "preview",
+                "file": "Tomb of Annihilation/Final fight for ToA.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The Discordant Plains/Events/The Dissonant Ringing.md",
+                "file": "Tomb of Annihilation/Final fight for ToA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The Discordant Plains/Events/The Dissonant Ringing.md",
+                "file": "Tomb of Annihilation/Final fight for ToA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The Discordant Plains/Events/The Dissonant Ringing.md"
+                "file": "Tomb of Annihilation/Final fight for ToA.md"
               }
             }
           }
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,13 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a62cf4dcd82c0515",
+  "active": "30f9cddef7b6c151",
   "lastOpenFiles": [
-    "0. The Discordant Plains/NPCs/The Lost Prowlers.md",
+    "Tomb of Annihilation/Acererak.md",
+    "Tomb of Annihilation/Final fight for ToA.md",
+    "Tomb of Annihilation/Atropal.md",
+    "GM Screen/Ethan's Useful Link.md",
+    "Tomb of Annihilation/Hew Hackinstone.md",
+    "Tomb of Annihilation/Potions Quick Reference.md",
+    "99. Brainstorming/_To-Do List.md",
+    "Tomb of Annihilation",
+    "_Assets/solemn flutes 1.png",
+    "_Assets/solemn flutes.png",
     "0. The Discordant Plains/Events/The Dissonant Ringing.md",
+    "0. The Discordant Plains/NPCs/The Lost Prowlers.md",
     "0. The Discordant Plains/Features/The Solemn Flutes.md",
-    "solemn flutes 1.png",
-    "solemn flutes.png",
     "-1. Lore of Mist/The Many.md",
     "-1. Lore of Mist/The Greatest of the Great.md",
     "-1. Lore of Mist/The Great Cosmic Aligning.md",
@@ -188,18 +197,11 @@
     "_Templates/_Template for Features.md",
     "_Templates/_Template for Games.md",
     "_Templates/_Template for Locations.md",
-    "99. Brainstorming/_To-Do List.md",
     "0. The South-East Coast/Features/The Veil.md",
     "0. The Discordant Plains/Features/The Tamed River.md",
     "0. The North-East Forests/Features/The Wild River.md",
     "0. The Discordant Plains/Features/The Vast Sand Shelf.md",
     "0. The Discordant Plains/Towns, Cities/Sand-Shelf Heights.md",
-    "0. The North-East Forests/Features/The Bog Beast Swamps.md",
-    "0. The North-East Forests/Towns, Cities/Dark Hunters Lodge.md",
-    "0. The North-East Forests/Towns, Cities/Feller's Nook.md",
-    "0. The North-East Forests/Towns, Cities/The Twilight Sanctum.md",
-    "0. The North-East Forests/Features/The Green Order/The Green Order.md",
-    "0. The North-East Forests/Features/The Green Order/Sylvia's Starlight Grove.md",
     "0. The South-East Arid Expanse/Events",
     "0. The South-East Arid Expanse/Towns, Cities",
     "0. The South-East Arid Expanse/Features",
@@ -209,7 +211,6 @@
     "0. The North-East Forests/Features",
     "0. The Discordant Plains/Features",
     "0. The Discordant Plains/Events",
-    "0. The Discordant Plains/Towns, Cities",
     "_Assets/Twilight woods 1.png",
     "_Assets/Twilight woods and plains border.png",
     "_Assets/Macro view of deep woods and dark woods.png",
