@@ -9,14 +9,27 @@ The dissonant ringing can easily cause madness, in fact the plains are prowled b
 #### No protection:
 If a player wears NO ear protection, they are taken under the effects of the Dissonant ringing immediately:
 
-	A player WITHOUT ear protection, starts to make saves the moment they can hear the sounds of the plains. Make a DC 12 + Days Charisma saving throw. On a failure, the madness takes hold.
-
+	A player WITHOUT ear protection, starts to make saves the moment they can hear the sounds of the plains. Make a DC 15 charisma saving throw. On a failure, the madness takes hold.
 #### With protection:
 If a player wears any ear protection, outside of **a silence spell**, they still have to make saves immediately: 
 
-	A player WITH ear protection, starts to make saves the moment they care hear the sounds of the plains. Only with ear protection, this is an easier feat. Make a DC 10 + Days Charisma saving throw AT ADVANTAGE. On a failure the madness takes hold.
+	A player WITH ear protection, starts to make saves the moment they care hear the sounds of the plains. Only with ear protection, this is an easier feat. Make a DC 12 charisma saving throw. On a failure, the madness takes hold.
 
-#### Saves after Madness takes hold:
-If a player has been taken by madness, their saves become harder. The DCs remain the same, but they make saves at disadvantage. If a player leaves the plains and stops being able to hear the sounds, they stop making saves, and take 1d10 + 1 Days to fully recover. 
+#### Stages of Madness:
+A player is considered 'gone to the madness' if they fail 3 more times than they succeed. This is best demonstrated with an example:
+
+> Poppy and Brock go into the Discordant Plains. They will travel for a week to get to the other side. Poppy fails 4 times and succeeds 3 times against the effect. She has **one level** of madness. Brock fails 5 times and succeeds 2 times. He has **three levels** of madness, and to most is now considered 'gone to the madness,' fated to roam the plains as on of [[The Lost Prowlers]].
+
+If at any point you have **failed 3 times more than you succeeded** you are gone to the madness. 
 
 # What does the Insanity do? 
+The insanity takes hold in multiple stages and gets progressively worse the longer you go without saving against it. 
+
+| Stage | Effect | Duration | Curing |
+| - | - | - | - |
+| Stage 1 | Your head hurts, it becomes hard to hear anything beyond the sound of the whisperings of the plain. You have disadvantage on any dice rolls related to hearing. | 1d6 + 1 Days | Rest, Remove Curse |
+| Stage 2 | Your eyes ache tremendously. Your body feels sluggish and distant to you. Your vision becomes limited to 60 feet. Everything beyond that is pure darkness. You have disadvantage on and dice rolls related to vision. | 1d10 + 1 Days | Rest, Remove Curse |
+| Stage 3 | You begin to see psychic demons only visible to you. They prowl around you. Every other creature appears as a shadowy figure and you are unable to distinguish between voices. | 2d12 + 1 Days | Rest, Remove Curse |
+| Madness | You become one of [[The Lost Prowlers]] | Indefinite |  Greater Restoration, Wish |
+
+
