@@ -11,3 +11,7 @@ Master list of all missions indexed within the Missions folder. Full coverage fo
 - [ ] [[Mission, Escort Across the North-West]]
 - [ ] [[Mission, De-throne Garrick]]
 - [ ] [[Mission, Time Heist]]
+
+# Re-organized list:
+- [ ] [[Mission, Welcome to Mist]]
+- [ ] [[Mission, Pursuing the Sea-People Captors]]

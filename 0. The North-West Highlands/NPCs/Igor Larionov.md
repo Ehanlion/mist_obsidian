@@ -1,6 +1,6 @@
-Works for [[Fedorov's Legion]]. With the help of [[Dmitri Mironov]], they killed two weapons-smiths that were illegally working for [[The Blue Coat Brigade]].
+# Description:
+Igor is a squat, short halfling with one eye and a body that is covered in tattoos symbolizing his allegiance to [[Fedorov's Legion]]. He has gold teeth smattering in his smile. 
+# Mission for [[Fedorov Barovick VII]]:
+Igor, along with [[Dmitri Mironov]], has been tasked with checking upon [[Karak-Ulgurath]] and seeing if the efforts of the massive crustacean have yielded results yet. He is currently in [[The North-West Highlands]]. The mission of [[Karak-Ulgurath]] is detailed in [[The Vanishings in the North-West]]. 
 
-#### The Hunted:
-Dmitri is one of the two people that [[Pavel Hard]] tasked [[Wake]] with killing in an act of revenge.
-
-Igor just follows [[Dmitri Mironov]] with whatever he does. Their mission is detailed in Dmitri's information block. Igor is more willing to divulge information because he has faith that he could escape [[Fedorov Barovick VII]]. He is wrong of course -- Fedorov would have him hunted and executed just to have his corpse displayed as a fear factor. 
+Igor will reveal information, only if the party guarantees that they can hide him from [[Fedorov's Legion]], since they will surely kill him for betraying them and giving up information. The party doesn't have to uphold this, it is their choice. He is desperate.  

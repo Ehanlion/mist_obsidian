@@ -1,0 +1,1 @@
+She is a smith, living along the coast in [[The South-West Arid Expanse]]. She taught [[Slug Stoll]] how to craft daggers.

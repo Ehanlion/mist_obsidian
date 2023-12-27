@@ -9,7 +9,7 @@
 | Wisdom | 18 | + 4 |
 | Charisma | 24 | + 12 |
 
-**Hit Points:** 300
+**Hit Points:** 400
 **Armor Class:** 10
 **Proficiency:** +5
 
@@ -44,7 +44,7 @@ Ray of Cold - 1
 Life Drain - 2
 
 #### More Information:
-[Link to the Atropal](https://www.dndwiki.io/monsters/atropal) if needed.
+[Link to the Atropal](https://dr-eigenvalue.github.io/bestiary/creature/atropal) if needed.
 [Link to zombie](https://roll20.net/compendium/dnd5e/Zombie#content) if needed. 
 Play the Atropal as a stationary raid boss who should punish bad positioning. 
 The Atropal has 3 umbilical chords attached to the Soulmongerer.  

@@ -1,8 +1,7 @@
-Works for [[Fedorov's Legion]]. With the help of [[Igor Larionov]] they killed two weapons-smiths that were illegally working for [[The Blue Coat Brigade]].
+# Description:
+Dmitri is a broad, hefty orc, too stout for his own race. He does not speak much. He has a mop of dark, ratty hair that drifts over his eyes. He is hunched and gnarled with his nose bent and broken in too many places. He has many tattoos on his face of prayers to the seas for safety. 
 
-#### The Hunted:
-Dmitri is one of the two people that [[Pavel Hard]] tasked [[Wake]] with killing in an act of revenge.
+# Mission for [[Fedorov Barovick VII]]:
+Dmitri, alongside [[Igor Larionov]], has been tasked with checking upon [[Karak-Ulgurath]] and seeing if the efforts of the massive crustacean have yielded results yet. He is currently in [[The North-West Highlands]]. The mission of [[Karak-Ulgurath]] is detailed in [[The Vanishings in the North-West]]. 
 
-Dmitri has been tasked by [[Fedorov Barovick VII]] to go check on the enslaved Crab that is currently being used to conduct raids and the enslaving efforts along [[The North-West Highlands]]. The crab is soon to be successful in uncovering a powerful artifact called by those who know of it, a shard. Dmitri and [[Igor Larionov]] are supposed to bring the shard back to [[Hope Town]] once they have succeeded. 
-
-Dmitri will NOT give up his motives ever under pain of death because he knows that [[Fedorov Barovick VII]] would have him executed.
+He will not reveal information, even under pain of death, citing that "he will embrace the ever-sea with gratitude."

@@ -1,9 +1,11 @@
+# Description:
 AI Art of a single example obelisk: ![[Obelisk field in north sea.png]]
 
 >*All sailors who sail the North-West waters know of the Obelisk field. A large scattering of these broad, ancient pillars, swirling with runes and carved with runic engravings. There are 5 known obelisks, only one of which seems to be active. The active one glows a vibrant purple from the runes that are inscribed on it and the dancing runes in the air shimmer with vigor. The sea around it bubble and churns with ferocity.*
 
 There are NOT just 5 obelisks. There are 8. Three are fully submerged underneath the water's surface because of where they were built. The obelisks can be activated if a 'shard' is placed into the activation chamber of an obelisk. More on this to come. While there ARE 8 obelisks and 8 schools of magic, there is no 
 
+The Obelisks are a key feature of the North-west part of [[The North-West Highlands]], populating the sea where both [[The Distant Sea]] and [[The Harmonious Sea]] join. 
 # Shape of the Obelisks:
 Each obelisk is easily 50 feet wide and over 400 feet tall (so not small objects). For the 7 visible ones, only the top crux of the obelisk and a small bit of the sides shows, such that it pokes out maybe 60 feet from the ocean on a calm day. The Obelisks are made of dark black stone and are incredibly slick to the touch if you try to climb on them. On the East side of every obelisk there is a faint set of indents, making up a very slick ladder. This can be used to climb the sides. 
 

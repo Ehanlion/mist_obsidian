@@ -1,0 +1,2 @@
+# Description:
+The Mist Codex is a 'computer,' essentially an archaic control console, that accepts the [[Shards]] (keys) of Mist as control inputs to control the [[The Aether-Veil Projector]]. All of the [[Shards]] are required to allow the codex to function. 

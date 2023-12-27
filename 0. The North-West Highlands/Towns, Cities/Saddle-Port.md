@@ -12,14 +12,14 @@ Small town along the north of [[The North-West Highlands]]. It is close to the h
 # Parts of the Town:
 	Saddle-Port is small -- Less than a hundred people call this small town home. On the outskirts are quant cottages, each with a trodden dirt path leading into town. In the town there is the library, the tavern, the market stalls, and a trading post. There is a small open area where events are hosted but it is small. Towards the cliff's edge are the docks; ships are set in rails on the dry docks and are hoisted to and from the sea using pulleys and cattle.
 
-#### The Library:
+#### The Library: "The Cozy Book Nook"
 This library is run by [[Vivian Lovejoy]]. It has a small adjacent cottage where [[Vivian Lovejoy]] and her adopted son [[Kelswin Lovejoy]] live. 
 
 The library contains a lot of textbook and treatises, magical tomes on spell casting, and folk hero tales. Notably, the collection contains a first edition of [[The Greatest of the Great]], a tale about the exploits of the late, great wizard -- [[Ignel Valis]]. 
 
 The books are all on shelves in a circular room with a colorful, stained glass dome overhead. It makes the room shift and glimmer with beautiful, colorful lights. 
 
-#### The Tavern:
+#### The Tavern: "The Drunken Wyvern"
 The tavern is pretty run-of-the-mill. It has a simple, well stocked bar tended by a man named Herbert Shaw. There is a small attached kitchen that serves meals of the sea, almost all being made with fish. The cook's name is Alice Shaw and she is Herbert's wife. 
 
 The tavern has small gambling game nights, playing [[Black-wing's Duels]] and [[Dragon's Hoard Twenty-One]] on most nights. There is also a dart board, riddled with holes from its frequent use.
@@ -27,7 +27,7 @@ The tavern has small gambling game nights, playing [[Black-wing's Duels]] and [[
 1. Herbert Shaw: Older, no hair and bald, multiple scars from when he worked on fishing boats. Likes to tell stories.
 2. Alice Shaw: Older, flowing grey hair and keen eyes. Friendly laugh and enjoys talking about the specials for the day that she is cooking.
 
-#### The Trading Post:
+#### The Trading Post: "Yugo's Store"
 Saddle-Port, like many towns, has a small trading port where merchant cargos sell small amounts of their goods to the local tender. This trading post is run by a man named Yugo Stolid.  
 
 Carried are simple goods, two healing potions, and a potion of water breathing. He has many troves of old fishing gear. He also knows when the next caravan is due in because they run on a relatively regular schedule. 

@@ -8,7 +8,7 @@ Likes to be in the know and understand what is happening
 Happy go lucky
 Optimism
 
-Probably [[The South-East Arid Expanse]] would be ideal for slug considering the make weapons as trade and also started off on a fishing boat. 
+Probably [[The South-West Arid Expanse]] would be ideal for slug considering the make weapons as trade and also started off on a fishing boat. 
 
 **Backstory in the South-West:**
 Had a family, mother and father in a fishing village.

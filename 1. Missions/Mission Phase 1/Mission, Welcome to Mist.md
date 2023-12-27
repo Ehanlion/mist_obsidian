@@ -20,7 +20,7 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 These are the two main hooks for adventure. Either one of them will end up with Vivian getting taken and the group having to choose to follow or to give up.
 
 ___
-## Town's Guard in the Tavern:
+## 1. Town's Guard in the Tavern:
 Walking through town you hear murmurings of people being taken or having gone missing from towns up the coast from [[Saddle-Port]]. 
 
 #### The Tavern:
@@ -38,7 +38,7 @@ Staging the stake-out will bear results after 3 days. At that point a raid will 
 They group cannot win -- the raiding part is large and powerful. The good new is that they are trying to take [[Vivian Lovejoy]], cause damage, and run. The group can play defensive and try to protect the town or they can try to kill the aggressors.
 
 ___
-## Poor Merchant in the Tavern:
+## 2. Poor Merchant in the Tavern:
 If you enter the tavern, it becomes clear that someone is very sad. A merchant sits at a table with 10s of drinks surrounding him. 
 
 #### The Poor Merchant:
@@ -66,5 +66,7 @@ Investigation reveals that this cave is home to nearly 30 creatures -- a massive
 The captain will offer anyone who returns his lock box half of what it contains -- a total sum of 500 gold of gems and jewels. 
 
 ___
+# Post Hooks:
+Realistically, things get a little wishy-washy here. Both hooks are setup to have the party eventually get back to [[Saddle-Port]]. That would allow for a raid by members of [[The Followers of Karak-Ulgurath]]. They would search for Librarians and stone masons, as described in [[The Vanishings in the North-West]]. This means the raiders would target [[Vivian Lovejoy]] and maybe [[Kelswin Lovejoy]] (since they are both librarian-related).
 
-	That is the end of the first part of the mission. Either they explore with Jordan or they help the merchant. In all cases, a raid occurs on the village and vivian will be taken. This should jump-start the group to continue the trails to find out more about the vanishings. 
+The end-all, be all, is that there should be a combat where the party comes face to face with a force of [[The Followers of Karak-Ulgurath]] and the party is outmatched by this force. 

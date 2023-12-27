@@ -32,19 +32,18 @@
             }
           },
           {
-            "id": "30f9cddef7b6c151",
+            "id": "dfb4d61146db1709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tomb of Annihilation/Final fight for ToA.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tomb of Annihilation/Final fight for ToA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +125,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tomb of Annihilation/Final fight for ToA.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -149,17 +146,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tomb of Annihilation/Final fight for ToA.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,51 +166,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30f9cddef7b6c151",
+  "active": "0e87e4dfa6d9bf35",
   "lastOpenFiles": [
-    "Tomb of Annihilation/Acererak.md",
-    "Tomb of Annihilation/Final fight for ToA.md",
-    "Tomb of Annihilation/Atropal.md",
-    "GM Screen/Ethan's Useful Link.md",
-    "Tomb of Annihilation/Hew Hackinstone.md",
-    "Tomb of Annihilation/Potions Quick Reference.md",
-    "99. Brainstorming/_To-Do List.md",
-    "Tomb of Annihilation",
-    "_Assets/solemn flutes 1.png",
-    "_Assets/solemn flutes.png",
-    "0. The Discordant Plains/Events/The Dissonant Ringing.md",
-    "0. The Discordant Plains/NPCs/The Lost Prowlers.md",
-    "0. The Discordant Plains/Features/The Solemn Flutes.md",
-    "-1. Lore of Mist/The Many.md",
-    "-1. Lore of Mist/The Greatest of the Great.md",
-    "-1. Lore of Mist/The Great Cosmic Aligning.md",
-    "-1. Lore of Mist/The Calamitous Typhoon.md",
-    "_Templates/Format of this Vault.md",
-    "_Templates/Building this Vault.md",
-    "_Templates/_Format Testings.md",
-    "0. The Discordant Plains/Features/Lake Middle-Mist.md",
-    "_Templates/_Template for Features.md",
-    "_Templates/_Template for Games.md",
-    "_Templates/_Template for Locations.md",
-    "0. The South-East Coast/Features/The Veil.md",
-    "0. The Discordant Plains/Features/The Tamed River.md",
-    "0. The North-East Forests/Features/The Wild River.md",
-    "0. The Discordant Plains/Features/The Vast Sand Shelf.md",
-    "0. The Discordant Plains/Towns, Cities/Sand-Shelf Heights.md",
-    "0. The South-East Arid Expanse/Events",
-    "0. The South-East Arid Expanse/Towns, Cities",
-    "0. The South-East Arid Expanse/Features",
-    "0. The South-East Mountains/Towns, Cities",
-    "0. The North-East Forests/Events",
-    "0. The North-East Forests/Towns, Cities",
-    "0. The North-East Forests/Features",
-    "0. The Discordant Plains/Features",
-    "0. The Discordant Plains/Events",
-    "_Assets/Twilight woods 1.png",
-    "_Assets/Twilight woods and plains border.png",
-    "_Assets/Macro view of deep woods and dark woods.png",
+    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/Town-Islands/The Town of Frost-Haven.md",
+    "0. The North-West Highlands/Town-Islands/The Port of Last Call.md",
+    "1. Missions/Mission Phase 1/Mission, Raids on the North-East Coast.md",
+    "1. Missions/Mission Phase 1",
+    "1. Missions/_Mission Index.md",
+    "1. Missions/Mission Phase 1/Mission, Pursuing the Sea-People Captors.md",
+    "0. The North-West Highlands/Items/Mind Rock.md",
+    "0. The North-West Highlands/Items/Master Mind Rock.md",
+    "0. The North-West Highlands/Items/Ice-Rocks.md",
+    "0. The North-West Highlands/Features/King Gillian's Channel.md",
+    "0. The North-West Highlands/Features/Shimmer Mist Lagoon.md",
+    "0. The North-West Highlands/Features/The Distant Sea.md",
+    "0. The North-West Highlands/Features/The Echoing Grotto.md",
+    "0. The North-West Highlands/Features/The Harmonious Sea.md",
+    "0. The North-West Highlands/Features/The Massive Sea Caves of the North West.md",
+    "0. The North-West Highlands/Features/The Sunken Caverns.md",
+    "0. The North-West Highlands/Features/The Obelisk Field.md",
+    "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
+    "0. The North-West Highlands/Town-Islands",
+    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "0. The North-West Highlands/Towns, Cities/Herringshold.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
+    "-1. Lore of Mist/NPCs, Creatures",
+    "-1. Lore of Mist/Great Features",
+    "-1. Lore of Mist/Items",
+    "0. The North-West Highlands/Items",
     "_Assets/dark woods 1.png",
     "_Assets/Deep woods and twilight woods border.png",
-    "_Assets/The deep woods 1.png"
+    "_Assets/Hope town black tide reapers.png",
+    "_Assets/Hope town fedorovs legion.png",
+    "_Assets/Hope town hugos arena.png",
+    "_Assets/Hope town the blue coats.png",
+    "_Assets/karak-ulgurath the crab lord.png",
+    "_Archived",
+    "_Archived/Tomb of Annihilation/NPCs",
+    "_Archived/Tomb of Annihilation",
+    "_Assets/solemn flutes 1.png",
+    "_Assets/solemn flutes.png",
+    "0. The South-West Arid Expanse/Events",
+    "_Assets/Twilight woods 1.png"
   ]
 }
