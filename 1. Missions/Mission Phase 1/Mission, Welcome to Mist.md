@@ -1,6 +1,8 @@
 Welcome to Mist adventurers. I hope you enjoy the many, many adventures that are yet to come. 
 # An Intro to Mist
-	Some live amidst the swaying grass of the north-west highlands. Some make their homes in the deep forests of the north-east. Some brave the treacherous paths of the south-east mountains. Some lead lives of mischief and bravery along the south-east coast. Some brave souls make their stands in the hot deserts of the south-west. But all who live here, make their lives on Mist. 
+>Some live amidst the swaying grass of the north-west highlands. Some make their homes in the deep forests of the north-east. Some brave the treacherous paths of the south-east mountains. Some lead lives of mischief and bravery along the south-east coast. Some brave souls make their stands in the hot deserts of the south-west. But all who live here, make their lives on Mist. 
+
+> Today, our story begins rather lazily in the placid town of [[Saddle-Port]]. Smoke wafts up some chimneys in town. You can hear to playful shouts of village children. In the background, fishermen haul up fish from their vessels. 
 
 # First Beginnings
 The adventure begins in [[The North-West Highlands]], in the village of [[Saddle-Port]]. This is [[Kelswin Lovejoy]]'s home village. 
@@ -14,9 +16,10 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 
 # Hooks
 | Person | Quest Hook |
-| - | ---- |
+| ---- | ---- |
 | Town's Guard in the Tavern | There have been multiple cases of people missing up the coast. It is known that two of the people missing are Librarians from other villages. |
 | Poor Merchant | A merchant is town had his boat sunk just off shore. He couldn't retrieve his lockbox with his valuables in it and needs it returned or he faces ruin. |
+| Fishermen  | Two fisherman at the docks look like they need help. They  |
 These are the two main hooks for adventure. Either one of them will end up with Vivian getting taken and the group having to choose to follow or to give up.
 
 ___
@@ -55,13 +58,14 @@ They will find multiple cages, multiple tridents, and lots of rope. They will al
 
 **things to find:**
 1. Tridents
-2. 30 Sleeping cots
+2. 10 Sleeping cots
 3. Multiple, Large Cages
-4. Around 10 Spools of Rope.
-5. A dead corpse: it is a miner, he died while struggling, a pickaxe with initials R.B can be found near his body. He was from [[Smears-burrow]].
-6. A locked crate: DC 15 Slight of Hand to pick, reveals a strange, wet herb and multiple glowing vials. It is Gillyweed and paralysis potions.
+4. A pile of weighted nets. 
+5. Around 10 Spools of Rope alongside grappling hooks and crossbow launchers for the grapplers. 
+6. A dead corpse belonging to [[Reggie Brown]], initials R.B. He has a fishing rod with him, a bright yellow jacket he was known to wears, and nothing else. A DC 12 medicine check reveals he died in a struggle. 
+7. A locked crate: DC 15 Slight of Hand to pick, reveals a strange, wet herb and multiple glowing vials. It is Gillyweed and paralysis potions. They are used to allow captured creatures to breath underwater and the paralysis potion is used to paralyze the captured creatures while they are transported. 
 
-Investigation reveals that this cave is home to nearly 30 creatures -- a massive amount. 
+A DC 10 investigation check reveals that the cave was inhabited by many creatures of the sea. A DC 15 investigation check reveals the number of creatures, well over 30. 
 #### Reward:
 The captain will offer anyone who returns his lock box half of what it contains -- a total sum of 500 gold of gems and jewels. 
 

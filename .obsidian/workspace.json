@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md"
+              }
             }
           }
         ],
@@ -166,16 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e87e4dfa6d9bf35",
+  "active": "dfb4d61146db1709",
   "lastOpenFiles": [
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "1. Missions/Mission Phase 1/Mission, Escort Across the North-West.md",
+    "0. The North-West Highlands/NPCs/Reggie Brown.md",
+    "1. Missions/Mission Phase 1/Mission, Pursuing the Sea-People Captors.md",
+    "1. Missions/Mission Phase 1/Mission, Raids on the North-East Coast.md",
+    "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
+    "0. The North-West Highlands/NPCs/Igor Larionov.md",
+    "GM Screen/Underwater/casting a spell underwater.md",
+    "GM Screen/Underwater/holding breath underwater.md",
+    "GM Screen/Conditions/unconscious.md",
+    "GM Screen/Conditions/incapacitated.md",
+    "GM Screen/Underwater",
     "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
     "0. The North-West Highlands/Town-Islands/The Town of Frost-Haven.md",
     "0. The North-West Highlands/Town-Islands/The Port of Last Call.md",
-    "1. Missions/Mission Phase 1/Mission, Raids on the North-East Coast.md",
     "1. Missions/Mission Phase 1",
     "1. Missions/_Mission Index.md",
-    "1. Missions/Mission Phase 1/Mission, Pursuing the Sea-People Captors.md",
     "0. The North-West Highlands/Items/Mind Rock.md",
     "0. The North-West Highlands/Items/Master Mind Rock.md",
     "0. The North-West Highlands/Items/Ice-Rocks.md",
@@ -184,18 +201,7 @@
     "0. The North-West Highlands/Features/The Distant Sea.md",
     "0. The North-West Highlands/Features/The Echoing Grotto.md",
     "0. The North-West Highlands/Features/The Harmonious Sea.md",
-    "0. The North-West Highlands/Features/The Massive Sea Caves of the North West.md",
-    "0. The North-West Highlands/Features/The Sunken Caverns.md",
-    "0. The North-West Highlands/Features/The Obelisk Field.md",
-    "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
     "0. The North-West Highlands/Town-Islands",
-    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
-    "0. The North-West Highlands/Towns, Cities/Herringshold.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-    "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
     "-1. Lore of Mist/NPCs, Creatures",
     "-1. Lore of Mist/Great Features",
     "-1. Lore of Mist/Items",
@@ -212,7 +218,6 @@
     "_Archived/Tomb of Annihilation",
     "_Assets/solemn flutes 1.png",
     "_Assets/solemn flutes.png",
-    "0. The South-West Arid Expanse/Events",
     "_Assets/Twilight woods 1.png"
   ]
 }

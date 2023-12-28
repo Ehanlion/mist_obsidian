@@ -3,9 +3,6 @@ Small fishing town up the coast from [[Saddle-Port]]. It is bigger than Saddle-P
 # At First Glance:
 	Smears-Burrow is a bustling little town. Its people rush around a town square moving fish from the seas into ice-rock cellars for safe keeping. The buildings are made of a dark coral-looking stone and an abundance of strangely coloured plants grows from the stones. 
 
-#### Missing Man:
-A man by the name of Reggie Brown (R.B. initials) is missing. He is a miner. His body can be found in the sea cave detailed in 'the poor merchant hook' from [[Mission, Welcome to Mist]]. 
 
-People are looking for him, and there is a sign on the trading post in the town asking for information about his where-abouts. 
-
-The town's library was just destroyed in a raid, along side 2 ships from the village. 
+# Notable NPCs:
+1. [[Reggie Brown]] is a well liked fishermen who went missing some days before a raid happened on the town.

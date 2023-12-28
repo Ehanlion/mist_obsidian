@@ -1,0 +1,2 @@
+#### Ruling on casting:
+While submerged underwater and holding its breath, a creature can cast a spell that requires a verbal component with a casting time of a reaction, bonus action, or action. After casting the spell, If the creature can’t breathe underwater, it is subject to the rules of [[holding breath underwater]] when you run out of breath. 
