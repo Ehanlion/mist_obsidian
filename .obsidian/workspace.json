@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93fe5a24b0c03d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,16 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfb4d61146db1709",
+  "active": "93fe5a24b0c03d0b",
   "lastOpenFiles": [
     "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
-    "1. Missions/Mission Phase 1/Mission, Escort Across the North-West.md",
-    "0. The North-West Highlands/NPCs/Reggie Brown.md",
-    "1. Missions/Mission Phase 1/Mission, Pursuing the Sea-People Captors.md",
+    "1. Missions/Mission Phase 1/Mission, Pursuing the North-West Raiders.md",
     "1. Missions/Mission Phase 1/Mission, Raids on the North-East Coast.md",
+    "0. The North-West Highlands/NPCs/Reggie Brown.md",
+    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
+    "1. Missions/Mission Phase 1/Mission, Escort Across the North-West.md",
     "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
     "0. The North-West Highlands/NPCs/Igor Larionov.md",
     "GM Screen/Underwater/casting a spell underwater.md",

@@ -14,4 +14,4 @@ Master list of all missions indexed within the Missions folder. Full coverage fo
 
 # Re-organized list:
 - [ ] [[Mission, Welcome to Mist]]
-- [ ] [[Mission, Pursuing the Sea-People Captors]]
+- [ ] [[Mission, Pursuing the North-West Raiders]]

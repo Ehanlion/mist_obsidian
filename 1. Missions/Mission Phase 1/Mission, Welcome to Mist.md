@@ -11,9 +11,8 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 | - | - |
 | [[Kelswin Lovejoy]] | Starts in his hometown of [[Saddle-Port]], in the library that he lives in with his mother. |
 | [[Deion Deus]] | Was the muscle for a trade mission that was heading down into [[Gandoras City]]. He spent the night in [[Saddle-Port]] since his caravan will carry on with a different hired hand from the next village. |
-| [[Wake]] | She is travelling up here hunting a member of [[Fedorov's Legion]] who killed multiple key people within [[The Blue Coat Brigade]]. |
-| [[Slug Stoll]] | He is currently peddling his dagger wears and is waiting for his merchant ship to make its way back to [[Saddle-Port]]. |
-
+| [[Wake]] | She is travelling up here hunting a two members of [[Fedorov's Legion]] who killed multiple key people within [[The Blue Coat Brigade]]. Wake does not know their names but a general description of 'one short and one bulky, both with tattoos.' The men are [[Dmitri Mironov]] and [[Igor Larionov]].  |
+| [[Slug Stoll]] | He is currently peddling his dagger wears and is waiting for his merchant ship to make its way back to [[Saddle-Port]]. The ship will not be back for another two weeks though, so Slug is settle in the town at a visitors cottage near the tavern. |
 # Hooks
 | Person | Quest Hook |
 | ---- | ---- |
@@ -34,6 +33,10 @@ Jordan recommends that the group stages a stake-out for the next week in order t
 
 ##### Heading up to Smears-burrow:
 [[Smears-burrow]] is a 3 day trip north along the coast of [[The North-West Highlands]]. If they leave to go there, the raid, as detailed in [[The Vanishings in the North-West]], will occur on [[Saddle-Port]] while they are gone, [[Vivian Lovejoy]] will be captured, and the tavern will be burned down. 
+
+If they do travel to [[Smears-burrow]] it is important to note some of the things that they can find there that are out of the ordinary:
+1. There are dark blue scuff marks on one of the jetties in [[Smears-burrow]] that is NOT reserved for visitors. The blue scuff marks could only have been made by [[Reggie Brown]]'s ship since it is a dark blue. The party wouldn't know that it is his ship, and would only know if something is out of order if they ask.
+2. [[Reggie Brown]] is missing, along-side his ship. They went missing BEFORE there was a raid on the village. [[Reggie Brown]] was killed while exploring a sea cave related to [[The Vanishings in the North-West]]. His boat was stolen by the raiders and was used to raid [[Smears-burrow]]s, although no one knows that yet. 
 
 ##### Conducting a Stake-Out:
 Staging the stake-out will bear results after 3 days. At that point a raid will occur on the town. The raiders want to take [[Vivian Lovejoy]] because she is a librarian and that is the only person they need from the town. 
@@ -56,7 +59,7 @@ The ship sunk directly out to sea from a small sea cave. This sea cave is empty,
 #### A Mysterious Sea Cave:
 They will find multiple cages, multiple tridents, and lots of rope. They will also find a the mauled corpse of a miner. Examining it closer will reveal numerous wounds, indicating he died while struggling. He has a pick-axe on him with the initials R.B. He is missing from the town of [[Smears-burrow]]. 
 
-**things to find:**
+**Things to find:**
 1. Tridents
 2. 10 Sleeping cots
 3. Multiple, Large Cages

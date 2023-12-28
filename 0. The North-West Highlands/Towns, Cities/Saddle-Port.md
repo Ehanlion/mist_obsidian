@@ -24,6 +24,8 @@ The tavern is pretty run-of-the-mill. It has a simple, well stocked bar tended b
 
 The tavern has small gambling game nights, playing [[Black-wing's Duels]] and [[Dragon's Hoard Twenty-One]] on most nights. There is also a dart board, riddled with holes from its frequent use.
 
+Nearby to the tavern are some visitors cottages that the tavern runs. They are small, one or two person cottages that can be rented out to people that wish to stay at the tavern.
+
 1. Herbert Shaw: Older, no hair and bald, multiple scars from when he worked on fishing boats. Likes to tell stories.
 2. Alice Shaw: Older, flowing grey hair and keen eyes. Friendly laugh and enjoys talking about the specials for the day that she is cooking.
 
