@@ -29,6 +29,6 @@ Specifically, he wants to remove [[Garrick Blackthorn]] and his inner circle fro
 - Deion wants to remove the higher ups and supplant him and his inner circle with kinder, more lenient, and 
 Seeking strength and power in his absence from the tribe. 
 VERY headstrong. 
-Deion is 29, 13 years older since his incident that caused him to leave. 
+Deion is 25, 9 years older since his incident that caused him to leave. 
 
 Bandit tribe. Each one has a marking. EVERY one has a marking. People fear the marking and it is ubiquitous and well known. 

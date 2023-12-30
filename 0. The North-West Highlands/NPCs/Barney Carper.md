@@ -1,0 +1,1 @@
+Local fisherman with a sunk ship in [[Saddle-Port]]. This ship is called the "Stan-ta Ray."

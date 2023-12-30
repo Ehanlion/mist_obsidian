@@ -37,26 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-                "mode": "source",
+                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "93fe5a24b0c03d0b",
+            "id": "78217fa322272f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
-                "mode": "source",
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,8 +166,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,36 +182,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93fe5a24b0c03d0b",
+  "active": "dfb4d61146db1709",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-West Highlands/NPCs/Burton Browns.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "0. The South-East Mountains/Features/The Blood-Stone Pass/Markings of the Blood-Stone Pass.md",
+    "0. The South-East Mountains/Features/The Blood-Stone Pass/Creatures of the Red-Stone Pass.md",
+    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Iron-fist Marauders.md",
     "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "GM Screen/Ethan's Gambling Games/Black-wing's Duels.md",
+    "GM Screen/Ethan's Gambling Games/Silver-wing's Duels.md",
+    "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
+    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+    "0. The North-West Highlands/NPCs/Barney Carper.md",
+    "99. Player Data/Deion Deus.md",
+    "0. The South-East Coast/NPCs/James Stoll.md",
+    "0. The South-East Coast/NPCs/Pavel Hard.md",
+    "0. The South-West Arid Expanse/Towns, Cities/Bellmawr.md",
+    "GM Screen/Spell Books and Spell Scrolls.md",
+    "-1. Lore of Mist/Deities/Waukeen.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-West Highlands/Features/The Obelisk Field.md",
+    "-1. Lore of Mist/Items/The Rune of Opening.md",
     "1. Missions/Mission Phase 1/Mission, Pursuing the North-West Raiders.md",
     "1. Missions/Mission Phase 1/Mission, Raids on the North-East Coast.md",
     "0. The North-West Highlands/NPCs/Reggie Brown.md",
     "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
     "1. Missions/Mission Phase 1/Mission, Escort Across the North-West.md",
-    "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
     "0. The North-West Highlands/NPCs/Igor Larionov.md",
-    "GM Screen/Underwater/casting a spell underwater.md",
-    "GM Screen/Underwater/holding breath underwater.md",
-    "GM Screen/Conditions/unconscious.md",
-    "GM Screen/Conditions/incapacitated.md",
     "GM Screen/Underwater",
-    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-    "0. The North-West Highlands/Town-Islands/The Town of Frost-Haven.md",
-    "0. The North-West Highlands/Town-Islands/The Port of Last Call.md",
     "1. Missions/Mission Phase 1",
-    "1. Missions/_Mission Index.md",
-    "0. The North-West Highlands/Items/Mind Rock.md",
-    "0. The North-West Highlands/Items/Master Mind Rock.md",
-    "0. The North-West Highlands/Items/Ice-Rocks.md",
-    "0. The North-West Highlands/Features/King Gillian's Channel.md",
-    "0. The North-West Highlands/Features/Shimmer Mist Lagoon.md",
-    "0. The North-West Highlands/Features/The Distant Sea.md",
-    "0. The North-West Highlands/Features/The Echoing Grotto.md",
-    "0. The North-West Highlands/Features/The Harmonious Sea.md",
     "0. The North-West Highlands/Town-Islands",
     "-1. Lore of Mist/NPCs, Creatures",
     "-1. Lore of Mist/Great Features",

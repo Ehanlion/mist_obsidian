@@ -24,9 +24,9 @@ The one opened obelisk was done so with brute force. As such, whoever opened it 
 Obelisks can be activated by pairing them with a shard. There are 8 shards, each one takes a different form or appearance. Some have been melded with weapons to create powerful methods of destruction. Some have been melded with objects to create large areas of effect. 
 
 # Why Are Some Obelisks Submerged?
-These structures were built a long time ago, and the world was very different then. Of course, their creators knew that the world would change but it was an inevitability that they were prepared for. The Obelisks may appear to be scattered in a somewhat odd pattern, but that is only true if you look at the 5 visible ones, if you take into account the 3 submerged ones, they form the shape of a rune, called 'The Rune of Opening.'
+These structures were built a long time ago, and the world was very different then. Of course, their creators knew that the world would change but it was an inevitability that they were prepared for. The Obelisks may appear to be scattered in a somewhat odd pattern, but that is only true if you look at the 5 visible ones, if you take into account the 3 submerged ones, they form the shape of a rune, called [[The Rune of Opening]].
 
-Layout of the obelisks to form the rune of opening. 
+Layout of the obelisks to form the [[The Rune of Opening]]. 
 -> H - - - - - - - - - - - V - - -
 -> - - - - - - - - - - - - - - - - -
 -> V - - - - V - - - - H - - - V 
