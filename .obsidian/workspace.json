@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
-                "mode": "preview",
+                "file": "0. The North-West Highlands/NPCs/Barney Carper.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,9 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfb4d61146db1709",
+  "active": "0e87e4dfa6d9bf35",
   "lastOpenFiles": [
+    "0. The North-West Highlands/NPCs/Barney Carper.md",
     "0. The North-West Highlands/NPCs/Burton Browns.md",
+    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
+    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+    "0. The North-West Highlands/Features/The Sunken Caverns.md",
+    "0. The North-West Highlands/Items/A Mist-Cutter Ship.md",
+    "99. Player Data/Wake.md",
+    "99. Player Data/Kelswin Lovejoy.md",
+    "99. Player Data/Deion Deus.md",
+    "99. Player Data/Slug Stoll.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/Markings of the Blood-Stone Pass.md",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/Creatures of the Red-Stone Pass.md",
@@ -194,22 +199,12 @@
     "GM Screen/Ethan's Gambling Games/Silver-wing's Duels.md",
     "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
     "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
-    "0. The North-West Highlands/NPCs/Barney Carper.md",
-    "99. Player Data/Deion Deus.md",
     "0. The South-East Coast/NPCs/James Stoll.md",
     "0. The South-East Coast/NPCs/Pavel Hard.md",
     "0. The South-West Arid Expanse/Towns, Cities/Bellmawr.md",
     "GM Screen/Spell Books and Spell Scrolls.md",
     "-1. Lore of Mist/Deities/Waukeen.md",
     "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-    "0. The North-West Highlands/Features/The Obelisk Field.md",
-    "-1. Lore of Mist/Items/The Rune of Opening.md",
-    "1. Missions/Mission Phase 1/Mission, Pursuing the North-West Raiders.md",
-    "1. Missions/Mission Phase 1/Mission, Raids on the North-East Coast.md",
-    "0. The North-West Highlands/NPCs/Reggie Brown.md",
-    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
-    "1. Missions/Mission Phase 1/Mission, Escort Across the North-West.md",
-    "0. The North-West Highlands/NPCs/Igor Larionov.md",
     "GM Screen/Underwater",
     "1. Missions/Mission Phase 1",
     "0. The North-West Highlands/Town-Islands",

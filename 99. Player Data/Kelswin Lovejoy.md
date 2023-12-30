@@ -41,11 +41,11 @@ Kelswin loves that the heroes in the books seemed to be fated to win. He recogni
 - Want Kelswin's optimism to be challenged. Seeing generally hard to stomach things.
 # Kelswin's Goals
 - Kelswin wants to have stories written about him.
-
-
 # Chris's Critique on ToA:
 - Setup of Tinder as the Red dragon as an enemy that the party knew about for a long time, learned about, and were scared by and that as an enemy, Tinder was important to a beloved NPC
 	- Tinder was very high payoff which hurt the impact of the rest of the campaign
 	- She was separate from 'the main villain' which hurt the overall adventure.
 	- Enemies should ties into other enemies to keep the search and anticipation going between massive combats.
+
+#### Added during play:
 

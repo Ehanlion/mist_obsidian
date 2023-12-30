@@ -31,3 +31,6 @@ Proficient with smithing tools after learning in depth his trade from [[Master S
 - Take his trade, specifically smithing daggers, and expand it to different weapon's crafting. 
 - Working with weapon's artisans to learn new techniques. 
 - Make communication with his parents. Slug doesn't know where his parents are but he wants to have one day where he meets up with them before they part their separate ways. 
+
+#### Added during play:
+- Slug has a book, rented for 5 sp a day from [[Vivian Lovejoy]], about beginner wood chiseling. 

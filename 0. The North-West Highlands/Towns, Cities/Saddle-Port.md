@@ -24,7 +24,7 @@ The tavern is pretty run-of-the-mill. It has a simple, well stocked bar tended b
 
 The tavern has small gambling game nights, playing [[Black-wing's Duels]] and [[Dragon's Hoard Twenty-One]] on most nights. There is also a dart board, riddled with holes from its frequent use.
 
-Nearby to the tavern are some visitors cottages that the tavern runs. They are small, one or two person cottages that can be rented out to people that wish to stay at the tavern.
+Nearby to the tavern are some visitors cottages that the tavern runs. There are two cottages, an expensive nicer one costing 2 gp a night, and a cheaper one made from an old outhouse costing 1 gp a night. In Herbert's spare time, he is building a new, third cottage that will be a nice middle point between the three. 
 
 1. Herbert Shaw: Older, no hair and bald, multiple scars from when he worked on fishing boats. Likes to tell stories.
 2. Alice Shaw: Older, flowing grey hair and keen eyes. Friendly laugh and enjoys talking about the specials for the day that she is cooking.
@@ -36,10 +36,20 @@ Carried are simple goods, two healing potions, and a potion of water breathing. 
 
 The trading post also stocks basic food supplies from a supply caravan that runs up the coast from [[Gandoras City]]. The caravan comes just about every week and will sell basic goods to Yugo, who will then sell them to the people of saddle-port. 
 
-1. Yugo Stolid: Young and squat halfling who is very noticing. Good at bartering to make a sale.
+1. Yugo Stolid: Young and squat halfling who is very noticing. Good at bartering to make a sale. Uses a Russian accent.
+#### Oxen stables:
+Saddle-port naturally has a lot of oxen grazing nearby so it is logical that they use oxen for the fishing turn-styles. Oxen also provide an excellent source of dairy, much needed for a small, isolated town.
 
+The stables are run buy [[Burton Browns]], the ox tamer and the pens are patrolled by an irritable bull named Big Betty. 
+
+1. [[Burton Browns]]: Fat, heavy-set, and squat. Wears a straw hat and thick overalls. 
+#### The Fishery:
+Much is said about the fishery later in the documents, in the "How they fish" section. As a general description, the fishery is near the oxen stables. The boat houses, being the furthest back part of the fishing area, are only about 200 feet from the cliff's edge. 
 #### The Market Stalls:
 Goods are sold here daily. Fishermen bringing in a catch sell their goods here to the local people. People with gardens will bring some of their produce to sell. Anything sold here is done as an augmentation to the goods that can be bought from Yugo and the Trading Post, since it stocks most of the basic necessities. 
+
+#### Smaller parts:
+1. The far look rock: a perfectly flat, 10 ft diameter rock, elevated about 30 feet above the boat houses and oxen stables, over-looking the cliff. A favored reading spot for [[Kelswin Lovejoy]]. 
 
 # How they fish:
 > Gazing towards the cliff, you see a couple large turn-styles, pens of oxen, and large spools of tarred ropes. There are multiple, colorful boat houses where you can see sailors taking items from stacked crates nearby. Fish are being brought to market from the boat houses. As you watch, oxen turn some sort of large turn-style and slowly but surely, a boat is dragged vertically up the cliff face before slamming down on some wooden rails at the top of the cliff. A smattering of applause rises from the oxen drivers and sailors on the boat. 

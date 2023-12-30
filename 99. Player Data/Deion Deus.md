@@ -24,11 +24,14 @@ Wake up moment, rose colored lenses to the tribes misdeeds.
 Follows the caravan to the large city at the bottom edge of [[The North-West Highlands]]. 
 Fights as seasoned gladiator in the city for money. Personal champion of some noble to help pay living expenses.  
 
-Wants to comeback and remove the bandit tribe from power because of their misdeeds. 
+Wants to comeback and remove members of [[The Iron-fist Marauders]] from power because of their misdeeds. 
 Specifically, he wants to remove [[Garrick Blackthorn]] and his inner circle from power. This is the leader of the marauders and the most evil, tyrannical member of the group. 
-- Deion wants to remove the higher ups and supplant him and his inner circle with kinder, more lenient, and 
+- Deion wants to remove the higher ups and supplant him and his inner circle with kinder, more lenient, and fair people
 Seeking strength and power in his absence from the tribe. 
 VERY headstrong. 
 Deion is 25, 9 years older since his incident that caused him to leave. 
 
 Bandit tribe. Each one has a marking. EVERY one has a marking. People fear the marking and it is ubiquitous and well known. 
+
+#### Added during play:
+- Deion has a small room in [[Gandoras City]]. It is in the trades district, specifically the area controlling the convoys to supply [[The North-West Highlands]]. This small room has 800 gp he has saved in it and Deion has the sole key. 

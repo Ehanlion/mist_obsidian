@@ -37,9 +37,11 @@ Wake's relationships:
 - Friendly towards [[Pavel Hard]] and [[The Blue Coat Brigade]], a pirate faction in [[Hope Town]], the largest town along [[The South-East Coast]].
 - Works against [[The Black-Tide Reapers]] and [[Fedorov's Legion]].
 
-
 Fun stuff:
 - Parts of sessions where players KNOW they cannot fight an enemy they have to use tactics to subvert the actual fight.
 	- Tactics. Creating a plan and executing it. 
 - General puzzles, e.g. puzzle rooms
 - general mystery
+
+#### Added during play:
+- Wake is hunting two members of [[Fedorov's Legion]], named [[Dmitri Mironov]] and [[Igor Larionov]], for their crimes of murder against [[The Blue Coat Brigade]]. Wake was given 90 gp from [[Pavel Hard]] for this mission and also got a black riding horse from [[Gandoras City]]. 
