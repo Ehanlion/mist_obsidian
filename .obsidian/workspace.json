@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gandoras City.md",
+                "file": "0. The North-East Forests/Items/Red-Moon Blade.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gandoras City.md",
+                "file": "0. The North-East Forests/Items/Red-Moon Blade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gandoras City.md",
+                "file": "0. The North-East Forests/Items/Red-Moon Blade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gandoras City.md"
+                "file": "0. The North-East Forests/Items/Red-Moon Blade.md"
               }
             }
           }
@@ -184,9 +184,26 @@
   },
   "active": "dfb4d61146db1709",
   "lastOpenFiles": [
+    "GM Screen/Obscuring Areas/targeting obscured creatures.md",
+    "GM Screen/Obscuring Areas/heavily obscured.md",
+    "GM Screen/Obscuring Areas/lightly obscured.md",
+    "0. The North-East Forests/Items/Red-Moon Blade.md",
+    "0. The North-East Forests/Items/Untitled.md",
+    "-1. Lore of Mist/The Timeline.md",
+    "-1. Lore of Mist/Great Events",
+    "-1. Lore of Mist/Great Events/The Red Moon.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-East Forests/Items",
+    "0. The North-East Forests/Untitled.md",
+    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "0. The North-West Highlands/Towns, Cities/Herringshold.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City.md",
+    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
+    "GM Screen/Ethan's Item Sheet.md",
     "0. The South-West Arid Expanse/Towns, Cities/Sonderton.md",
     "0. The South-West Arid Expanse/Towns, Cities/Bellmawr.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City.md",
     "_Templates/Format of this Vault.md",
     "_Templates/Building this Vault.md",
     "_Templates/_Template for Regional Descriptions.md",
@@ -195,21 +212,6 @@
     "0. The North-West Highlands/Town-Islands/Warden-Hunter's Hideout.md",
     "0. The North-West Highlands/Town-Islands/The Town of Frost-Haven.md",
     "0. The North-West Highlands/NPCs/Barney Carper.md",
-    "0. The North-West Highlands/NPCs/Burton Browns.md",
-    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-    "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
-    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-    "0. The North-West Highlands/Features/The Sunken Caverns.md",
-    "0. The North-West Highlands/Items/A Mist-Cutter Ship.md",
-    "99. Player Data/Wake.md",
-    "99. Player Data/Kelswin Lovejoy.md",
-    "99. Player Data/Deion Deus.md",
-    "99. Player Data/Slug Stoll.md",
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/Markings of the Blood-Stone Pass.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/Creatures of the Red-Stone Pass.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Iron-fist Marauders.md",
-    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
     "GM Screen/Underwater",
     "1. Missions/Mission Phase 1",
     "0. The North-West Highlands/Town-Islands",
@@ -225,8 +227,6 @@
     "_Assets/Hope town the blue coats.png",
     "_Assets/karak-ulgurath the crab lord.png",
     "_Archived",
-    "_Archived/Tomb of Annihilation/NPCs",
-    "_Archived/Tomb of Annihilation",
     "_Assets/solemn flutes 1.png",
     "_Assets/solemn flutes.png",
     "_Assets/Twilight woods 1.png"

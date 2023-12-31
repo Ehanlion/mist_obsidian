@@ -1,7 +1,4 @@
-Small town along the north of [[The North-West Highlands]]. It is close to the high white cliffs of the north seas and often rests under a cool blanket of sea mist.
-
-[[Vivian Lovejoy]] has a library here called the Library of Saddle-Port and her son, [[Kelswin Lovejoy]] lives here. 
-
+Regional location: [[The North-West Highlands]] 
 # At First Glance:
 > You crest a small knoll, the waving sea grass scratching at your knees. In the distance you can see a small town situated between two small hills -- Saddle-Port. A wisp of smoke rises from a couple chimneys in the town. It's calm. The houses have thatches sea grass roofs and are made from glimmering coral stone. You can see a couple people sitting outside on the veranda of a larger tavern and off in the distance, you see a glimmering sea-glass dome of what appears to be a library. In the background, small and colorful boat houses lie nearest to the cliff face. 
 

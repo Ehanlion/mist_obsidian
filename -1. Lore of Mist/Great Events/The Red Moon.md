@@ -1,0 +1,1 @@
+Every year, at a time that Ethan has yet to figure out, the Red moon rises. It calls upon dark creatures to rise and hunt. It imbues ancient and strange rituals with morphed and darkened lunar power. 

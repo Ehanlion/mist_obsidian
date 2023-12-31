@@ -1,3 +1,4 @@
+Regional location: [[The North-West Highlands]] 
 # Description:
 Gandoras City is located to the south-east of [[King Gillian's Channel]] and is apart of [[The North-West Highlands]]. It is considered the largest city on the Island of Mist.
 # Trading:

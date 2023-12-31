@@ -1,11 +1,14 @@
-Small fishing town up the coast from [[Saddle-Port]]. It is bigger than Saddle-Port and has a lot more business' with fishing. It also has a small business for mining the cliffs, since below the town on the cliff face, are deposits of crystals with caves that make for dangerous, but profitable mining. 
 
+Regional location: [[The North-West Highlands]] 
 # At First Glance:
 >Smears-Burrow is a bustling little town. Its people rush around a town square moving fish from the seas into ice-rock cellars for safe keeping. The buildings are made of a dark coral-looking stone and an abundance of strangely coloured plants grows from the stones. The town feels low, not a lot of high buildings cross your view. Many of the buildings are nestled into the sides of small knolls in the landscape, with lazy paths drifting between them.  
 # Notable NPCs:
 1. [[Reggie Brown]] is a well liked fishermen who went missing some days before a raid happened on the town.
 # Parts of the Town:
+#### The White Cliff Mines:
+The cliffs nears Smears-burrow are rich with crystals alongside deposits of [[Ice-Rocks]]. There are permanent scaffoldings that have been built, spanning the cliffs all along the cliffs near Smears-burrow. Unlike many other towns along the coast, there are miners that make theirs homes here because of the riches found in the cliff faces. 
 
+There are also deep and treacherous caves along the cliffside here, far above sea level. They have exposed riches in them, but there are dangerous cave-prowling creatures that will attack miners. 
 # How They Fish:
 > As you look towards the cliffs, you can see a walkway of slatted planks leading to the cliff face. There are piles of rope and what appear to be some large metal clips nearby. Some men appear from below, lugging massive crates full of lobsters.
 
