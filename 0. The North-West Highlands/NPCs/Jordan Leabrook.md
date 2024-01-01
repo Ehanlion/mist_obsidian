@@ -1,6 +1,7 @@
 # Description:
 Jordan is tall, fair looking, with brown hair. He has a jaunty smile and an easy going demeanor. He wears old, burnished half-plate and casually wields a longsword with a simple oak shield. 
 
+He is a distant cousin of [[Master Smith Claudia]]. 
 # Location:
 Jared, and his family, live in [[Saddle-Port]], along [[The North-West Highlands]]. He has a simple, small cottage which he lives in with his family. He enjoys visiting the tavern within the town on evenings. 
 

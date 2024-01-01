@@ -1,10 +1,15 @@
 Regional location: [[The North-West Highlands]] 
-Subsection:
+Subsection: None
 # At First Glance:
 >Smears-Burrow is a bustling little town. Its people rush around a town square moving fish from the seas into ice-rock cellars for safe keeping. The buildings are made of a dark coral-looking stone and an abundance of strangely coloured plants grows from the stones. The town feels low, not a lot of high buildings cross your view. Many of the buildings are nestled into the sides of small knolls in the landscape, with lazy paths drifting between them.  
 # Notable NPCs:
 1. [[Reggie Brown]] is a well liked fishermen who went missing some days before a raid happened on the town.
 # Parts of the Town:
+
+#### The Taverns:
+#### The Store:
+#### The Rarities Store:
+
 #### The White Cliff Mines:
 The cliffs nears Smears-burrow are rich with crystals alongside deposits of [[Ice-Rocks]]. There are permanent scaffoldings that have been built, spanning the cliffs all along the cliffs near Smears-burrow. Unlike many other towns along the coast, there are miners that make theirs homes here because of the riches found in the cliff faces. 
 

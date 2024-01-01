@@ -32,7 +32,7 @@ A man by the name of [[Jordan Leabrook]] is the town's guard. He knows a little 
 Jordan recommends that the group stages a stake-out for the next week in order to wait to see if anything pops up. If the group does not like that, they can also choose to venture up to the next town called [[Smears-burrow]] and ask about the vanishings there. 
 
 ##### Heading up to Smears-burrow:
-[[Smears-burrow]] is a 3 day trip north along the coast of [[The North-West Highlands]]. If they leave to go there, the raid, as detailed in [[The Vanishings in the North-West]], will occur on [[Saddle-Port]] while they are gone, [[Vivian Lovejoy]] will be captured, and the tavern will be burned down. 
+[[Smears-burrow]] is a 3 day trip north along the coast of [[The North-West Highlands]]. 
 
 If they do travel to [[Smears-burrow]] it is important to note some of the things that they can find there that are out of the ordinary:
 1. There are dark blue scuff marks on one of the jetties in [[Smears-burrow]] that is NOT reserved for visitors. The blue scuff marks could only have been made by [[Reggie Brown]]'s ship since it is a dark blue. The party wouldn't know that it is his ship, and would only know if something is out of order if they ask.
@@ -45,10 +45,10 @@ They group cannot win -- the raiding part is large and powerful. The good new is
 
 ___
 ## 2. Poor Merchant in the Tavern:
-If you enter the tavern, it becomes clear that someone is very sad. A merchant sits at a table with 10s of drinks surrounding him. 
+A local fishermen by the name of [[Barney Carper]] enters the Drunken Wyvern tavern in a state of soggy dismay.
 
 #### The Poor Merchant:
-A captain of a merchant vessel by the name of Stanley Maples is bemoaning the loss of his ship. It sank not far off the shore of [[Saddle-Port]], at a point off the coast, about a days journey up the coast. He need people to retrieve the lock box and he can't do it; the ship is sunk in over 100 feet of water.
+A captain of a merchant vessel by the name of [[Barney Carper]] is bemoaning the loss of his ship. It sank not far off the shore of [[Saddle-Port]], at a point off the coast, about a days journey up the coast. He need people to retrieve the lock box and he can't do it; the ship is sunk in over 100 feet of water.
 
 #### The Stan-ta Ray:
 The ship is a small merchant vessel. It has the strong box located in the helm. It is locked with a DC 20 Slight of Hand check needed to open it. The bigger issue is that the ship is in 100 feet of water, making getting down to it a difficult task. 

@@ -1,3 +1,5 @@
+Regional Location: [[The North-East Forests]]
+Subsection: [[The Green Order]]
 # Character Description:
 Elder Thistleton (also called Grumpy Thorns by the children of the forest) is a prideful, respected elder amidst the [[The Green Order]]. He is tall and noble; his shining hair cropped close, an oddity for normal elves, and wears a wreath of thorns circling his temple. A mottled green hooded cloak with a golden insignia of a willow tree over his heart drapes over his simple brown clothes. He has dark brown eyes, tight facial features, but a warm smile (not that it seems the children of the village notice that last remark).
 

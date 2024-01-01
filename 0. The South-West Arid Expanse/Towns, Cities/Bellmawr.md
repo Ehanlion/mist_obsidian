@@ -1,3 +1,6 @@
+Regional Location: [[The South-West Arid Expanse]]
+Subsection: None
+
 (Pronounced Bell-Mar)
 Small shipping village along the coast of [[The South-West Arid Expanse]]. It is the village where [[Master Smith Claudia]] crafts and sells her wares and where [[Slug Stoll]] hails from. 
 

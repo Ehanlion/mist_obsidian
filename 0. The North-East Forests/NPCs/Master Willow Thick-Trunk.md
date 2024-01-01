@@ -1,3 +1,5 @@
+Regional Location: [[The North-East Forests]]
+Subsection: Lives in [[The Twilight Woods]] in [[The Twilight Sanctum]] with [[The Green Order]]. 
 # Character Description:
 Include a brief, colorful description of the character and highlight a few, important features that you think players would like to know. What distinguishes them?
 

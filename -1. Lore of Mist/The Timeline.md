@@ -18,9 +18,12 @@ The build the stone-flutes on the discordant plains.
 Each of the 8 forges a powerful Key, each one and expression of its creator.
 The Keys are used to create powerful devices that only all The Many control.
 They build the Aether-veil and create the Mist Codex to control it. 
+The Aether-veil, unexpectedly, blocks deities from setting foot on Mist. 
 The Many are chased, the Mist is penetrated, 7 are killed.
 Only one remains.
 He figures out that they are chased if they are awake.
+He de-activated all but one of the obelisks in the obelisk field.
+The last one serves as a battery for the Aether-veil projector.
 He puts himself into an eternal sleep to wait until the day that his chasers have forgotten.
 The island goes dormant for the time being.
 
