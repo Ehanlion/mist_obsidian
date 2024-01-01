@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "file": "99. Brainstorming/_To-Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "file": "99. Brainstorming/_To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md"
+                "file": "99. Brainstorming/_To-Do List.md"
               }
             }
           }
@@ -182,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfb4d61146db1709",
+  "active": "710cd3f304a918fd",
   "lastOpenFiles": [
-    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
     "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
     "-1. Lore of Mist/Great Features/Where the Oceans Lead.md",
     "0. The South-West Arid Expanse/Towns, Cities/Sonderton.md",
     "0. The South-West Arid Expanse/Towns, Cities/Fort Cliff Rock.md",
