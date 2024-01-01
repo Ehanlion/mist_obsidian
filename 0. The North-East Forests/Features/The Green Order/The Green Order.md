@@ -1,3 +1,5 @@
+Regional Location: [[The North-East Forests]]
+Subsection: Within [[The Twilight Woods]]
 # At First Glance:
 *As you continue through the dense forests, forging small creeks and clambering over knotted roots of ancients trees, the air seems to clear. The forest seems calmer and more misty. The sounds of the birds chirping, and wolves baying in the distance seem to mellow as you stand amidst the swaying branches, golden light filtering down onto you. You notices a message written in Elvish is inscribed on a large tree, a translation in common lies beneath it in smaller font.
 

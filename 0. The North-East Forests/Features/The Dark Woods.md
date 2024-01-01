@@ -1,3 +1,6 @@
+Regional Location: [[The North-East Forests]]
+Subsection: Within the [[The Deep Woods]]
+
 These are the darkest, most foreboding, and most evil of all the woods within [[The North-East Forests]]. They are known specifically for the great evil creatures they hide and sequester away in their darkness. It is said that no monster hunter can call themselves a fearless hunter until the day they return with the head of a great monstrosity from the Dark Woods. 
 
 ___

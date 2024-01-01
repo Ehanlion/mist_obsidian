@@ -1,3 +1,6 @@
+Regional Location: [[The North-East Forests]]
+Subsection: Within [[The Deep Woods]]
+
 These are the silvery, magical woods of [[The North-East Forests]]. They have normal trees, yes, but they are teeming with silvery willows and birch trees. The flora and fauna seem to be touched with moonlights. The branches cast shadows akin to dancing lights and on top of all that, the forests are the proud dominion of [[The Green Order]]. 
 
 ___

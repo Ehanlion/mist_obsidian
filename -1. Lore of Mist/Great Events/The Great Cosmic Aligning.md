@@ -1,1 +1,0 @@
-An event which occurs every 3000 years which invigorates the twilight woods with new lunar magic. 

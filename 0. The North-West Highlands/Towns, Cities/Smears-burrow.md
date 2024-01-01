@@ -1,5 +1,5 @@
-
 Regional location: [[The North-West Highlands]] 
+Subsection:
 # At First Glance:
 >Smears-Burrow is a bustling little town. Its people rush around a town square moving fish from the seas into ice-rock cellars for safe keeping. The buildings are made of a dark coral-looking stone and an abundance of strangely coloured plants grows from the stones. The town feels low, not a lot of high buildings cross your view. Many of the buildings are nestled into the sides of small knolls in the landscape, with lazy paths drifting between them.  
 # Notable NPCs:
