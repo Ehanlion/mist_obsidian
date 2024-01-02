@@ -16,47 +16,57 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 # Hooks
 | Person | Quest Hook |
 | ---- | ---- |
-| Town's Guard in the Tavern | There have been multiple cases of people missing up the coast. It is known that two of the people missing are Librarians from other villages. |
-| Poor Merchant | A merchant is town had his boat sunk just off shore. He couldn't retrieve his lockbox with his valuables in it and needs it returned or he faces ruin. |
-| Fishermen  | Two fisherman at the docks look like they need help. They  |
-These are the two main hooks for adventure. Either one of them will end up with Vivian getting taken and the group having to choose to follow or to give up.
-
+| Town's Guard in the Tavern | There have been multiple cases of people missing up the coast. It is known that there a three people missing from [[Smears-burrow]], a town up the coast -- one librarian and two miners.  |
+| Poor Merchant | A merchant is town had his boat sunk just off shore. His name is [[Barney Carper]]. He couldn't retrieve his lockbox with his valuables in it and needs it returned or he faces ruin. |
+| Fishermen  | Two fisherman at the docks look like they need help.   |
 ___
 ## 1. Town's Guard in the Tavern:
 Walking through town you hear murmurings of people being taken or having gone missing from towns up the coast from [[Saddle-Port]]. 
 
 #### The Tavern:
 A man by the name of [[Jordan Leabrook]] is the town's guard. He knows a little about people going missing up the coast of [[The North-West Highlands]]. He is motivated to learn more about the missing people because none have gone missing from [[Saddle-Port]] yet, and since he has kids, he wants to make sure that they are not in danger. 
-
 #### Jordan's Suggestions:
-Jordan recommends that the group stages a stake-out for the next week in order to wait to see if anything pops up. If the group does not like that, they can also choose to venture up to the next town called [[Smears-burrow]] and ask about the vanishings there. 
+Joran mentions that he heard about the vanishing as he was leaving [[Smears-burrow]]. He just got back to [[Saddle-Port]]. 
 
-##### Heading up to Smears-burrow:
+He will offer to accompany the group to [[Smears-burrow]] to help them look around there for more clues as to what exactly is going on.
+#### Heading up to Smears-burrow:
 [[Smears-burrow]] is a 3 day trip north along the coast of [[The North-West Highlands]]. 
-
-If they do travel to [[Smears-burrow]] it is important to note some of the things that they can find there that are out of the ordinary:
+#### Out of the ordinary things:
 1. There are dark blue scuff marks on one of the jetties in [[Smears-burrow]] that is NOT reserved for visitors. The blue scuff marks could only have been made by [[Reggie Brown]]'s ship since it is a dark blue. The party wouldn't know that it is his ship, and would only know if something is out of order if they ask.
 2. [[Reggie Brown]] is missing, along-side his ship. They went missing BEFORE there was a raid on the village. [[Reggie Brown]] was killed while exploring a sea cave related to [[The Vanishings in the North-West]]. His boat was stolen by the raiders and was used to raid [[Smears-burrow]]s, although no one knows that yet. 
+3. There are flipper marks near the library and the masonry building in [[Smears-burrow]]. The flipper marks are abnormally large. There are also signs of a struggle. 
+4. Some people living near the library and masonry buildings remember hearing the sounds of gargling water and splashing coming from nearby. These sounds were head in the 3:00 and 4:00 a.m. hours of the morning. 
 
-##### Conducting a Stake-Out:
-Staging the stake-out will bear results after 3 days. At that point a raid will occur on the town. The raiders want to take [[Vivian Lovejoy]] because she is a librarian and that is the only person they need from the town. 
+The party can learn more things as well:
+1. This is not the first place to have these disappearances. 5 days ago, the people from [[Smears-burrow]] went missing. A week before that, people from [[Gullhook]], the next town north up the coast went missing. A week before that, a large number of people went missing from [[Herringshold]]. **The party can do the logical reduction that in 2 days, an attack will take place in [[Saddle-Port]].**
+#### Stakeout:
+If the party comes to the correct conclusion that something raided the village, [[Jordan Leabrook]] suggests conducting a stakeout back in [[Saddle-Port]] to see if they can keep watch for the same thing that might happen there. 
 
-They group cannot win -- the raiding part is large and powerful. The good new is that they are trying to take [[Vivian Lovejoy]], cause damage, and run. The group can play defensive and try to protect the town or they can try to kill the aggressors.
+If the party chooses to do this, they will see results rather quickly. A raid will occur on the village, targeting [[Vivian Lovejoy]]. Refer to [[The Vanishings in the North-West]] to create the raid. It should be impossible for the party to stop the raid. 
 
 ___
 ## 2. Poor Merchant in the Tavern:
 A local fishermen by the name of [[Barney Carper]] enters the Drunken Wyvern tavern in a state of soggy dismay.
-
 #### The Poor Merchant:
-A captain of a merchant vessel by the name of [[Barney Carper]] is bemoaning the loss of his ship. It sank not far off the shore of [[Saddle-Port]], at a point off the coast, about a days journey up the coast. He need people to retrieve the lock box and he can't do it; the ship is sunk in over 100 feet of water.
+A captain of a merchant vessel by the name of [[Barney Carper]] is bemoaning the loss of his ship. It sank not far off the shore of [[Saddle-Port]]. He was doing night fishing and felt a grating and jarring against the hull, suddenly the boat was sinking and Barney could not stop it.
+
+[[Barney Carper]]'s boat is named 'The Stan-ta Ray' since his dead best friend, Stand, loved Manta Rays, a common sight in [[The Distant Sea]]. 
 
 #### The Stan-ta Ray:
-The ship is a small merchant vessel. It has the strong box located in the helm. It is locked with a DC 20 Slight of Hand check needed to open it. The bigger issue is that the ship is in 100 feet of water, making getting down to it a difficult task. 
+The ship is a 30 foot fishing trawler. The boat has sank in 80 feet of water, 100 feet from the shore. It has an elevated steerage deck with a covering. The lockbox is hidden under a plank on the steerage deck. Passive perception of 12 or above notices two large sharks lazily swimming nearby. 
 
-> Easter Egg, but the ship is called 'The Stan-ta Ray,' a joke after Gravity Fall's 'Stan-of-War.'
+**Damage to the ship:**
+If anyone examines the hull of the ship, they will find large amounts of scraping and shattered wood planks. A good investigation check marks the damages as giant shark bites along side trident and harpoon markings. 
 
-The ship sunk directly out to sea from a small sea cave. This sea cave is empty, but upon examination people can see that it is clearly being used. The sea cave is being used by a group of raiders, as detailed in [[The Vanishings in the North-West]]. When the group is exploring the ship, they will find the cave abandoned but they can explore it.
+**Raiders in the ship:**
+A couple raiders have been left behind to guard over the cave, in case the raiding part has trouble and needs to come back. They are hiding in the ruins of the ship and are using stealth to remain hidden. Unless the party is stealth when swimming down to the ship, the raiders notice them and ambush them. 
+
+There are two [Saghuagin](https://roll20.net/compendium/dnd5e/Sahuagin#content) and they each have one [Hunter Shark](https://roll20.net/compendium/dnd5e/Hunter%20Shark#content).
 #### A Mysterious Sea Cave:
+The ship sunk directly out to sea from a small sea cave. This sea cave is empty, but upon examination people can see that it is clearly being used. However, [[Barney Carper]] (who's ship this is) did not see the cave because he was fishing at night.
+
+The sea cave is being used by a group of raiders, as detailed in [[The Vanishings in the North-West]]. When the group is exploring the ship, they will find the cave abandoned but they can explore it. 
+
 They will find multiple cages, multiple tridents, and lots of rope. They will also find a the mauled corpse of a miner. Examining it closer will reveal numerous wounds, indicating he died while struggling. He has a pick-axe on him with the initials R.B. He is missing from the town of [[Smears-burrow]]. 
 
 **Things to find:**
@@ -69,6 +79,10 @@ They will find multiple cages, multiple tridents, and lots of rope. They will al
 7. A locked crate: DC 15 Slight of Hand to pick, reveals a strange, wet herb and multiple glowing vials. It is Gillyweed and paralysis potions. They are used to allow captured creatures to breath underwater and the paralysis potion is used to paralyze the captured creatures while they are transported. 
 
 A DC 10 investigation check reveals that the cave was inhabited by many creatures of the sea. A DC 15 investigation check reveals the number of creatures, well over 30. 
+#### The Purpose of the Cave:
+The cave housed members of the raiding parties that raided [[Smears-burrow]] and now are looking to raid [[Saddle-Port]]. The raiders are using a ship belonging to [[Reggie Brown]]. It is a well sized dark blue fishing trawler. 
+
+The raiders in the cave have already cleared out however, and are boarded on [[Reggie Brown]]'s ship. They will use it to conduct a raid on [[Saddle-Port]] and then escape north. 
 #### Reward:
 The captain will offer anyone who returns his lock box half of what it contains -- a total sum of 500 gold of gems and jewels. 
 

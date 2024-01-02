@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Brainstorming/_To-Do List.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Brainstorming/_To-Do List.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Brainstorming/_To-Do List.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md"
               }
             }
           }
@@ -182,10 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "710cd3f304a918fd",
+  "active": "dfb4d61146db1709",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
     "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+    "0. The North-West Highlands/NPCs/Barney Carper.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "99. Brainstorming/_To-Do List.md",
     "-1. Lore of Mist/Great Features/Where the Oceans Lead.md",
     "0. The South-West Arid Expanse/Towns, Cities/Sonderton.md",
     "0. The South-West Arid Expanse/Towns, Cities/Fort Cliff Rock.md",
@@ -200,7 +203,6 @@
     "0. The South-West Arid Expanse/Features/Scorchsand Wastes.md",
     "0. The South-West Arid Expanse/Features/The Shattered Bay.md",
     "0. The North-East Forests/NPCs/Sylvia Starlight.md",
-    "99. Brainstorming/_To-Do List.md",
     "0. The North-East Forests/NPCs/Pombo Wrinkle, the Short One.md",
     "0. The North-East Forests/NPCs/Leah Stoll.md",
     "0. The North-East Forests/NPCs/Master Willow Thick-Trunk.md",
@@ -208,8 +210,6 @@
     "0. The North-East Forests/NPCs/Elder Thistleton.md",
     "0. The North-East Forests/Features/The Green Order/Sylvia's Starlight Grove.md",
     "0. The North-East Forests/Features/The Green Order/The Green Order.md",
-    "0. The North-East Forests/Features/The Green Order/Library of the Birch Collective.md",
-    "0. The North-East Forests/Features/The Wild River.md",
     "-1. Lore of Mist/Great Events",
     "0. The North-East Forests/Items",
     "GM Screen/Underwater",
