@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "file": "GM Screen/Underwater/diving into water.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md"
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md"
               }
             }
           }
@@ -182,10 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfb4d61146db1709",
+  "active": "78217fa322272f58",
   "lastOpenFiles": [
-    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "GM Screen/Underwater/diving into water.md",
     "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
     "0. The North-West Highlands/NPCs/Barney Carper.md",
@@ -209,7 +210,6 @@
     "0. The North-East Forests/NPCs/Master Willow Thick-Trunk.md",
     "0. The North-East Forests/NPCs/Fenrix the Plague-Bringer.md",
     "0. The North-East Forests/NPCs/Elder Thistleton.md",
-    "0. The North-East Forests/Features/The Green Order/Sylvia's Starlight Grove.md",
     "-1. Lore of Mist/Great Events",
     "0. The North-East Forests/Items",
     "GM Screen/Underwater",

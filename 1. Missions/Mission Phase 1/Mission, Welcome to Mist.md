@@ -52,6 +52,12 @@ A captain of a merchant vessel by the name of [[Barney Carper]] is bemoaning the
 
 [[Barney Carper]]'s boat is named 'The Stan-ta Ray' since his dead best friend, Stand, loved Manta Rays, a common sight in [[The Distant Sea]]. 
 
+#### Getting down to the water:
+I heard players talking about diving down into the water. This is suicide. The cliffs near where the Stan-ta Ray sank are 200 feet tall. Regard the rules for [[diving into water]] for this part. However this is no path down, so players might opt for this. Climbing is of course an option but be careful --  a fall from the cliff may end up worse than just jumping. The cliffs are NOT perfectly vertical and slope outwards from their tops to their bottoms. 
+
+Remember, 1d6 per 10 ft fallen. :) 
+
+[[Barney Carper]] escaped because his ship sank in the early hours of the morning in darkness, he then treaded water and was rescued by another ship he was fishing with. They were both from [[Saddle-Port]]. He screamed for help and the other ship grabbed him then left in a hurry for deeper water. 
 #### The Stan-ta Ray:
 The ship is a 30 foot fishing trawler. The boat has sank in 80 feet of water, 100 feet from the shore. It has an elevated steerage deck with a covering. The lockbox is hidden under a plank on the steerage deck. Passive perception of 12 or above notices two large sharks lazily swimming nearby. 
 
