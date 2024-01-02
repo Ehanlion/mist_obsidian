@@ -8,8 +8,15 @@ Subsection: None
 3. Buster Croaks, elder of the Grung. Green grung with various tattoos of the great fish he has caught.
 4. Simon Karbala, elder of the rest. Old gentlemen of the village. Is a aging human with thick grey hair. Still enjoys fishing of course, but is getting on in his years.
 5. Freya Depths-Chaser, revered of the rest. Young female Tiefling fisher-women. She once held onto a great fish and was dragged to the depths but caught the fish. Earned her the title 'Depths-Chaser.'
+# The Center of the Town:
+All towns have a center. For Smears-burrow, it is centered on the Old Birch Tree that makes up the library. In one small area there is the library, tavern, general store, and oddities store. In the center of all of these is an open, well kept green space for community gatherings. 
 # Parts of the Town:
+#### The Library: "The Old Birch Library"
+This library is built into the massive, old husk of a ancient birch tree. It is quite expansive vertically. It is a central building in the town. The old birch tree stand at the main square of the town. 
 
+Inside there are three level of books, built into natural book shelves carved from inside the old trunk of the birch tree. There is a small adjoining building built into the exposed roots that serves as the librarians house. 
+
+Librarian is named Mary-Anne Birch.
 #### The Tavern: "The Laughing Elk"
 This tavern is a large building -- one of the few multistory structures in Smears-burrow. The bottom floor is crafted from the same sea stone that most other buildings are made from while the top floor rests above it, made from a light wood. The roof, like many other buildings, is a sea slate. The kitchen is set into the hill the tavern is built into and small chimneys rise from this hill, wafting tantalizing smoke into the air. 
 
@@ -54,6 +61,9 @@ Their current leader is named Buster Croaks. He is an elder Grung.
 The cliffs nears Smears-burrow are rich with crystals alongside deposits of [[Ice-Rocks]]. There are permanent scaffoldings that have been built, spanning the cliffs all along the cliffs near Smears-burrow. Unlike many other towns along the coast, there are miners that make theirs homes here because of the riches found in the cliff faces. 
 
 There are also deep and treacherous caves along the cliffside here, far above sea level. They have exposed riches in them, but there are dangerous cave-prowling creatures that will attack miners. 
+
+#### The Quarry Stores:
+Near the mines are large, long buildings that serve as warehouses to store cut stones from the mines. The mines have [[Ice-Rocks]], a valuable commodity as well as numerous varieties of gem stones. The [[Ice-Rocks]] are the mains things stored here, but they also store cut stones for building new houses and stuff like that.
 # How They Fish:
 > As you look towards the cliffs, you can see a walkway of slatted planks leading to the cliff face. There are piles of rope and what appear to be some large metal clips nearby. Some men appear from below, lugging massive crates full of lobsters.
 
@@ -68,6 +78,9 @@ This means that any ship NOT docked at the decks specifically for visiting ships
 # Events:
 1. The monthly fish-off. Teams of 4 accepted. Judging done by the towns elders, one from the Grung and two from the rest of the town (since that is how the percentage population divides, 33% Grung, 66% other). Categories for: largest catch, most dangerous catch, most odd catch, and prettiest fish. Gold prizes to the winners. Many come from [[Saddle-Port]], [[Herringshold]], and [[Gullhook]] to join in. 
 2. The great Grung-Others capture the flag game. Every year, around when the season begin to change back from cold and frosty to warm and spring-y, a game of capture the flag is held. No maiming, but blunt trauma and knocking people out is allowed. It is just for fun. Winning team gets a trophy. The Grung have lost this for 8 years in a row now. 
+# Vanishings:
+Smears-burrow has lost 3 individuals:
+1. Mary-Anne Birch, the librarian for the Old Birch Library. 
 # Related Missions:
 1. [[Mission, Welcome to Mist]]: A part of a hook from this mission could directly take players to Smears-burrow looking for clues related to [[The Vanishings in the North-West]]. 
 	-  The clues that they could find are listed in the mission. 
