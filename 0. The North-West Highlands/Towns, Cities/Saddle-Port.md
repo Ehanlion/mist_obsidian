@@ -16,7 +16,6 @@ This library is run by [[Vivian Lovejoy]]. It has a small adjacent cottage where
 The library contains a lot of textbook and treatises, magical tomes on spell casting, and folk hero tales. Notably, the collection contains a first edition of [[The Greatest of the Great]], a tale about the exploits of the late, great wizard -- [[Ignel Valis]]. 
 
 The books are all on shelves in a circular room with a colorful, stained glass dome overhead. It makes the room shift and glimmer with beautiful, colorful lights. 
-
 #### The Tavern: "The Drunken Wyvern"
 The tavern is pretty run-of-the-mill. It has a simple, well stocked bar tended by a man named Herbert Shaw. There is a small attached kitchen that serves meals of the sea, almost all being made with fish. The cook's name is Alice Shaw and she is Herbert's wife. 
 
@@ -45,10 +44,8 @@ The stables are run buy [[Burton Browns]], the ox tamer and the pens are patroll
 Much is said about the fishery later in the documents, in the "How they fish" section. As a general description, the fishery is near the oxen stables. The boat houses, being the furthest back part of the fishing area, are only about 200 feet from the cliff's edge. 
 #### The Market Stalls:
 Goods are sold here daily. Fishermen bringing in a catch sell their goods here to the local people. People with gardens will bring some of their produce to sell. Anything sold here is done as an augmentation to the goods that can be bought from Yugo and the Trading Post, since it stocks most of the basic necessities. 
-
 #### Smaller parts:
 1. The far look rock: a perfectly flat, 10 ft diameter rock, elevated about 30 feet above the boat houses and oxen stables, over-looking the cliff. A favored reading spot for [[Kelswin Lovejoy]]. 
-
 # How they fish:
 > Gazing towards the cliff, you see a couple large turn-styles, pens of oxen, and large spools of tarred ropes. There are multiple, colorful boat houses where you can see sailors taking items from stacked crates nearby. Fish are being brought to market from the boat houses. As you watch, oxen turn some sort of large turn-style and slowly but surely, a boat is dragged vertically up the cliff face before slamming down on some wooden rails at the top of the cliff. A smattering of applause rises from the oxen drivers and sailors on the boat. 
 
@@ -59,9 +56,7 @@ There are three wood rails attached to the cliff, two that are 10 feet wide and 
 To pull ships up the cliff face, Saddle-Port uses a simple combination of Oxen, turn-styles, and some large wooden cogs. Each wooden track up the cliff has a turn-style near the top of it. That turn-style is manned by four oxen. They walk around on a raised stone platform. This gives room for the cogs that are attached to the center of the turn-style to fit. Those cogs in turn connect to a massive spool that the large ropes wrap around. The rope that wraps around that spool gets dropped down the cliff face and with a hook on its end, is attached to ships wishing to be dragged up the cliff face.
 
 Once up the cliff face, boats can slide along wooden rails on the cliff's top, although now they are simply dragged by oxen. The rails on the cliff's top have trenches dug beneath them, allowing the keels of the vessels to slide without interruption. Of course, there are three tracks leading from each of the three tracks on the cliff face. These each lead to a turn-table made from wood and stone wheels (allowing it to rotate, with the help of oxen again). The turn-table has many offshoot tracks that lead to boat houses and finally, this is where boats are stored. 
-
 # Events
 Eventually, a raid will occur on the village as described in [[The Vanishings in the North-West]]. They will target [[Vivian Lovejoy]] because she is a librarian.
-
 # Related Missions:
 1. [[Mission, Welcome to Mist]]: this is the location where the adventure begins.
