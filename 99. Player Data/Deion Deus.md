@@ -35,3 +35,4 @@ Bandit tribe. Each one has a marking. EVERY one has a marking. People fear the m
 
 #### Added during play:
 - Deion has a small room in [[Gandoras City]]. It is in the trades district, specifically the area controlling the convoys to supply [[The North-West Highlands]]. This small room has 800 gp he has saved in it and Deion has the sole key. 
+- Bears the mark of [[Markings of the Blood-Stone Pass]] on his wrist. 

@@ -1,3 +1,5 @@
+Regional location: [[The South-East Mountains]]
+Subsection: [[The Iron-fist Marauders]]
 # Character Description:
 *Garrick doesn't take any bull shit. He is a no-nonsense, straight forward man. And he is a seasoned killer. He is tall, nearly 7 feet and that's the least imposing thing about him. He has one eye, the other shrouded by a massive black scar from some battle long ago. He has a broad nose and a wide face, joined to his body by the widest neck you can imagine. He wears a black and red draped cloak with a silver first in the middle of the back. He swings a wicked black, glinting great-axe as if it were a toy. His skin is painted in red tattoos depicting the deaths of his victims; that is, what skin you can see, the rest of him is covered in black, glinting plate armor.*
 ### Garrick's Past:

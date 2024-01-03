@@ -1,3 +1,6 @@
+Regional location: Global, essence in [[The South-East Mountains]]
+Subsection:
+
 Grumbar is an ancient deity, resident of [[The South-East Mountains]]. He is an ancient god who is the elemental embodiment of earth and stone. He has retained worshippers and obtains the power of a god. He appears as a giant earth elemental with red eyes. He is known as the cold god of the elements. He had few worshippers to start but grew significantly in power with the gathering of mountain beings. 
 # Grumbar's Motives
 He is known as a cold god; one shrouded in 

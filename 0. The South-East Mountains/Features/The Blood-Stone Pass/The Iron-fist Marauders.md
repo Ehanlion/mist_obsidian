@@ -1,3 +1,5 @@
+Regional location: [[The South-East Mountains]]
+Subsection: [[The Blood-Stone Pass]] 
 # Cost for Protection
 The marauders are sneaky about how they offer protection. Groups can offer as much as they want. However, at the entrances to [[The Blood-Stone Pass]], there are dismembered corpses of horrific beings from the mountains, incentive to pay more. Furthermore, if multiple groups are attacked at the same time, and the marauders know one paid more, the other groups will be left to fend for their own. If the members of those groups are killed, then the Marauders take the goods for themselves.
 

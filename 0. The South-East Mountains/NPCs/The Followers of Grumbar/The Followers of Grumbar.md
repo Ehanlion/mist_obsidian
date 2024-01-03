@@ -1,3 +1,6 @@
+Regional location: [[The South-East Mountains]]
+Subsection: [[The Blood-Stone Pass]] and [[The Cold Road]]
+
 The followers of Grumbar are an aggressive sect of followers of the old mountain god named [[Grumbar]]. They follow in his belief that all who defile the sanctity of the mountains deserve to be destroyed. As such they have many enemies in the mountain passes.
 # What they look like
 As they take on aspects of [[Grumbar]] themselves, his followers become aspects of him. Their limbs become corrupted by sour mud, their forms grow rocky and hard, and their movements seem to become sluggish and melding to the earth. They have growths on them that look like bulging and sharp stones and crystals. 
