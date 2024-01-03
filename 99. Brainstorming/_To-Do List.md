@@ -4,5 +4,7 @@ Add tasks as they come up. Do not pre-create this list, but rather update it as 
 - [ ] Continue updating all features, towns, cities, and NPCs to the new 'regional location' and 'subsection' indexing.
 - [x] Fix the readme to avoid mentioning people 'finding Mist,' since this is rather impossible with the Aether-veil projector still functioning. 
 - [ ] finish all towns in the north west
-- [ ] add some new features to the inlands of the north west 
+- [x] add some new features to the inlands of the north west 
 - [ ] work more on the sea caves in the north west
+- [ ] add some new towns to south east coast
+- [ ] add some new features to the south east coast

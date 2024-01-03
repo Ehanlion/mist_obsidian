@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
+                "file": "0. The North-West Highlands/Features/The Fields of Salt.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "804e6c5d23cf5259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The South-East Coast/Features/The Commotal Mines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
+                "file": "0. The South-East Coast/Features/The Commotal Mines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
+                "file": "0. The South-East Coast/Features/The Commotal Mines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Trawlrock.md"
+                "file": "0. The South-East Coast/Features/The Commotal Mines.md"
               }
             }
           }
@@ -182,34 +194,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfb4d61146db1709",
+  "active": "804e6c5d23cf5259",
   "lastOpenFiles": [
+    "0. The North-West Highlands/Features/The Fields of Salt.md",
+    "0. The South-East Coast/Features/The Commotal Mines.md",
+    "0. The South-East Coast/Towns, Cities/The Sprawls.md",
+    "0. The South-East Coast/Features/The Fields at Navarra.md",
+    "0. The South-East Coast/Features/Navarra's Marshlands.md",
+    "0. The South-East Coast/Features/River Navarra.md",
+    "99. Brainstorming/_To-Do List.md",
+    "0. The North-West Highlands/Features/The Hidden Aquifer.md",
+    "0. The South-East Coast/Towns, Cities/Shingle-berg.md",
+    "0. The South-East Coast/Towns, Cities/Puffer Hamlet.md",
+    "0. The South-East Coast/Towns, Cities/Guts-berg.md",
+    "0. The South-East Coast/NPCs/The Black Guard.md",
+    "0. The South-East Coast/Towns, Cities/The Black Baron's Keep.md",
+    "0. The North-East Forests/Towns, Cities/The Ruins at Fort Gorlan.md",
+    "0. The South-East Coast/Towns, Cities/Waves-watch.md",
+    "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
     "0. The South-East Coast/NPCs/Fedorov Barovick VII.md",
     "0. The South-East Mountains/Towns, Cities/The Labyrinth of Stone.md",
     "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/Creatures of the Red-Stone Pass.md",
-    "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/The Blood-Stone Pass.md",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/The Iron-fist Marauders.md",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/The Bastion of Blood.md",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/Markings of the Blood-Stone Pass.md",
     "0. The South-East Mountains/Features/The Cold Road/The Cold Road.md",
     "0. The South-East Mountains/Features/The Mountains/The Frost Peaks.md",
-    "0. The South-East Mountains/Features/The Mountains/Mount Gryphon.md",
-    "0. The South-East Mountains/Features/The Mountains/The Commotal Caldera.md",
-    "0. The South-East Mountains/Features/The Mountains/Slumbering Mount.md",
-    "0. The South-East Mountains/Features/The Mountains/Dragonswing Peak.md",
-    "0. The South-East Mountains/Features/The Mountains/Bellowing's Rise.md",
-    "0. The South-East Mountains/Features/The Under-Mountain Pass/The Under-Mountain Pass.md",
-    "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
-    "0. The South-East Mountains/NPCs/The Followers of Grumbar/Grumbar.md",
-    "0. The South-East Mountains/NPCs/Garrick Blackthorn.md",
-    "0. The South-East Mountains/NPCs/Mona Shadowbloom.md",
-    "0. The South-East Mountains/NPCs/Puck.md",
-    "99. Player Data/Wake.md",
-    "99. Player Data/Kelswin Lovejoy.md",
-    "99. Player Data/Deion Deus.md",
-    "0. The South-West Arid Expanse/The South-West Arid Expanse.md",
     "-1. Lore of Mist/Great Events",
     "0. The North-East Forests/Items",
     "GM Screen/Underwater",
