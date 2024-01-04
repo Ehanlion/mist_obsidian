@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Coast/Features/The Commotal Mines.md",
+                "file": "GM Screen/Free Action System.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The South-East Coast/Features/The Commotal Mines.md",
+                "file": "GM Screen/Free Action System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The South-East Coast/Features/The Commotal Mines.md",
+                "file": "GM Screen/Free Action System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The South-East Coast/Features/The Commotal Mines.md"
+                "file": "GM Screen/Free Action System.md"
               }
             }
           }
@@ -196,8 +196,18 @@
   },
   "active": "804e6c5d23cf5259",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Features/The Fields of Salt.md",
+    "GM Screen/Underwater/diving into water.md",
+    "GM Screen/Free Action System.md",
+    "GM Screen/Combat Actions/extended jumps.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "GM Screen/Conditions/advantage.md",
+    "GM Screen/combat interactable list.md",
+    "GM Screen/DCs/skills and associated abilities.md",
+    "GM Screen/spells",
     "0. The South-East Coast/Features/The Commotal Mines.md",
+    "GM Screen/DCs",
+    "GM Screen/objects",
+    "0. The North-West Highlands/Features/The Fields of Salt.md",
     "0. The South-East Coast/Towns, Cities/The Sprawls.md",
     "0. The South-East Coast/Features/The Fields at Navarra.md",
     "0. The South-East Coast/Features/Navarra's Marshlands.md",
@@ -215,13 +225,6 @@
     "0. The South-East Coast/NPCs/Fedorov Barovick VII.md",
     "0. The South-East Mountains/Towns, Cities/The Labyrinth of Stone.md",
     "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/Creatures of the Red-Stone Pass.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Blood-Stone Pass.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Iron-fist Marauders.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Bastion of Blood.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/Markings of the Blood-Stone Pass.md",
-    "0. The South-East Mountains/Features/The Cold Road/The Cold Road.md",
-    "0. The South-East Mountains/Features/The Mountains/The Frost Peaks.md",
     "-1. Lore of Mist/Great Events",
     "0. The North-East Forests/Items",
     "GM Screen/Underwater",
@@ -229,8 +232,6 @@
     "0. The North-West Highlands/Town-Islands",
     "-1. Lore of Mist/NPCs, Creatures",
     "-1. Lore of Mist/Great Features",
-    "-1. Lore of Mist/Items",
-    "0. The North-West Highlands/Items",
     "_Assets/dark woods 1.png",
     "_Assets/Deep woods and twilight woods border.png",
     "_Assets/Hope town black tide reapers.png",
@@ -238,7 +239,6 @@
     "_Assets/Hope town hugos arena.png",
     "_Assets/Hope town the blue coats.png",
     "_Assets/karak-ulgurath the crab lord.png",
-    "_Archived",
     "_Assets/solemn flutes 1.png",
     "_Assets/solemn flutes.png",
     "_Assets/Twilight woods 1.png"
