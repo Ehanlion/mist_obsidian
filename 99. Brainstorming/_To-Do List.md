@@ -6,5 +6,6 @@ Add tasks as they come up. Do not pre-create this list, but rather update it as 
 - [ ] finish all towns in the north west
 - [x] add some new features to the inlands of the north west 
 - [ ] work more on the sea caves in the north west
-- [ ] add some new towns to south east coast
-- [ ] add some new features to the south east coast
+- [x] add some new towns to south east coast
+- [x] add some new features to the south east coast
+- [ ] add rulings from critical role setting to the free action rulings
