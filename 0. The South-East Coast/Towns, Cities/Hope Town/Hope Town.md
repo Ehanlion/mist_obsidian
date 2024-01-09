@@ -1,4 +1,4 @@
-This is the largest town along [[The South-East Coast]]. Parts of the city are controlled by powerful, pirate factions called [[The Blue Coat Brigade]], [[The Black-Tide Reapers]], and the fearsome [[Fedorov's Legion]]. Each faction controls some of the trade in the city. Normal people in the city can live in faction protected territory or live on the outskirts with no faction protection. Not everyone is an explicit member of a faction, but people do play favorites. It is a town of pirates after all. 
+This is the largest town along [[The South-East Coast]]. Parts of the city are controlled by powerful, pirate factions called [[The Blue Coat Brigade]], [[The Dead-Tide Reapers]], and the fearsome [[Fedorov's Legion]]. Each faction controls some of the trade in the city. Normal people in the city can live in faction protected territory or live on the outskirts with no faction protection. Not everyone is an explicit member of a faction, but people do play favorites. It is a town of pirates after all. 
 
 _______________________________________________________________________________
 # Demographics:
@@ -49,7 +49,7 @@ These are the trade streams that the Legion controls.
 3. Gems, Jewels, and Mining Resources
 4. Alcohol and Spirits
 
-[[The Black-Tide Reapers]]:
+[[The Dead-Tide Reapers]]:
 These are the trade streams that the Reapers control:
 1. Monstrous Sea Creatures and Exotic Animals
 2. Stolen Artifacts and Rare Curios
@@ -75,7 +75,7 @@ _______________________________________________________________________________
 Hope Town is large, enough to house three competing factions and people with room to spare. There are a couple notable locations in the city that serve as commerce hubs and popular locations. However before talking about locations, lets talk about the structure of the city. 
 
 ## City Structure:
-The city has three main bays, one for each faction. Then there is a central bay, called [[The Bay of Trade]]. If you can imagine it, [[The Blue Coat Brigade]] and [[The Black-Tide Reapers]] share one side of the city, their bays distinct but next to each-other. Their side is then divided from the bay controlled by [[Fedorov's Legion]] by [[The Bay of Trade]]. Thus there are four bays. The three for each faction are small and [[The Bay of Trade]] is quite large. 
+The city has three main bays, one for each faction. Then there is a central bay, called [[The Bay of Trade]]. If you can imagine it, [[The Blue Coat Brigade]] and [[The Dead-Tide Reapers]] share one side of the city, their bays distinct but next to each-other. Their side is then divided from the bay controlled by [[Fedorov's Legion]] by [[The Bay of Trade]]. Thus there are four bays. The three for each faction are small and [[The Bay of Trade]] is quite large. 
 
 Now for the important locations in the city. There will only be a few. The GM should add random shops and such as this location is played through. It would take to much time to add every single small shop, but there are shops for everything here. 
 

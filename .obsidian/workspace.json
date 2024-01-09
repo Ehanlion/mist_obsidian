@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Features/The Fields of Salt.md",
+                "file": "0. The South-East Coast/NPCs/The Black Guard.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Mountains/Features/The Cold Road/The Cold Road.md",
+                "file": "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The South-East Mountains/Features/The Cold Road/The Cold Road.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The South-East Mountains/Features/The Cold Road/The Cold Road.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. The South-East Mountains/Features/The Cold Road/The Cold Road.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,37 +177,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78217fa322272f58",
+  "active": "0e87e4dfa6d9bf35",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Features/The Fields of Salt.md",
-    "99. Brainstorming/_To-Do List.md",
-    "0. The South-East Mountains/Features/The Cold Road/The Cold Road.md",
-    "0. The South-East Mountains/Features/The Mountains/Bellowing's Crest.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Blood-Stone Pass.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/Creatures of the Red-Stone Pass.md",
-    "0. The South-East Mountains/Features/The Mountains/The Frozen Peaks.md",
-    "0. The South-East Mountains/Features/The Cold Road/Creatures of The Cold Road.md",
-    "0. The South-East Mountains/Features/The Cold Road/Rime Hold.md",
-    "0. The South-East Mountains/Features/The Cold Road/The Syndicate of Ice.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Iron-fist Marauders.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Bastion of Blood.md",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/Markings of the Blood-Stone Pass.md",
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-    "GM Screen/Free Action System.md",
-    "GM Screen/Underwater/diving into water.md",
-    "GM Screen/Combat Actions/extended jumps.md",
-    "GM Screen/Conditions/advantage.md",
-    "GM Screen/combat interactable list.md",
-    "GM Screen/DCs/skills and associated abilities.md",
-    "GM Screen/spells",
+    "0. The South-East Coast/NPCs/The Black Guard.md",
+    "0. The South-East Coast/Towns, Cities/Spleen Ville.md",
+    "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
+    "0. The South-East Coast/NPCs/The Cutthroat Authority.md",
+    "0. The South-East Coast/Towns, Cities/Puffer Hamlet.md",
+    "0. The South-East Coast/Towns, Cities/Guts-berg.md",
+    "0. The South-East Coast/Towns, Cities/Waves-watch.md",
+    "0. The South-East Coast/Towns, Cities/The Sprawls.md",
+    "0. The South-East Coast/Towns, Cities/Shingle-berg.md",
+    "0. The South-East Coast/Features/The Mire.md",
+    "0. The South-East Coast/Features/The Fields at Navarra.md",
+    "0. The South-East Coast/Features/The Sea of Contention.md",
     "0. The South-East Coast/Features/The Commotal Mines.md",
+    "0. The South-East Coast/Features/Navarra's Marshlands.md",
+    "0. The South-East Coast/NPCs/Hugo the Great.md",
+    "0. The South-East Coast/NPCs/Fedorov Barovick VII.md",
+    "0. The South-East Coast/NPCs/Baroness Von Azarov.md",
+    "0. The South-East Coast/Towns, Cities/Hope Town/Pirate Factions/The Dead-Tide Reapers.md",
+    "0. The South-East Coast/NPCs/Tergal the Fierce.md",
+    "0. The South-East Coast/NPCs/Pavel Hard.md",
+    "0. The South-East Coast/NPCs/James Stoll.md",
+    "0. The South-East Coast/NPCs/Ignel Valis.md",
+    "0. The South-East Coast/Features/The Southern Razor Peaks.md",
+    "0. The South-East Coast/Features/River Navarra.md",
+    "0. The South-East Coast/Features/The Cutthroat Coast.md",
+    "0. The South-East Coast/Features/The Coast of Promise.md",
+    "GM Screen/spells",
     "GM Screen/DCs",
     "GM Screen/objects",
-    "0. The South-East Coast/Towns, Cities/The Sprawls.md",
-    "0. The South-East Coast/Features/The Fields at Navarra.md",
-    "0. The South-East Coast/Features/Navarra's Marshlands.md",
-    "0. The South-East Coast/Features/River Navarra.md",
-    "0. The North-West Highlands/Features/The Hidden Aquifer.md",
     "-1. Lore of Mist/Great Events",
     "0. The North-East Forests/Items",
     "GM Screen/Underwater",

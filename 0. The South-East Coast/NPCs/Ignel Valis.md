@@ -1,10 +1,14 @@
+Regional Location: [[The South-East Coast]]
+Subsection: [[Hope Town]], works with [[Fedorov's Legion]]
+
 (Val-is NOT Val-eese)
 Powerful wizard. Someone who [[Kelswin Lovejoy]] looks up to with great reverence.
 He now goes by the name 'Silvan Gile' (an anagram of Ignel Valis) and uses this name in Hope Town. As far as the people of Mist are concerned, it has been a long time since Ignel Valis was seen. 
 
-Remember Ethan, DO NOT call Ignel as Ignel. His name is Silvan and will not answer to Ignel since he has made a new, secret life for himself in [[Hope Town]].
+# Silvan Gale not Ignel Valis!
+Remember Ethan, DO NOT call Ignel as Ignel. His name is Silvan Gale and will not answer to Ignel since he has made a new, secret life for himself in [[Hope Town]].
 # Character Description:
-	Ignel stands erect and still. His form a paragon of perfect composure. His thick handlebar moustache covers the traces of a grin on his lips. His electric blue eyes seem to crackle with power and intrigue. He wears a simple red cloak that drapes down to his ankles. His clothes are simple but noticeably rich, with golden threads and subtle intricate weavings in the fabrics. He wields a tall staff and his boots seem to shimmer.
+>Ignel stands erect and still. His form a paragon of perfect composure. His thick handlebar moustache covers the traces of a grin on his lips. His electric blue eyes seem to crackle with power and intrigue. He wears a simple red cloak that drapes down to his ankles. His clothes are simple but noticeably rich, with golden threads and subtle intricate weavings in the fabrics. He wields a tall staff and his boots seem to shimmer.
 ### Ignel's Past:
 Ignel started off as a powerful wizard. He was well liked and loved as a hero. He was wilting inside though; his aspirations drew away from being a hero. The praise, the stress, the desperation he felt to always be better than before ate away at him. He felt bitter that people cared about the person and only the deeds that they did. He sought an end for his old life, a way out and he settled on faking his death. 
 #### The 'Fall' of Ignel

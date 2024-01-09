@@ -35,7 +35,7 @@ Wake's relationships:
 - Walked into the sea amidst [[The Calamitous Typhoon]].
 - Lived along [[The South-East Coast]]. 
 - Friendly towards [[Pavel Hard]] and [[The Blue Coat Brigade]], a pirate faction in [[Hope Town]], the largest town along [[The South-East Coast]].
-- Works against [[The Black-Tide Reapers]] and [[Fedorov's Legion]].
+- Works against [[The Dead-Tide Reapers]] and [[Fedorov's Legion]].
 
 Fun stuff:
 - Parts of sessions where players KNOW they cannot fight an enemy they have to use tactics to subvert the actual fight.
