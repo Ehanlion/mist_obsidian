@@ -1,2 +1,41 @@
 # Description:
 The Mist Codex is a 'computer,' essentially an archaic control console, that accepts the [[Shards]] (keys) of Mist as control inputs to control the [[The Aether-Veil Projector]]. All of the [[Shards]] are required to allow the codex to function. 
+
+# Controls for the Codex:
+There are multiple different control interfaces for how the codex can be used. There exists and interface for planar-interactions, [[The Shrouds of the Frost-Bound Wardens]], [[Frost-Bound Wardens]], and arcanum.
+
+**Planar Interaction:**
+Inhibitors for all of the planes of existence can be enabled and disabled using this control interface. In general the interface is enabling/disabling **inhibitors of each plane.**
+
+Listings of the Planes: [Overview of the Planes](https://roll20.net/compendium/dnd5e/The%20Planes%20of%20Existence#content)
+1. Material Plane
+2. Transitive Planes
+	1. Ethereal Plane
+	2. Astral Plane
+3. Inner Planes
+	1. Elemental Plane of Fire
+	2. Elemental Plane of Water
+	3. Elemental Plane of Air
+	4. Elemental Plane of Earth
+4. Outer Planes
+	1. Upper Planes
+		1. Mechanus
+		2. Arcadia
+		3. Mount Celestia
+		4. Bytopia
+		5. Elysium
+		6. The Beastlands
+		7. Arborea
+		8. Ysgard
+	3. Lower Planes
+		1. Limbo
+		2. Pandemonium
+		3. The Abyss
+		4. Carceri
+		5. Hades
+		6. Gehenna
+		7. The Nine Hells
+		8. Acheron
+5. Demi-planes
+
+Each part of the tree has its own runic interface that, when all of the 8 [[Shards]] are inserted into the Mist Codex, can be toggled on or off. If the rune is toggled 'on' that means it is blocking that plane.

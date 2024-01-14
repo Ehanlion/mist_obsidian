@@ -1,0 +1,4 @@
+Regional Location: [[The North-West Highlands]]
+Subsection: Along coast, near where [[The Obelisk Field]] is (same stretch of coast that both are along).
+# True Nature: (Hide from Players)
+The true nature of the Culverts are that they in fact are NOT culverts or storm drains, but rather chimneys. They can be dated to the same time of [[The Obelisk Field]]'s stone makeup and as such, they are an ancient relic of [[The Many]]. While now their tops barely poke above the surface of the oceans, when they were built they would act as chimneys for an underground complex built under [[The North-West Highlands]]. 

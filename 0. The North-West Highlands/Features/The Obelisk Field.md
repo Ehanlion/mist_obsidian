@@ -1,3 +1,5 @@
+Regional Location: [[The North-West Highlands]]
+Subsection: Off the NW coast, in [[The Harmonious Sea]] and [[The Distant Sea]], off coast from [[The Sinking Storm Culverts]].
 # Description:
 AI Art of a single example obelisk: ![[Obelisk field in north sea.png]]
 

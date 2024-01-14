@@ -1,8 +1,9 @@
+Regional Location: [[The North-West Highlands]]
+Subsection: varies across the highlands
 # What are the sea caves:
 The sea caves are located in the [[The North-West Highlands]]. General terms, each sea cave is a massive, inland 'lake' of salt-water. Each has a way of connecting to the sea, be it from underground sea-tunnels, large open arches sailable from sea to sea cave, and so on. They are tidal and their water levels are equal to those of the ocean as a result. 
 
 These sea caves allow people to fish in them rather than the sea and each offers a very wide variety of different ecosystems compared to each other and the sea.
-
 #### Naming the Sea Caves:
 Although all are 'technically' sea caves, they are often referred to with different names and conventions -- lagoon, grotto, caverns, the list goes on. 
 # The Big Three:
