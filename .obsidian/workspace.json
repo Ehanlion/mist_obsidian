@@ -66,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5093b5d7997666cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-1. Lore of Mist/Great Events/The Murder of the Many.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-1. Lore of Mist/Great Events/The Murder of the Many.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-1. Lore of Mist/Great Events/The Murder of the Many.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "-1. Lore of Mist/Great Events/The Murder of the Many.md"
+              }
             }
           }
         ]
@@ -189,8 +206,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e87e4dfa6d9bf35",
+  "active": "5093b5d7997666cc",
   "lastOpenFiles": [
+    "-1. Lore of Mist/Great Events/The Murder of the Many.md",
     "-1. Lore of Mist/Great Features/The Mist Codex.md",
     "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
     "-1. Lore of Mist/Great Features/Bunker 1.md",
@@ -219,7 +237,6 @@
     "0. The North-West Highlands/Features/The Hidden Aquifer.md",
     "0. The North-West Highlands/Features/The Harmonious Sea.md",
     "0. The North-West Highlands/Features/The Fields of Salt.md",
-    "0. The North-West Highlands/Features/The Echoing Grotto.md",
     "GM Screen/spells",
     "GM Screen/DCs",
     "GM Screen/objects",
