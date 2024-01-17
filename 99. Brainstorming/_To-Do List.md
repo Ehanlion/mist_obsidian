@@ -9,3 +9,4 @@ Add tasks as they come up. Do not pre-create this list, but rather update it as 
 - [x] add some new towns to south east coast
 - [x] add some new features to the south east coast
 - [ ] add rulings from critical role setting to the free action rulings
+- [ ] Come up with side quests in the north west highlands
