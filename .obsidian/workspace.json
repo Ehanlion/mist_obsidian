@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/The Mist Codex.md",
+                "file": "99. Brainstorming/Blinded Dungeon Crawl.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,33 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "af47b49384ae67ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5093b5d7997666cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-1. Lore of Mist/Great Events/The Murder of the Many.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/Great Events/The Murder of the Many.md",
+                "file": "99. Brainstorming/Blinded Dungeon Crawl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/Great Events/The Murder of the Many.md",
+                "file": "99. Brainstorming/Blinded Dungeon Crawl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/Great Events/The Murder of the Many.md"
+                "file": "99. Brainstorming/Blinded Dungeon Crawl.md"
               }
             }
           }
@@ -206,11 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5093b5d7997666cc",
+  "active": "dfb4d61146db1709",
   "lastOpenFiles": [
-    "-1. Lore of Mist/Great Events/The Murder of the Many.md",
+    "0. The North-East Forests/Features/The Providing Orchard.md",
+    "99. Brainstorming/Blinded Dungeon Crawl.md",
     "-1. Lore of Mist/Great Features/The Mist Codex.md",
+    "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
     "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
+    "-1. Lore of Mist/Items/Shards.md",
+    "-1. Lore of Mist/Great Events/The Murder of the Many.md",
     "-1. Lore of Mist/Great Features/Bunker 1.md",
     "-1. Lore of Mist/Great Features/Archaic Storm Conduits.md",
     "-1. Lore of Mist/Great Features/Amides.md",
@@ -219,7 +199,6 @@
     "0. The South-East Mountains/Features/The Sun-lost Aphelion.md",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Blackwood Ring.md",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthra.md",
-    "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
     "GM Screen/Ethan's Item Sheet.md",
     "_Templates/_Template for NPC.md",
     "99. Player Data/Deion Deus.md",
@@ -234,9 +213,6 @@
     "0. The North-West Highlands/Features/The Sunken Caverns.md",
     "0. The North-West Highlands/Features/The Obelisk Field.md",
     "0. The North-West Highlands/Features/The Massive Sea Caves of the North West.md",
-    "0. The North-West Highlands/Features/The Hidden Aquifer.md",
-    "0. The North-West Highlands/Features/The Harmonious Sea.md",
-    "0. The North-West Highlands/Features/The Fields of Salt.md",
     "GM Screen/spells",
     "GM Screen/DCs",
     "GM Screen/objects",
