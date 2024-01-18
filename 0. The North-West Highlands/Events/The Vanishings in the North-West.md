@@ -1,3 +1,5 @@
+Regional Location: [[The North-West Highlands]]
+Subsection: Related to [[Karak-Ulgurath]] and [[The Followers of Karak-Ulgurath]].
 # The Issue:
 Vanishings are happening along the North-West coast. This problem should pose a challenge to the players to uncover what is behind the vanishings, how to stop them, and how to get the people back. 
 
@@ -8,6 +10,16 @@ Small vanishings up and along the coast. One or two people here or there from to
 1. Miners
 1. Librarians
 2. Historians
+#### People by Town:
+1. [[Saddle-Port]]:
+	1. [[Vivian Lovejoy]]
+2. [[Smears-burrow]]
+	1. 
+3. [[Gullhook]]
+4. [[Herringshold]]
+5. [[Schooner's End]]
+6. [[Trawlrock]]
+7. [[Anchorpoint Fisheries]]
 #### Who is taking these people:
 Groups of mutated sea creatures appear to be leading the raids.
 

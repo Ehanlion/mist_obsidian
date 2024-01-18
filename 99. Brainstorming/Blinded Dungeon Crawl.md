@@ -37,8 +37,8 @@ A dungeon where the players are magically blinded, overpowering all forms of sig
 # AI Art of the Blinded Dungeon:
 ![[The blinded dungeon.png]]
 # What to tell players:
-1. Tell them that they are **blind from magic darkness and deaf.** Both effects are magical and supersede any effects overcoming either conditions. 
-2. Tell players that they should keep drawings on paper of the dungeon. There is no chance they beat this if they don't. However, players **cannot share their maps with each other.** 
+1. Tell them that they are **blind from magic darkness and deaf.** Both effects are magical and supersede any effects overcoming either conditions. Refer to the later section about senses for the effects of both limitations.
+2. Tell players that they should keep drawings on paper of the dungeon. There is no chance they beat this if they don't. However, players **cannot share their maps with each other.** The reason for this is that players 1. don't have writing supplies, 2. are unable to communicate with each-other reliably, and 3. do not immediately spawn next to each other within the dungeon. 
 # Running this: 
 1. **Force Party Move:** As players enter, make sure they start in close, but different rooms.
 2. Have players roll initiative.
@@ -62,3 +62,11 @@ For this dungeon to work, there need to be icon rooms that can be used as landma
 Enemies walk the dungeon as well, taking their turns between the players initiative counts. 
 # Magic Suppression:
 The dungeon is very interesting in that it blocks any magical attempt to beat its puzzles, being the creation of a powerful arch-mage, this makes sense. However it **does not block** spells that deal damage and attack since parts of the dungeon will **require** elemental damage, only dealt by spells, to be used. 
+# Senses Suppression:
+in this dungeon, a player senses are dulled dramatically. A player's **vision and hearing are effected.** 
+
+**Effect on Vision:**
+A player's vision is reduced to a 5 foot radius sphere around themselves **regardless of any magical enhancements to their vision.** Anything beyond this aura appears as just nothing, not darkness, just as if the surrounding area fades off into nothing.
+
+**Effect on Hearing:**
+A player's hearing is reduced to a 5 foot radius sphere around themselves **regardless of any magical enhancements to their hearing.** Anything beyond this aura is treated as just a faint hissing of static.

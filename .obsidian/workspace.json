@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
+                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Brainstorming/Blinded Dungeon Crawl.md",
+                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Brainstorming/Blinded Dungeon Crawl.md",
+                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Brainstorming/Blinded Dungeon Crawl.md"
+                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md"
               }
             }
           }
@@ -182,16 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c463d6e74c344419",
+  "active": "78217fa322272f58",
   "lastOpenFiles": [
+    "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
+    "99. Brainstorming/Blinded Dungeon Crawl.md",
     "_Assets/The blinded dungeon.png",
     "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
-    "99. Brainstorming/Blinded Dungeon Crawl.md",
     "0. The North-West Highlands/Side-Quests",
     "99. Brainstorming/_To-Do List.md",
     "0. The North-East Forests/Features/The Providing Orchard.md",
     "-1. Lore of Mist/Great Features/The Mist Codex.md",
-    "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
     "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
     "-1. Lore of Mist/Items/Shards.md",
     "-1. Lore of Mist/Great Events/The Murder of the Many.md",
@@ -228,7 +228,6 @@
     "_Assets/Hope town the blue coats.png",
     "_Assets/karak-ulgurath the crab lord.png",
     "_Assets/solemn flutes 1.png",
-    "_Assets/solemn flutes.png",
-    "_Assets/Twilight woods 1.png"
+    "_Assets/solemn flutes.png"
   ]
 }
