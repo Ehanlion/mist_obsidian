@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "dfb4d61146db1709",
+            "id": "2c4e83009121bc93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Brainstorming/Blinded Dungeon Crawl.md",
+                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6054dd984ba621e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md"
+                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md"
               }
             }
           }
@@ -170,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,38 +195,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78217fa322272f58",
+  "active": "6054dd984ba621e4",
   "lastOpenFiles": [
-    "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
+    "0. The North-West Highlands/Features/The Hidden Aquifer.md",
+    "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "99. Player Data/Deion Deus.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-East Forests/Items/Red-Moon Blade.md",
+    "-1. Lore of Mist/Items/Stormphrax.md",
+    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "0. The North-West Highlands/NPCs/Reggie Brown.md",
+    "99. Brainstorming/The Mirrored Doorway Puzzle.md",
+    "Session Notes/Mist Sessions/Mist S1 12-29-23.md",
+    "99. Brainstorming/Rhyming Naga Puzzle.md",
     "99. Brainstorming/Blinded Dungeon Crawl.md",
+    "GM Screen/Underwater/casting a spell underwater.md",
+    "GM Screen/Underwater/diving into water.md",
+    "GM Screen/Underwater/holding breath underwater.md",
+    "GM Screen/Underwater/moving underwater.md",
+    "99. Brainstorming/_To-Do List.md",
+    "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
     "_Assets/The blinded dungeon.png",
     "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
     "0. The North-West Highlands/Side-Quests",
-    "99. Brainstorming/_To-Do List.md",
     "0. The North-East Forests/Features/The Providing Orchard.md",
     "-1. Lore of Mist/Great Features/The Mist Codex.md",
     "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
     "-1. Lore of Mist/Items/Shards.md",
-    "-1. Lore of Mist/Great Events/The Murder of the Many.md",
-    "-1. Lore of Mist/Great Features/Bunker 1.md",
-    "-1. Lore of Mist/Great Features/Archaic Storm Conduits.md",
-    "-1. Lore of Mist/Great Features/Amides.md",
-    "-1. Lore of Mist/Great Events/The Red Moon.md",
-    "0. The South-East Mountains/NPCs/Garrick Blackthorn.md",
-    "0. The South-East Mountains/Features/The Sun-lost Aphelion.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Blackwood Ring.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthra.md",
-    "GM Screen/Ethan's Item Sheet.md",
-    "_Templates/_Template for NPC.md",
-    "99. Player Data/Deion Deus.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Seat of Stone.md",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/Features",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs.md",
-    "0. The North-West Highlands/Features/King Gillian's Channel.md",
     "0. The North-West Highlands/Towns, Cities/Gandoras City",
-    "0. The North-West Highlands/NPCs/Untitled.md",
-    "0. The North-West Highlands/Features/The Sinking Storm Culverts.md",
     "GM Screen/spells",
     "GM Screen/DCs",
     "GM Screen/objects",

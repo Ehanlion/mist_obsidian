@@ -12,9 +12,12 @@ Small vanishings up and along the coast. One or two people here or there from to
 2. Historians
 #### People by Town:
 1. [[Saddle-Port]]:
-	1. [[Vivian Lovejoy]]
+	1. [[Vivian Lovejoy]] (librarian)
 2. [[Smears-burrow]]
-	1. 
+	1. [[Reggie Brown]] (fisher)
+	2. Fogram Heavygaze (miner) 
+	3. Gurdath Fallonswallow (miner)
+	4. Mary-Anne Birch (librarian) 
 3. [[Gullhook]]
 4. [[Herringshold]]
 5. [[Schooner's End]]
@@ -27,6 +30,7 @@ Groups of mutated sea creatures appear to be leading the raids.
 2. [Kraken's Priests](https://dr-eigenvalue.github.io/bestiary/creature/kraken-priest) are powerful priests of the deep who can summon the calls of their masters to scare their enemies. Also a good leader for the raids.
 3. [Merrow](https://www.dndbeyond.com/monsters/16956-merrow) are good minions for the raids with a nice grappling attack.
 4. [Saghuagin](https://roll20.net/compendium/dnd5e/Sahuagin#content) are also good, lesser minions. Weakest of the bunch
+	1. Saghuagin are accompanied by hunter or giant sharks
 
 **It is even simpler than that:**
 All that needs to happen in raids are for mutated, sea-looking creatures to come up from the cliffs or a part of town, steal people they are looking for, and fade back to the sea. 

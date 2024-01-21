@@ -7,6 +7,7 @@ Subsection: None
 1. [[Vivian Lovejoy]] lives here and tends the library.
 2. This is [[Kelswin Lovejoy]]'s home and he also live in the library with his mother, [[Vivian Lovejoy]]. 
 3. [[Jordan Leabrook]] is the town's guard and he lives here with his wife and 3 kids. 
+4. Yvon and Clement are two funny, adventurous fisherman.   
 # Parts of the Town:
 >Saddle-Port is small -- Less than a hundred people call this small town home. On the outskirts are quant cottages, each with a trodden dirt path leading into town. In the town there is the library, the tavern, the market stalls, and a trading post. There is a small open area where events are hosted but it is small. Towards the cliff's edge are the docks; ships are set in rails on the dry docks and are hoisted to and from the sea using pulleys and cattle.
 
@@ -60,3 +61,4 @@ Once up the cliff face, boats can slide along wooden rails on the cliff's top, a
 Eventually, a raid will occur on the village as described in [[The Vanishings in the North-West]]. They will target [[Vivian Lovejoy]] because she is a librarian.
 # Related Missions:
 1. [[Mission, Welcome to Mist]]: this is the location where the adventure begins.
+2. Sail for the Big Fish: this is the mission given to [[Deion Deus]] by Clement and Yvon to embark with them and sail to catch a great monster on the high seas, probably a couple giant squids.  
