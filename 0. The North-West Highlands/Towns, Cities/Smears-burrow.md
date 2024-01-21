@@ -3,11 +3,11 @@ Subsection: None
 # At First Glance:
 >Smears-Burrow is a bustling little town. Its people rush around a town square moving fish from the seas into ice-rock cellars for safe keeping. The buildings are made of a dark coral-looking stone and an abundance of strangely coloured plants grows from the stones. The town feels low, not a lot of high buildings cross your view. Many of the buildings are nestled into the sides of small knolls in the landscape, with lazy paths drifting between them.  
 # Notable NPCs:
-1. [[Reggie Brown]] is a well liked fishermen who went missing some days before a raid happened on the town.
-2. The Grung: since Smears-burrow relies on dive-fishing, they have a large amount of Grung living in the town. They are perfectly civil of course, but it is still an oddity.
-3. Buster Croaks, elder of the Grung. Green grung with various tattoos of the great fish he has caught.
-4. Simon Karbala, elder of the rest. Old gentlemen of the village. Is a aging human with thick grey hair. Still enjoys fishing of course, but is getting on in his years.
-5. Freya Depths-Chaser, revered of the rest. Young female Tiefling fisher-women. She once held onto a great fish and was dragged to the depths but caught the fish. Earned her the title 'Depths-Chaser.'
+1. **[[Reggie Brown]]** is a well liked fishermen who went missing some days before a raid happened on the town.
+2. **The Grung**: since Smears-burrow relies on dive-fishing, they have a large amount of Grung living in the town. They are perfectly civil of course, but it is still an oddity.
+3. **Buster Croaks**, elder of the Grung. Green grung with various tattoos of the great fish he has caught.
+4. **Simon Karbala**, elder of the rest. Old gentlemen of the village. Is a aging human with thick grey hair. Still enjoys fishing of course, but is getting on in his years.
+5. **Freya Depths-Chaser**, revered of the rest. Young female Tiefling fisher-women. She once held onto a great fish and was dragged to the depths but caught the fish. Earned her the title 'Depths-Chaser.'
 # The Center of the Town:
 All towns have a center. For Smears-burrow, it is centered on the Old Birch Tree that makes up the library. In one small area there is the library, tavern, general store, and oddities store. In the center of all of these is an open, well kept green space for community gatherings. 
 # Parts of the Town:
@@ -29,7 +29,7 @@ The tavern has many cooks since it has a very high demand and multiple bartender
 4. Cook: Storga
 5. Cook: Lyra 
 
-Here are what can be found in the tavern at any given point:
+Tavern mini-mission offerings:
 1. A man offering coin for labor hauling fish to market.
 2. A man asking about his friend, [[Reggie Brown]].
 3. A women asking someone to dive off the coat for her lost ring.

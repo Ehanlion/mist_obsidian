@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6054dd984ba621e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md"
               }
             }
           }
@@ -195,12 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6054dd984ba621e4",
+  "active": "78217fa322272f58",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Features/The Hidden Aquifer.md",
-    "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
-    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthara.md",
     "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+    "0. The North-West Highlands/The North-West Highlands.md",
+    "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+    "0. The North-West Highlands/Features/The Hidden Aquifer.md",
+    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "99. Player Data/Deion Deus.md",
     "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
@@ -223,8 +213,6 @@
     "0. The North-West Highlands/Side-Quests",
     "0. The North-East Forests/Features/The Providing Orchard.md",
     "-1. Lore of Mist/Great Features/The Mist Codex.md",
-    "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
-    "-1. Lore of Mist/Items/Shards.md",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/Features",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs",
     "0. The North-West Highlands/Towns, Cities/Gandoras City",

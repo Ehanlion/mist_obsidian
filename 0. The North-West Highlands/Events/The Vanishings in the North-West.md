@@ -10,6 +10,7 @@ Small vanishings up and along the coast. One or two people here or there from to
 1. Miners
 1. Librarians
 2. Historians
+3. Supply Caravans from the Trade Guild from [[Gandoras City]]
 #### People by Town:
 1. [[Saddle-Port]]:
 	1. [[Vivian Lovejoy]] (librarian)
@@ -23,9 +24,18 @@ Small vanishings up and along the coast. One or two people here or there from to
 5. [[Schooner's End]]
 6. [[Trawlrock]]
 7. [[Anchorpoint Fisheries]]
-#### Who is taking these people:
-Groups of mutated sea creatures appear to be leading the raids.
+#### Attacking the Caravans:
+The followers, namely brutes like the Sahaguin followers, will attack supply caravans that are sent by [[Gandoras City]] along the coast. This is done to obtain weapons and armor for the followers. These attacks occur between towns to disrupt the trade flow.
 
+They target the following goods in particular:
+1. Potions and potion ingredients
+2. Weapons
+3. Armors and shields
+4. Magical Artifacts
+#### Who is taking these people:
+Groups of mutated sea creatures appear to be leading the raids. These can be any form of sea creature but they will all have in common mutations dictated in the 'Mutations' section of [[The Followers of Karak-Ulgurath]] note.
+
+Creature list:
 1. [Deep Scion](https://5e.tools/bestiary/deep-scion-vgm.html) is a powerful, psionic shapeshifter with pseudopods swarming from its back. Good leader for raids.
 2. [Kraken's Priests](https://dr-eigenvalue.github.io/bestiary/creature/kraken-priest) are powerful priests of the deep who can summon the calls of their masters to scare their enemies. Also a good leader for the raids.
 3. [Merrow](https://www.dndbeyond.com/monsters/16956-merrow) are good minions for the raids with a nice grappling attack.
@@ -50,12 +60,10 @@ Lean heavy into this creatures ability to enslave others to its mind.
 ___
 # The True Masters:
 The crab itself is enslave by a [[Mind Rock]], controlled by [[Ignel Valis]], of course now called Silvan Gile, who wields a [[Master Mind Rock]]. He is working alongside [[Fedorov Barovick VII]]. The Crab is essentially a drone that is issued orders by [[Ignel Valis]] and follows them to the best of its ability. 
-
 #### Curing the Enslaved People:
 The only way to cure the enslaved people is to have the wielder of the [[Mind Rock]] controlling the enslaved to will them to be free. That means either [[Karak-Ulgurath]] must be convinced to let them go free (never going to happen, [[Karak-Ulgurath]] fights to the death) OR a player must CHOOSE to touch the mind rock, succeed on the Charisma save against the rock, and then will the enslaved creatures free. 
 
 If the [[Mind Rock]] that is bound to [[Karak-Ulgurath]] is simply destroyed, the people will be free, yes, but they will suffer permanent madness, uncurable by anything short of high level healing. 
-
 #### Why is the Crab Needed?
 [[Karak-Ulgurath]] is being used as essentially a giant crustacean controlling a mining operation, deep within [[The Sunken Caverns]]. It is searching for one of the [[Shards]]. [[Ignel Valis]] already knows about the [[Shards]] since he has one, Key 2 -- a small glowing blue key, and he wants another. He, nor [[Fedorov Barovick VII]], know the true nature of the Shards. 
 
