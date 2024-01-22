@@ -11,7 +11,7 @@ The monuments on Mist are controlled with ancient constructions known to The Man
 | ---- | ---- | ---- | ---- | ---- |
 | Key 1 | Already powering an obelisk. | Appears are a small, blue sphere with burning orange fire inside of it. | When bound to a weapon, wielder can deal an additional 1d6 fire damage to a target, once per turn. | ??? |
 | Key 2 | Held as a prized piece by [[Ignel Valis]] and is embedded within his staff. | Appears as a small, vibrating blue ethereal key. | When bound to an item of spell-caster, wielder's intelligence increases by 2. | ??? |
-| Key 3 | ??? | ??? | ??? | ??? |
+| Key 3 | The coveted centerpiece of the Grung's society near [[Smears-burrow]]. | Appears as a large, shimmering, conch shell with green glittering markings on it.  | When blown into, it can summon a maelstrom. However if it is left in water, it cleans and purifies any water it touches as well as gives any creature living in the waters it purifies an unnaturally long life span. | ??? |
 | Key 4 | ??? | ??? | ??? | ??? |
 | Key 5 | ??? | ??? | ??? | ??? |
 | Key 6 | ??? | ??? | ??? | ??? |

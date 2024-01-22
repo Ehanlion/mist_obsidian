@@ -43,7 +43,17 @@ Creature list:
 	1. Saghuagin are accompanied by hunter or giant sharks
 
 **It is even simpler than that:**
-All that needs to happen in raids are for mutated, sea-looking creatures to come up from the cliffs or a part of town, steal people they are looking for, and fade back to the sea. 
+All that needs to happen in raids are for mutated, sea-looking creatures to come up from the cliffs or a part of town, steal people they are looking 
+for, and fade back to the sea. 
+
+_ _ __
+# Timings of the Raids:
+From the day the party starts the following has been the schedule of raids along the coast:
+1. [[Gullhook]]: 2 weeks ago
+2. [[Smears-burrow]]: 1 week ago
+3. [[Saddle-Port]]: will get raided by week's end
+
+The adventure starts 2 days after the raid on [[Smears-burrow]]. As of 1/22/2024, the party has elapsed a total of 4 days from the raid on [[Smears-burrow]] and have just arrived in [[Smears-burrow]].
 
 ___
 # The Leader of the Raids:

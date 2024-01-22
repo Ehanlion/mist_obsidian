@@ -6,6 +6,7 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
+        "dimension": 51.663090128755364,
         "children": [
           {
             "id": "0e87e4dfa6d9bf35",
@@ -37,26 +38,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78217fa322272f58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99. Brainstorming/Brawl in the Caldera.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "524fce97aa3feb69",
+        "type": "tabs",
+        "dimension": 48.336909871244636,
+        "children": [
+          {
+            "id": "7e08332ada0589b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5e6cbcb2d648a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 422.5
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -122,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Brainstorming/Brawl in the Caldera.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Brainstorming/Brawl in the Caldera.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Brainstorming/Brawl in the Caldera.md"
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md"
               }
             }
           }
@@ -170,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,35 +203,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78217fa322272f58",
+  "active": "b5e6cbcb2d648a08",
   "lastOpenFiles": [
-    "GM Screen/Resting/new ONEDND exhaustion.md",
-    "99. Brainstorming/Brawl in the Caldera.md",
     "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthara.md",
-    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-    "0. The North-West Highlands/The North-West Highlands.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "-1. Lore of Mist/Items/Shards.md",
     "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+    "1. Missions/Mission Phase 1/Mission, Escort Across the North-West.md",
+    "1. Missions/Mission Phase 1/Mission, Raids on the North-East Coast.md",
+    "1. Missions/_Mission Index.md",
+    "1. Missions/Mission Phase 1/Mission, Pursuing the North-West Raiders.md",
+    "0. The North-West Highlands/NPCs/Reggie Brown.md",
+    "99. Brainstorming/Player Endurance Meter.md",
+    "2024-01-21.md",
+    "99. Brainstorming/Brawl in the Caldera.md",
+    "GM Screen/Resting/new ONEDND exhaustion.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthara.md",
+    "0. The North-West Highlands/The North-West Highlands.md",
     "0. The North-West Highlands/Features/The Hidden Aquifer.md",
     "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "99. Player Data/Deion Deus.md",
     "0. The North-East Forests/Items/Red-Moon Blade.md",
     "-1. Lore of Mist/Items/Stormphrax.md",
-    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
-    "0. The North-West Highlands/NPCs/Reggie Brown.md",
     "99. Brainstorming/The Mirrored Doorway Puzzle.md",
     "Session Notes/Mist Sessions/Mist S1 12-29-23.md",
     "99. Brainstorming/Rhyming Naga Puzzle.md",
     "99. Brainstorming/Blinded Dungeon Crawl.md",
-    "GM Screen/Underwater/casting a spell underwater.md",
-    "GM Screen/Underwater/diving into water.md",
-    "GM Screen/Underwater/holding breath underwater.md",
-    "GM Screen/Underwater/moving underwater.md",
-    "99. Brainstorming/_To-Do List.md",
-    "0. The South-East Coast/Events/The Rising of the Cutthroat Authority.md",
     "_Assets/The blinded dungeon.png",
-    "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
     "0. The North-West Highlands/Side-Quests",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/Features",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs",

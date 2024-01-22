@@ -25,15 +25,26 @@ Joran mentions that he heard about the vanishing as he was leaving [[Smears-burr
 
 He will offer to accompany the group to [[Smears-burrow]] to help them look around there for more clues as to what exactly is going on.
 #### Heading up to Smears-burrow:
-[[Smears-burrow]] is a 3 day trip north along the coast of [[The North-West Highlands]]. 
+[[Smears-burrow]] is 40 miles north and west along the coast of [[The North-West Highlands]] from [[Saddle-Port]].
+#### Learning about the raids:
+It is crucial that the party learns about the raid that occurred at [[Smears-burrow]]. [[Smears-burrow]] was raided earlier in the week and [[Gullhook]], the next town up and along [[The North-West Highlands]]'s coast, was raided a week before [[Smears-burrow]]. The raids occurred on week's start (Monday).
+
+Three people were taken from [[Smears-burrow]]:
+1. Mary-Anne Birch (elf), the librarian for the Old Birch Library. 
+2. Fogram Heavygaze (goliath), a prolific miner 
+3. Gurdath Fallonswallow (firbolg), a well liked and boisterous miner
+
+Another person went missing **before** the raid occurred:
+1. [[Reggie Brown]] (human): a fisherman is missing as well as his **blue** boat.
 #### Out of the ordinary things:
 1. There are dark blue scuff marks on one of the jetties in [[Smears-burrow]] that is NOT reserved for visitors. The blue scuff marks could only have been made by [[Reggie Brown]]'s ship since it is a dark blue. The party wouldn't know that it is his ship, and would only know if something is out of order if they ask.
 2. [[Reggie Brown]] is missing, along-side his ship. They went missing BEFORE there was a raid on the village. [[Reggie Brown]] was killed while exploring a sea cave related to [[The Vanishings in the North-West]]. His boat was stolen by the raiders and was used to raid [[Smears-burrow]]s, although no one knows that yet. 
 3. There are flipper marks near the library and the masonry building in [[Smears-burrow]]. The flipper marks are abnormally large. There are also signs of a struggle. 
 4. Some people living near the library and masonry buildings remember hearing the sounds of gargling water and splashing coming from nearby. These sounds were head in the 3:00 and 4:00 a.m. hours of the morning. 
 
-The party can learn more things as well:
-1. This is not the first place to have these disappearances. 5 days ago, the people from [[Smears-burrow]] went missing. A week before that, people from [[Gullhook]], the next town north up the coast went missing. A week before that, a large number of people went missing from [[Herringshold]]. **The party can do the logical reduction that in 2 days, an attack will take place in [[Saddle-Port]].**
+#### Determining the next raid:
+1. This is not the first place to have these disappearances. Another raid took place in [[Gullhook]], the next town up the coast, a week before the raid on [[Smears-burrow]]. Another took place a week prior to that at [[Anchorpoint Fisheries]], the town up the coast from [[Gullhook]]. 
+2. If the party uncovers this they may ask what days these raids occurred on. They occurred on week's start (Monday). The party arrives in [[Smears-burrow]] on the morning of 5th's day (Friday) so they may conclude that another raid would happen at [[Saddle-Port]] on the coming week's start (Monday).
 #### Stakeout:
 If the party comes to the correct conclusion that something raided the village, [[Jordan Leabrook]] suggests conducting a stakeout back in [[Saddle-Port]] to see if they can keep watch for the same thing that might happen there. 
 
@@ -50,7 +61,7 @@ A captain of a merchant vessel by the name of [[Barney Carper]] is bemoaning the
 #### Getting down to the water:
 I heard players talking about diving down into the water. This is suicide. The cliffs near where the Stan-ta Ray sank are 200 feet tall. Regard the rules for [[diving into water]] for this part. However this is no path down, so players might opt for this. Climbing is of course an option but be careful --  a fall from the cliff may end up worse than just jumping. The cliffs are NOT perfectly vertical and slope outwards from their tops to their bottoms. 
 
-Remember, 1d6 per 10 ft fallen. :) 
+Jordan will offer to get scaling materials like a grapnel or two as well as long, lightweight rope that can be used to rappel down the cliff. He will also provide basic climbing gear but this is hard to use for a beginner. 
 
 [[Barney Carper]] escaped because his ship sank in the early hours of the morning in darkness, he then treaded water and was rescued by another ship he was fishing with. They were both from [[Saddle-Port]]. He screamed for help and the other ship grabbed him then left in a hurry for deeper water. 
 #### The Stan-ta Ray:
