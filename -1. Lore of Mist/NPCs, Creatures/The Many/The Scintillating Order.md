@@ -1,0 +1,4 @@
+Regional Location: Forgotten to time
+Subsection: Pursuers of [[The Many]]
+# Description
+[[The Scintillating Order]] was the organization that ruled [[The Runewilds]]. It was headed by the Queen, who served as the groups leader as well as the Queen of the monarchy that rules [[The Runewilds]]. The Queen was an ordinary person but the members of [[The Scintillating Order]] were not; they were extraordinary mages, inventors, warriors, and fighters. However the group had a long-standing jealously of [[The Many]] who time and time again proved themselves a more inventive and superior group. It was probably then ego and pride of the scintillating order that drove them, under advisement from the Queen, to enslave [[The Many]]. 

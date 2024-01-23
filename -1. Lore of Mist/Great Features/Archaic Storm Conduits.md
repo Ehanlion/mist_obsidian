@@ -4,3 +4,5 @@ Subsections:
 2. 3 Surrounding [[The Echoing Grotto]], [[The North-West Highlands]]
 3. 3 Surrounding [[The Sunken Caverns]], [[The North-West Highlands]]
 4. 3 Surrounding [[The Lake of Constellations]], [[The North-East Forests]]
+# Description:
+Storm Conduits had the express purpose of 

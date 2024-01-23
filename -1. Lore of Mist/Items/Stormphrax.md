@@ -1,6 +1,7 @@
 Regional location: island-wide
 Subsections: dominantly found buried in [[The North-West Highlands]] and [[The North-East Forests]], specifically [[The Twilight Woods]].
 
+> When beholden, the onlookers eyes flash with burst of crackling energy resonating deep within this strange crystal. You feel warm and cold at the same time in the face of its power. Try to move it in darkness and even the strongest of titans would fail miserably. Only in the perfect glow of twilight can you even think to lift this strange material.
 # Description: 
 A gemstone of pure, untouched lightning. Formed when a lightning bold strikes into the earth, Stormphrax is rare and sought after. It glows with a light like no other and has a rare property of becoming unimaginably heavy if left in pure darkness. 
 # Formation:
@@ -11,7 +12,12 @@ Unlike most other ores, Stormphrax must be extracted in the light of twilight. I
 Stormphrax has a number of usages, but its two main ones are in healing and in weaponry:
 
 **Healing with Stormphrax:**
-Stormphrax, in careful dosages, can me mixed with healing potions. Too much added and the potion can kill its drinker and too little added is just a waste. If a perfect amount is added, it changes the healing dice from a d4 to a d10. A healing potion made in this manner is now called a 'Phrax-addled' potion and costs **5x** the original amount.
+Stormphrax, in careful dosages, can me mixed with healing potions. Too much added and the potion can kill its drinker and too little added is just a waste. If a perfect amount is added, it changes the healing dice from a d4 to a d10. A healing potion made in this manner is now called a 'Phrax-addled' potion and costs **5x** the original amount. If the potion is poorly mixed the amount the potions would heal (using the d4 amount for the potion) is instead dealt as lightning damage to the drinker. 
 
 **Weapons with Stormphrax:**
-A weapon with Stormphrax imbued into the metal adds an additional 1d6 lightning damage to the attacks with the weapons. It also causes the weapon to glow dimly for 10 feet as if casting the area into a bluish twilight.
+A weapon with Stormphrax imbued into the metal adds an additional 1d6 lightning damage to the attacks with the weapons. It also causes the weapon to glow dimly for 10 feet as if casting the area into a bluish twilight. Some powerful Stormphrax weapons have other abilities like being able to cast spells like lightning bolt, chain lightning, or call lightning once per day (resetting at dawn).
+
+# Refining Stormphrax:
+Stormphrax is exceptionally difficult to refine. It requires the refiner to crush a fragment of Stormphrax **exactly** as twilight occurs, at the shift of day to night. If one attempts to crush it before or after this crux, an immense explosion occurs. Refer to the rules about [[damage by level and severity]] with an increasing amount of Stormphrax crushed equating to a higher severity.
+
+However, if the refiner can correctly deduce the exact time of twilight and crush the Stormphrax fragment at precisely the correct time, the fragment gets refined into Stormphrax Powder, a much more forgiving and workable substance. 

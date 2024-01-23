@@ -22,6 +22,8 @@ Slug is still a novice dagger smith.
 
 Slug would make daggers for trade and sail with his crew up the coast to market. 
 Proficient with smithing tools after learning in depth his trade from [[Master Smith Claudia]]. 
+# Slug's Pantheon:
+
 # Jackson's Goals:
 - Liked the dynamic map design and crazy environments for combats. Liked the Tinder fight from Tomb of Annihilation.
 - Like both combat and role play.

@@ -4,8 +4,11 @@ They are Keys, a part of the legacy left by [[The Many]]. Shards are what the fe
 # The Distinction between Shards and Keys:
 In texts written by [[The Many]], the 'Shards' are called 'Keys' since that is their name to [[The Many]]. However, in any discussion outside of texts, carvings, and direct messages left by [[The Many]], 'Keys' are strictly referred to as 'Shards,' and there is no idea of the names 'Keys' known to anyone on Mist.
 
+**Summary**:
+- Citizens of Mist refer to 'Keys' as 'Shards.' Text by citizens of Mist call them 'Shards.'
+- [[The Many]] refer to 'Keys' as 'Keys.' Text by [[The Many]] call them 'Keys.'
 # Properties:
-The monuments on Mist are controlled with ancient constructions known to The Many as 'Keys.' They are powerful artifacts of various shapes. There where-abouts and descriptions are as follows:
+While the Keys are powerful artifacts, they were originally keys made by ][[The Many]] to control [[The Mist Codex]] and by extension, to control [[The Aether-Veil Projector]]. Each one of [[The Many]] owning and creating a Key ensures that no single member of [[The Many]] could control any of the devices they created alone. 
 
 | Key Number | Location | Description | Ability | Memory |
 | ---- | ---- | ---- | ---- | ---- |
@@ -18,7 +21,19 @@ The monuments on Mist are controlled with ancient constructions known to The Man
 | Key 7 | ??? | ??? | ??? | ??? |
 | Key 8 | ??? | ??? | ??? | ??? |
 
-There are 8 keys -- each different. 
+Each one of [[The Many]] was responsible for creation on of the Keys. Below the creators are listed in order with the number beside the member's name corresponding to the key number in the above table.
+
+The members of The Many:
+1. [[Faustus]] - Key 1
+2. [[Marwood]] - Key 2
+3. [[Bernhard]] - Key 3
+4. [[Cleophas]] - Key 4
+5. [[DeAngelo]] - Key 5
+6. [[Mansfield]] - Key 6
+7. [[Sprague]] - Key 7
+8. [[Valentino]] - Key 8
 
 # Memory Fragments:
 Each one of the shards has inside of it, an ancient memory stored from its owner. When a creature touches the shard for the first time, or any time after that point if they concentrate, that creature can tap into the memory stored within the shard. This might be a small recollection of how the shard was used, a personal memory whilst on the island, or something more revealing about the actual usage of the shard -- you choose Ethan!
+
+Regardless of the memory that each shard holds, it will be a memory from the member of [[The Many]] that created the key. Example: A memory stored within Key 1 would be a memory made by [[Faustus]] and it would be from their perspective. 

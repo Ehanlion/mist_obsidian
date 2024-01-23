@@ -38,31 +38,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Mansfield.md",
+                "file": "-1. Lore of Mist/Items/Shards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "524fce97aa3feb69",
         "type": "tabs",
         "dimension": 54.70494417862838,
         "children": [
-          {
-            "id": "7e08332ada0589b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
           {
             "id": "b5e6cbcb2d648a08",
             "type": "leaf",
@@ -75,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-1. Lore of Mist/Items/Shards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-1. Lore of Mist/Items/Shards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "-1. Lore of Mist/Items/Shards.md"
+              }
             }
           }
         ]
@@ -199,45 +191,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e87e4dfa6d9bf35",
+  "active": "2c4e83009121bc93",
   "lastOpenFiles": [
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Mansfield.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Valentino.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Sprague.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Untitled",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Faustus.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Bernhard.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/DeAngelo.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Marwood.md",
-    "0. The North-West Highlands/Towns, Cities/North West Town Ordering.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight",
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many",
-    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_1.md",
-    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_2.md",
-    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_3.md",
-    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_Test_2.md",
-    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_Test_1.md",
-    "-1. Lore of Mist/Great Events/The Reckoning of The Many.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "-1. Lore of Mist/Great Features/Bunker 1.md",
-    "-1. Lore of Mist/Great Features/CONSOLE",
-    "-1. Lore of Mist/Deities/The Storm Lord.md",
-    "-1. Lore of Mist/Deities/Waukeen.md",
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "-1. Lore of Mist/Great Events/The Red Moon.md",
+    "-1. Lore of Mist/Great Events/The Final Day of The Many.md",
     "-1. Lore of Mist/Items/Shards.md",
+    "-1. Lore of Mist/Items/Stormphrax.md",
+    "-1. Lore of Mist/Great Events/The Calamitous Typhoon.md",
+    "-1. Lore of Mist/Great Events/The Moon-Fall Resurgence.md",
+    "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Runewilds.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
+    "99. Player Data/Slug Stoll.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The All-Hammer.md",
+    "-1. Lore of Mist/Pantheon of Mist/The Prime Deities.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Faustus.md",
+    "-1. Lore of Mist/Pantheon of Mist/Other",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities",
+    "-1. Lore of Mist/Pantheon of Mist/Waukeen.md",
+    "-1. Lore of Mist/Great Features/The Divine Barrier.md",
+    "-1. Lore of Mist/Great Features/The Mist Codex.md",
+    "-1. Lore of Mist/Great Features/The Shrouds of the Frost-Bound Wardens.md",
+    "-1. Lore of Mist/Great Features/Where the Oceans Lead.md",
+    "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
+    "-1. Lore of Mist/Great Features/Archaic Storm Conduits.md",
     "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
-    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+    "-1. Lore of Mist/Pantheon of Mist/Other/The Storm Lord.md",
+    "-1. Lore of Mist/Items/The Greatest of the Great.md",
+    "-1. Lore of Mist/Items/The Rune of Opening.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Untitled",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight",
+    "-1. Lore of Mist/NPCs, Creatures/The Many",
+    "-1. Lore of Mist/Great Features/CONSOLE",
     "_Assets/The blinded dungeon.png",
     "0. The North-West Highlands/Side-Quests",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/Features",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City",
-    "GM Screen/spells",
-    "GM Screen/DCs",
     "_Assets/dark woods 1.png",
     "_Assets/Deep woods and twilight woods border.png",
     "_Assets/Hope town black tide reapers.png",
