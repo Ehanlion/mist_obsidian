@@ -2,4 +2,4 @@
 
 The Storm Lord is a multi-universal being. His power is not even comparable to any of the normal pantheon of gods that would be present in a setting like the Swords Coast. He chooses champions who's souls he will carry with him across dimensions, assuring those who walk with him have a place amidst his heroes forever. 
 
-His champion on Mist is [[Wake]], who he found during [[The Calamitous Typhoon]], the storm he brought with him the first and only time he visited the island. 
+ 
