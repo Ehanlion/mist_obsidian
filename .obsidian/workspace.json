@@ -38,8 +38,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/Items/Shards.md",
+                "file": "99. Brainstorming/The Followers of Alsolace/The Good God Alsolace.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/Items/Shards.md",
+                "file": "99. Brainstorming/The Followers of Alsolace/The Good God Alsolace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/Items/Shards.md",
+                "file": "99. Brainstorming/The Followers of Alsolace/The Good God Alsolace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/Items/Shards.md"
+                "file": "99. Brainstorming/The Followers of Alsolace/The Good God Alsolace.md"
               }
             }
           }
@@ -193,10 +194,18 @@
   },
   "active": "2c4e83009121bc93",
   "lastOpenFiles": [
+    "99. Brainstorming/The Followers of Alsolace/Erstorndin.md",
+    "99. Brainstorming/The Followers of Alsolace/The Good God Alsolace.md",
+    "99. Brainstorming/The Followers of Alsolace/Alsolace.md",
+    "99. Brainstorming/The Followers of Alsolace",
+    "0. The North-West Highlands/The North-West Highlands.md",
+    "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
+    "-1. Lore of Mist/Items/Shards.md",
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
     "-1. Lore of Mist/Great Events/The Red Moon.md",
     "-1. Lore of Mist/Great Events/The Final Day of The Many.md",
-    "-1. Lore of Mist/Items/Shards.md",
     "-1. Lore of Mist/Items/Stormphrax.md",
     "-1. Lore of Mist/Great Events/The Calamitous Typhoon.md",
     "-1. Lore of Mist/Great Events/The Moon-Fall Resurgence.md",
@@ -215,13 +224,6 @@
     "-1. Lore of Mist/Great Features/The Mist Codex.md",
     "-1. Lore of Mist/Great Features/The Shrouds of the Frost-Bound Wardens.md",
     "-1. Lore of Mist/Great Features/Where the Oceans Lead.md",
-    "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
-    "-1. Lore of Mist/Great Features/Archaic Storm Conduits.md",
-    "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
-    "-1. Lore of Mist/Pantheon of Mist/Other/The Storm Lord.md",
-    "-1. Lore of Mist/Items/The Greatest of the Great.md",
-    "-1. Lore of Mist/Items/The Rune of Opening.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Untitled",
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight",
     "-1. Lore of Mist/NPCs, Creatures/The Many",
@@ -229,7 +231,6 @@
     "_Assets/The blinded dungeon.png",
     "0. The North-West Highlands/Side-Quests",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/Features",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs",
     "_Assets/dark woods 1.png",
     "_Assets/Deep woods and twilight woods border.png",
     "_Assets/Hope town black tide reapers.png",
