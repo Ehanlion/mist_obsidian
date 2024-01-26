@@ -18,4 +18,5 @@ The following is a itemized and chronological list of how the followers take up 
 4. The follower preaches that these small mis comings are the byproduct of [[Erstorndin]] at work and that worse is yet to come. 
 5. Small raids of bandits that claim to be emissaries of [[Erstorndin]] begin to harass the town. These bandits work alongside the follower and the followers of [[Alsolace]] and share in the profits. 
 6. Gradually, the follower of [[Alsolace]] will offer his god's help to stop these bandits of [[Erstorndin]] by constructing a shrine to [[Alsolace]] in the town, empowered by offerings of gold.
-7. After enough raids the townspeople give in and the raids begin to slow down. After the follower deems the town milked dry, the follower takes the gold from the shrine and leaves in the dead of night.
+7. At some point, the raiders will come to the village with the followers of [[Alsolace]] and it is there that, with the power of song, the followers of [[Alsolace]] will repel the invaders. Of course, the invaders work with the followers, so it is all just a staged act.
+8. After enough raids the townspeople give in and the raids begin to slow down. After the follower deems the town milked dry, the follower takes the gold from the shrine and leaves in the dead of night.
