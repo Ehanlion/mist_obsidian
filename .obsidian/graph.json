@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "file:Many",
+      "color": {
+        "a": 1,
+        "rgb": 4521728
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 11.3020833333333,
   "linkStrength": 0.778645833333333,
   "linkDistance": 30,
-  "scale": 0.07643695230615767,
+  "scale": 0.15024111371693954,
   "close": true
 }

@@ -1,3 +1,7 @@
-*In the beginning people murmured about the raging storm off the northern coast. They said it wouldn't blow over Mist. They said it would run its course within the week. They were wrong. They were very wrong. For a month the storm raged. Battering the coasts of Mist with all its might. The waves crashes in anger against the tall white cliffs. No boat dared sail the sea, all save for one. But no one know its fate for it was never seen again. Those who dared stand atop the tall cliffs of the [[The North-West Highlands]] or [[The South-East Coast]] recall seeing a scaly monstrosity slipping between massive waves far out in the sea, occluded by whipping winds and black clouds. Few believe the tales of those who remember such a thing, and fewer even still remember the tale.*
+Regional Description: [[The North-West Highlands]], [[The North-East Forests]], [[The South-East Coast]]
+Subsection: The Coast bordering [[The Distant Sea]] and [[The Sea of Contention]]
 
-This storm was brought by [[The Storm Lord]] a few years before the party hopefully forms. It is the storm into which [[Wake]] walked to gain her heroic connection to [[The Storm Lord]].
+# Description
+
+# Summoning:
+
