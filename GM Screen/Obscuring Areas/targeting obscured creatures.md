@@ -1,3 +1,6 @@
+Rules Index: [[D&D Game Mechanics]]
+
+# Description:
 Sometime you may find that you have to attack a creature that is [[invisible]] or [[heavily obscured]]. This can be challenging, so here are some of my go-to rulings for this:
 1. Anything requiring 'a target you can see fails'
 2. Anything requiring 'a point you can see' fails if the area is obscured -- you can't see a point, only obscurity.

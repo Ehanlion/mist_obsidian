@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+
 Travel pace determines the speed at which a group can move through a large world. If they wish to stay together, the group is limited by their slowest member. 
 
 **Slow Pace**:

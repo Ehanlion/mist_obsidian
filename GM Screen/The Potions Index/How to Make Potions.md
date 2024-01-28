@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+
 Potion making is a complex task. Here are the core components a player needs:
 1. A potion making level
 2. Proficiency in harvesting tools e.g. Alchemist's, Poisoner's, or Herbalism kit.

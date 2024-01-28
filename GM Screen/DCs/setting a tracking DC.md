@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 Guidelines for setting a DC to track a target. 
 
 *Set the base DC using the type of surface that was being travelled over*:

@@ -1,4 +1,6 @@
-Jumping is limited by your strength score as dictated in the [[high jump]] and [[long jump]] rule sets. However, it makes sense for a character to be able to attempt an athletics check versus a DC in order to jump further.
+Rules Index: [[D&D Game Mechanics]]
+# Description:
+Jumping is limited by your strength score as dictated in the [[high jump]] and [[long jump]] rule sets. However, it makes sense for a character to be able to attempt an **athletics** or **acrobatics** check versus a DC in order to jump further.
 
 	To jump further: DC = 5 + # Feet over max, rounded up to nearest 5.
 

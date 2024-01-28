@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 To get to long jump, you must first move 10+ feet towards the point you wish to jump from. You can then horizontally jump a number of feet equal to your strength *score* (not modifier, your score).
 
 **Jumping further**:

@@ -1,4 +1,5 @@
-Death Saving Throws:
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 -  If a player is making death saving throws they are considered [[unconscious]].
 -  On every turn, the player rolls a d20 with no modifier. (it is considered an ability check though). 
 	-  If the result is less than 10, they fail a death save.

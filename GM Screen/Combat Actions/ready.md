@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 You wait for a particular circumstance before you act, which lets you act using your reaction before the start of your next turn. 
 **How the reaction can be used**:
 -  You must choose a trigger that will cause you to use your reaction. This is done ahead of time when you use the ready action.

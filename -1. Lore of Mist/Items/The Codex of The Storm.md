@@ -8,7 +8,7 @@ The book has a ritual in it that spans many pages detailing the long and arduous
 To read the ritual requires numerous conditions to be satisfied:
 1. **Charisma:** A creature needs at least 13 charisma
 2. **Alignment:** Since the ritual summons a devastating storm, your character cannot be Neutral or Lawful Good Aligned.
-3. **Language:** The ritual texts can only be read by someone that can read Celestial.
+3. **Language:** The ritual texts can only be read by someone that can read Primordial. 
 4. **Religion:** The ritual texts require, in their preamble that anyone who wishes to pursue reading them swear off all other divine influence for all of time. That means no devotion or alignment to any god, deity, or powerful being. 
 # The Location of the Codex:
 The codex was an ancient artifact, one that was stored in the library of [[The Blue Coat Brigade]] in [[Hope Town]]. It is a jealously guarded artifact and one that requires the utmost of confidence from [[Pavel Hard]] to be told about.

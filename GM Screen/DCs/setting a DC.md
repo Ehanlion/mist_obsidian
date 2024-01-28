@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 Guidelines for ballpark for a DC to be set on the fly.
 
 **Very Easy**: DC 5

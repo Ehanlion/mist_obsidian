@@ -1,4 +1,5 @@
- **Petrified**
+Rules Index: [[D&D Game Mechanics]]
+# Description:
  - A petrified creature is transformed, along with any *non-magical* items that it is wearing or carrying, into a solid inanimate substance (usually stone, good for flavor to be dependent on the cause of the condition). 
  -  The petrified creature, after turning to an inanimate substance, 10x in weight and ceases to age. 
  -  Attack rolls made against the creature have [[advantage]]. 

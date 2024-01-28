@@ -13,7 +13,7 @@ You can endure a number of heat points before making the constitution saving thr
 
 If at any point your **current** heat points equal to you **maximum** heat points, you instantly make a DC 20 constitution saving throw, on a failure gaining a level of exhaustion. Your heat points immediately reset to zero upon making this saving throw, regardless of a failure or success on the save. 
 
-This ruling will use [[new ONEDND exhaustion]] rulings alongside it to make exhaustion a little more potent. 
+This ruling will use [[exhaustion (OneD&D)]] rulings alongside it to make exhaustion a little more potent. 
 
 # The Fight:
 This fight would take place over heated lava with catwalks and walkways floating atop the lava. It is designed to be brutal, unforgiving and dangerous. There can even be building remnants sticking out of the lava and maybe if they are attacked they can begin to sink. 

@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 You can hold you breath for a number of minutes equal to 1+ your constitution modifier. 
 **What can make you lose your breath?**
 -  I like to play that damage taken while holding your breath might cause you to lose your breath and suffocate. Players make a constitution save versus DC 10 or half the damage taken (whichever is higher). If they fail, they cough and exhale their breath and begin to suffocate. 

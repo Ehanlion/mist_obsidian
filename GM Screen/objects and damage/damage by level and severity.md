@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 For average HP, I assume a hit die of a d8, and a constitution score of 14 (for +2 HP per level). I calculate the HP of a player at the middle of the level range for each level bracket:
 
 **Level 1-4** (level 2 avg HP: 17)

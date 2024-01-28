@@ -1,4 +1,5 @@
- Unconscious
+Rules Index: [[D&D Game Mechanics]]
+# Description:
  -  An unconscious creature is [[incapacitated]], and additionally becomes unaware of its surroundings.
  -  The creature drops whatever it is holding and falls prone.
  -  The creature automatically fails all strength and dexterity saving throws.

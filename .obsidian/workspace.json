@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Player Data/Wake.md",
+                "file": "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
         "dimension": 54.70494417862838,
         "children": [
           {
-            "id": "b5e6cbcb2d648a08",
+            "id": "42cf1f3ea3364d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 281.5
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Player Data/Wake.md",
+                "file": "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Player Data/Wake.md",
+                "file": "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Player Data/Wake.md"
+                "file": "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md"
               }
             }
           }
@@ -191,35 +191,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c463d6e74c344419",
+  "active": "2c4e83009121bc93",
   "lastOpenFiles": [
-    "-1. Lore of Mist/Items/The Codex of The Storm.md",
-    "-1. Lore of Mist/Great Events/The Calamitous Typhoon.md",
-    "-1. Lore of Mist/Great Events/The Red Moon.md",
-    "-1. Lore of Mist/Great Events/The Moon-Fall Resurgence.md",
-    "-1. Lore of Mist/Great Events/The Final Day of The Many.md",
-    "99. Brainstorming/_To-Do List.md",
-    "99. Brainstorming/The Followers of Alsolace/The Followers of Alsolace.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_1.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_2.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_3.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_4.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_5.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_7.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_6.md",
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
-    "GM Screen/Ethan's Player Mechanics/Unfinished/Counterspell Surge.md",
-    "GM Screen/Ethan's Player Mechanics/mechanics.md",
-    "99. Brainstorming/The Followers of Alsolace/Tennyson Heralds.md",
-    "99. Brainstorming/The Followers of Alsolace/Erstorndin.md",
-    "99. Brainstorming/The Followers of Alsolace/Alsolace.md",
-    "99. Brainstorming/The Followers of Alsolace/The Good God Alsolace.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/ENCRY_MANSFIELD.md",
+    "-1. Lore of Mist/Great Features/CONSOLE/ENCRY_MANSFIELD_EMRG.md",
+    "README.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 1xNWH.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 6xSWD.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 5xSEC.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 2xNEF.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 3xHMP.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 4xSEM.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER",
+    "GM Screen/Free Action System.md",
+    "99. Player Data/_Inheriting_this_Vault.md",
+    "GM Screen/Conditions/resistance.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "GM Screen/Ethan's Item Sheet.md",
+    "GM Screen/D&D Optional Mechanics.md",
+    "GM Screen/D&D Game Mechanics.md",
     "99. Brainstorming/The Followers of Alsolace",
-    "0. The North-West Highlands/The North-West Highlands.md",
-    "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
-    "-1. Lore of Mist/Items/Shards.md",
-    "-1. Lore of Mist/Items/Stormphrax.md",
-    "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Runewilds.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
-    "99. Player Data/Slug Stoll.md",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The All-Hammer.md",
-    "-1. Lore of Mist/Pantheon of Mist/The Prime Deities.md",
     "-1. Lore of Mist/Pantheon of Mist/Other",
     "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
     "-1. Lore of Mist/Pantheon of Mist/Prime Deities",
@@ -229,7 +229,6 @@
     "-1. Lore of Mist/Great Features/CONSOLE",
     "_Assets/The blinded dungeon.png",
     "0. The North-West Highlands/Side-Quests",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/Features",
     "_Assets/dark woods 1.png",
     "_Assets/Deep woods and twilight woods border.png",
     "_Assets/Hope town black tide reapers.png",

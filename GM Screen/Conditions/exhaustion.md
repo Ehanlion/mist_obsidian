@@ -1,4 +1,5 @@
- **Exhaustion**
+Rules Index: [[D&D Game Mechanics]]
+# Description:
  -  There are 6 levels of exhaustion. 
 	 -  Level 1: [[disadvantage]] on ability checks.
 	 -  Level 2: speed halved.
@@ -13,3 +14,6 @@
 	-  For every hour over 8 hours travelled, add +1 to the DC.
 	-  For very hot weather, add +3 to the DC.
 	-  For very rainy or cold weather, add +3 to the DC.
+
+# Replacing this System:
+This system is archaic and not fun and will be replaced in Mist by [[exhaustion (OneD&D)]] rules instead.

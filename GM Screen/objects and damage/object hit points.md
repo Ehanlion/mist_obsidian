@@ -1,3 +1,6 @@
+Rules Index: [[D&D Game Mechanics]]
+
+# Description: 
 Categorize hit points by object size, let the object material determine the object's AC. Obviously use judgement, the small iron door, wouldn't have 10 HP, it might have 50 HP. 
 
 **Tiny**: 

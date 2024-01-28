@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+
 [Excellent source on heavily obscuring and combat](https://arcaneeye.com/mechanic-overview/heavily-obscured-5e/#:~:text=The%20Basics%20of%20Heavily%20Obscured%20Areas%20in%20D%26D%205e,-In%20D%26D%205e&text=When%20in%20an%20area%20considered,their%20attack%20rolls%20have%20disadvantage.) 
 
 **Effect**

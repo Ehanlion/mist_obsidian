@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 If a spell must be maintained with concentration the following are the rules that govern that:
 -  The spell determines if it is, in fact, a concentration spell and the maximum duration you can hold concentration on it before the spell ends.
 -  You can end concentration at any time without expending an action.

@@ -8,7 +8,7 @@ Before her awakening, she lived along the South Eastern Coast in and amidst the 
 
 Wake heard about, in contiguous dealings with [[Pavel Hard]] of [[The Blue Coat Brigade]] in [[Hope Town]], about an artifact that the group coveted called [[The Codex of The Storm]]]
 
-She has notoriety along the coast as sort of an enigma. She isn't necessarily high praised, but just known. She is called:
+They had notoriety along the coast as sort of an enigma. They aren't necessarily high praised, but just known. They are called:
 - The King of the Beach (earnable title later!)
 - The Living Disaster
 

@@ -1,3 +1,7 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
+The following is a classification of skills by their associated ability score.
+
 *Abilities that deal with HOW you are able to use your strength. It is your skill in being strong and your training in directing that strength.*
 **Strength abilities**:
 -  Athletics

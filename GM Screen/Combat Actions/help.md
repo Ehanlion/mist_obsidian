@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 **Things you can do to help a creature**:
 -  You help one creature with a task, giving that creature [[advantage]] on the next ability check it makes for that task. 
 -  You distract an enemy creature withing 5 feet of you, giving the next attack roll an ally makes against that creature [[advantage]]. 

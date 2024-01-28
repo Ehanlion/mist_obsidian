@@ -1,3 +1,5 @@
+Rules Index: [[D&D Optional Mechanics]]
+
 Example homebrewed systems:
 1. [Reddit Guy](https://www.reddit.com/r/DnDHomebrew/comments/vpxsh4/action_overhaul_remastered_actions_for_more/)
 2. [Stealing from Pathfinder](https://2e.aonprd.com/Rules.aspx?ID=311)

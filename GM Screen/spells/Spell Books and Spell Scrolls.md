@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+
 This note will add information about how to use spell books and spells scrolls. These are a core part of the wizard class and since [[Kelswin Lovejoy]] is a wizard, this will probably help out monitoring these mechanics for them. 
 #### A note on spell ink:
 Spell ink is creatable. Refer to the Spell Ink crafting recipes in [[Potions with Alchemist's Supplies]]. One vial of spell ink can cover ONE spell of appropriate level. Wizards are going to need A LOT of ink.

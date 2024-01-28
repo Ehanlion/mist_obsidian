@@ -1,4 +1,5 @@
- **Restrained**
+Rules Index: [[D&D Game Mechanics]]
+# Description:
  -  A restrained creature's speed becomes zero, and it can't benefit from any bonus to its speed.
  -  Attack rolls against the creature have [[advantage]] and the restrained creature's attack are made with [[disadvantage]]. 
  -  The creature has [[disadvantage]] on dexterity saving throws. 

@@ -3,3 +3,5 @@
 
 # A Blurb From the Author:
 Mist is Ethan's creation for a dungeons and dragons campaign. It is NOT complete; what project ever is? It should feel magical and compelling. I hope to evoke my player's emotions and senses with every description I give. The cool salty breezes of the cliffsides or the hot winds of the desert, the granules of sand ripping small cuts across your exposed skin. Maybe the cold peaks of the mountains, your numb ears can hear the baying of a winter wolf far in the distance. It needs to feel alive. And it will be vibrant, in every description I narrate. - Ethan
+
+(Link to [[D&D Game Mechanics]]).

@@ -1,5 +1,7 @@
-The new system of exhaustion introduced by ONEDND is ruled as follows. I think it is both harsher and more forgiving than the original exhaustion system.
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 
+The new system of exhaustion introduced by ONEDND is ruled as follows. I think it is both harsher and more forgiving than the original exhaustion system.
 # Mechanics:
 For every level of exhaustion a player has, they gain a -1 modifier to all d20 rolls. Yes, that means attacks, saves, checks -- anything that requires a d20 to roll you gain this negative modifier to. 
 

@@ -1,3 +1,5 @@
+Rules Index: [[D&D Game Mechanics]]
+# Description:
 To get to high jump, you must first move 10+ feet towards the point you wish to jump from. You can jump vertically a number of feet equal to your strength modifier plus your proficiency bonus (by RAW it is just +3, but I like it scaling with proficiency instead). If you do not more 10+ feet first, you can jump only half this distance.
 
 Good home-rule: I like the idea that doing this allows you to *reach* your high jump height + a number of feet based on your size:
