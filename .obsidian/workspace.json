@@ -6,7 +6,7 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 45.29505582137162,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "0e87e4dfa6d9bf35",
@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "2c4e83009121bc93",
+            "id": "5a8e276d8ea46df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
+                "file": "0. The Discordant Plains/Features/The Solemn Flutes.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,25 +46,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "524fce97aa3feb69",
-        "type": "tabs",
-        "dimension": 54.70494417862838,
-        "children": [
-          {
-            "id": "42cf1f3ea3364d7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
+                "file": "0. The Discordant Plains/Features/The Solemn Flutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
+                "file": "0. The Discordant Plains/Features/The Solemn Flutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md"
+                "file": "0. The Discordant Plains/Features/The Solemn Flutes.md"
               }
             }
           }
@@ -191,8 +172,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c4e83009121bc93",
+  "active": "5a8e276d8ea46df6",
   "lastOpenFiles": [
+    "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods/The Betrayer Gods.md",
+    "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods",
+    "0. The Discordant Plains/Features/The Solemn Flutes.md",
+    "GM Screen/Conditions/restrained.md",
+    "GM Screen/Conditions/grappled.md",
+    "0. The Discordant Plains/Events/The Dissonant Ringing.md",
+    "0. The Discordant Plains/Features/The Vast Sand Shelf.md",
+    "0. The Discordant Plains/NPCs/The Lost Prowlers.md",
+    "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
+    "GM Screen/Ethan's Gambling Games/Black-wing's Duels.md",
+    "GM Screen/Ethan's Gambling Games/Silver-wing's Duels.md",
+    "GM Screen/Ethan's Gambling Games/Hands of Fate.md",
+    "GM Screen/Ethan's Gambling Games/Tamora's Twisted Twenty.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "_Assets/Obelisk field in north sea.png",
+    "_Assets/Macro view of deep woods and dark woods.png",
+    "_Assets/karak-ulgurath the crab lord.png",
+    "_Assets/Hope town the blue coats.png",
+    "_Assets/Hope town hugos arena.png",
+    "_Assets/Hope town fedorovs legion.png",
+    "_Assets/Hope town black tide reapers.png",
+    "_Assets/Deep woods and twilight woods border.png",
+    "_Assets/dark woods 1.png",
+    "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
     "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_1.md",
     "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_2.md",
     "-1. Lore of Mist/Great Features/CONSOLE/DataLog_AVP_3.md",
@@ -204,21 +210,7 @@
     "-1. Lore of Mist/Great Features/CONSOLE/ENCRY_MANSFIELD.md",
     "-1. Lore of Mist/Great Features/CONSOLE/ENCRY_MANSFIELD_EMRG.md",
     "README.md",
-    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 1xNWH.md",
-    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Operation Mole-Rat.md",
-    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 6xSWD.md",
-    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 5xSEC.md",
-    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 2xNEF.md",
-    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 3xHMP.md",
-    "-1. Lore of Mist/Great Features/PROJ_BUNKER/Bunker 4xSEM.md",
     "-1. Lore of Mist/Great Features/PROJ_BUNKER",
-    "GM Screen/Free Action System.md",
-    "99. Player Data/_Inheriting_this_Vault.md",
-    "GM Screen/Conditions/resistance.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "GM Screen/Ethan's Item Sheet.md",
-    "GM Screen/D&D Optional Mechanics.md",
-    "GM Screen/D&D Game Mechanics.md",
     "99. Brainstorming/The Followers of Alsolace",
     "-1. Lore of Mist/Pantheon of Mist/Other",
     "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
@@ -227,16 +219,6 @@
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight",
     "-1. Lore of Mist/NPCs, Creatures/The Many",
     "-1. Lore of Mist/Great Features/CONSOLE",
-    "_Assets/The blinded dungeon.png",
-    "0. The North-West Highlands/Side-Quests",
-    "_Assets/dark woods 1.png",
-    "_Assets/Deep woods and twilight woods border.png",
-    "_Assets/Hope town black tide reapers.png",
-    "_Assets/Hope town fedorovs legion.png",
-    "_Assets/Hope town hugos arena.png",
-    "_Assets/Hope town the blue coats.png",
-    "_Assets/karak-ulgurath the crab lord.png",
-    "_Assets/solemn flutes 1.png",
-    "_Assets/solemn flutes.png"
+    "_Assets/The blinded dungeon.png"
   ]
 }

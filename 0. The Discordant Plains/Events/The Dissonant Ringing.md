@@ -15,6 +15,8 @@ If a player wears any ear protection, outside of **a silence spell**, they still
 
 	A player WITH ear protection, starts to make saves the moment they care hear the sounds of the plains. Only with ear protection, this is an easier feat. Make a DC 12 charisma saving throw. On a failure, the madness takes hold.
 
+# Changing the DC near the Flutes:
+The closer the party gets to [[The Solemn Flutes]], the higher the save DC is against the Dissonant Ringing. If the party is within 30 miles of [[The Solemn Flutes]], the DC of the save increases by 3. 
 #### Stages of Madness:
 A player is considered 'gone to the madness' if they fail 3 more times than they succeed. This is best demonstrated with an example:
 
