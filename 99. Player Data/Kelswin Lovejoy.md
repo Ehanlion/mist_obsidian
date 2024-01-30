@@ -32,7 +32,12 @@ He might get tricked for being too trusting.
 
 ### Why Divination magic:
 Kelswin loves that the heroes in the books seemed to be fated to win. He recognized them as stories, but was driven by the thought of "could I make that a reality?"
-
+# Languages:
+Kelswin knows:
+1. Common
+2. Sylvan
+3. Draconic
+4. Celestial
 # Chris's Goals:
 - Maybe Kelswin will find his real parents in the wilds and confront them.
 - Large scale mysteries and intrigue

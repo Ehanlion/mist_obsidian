@@ -40,6 +40,10 @@ Fun stuff:
 	- Tactics. Creating a plan and executing it. 
 - General puzzles, e.g. puzzle rooms
 - general mystery
-
+# Languages:
+Wake knows:
+1. Common
+2. Aquan
+3. Primordial
 #### Added during play:
 - Wake is hunting two members of [[Fedorov's Legion]], named [[Dmitri Mironov]] and [[Igor Larionov]], for their crimes of murder against [[The Blue Coat Brigade]]. Wake was given 90 gp from [[Pavel Hard]] for this mission and also got a black riding horse from [[Gandoras City]]. 

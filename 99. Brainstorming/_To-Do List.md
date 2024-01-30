@@ -12,3 +12,5 @@ Add tasks as they come up. Do not pre-create this list, but rather update it as 
 - [ ] Come up with side quests in the north west highlands
 - [ ] finish smears burrow and saddle port to completion
 - [ ] prep a couple encounters with the followers of karak ulgurath 
+- [ ] figure out a clean way to put details about a many-related location at the top of the note 
+- [ ] designate an architect from the many for each many-related location
