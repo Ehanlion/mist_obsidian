@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md"
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md"
               }
             }
           }
@@ -173,11 +173,17 @@
   },
   "active": "5a8e276d8ea46df6",
   "lastOpenFiles": [
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Runewilds.md",
+    "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
+    "-1. Lore of Mist/Items/Stormphrax.md",
+    "-1. Lore of Mist/Items/The Codex of The Storm.md",
+    "-1. Lore of Mist/Items/Shards.md",
+    "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
     "0. The South-East Mountains/NPCs/The Followers of Grumbar/Grumbar.md",
     "0. The South-East Mountains/Towns, Cities/The Labyrinth of Stone.md",
     "0. The South-East Mountains/Features/The Mountains/Slumbering Mount.md",
     "0. The South-East Mountains/Features/The Sun-lost Aphelion.md",
-    "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
     "-1. Lore of Mist/Great Features/The Mist Codex.md",
     "-1. Lore of Mist/Great Features/The Divine Barrier.md",
     "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
@@ -188,19 +194,13 @@
     "99. Brainstorming/_To-Do List.md",
     "-1. Lore of Mist/Great Features/CONSOLE/The CONSOLE.md",
     "_Assets/Mist CONSOLE Room.jpg",
-    "-1. Lore of Mist/Items/The Codex of The Storm.md",
     "-1. Lore of Mist/Items/The Greatest of the Great.md",
     "-1. Lore of Mist/Items/The Rune of Opening.md",
     "99. Player Data/Deion Deus.md",
     "99. Player Data/Wake.md",
     "99. Player Data/Kelswin Lovejoy.md",
     "-1. Lore of Mist/Language in Mist.md",
-    "0. The Discordant Plains/Features/The Solemn Flutes.md",
-    "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods/The Betrayer Gods.md",
     "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods",
-    "GM Screen/Conditions/restrained.md",
-    "GM Screen/Conditions/grappled.md",
-    "0. The Discordant Plains/Events/The Dissonant Ringing.md",
     "_Assets/Obelisk field in north sea.png",
     "_Assets/Macro view of deep woods and dark woods.png",
     "_Assets/karak-ulgurath the crab lord.png",

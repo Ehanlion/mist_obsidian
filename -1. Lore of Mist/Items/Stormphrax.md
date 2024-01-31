@@ -15,8 +15,7 @@ Stormphrax has a number of usages, but its two main ones are in healing and in w
 Stormphrax, in careful dosages, can me mixed with healing potions. Too much added and the potion can kill its drinker and too little added is just a waste. If a perfect amount is added, it changes the healing dice from a d4 to a d10. A healing potion made in this manner is now called a 'Phrax-addled' potion and costs **5x** the original amount. If the potion is poorly mixed the amount the potions would heal (using the d4 amount for the potion) is instead dealt as lightning damage to the drinker. 
 
 **Weapons with Stormphrax:**
-A weapon with Stormphrax imbued into the metal adds an additional 1d6 lightning damage to the attacks with the weapons. It also causes the weapon to glow dimly for 10 feet as if casting the area into a bluish twilight. Some powerful Stormphrax weapons have other abilities like being able to cast spells like lightning bolt, chain lightning, or call lightning once per day (resetting at dawn).
-
+A weapon with Stormphrax imbued into the metal adds an additional 1d6 lightning damage to the attacks with the weapons. It also causes the weapon to glow dimly for 10 feet as if casting the area into a bluish twilight. Some powerful Stormphrax weapons have other abilities like being able to cast spells like lightning bolt, chain lightning, or call lightning once per day (resetting at dawn). 
 # Refining Stormphrax:
 Stormphrax is exceptionally difficult to refine. It requires the refiner to crush a fragment of Stormphrax **exactly** as twilight occurs, at the shift of day to night. If one attempts to crush it before or after this crux, an immense explosion occurs. Refer to the rules about [[damage by level and severity]] with an increasing amount of Stormphrax crushed equating to a higher severity.
 
