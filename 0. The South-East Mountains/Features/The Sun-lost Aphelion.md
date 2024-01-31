@@ -1,6 +1,5 @@
 Regional location: [[The South-East Mountains]]
 Subsection: Atop [[Dragonswing Peak]]
-
 # Description:
 An Aphelion is the furthest distance a planet travels from its sun. The Sun-Lost Aphelion is a small temple atop [[Dragonswing Peak]]. Once per year, at sunrise, the sun perfectly casts light into the temple. When this happens, healing beyond anything capable of magic can occur.
 # Healing from the Aphelion

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/The Mist Codex.md",
+                "file": "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/The Mist Codex.md",
+                "file": "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/The Mist Codex.md",
+                "file": "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/Great Features/The Mist Codex.md"
+                "file": "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md"
               }
             }
           }
@@ -173,8 +173,13 @@
   },
   "active": "5a8e276d8ea46df6",
   "lastOpenFiles": [
-    "-1. Lore of Mist/Great Features/The Divine Barrier.md",
+    "0. The South-East Mountains/NPCs/The Followers of Grumbar/Grumbar.md",
+    "0. The South-East Mountains/Towns, Cities/The Labyrinth of Stone.md",
+    "0. The South-East Mountains/Features/The Mountains/Slumbering Mount.md",
+    "0. The South-East Mountains/Features/The Sun-lost Aphelion.md",
+    "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
     "-1. Lore of Mist/Great Features/The Mist Codex.md",
+    "-1. Lore of Mist/Great Features/The Divine Barrier.md",
     "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
     "-1. Lore of Mist/Great Features/Archaic Storm Conduits.md",
     "-1. Lore of Mist/Great Features/Amides.md",
@@ -196,11 +201,6 @@
     "GM Screen/Conditions/restrained.md",
     "GM Screen/Conditions/grappled.md",
     "0. The Discordant Plains/Events/The Dissonant Ringing.md",
-    "0. The Discordant Plains/Features/The Vast Sand Shelf.md",
-    "0. The Discordant Plains/NPCs/The Lost Prowlers.md",
-    "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
-    "GM Screen/Ethan's Gambling Games/Black-wing's Duels.md",
-    "GM Screen/Ethan's Gambling Games/Silver-wing's Duels.md",
     "_Assets/Obelisk field in north sea.png",
     "_Assets/Macro view of deep woods and dark woods.png",
     "_Assets/karak-ulgurath the crab lord.png",
