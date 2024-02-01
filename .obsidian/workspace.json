@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/Ethan's Creatures.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Screen/Ethan's Creatures.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Screen/Ethan's Creatures.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM Screen/Ethan's Creatures.md"
+                "file": "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md"
               }
             }
           }
@@ -173,9 +173,10 @@
   },
   "active": "5a8e276d8ea46df6",
   "lastOpenFiles": [
+    "GM Screen/Ethan's Creatures.md",
+    "frost-bound warden.png",
     "GM Screen/Ethan's Useful Links.md",
     "GM Screen/Ethan's Item Sheet.md",
-    "GM Screen/Ethan's Creatures.md",
     "GM Screen/D&D Optional Mechanics.md",
     "GM Screen/D&D Game Mechanics.md",
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
@@ -199,7 +200,6 @@
     "99. Brainstorming/_To-Do List.md",
     "-1. Lore of Mist/Great Features/CONSOLE/The CONSOLE.md",
     "_Assets/Mist CONSOLE Room.jpg",
-    "-1. Lore of Mist/Items/The Greatest of the Great.md",
     "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods",
     "_Assets/Obelisk field in north sea.png",
     "_Assets/Macro view of deep woods and dark woods.png",
@@ -209,7 +209,6 @@
     "_Assets/Hope town fedorovs legion.png",
     "_Assets/Hope town black tide reapers.png",
     "_Assets/Deep woods and twilight woods border.png",
-    "_Assets/dark woods 1.png",
     "-1. Lore of Mist/Great Features/PROJ_BUNKER",
     "99. Brainstorming/The Followers of Alsolace",
     "-1. Lore of Mist/Pantheon of Mist/Other",
