@@ -6566,6 +6566,24 @@
       "createdDate": 1704954520365,
       "modifiedDate": 1706386700742,
       "sizeInBytes": 217
+    },
+    "GM Screen/Ethan's Creatures.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 277,
+      "nonWhitespaceCharacterCount": 240,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706750360415,
+      "modifiedDate": 1706750800986,
+      "sizeInBytes": 277
     }
   }
 }

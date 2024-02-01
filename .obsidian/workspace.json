@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
+                "file": "GM Screen/Ethan's Creatures.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
+                "file": "GM Screen/Ethan's Creatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
+                "file": "GM Screen/Ethan's Creatures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md"
+                "file": "GM Screen/Ethan's Creatures.md"
               }
             }
           }
@@ -173,9 +173,14 @@
   },
   "active": "5a8e276d8ea46df6",
   "lastOpenFiles": [
+    "GM Screen/Ethan's Useful Links.md",
+    "GM Screen/Ethan's Item Sheet.md",
+    "GM Screen/Ethan's Creatures.md",
+    "GM Screen/D&D Optional Mechanics.md",
+    "GM Screen/D&D Game Mechanics.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Runewilds.md",
     "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
     "-1. Lore of Mist/Items/Stormphrax.md",
     "-1. Lore of Mist/Items/The Codex of The Storm.md",
     "-1. Lore of Mist/Items/Shards.md",
@@ -195,11 +200,6 @@
     "-1. Lore of Mist/Great Features/CONSOLE/The CONSOLE.md",
     "_Assets/Mist CONSOLE Room.jpg",
     "-1. Lore of Mist/Items/The Greatest of the Great.md",
-    "-1. Lore of Mist/Items/The Rune of Opening.md",
-    "99. Player Data/Deion Deus.md",
-    "99. Player Data/Wake.md",
-    "99. Player Data/Kelswin Lovejoy.md",
-    "-1. Lore of Mist/Language in Mist.md",
     "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods",
     "_Assets/Obelisk field in north sea.png",
     "_Assets/Macro view of deep woods and dark woods.png",
