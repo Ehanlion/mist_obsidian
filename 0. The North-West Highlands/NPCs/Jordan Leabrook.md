@@ -1,3 +1,5 @@
+Regional Location: [[The North-West Highlands]]
+Subsection: Local guard for [[Saddle-Port]]
 # Description:
 Jordan is tall, fair looking, with brown hair. He has a jaunty smile and an easy going demeanor. He wears old, burnished half-plate and casually wields a longsword with a simple oak shield. 
 

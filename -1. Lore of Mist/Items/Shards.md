@@ -11,7 +11,7 @@ While the Keys are powerful artifacts, they were originally keys made by ][[The 
 
 | Key Number | Location | Description | Ability | Memory |
 | ---- | ---- | ---- | ---- | ---- |
-| Key 1 | Already powering an obelisk. | Appears are a small, blue sphere with burning orange fire inside of it. | When bound to a weapon, wielder can deal an additional 1d6 fire damage to a target, once per turn. | ??? |
+| Key 1 -[[Faustus]] | In the Throne of Stone within [[Gandoras City]] and [[The Seat of Stone]]. | Appears as a large, white gem with glittering gold flakes swirling inside. | When bound to an object worn by the user, gives incredible luck. Can choose to have advantage on a number of rolls equal to your proficiency bonus and gives the user the lucky feat. | ??? |
 | Key 2 | Held as a prized piece by [[Ignel Valis]] and is embedded within his staff. | Appears as a small, vibrating blue ethereal key. | When bound to an item of spell-caster, wielder's intelligence increases by 2. | ??? |
 | Key 3 | The coveted centerpiece of the Grung's society near [[Smears-burrow]]. | Appears as a large, shimmering, conch shell with green glittering markings on it.  | When blown into, it can summon a maelstrom. However if it is left in water, it cleans and purifies any water it touches as well as gives any creature living in the waters it purifies an unnaturally long life span. | ??? |
 | Key 4 | ??? | ??? | ??? | ??? |
@@ -31,7 +31,6 @@ The members of The Many:
 6. [[Mansfield]] - Key 6
 7. [[Sprague]] - Key 7
 8. [[Valentino]] - Key 8
-
 # Memory Fragments:
 Each one of the shards has inside of it, an ancient memory stored from its owner. When a creature touches the shard for the first time, or any time after that point if they concentrate, that creature can tap into the memory stored within the shard. This might be a small recollection of how the shard was used, a personal memory whilst on the island, or something more revealing about the actual usage of the shard -- you choose Ethan!
 

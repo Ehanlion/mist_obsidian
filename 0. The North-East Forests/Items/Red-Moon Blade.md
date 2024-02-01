@@ -1,3 +1,5 @@
+Regional Location: [[The Deep Woods]]
+Subsection: Forged in [[The Twilight Woods]] during [[The Red Moon]]
 # Description
 A red moon blade glows with a sinister, dark red hue. Runic carvings in the blade usually depict some ceremony to do with [[The Red Moon]]. 
 # Forging a Red-Moon Blade

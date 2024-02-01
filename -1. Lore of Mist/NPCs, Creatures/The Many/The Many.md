@@ -8,7 +8,7 @@ The members of The Many:
 2. [[Marwood]] (second in command)
 3. [[Bernhard]]
 4. [[Cleophas]]
-5. [[DeAngelo]]
+5. [[DeAngelo]] 
 6. [[Mansfield]] (lead programmer)
 7. [[Sprague]] (secondary programmer)
 8. [[Valentino]] (third programmer)

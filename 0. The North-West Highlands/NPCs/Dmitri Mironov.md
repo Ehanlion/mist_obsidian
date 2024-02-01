@@ -1,3 +1,5 @@
+Regional Location: [[The North-West Highlands]] and [[The South-East Coast]]
+Subsection: Pirate for [[Fedorov's Legion]], on a mission to visit [[The Sunken Caverns]] for [[Ignel Valis]]
 # Description:
 Dmitri is a broad, hefty orc, too stout for his own race. He does not speak much. He has a mop of dark, ratty hair that drifts over his eyes. He is hunched and gnarled with his nose bent and broken in too many places. He has many tattoos on his face of prayers to the seas for safety. 
 

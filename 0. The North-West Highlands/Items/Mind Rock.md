@@ -1,3 +1,6 @@
+Regional Location: [[The South-East Coast]]
+Subsection: Slave rock of [[Master Mind Rock]], created by magic when a [[Master Mind Rock]] is created
+
 The Mind Rock is a slave stone of a [[Master Mind Rock]]. There can exist multiple Mind Rocks, slaved to one [[Master Mind Rock]].
 
 The Mind Rock gives any creature with the [[Master Mind Rock]] authority over the creature. 

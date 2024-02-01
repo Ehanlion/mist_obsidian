@@ -1,3 +1,5 @@
+Regional Location: [[The North-West Highlands]]
+Subsection: Followers of [[Karak-Ulgurath]], originating from [[The Sunken Caverns]] and pillaging the coast bordered by [[The Distant Sea]].
 # Description:
 These are the followers of the great crustacean, [[Karak-Ulgurath]], the crab silently terrorizing [[The North-West Highlands]]. 
 # Mutations:

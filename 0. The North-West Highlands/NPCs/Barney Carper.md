@@ -1,5 +1,7 @@
-Local fisherman with a sunk ship in [[Saddle-Port]]. This ship is called the "Stan-ta Ray."
+Regional Location: [[The North-West Highlands]]
+Subsection: Fisherman in [[Saddle-Port]]
 
+Local fisherman with a sunk ship in [[Saddle-Port]]. This ship is called the "Stan-ta Ray."
 # Description:
 Barney is young but looks old. The sea weathers most people, and Barney looks like the sea aged him about 30 years past where he is now. His face is wrinkled, his hair grayed. In some way or another, he always manages to have wet clothes.
 

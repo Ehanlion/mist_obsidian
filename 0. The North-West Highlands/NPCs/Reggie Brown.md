@@ -1,3 +1,5 @@
+Regional Location: [[The North-West Highlands]]
+Subsection: Missing from [[Smears-burrow]]
 # Description:
 Reggie, to his friends known as R.B., is an average fisherman. He has a tangled mop of hair, often with tangles of seaweed in it. He has a portly belly and notably, always wears a nice yellow overcoat while he is out fishing.
 # Location:

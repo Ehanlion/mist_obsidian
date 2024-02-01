@@ -1,5 +1,5 @@
 Regional Location: [[The North-East Forests]]
-Subsection: Origin of [[Bellmawr]] on [[The South-West Arid Expanse]], now living in [[The Twilight Woods]] in [[The Twilight Sanctum]] with [[The Green Order]]. 
+Subsection: Origin of [[Bellmawr]] on [[The South-West Arid Expanse]], now living in [[The Twilight Woods]] in [[The Twilight Sanctum]] with [[The Green Order]]
 
 Leah is [[Slug Stoll]]'s mother. She now lives on the outskirts of [[The Green Order]]'s dominion, somewhere within [[The Deep Woods]], in [[The North-East Forests]].
 

@@ -1,3 +1,5 @@
+Regional Location: [[The North-West Highlands]] and [[The South-East Coast]]
+Subsection: Pirate for [[Fedorov's Legion]], on a mission to visit [[The Sunken Caverns]] for [[Ignel Valis]]
 # Description:
 Igor is a squat, short halfling with one eye and a body that is covered in tattoos symbolizing his allegiance to [[Fedorov's Legion]]. He has gold teeth smattering in his smile. 
 # Mission for [[Fedorov Barovick VII]]:

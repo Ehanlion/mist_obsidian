@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
+                "file": "-1. Lore of Mist/Items/Shards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f330f7d09e64e67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Seat of Stone.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Seat of Stone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Seat of Stone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Seat of Stone.md"
               }
             }
           }
@@ -171,34 +183,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a8e276d8ea46df6",
+  "active": "f330f7d09e64e67a",
   "lastOpenFiles": [
-    "GM Screen/Ethan's Creatures.md",
-    "frost-bound warden.png",
-    "GM Screen/Ethan's Useful Links.md",
-    "GM Screen/Ethan's Item Sheet.md",
-    "GM Screen/D&D Optional Mechanics.md",
-    "GM Screen/D&D Game Mechanics.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Runewilds.md",
-    "-1. Lore of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
-    "-1. Lore of Mist/Items/Stormphrax.md",
-    "-1. Lore of Mist/Items/The Codex of The Storm.md",
     "-1. Lore of Mist/Items/Shards.md",
-    "0. The South-East Mountains/NPCs/The Followers of Grumbar/The Followers of Grumbar.md",
-    "0. The South-East Mountains/NPCs/The Followers of Grumbar/Grumbar.md",
-    "0. The South-East Mountains/Towns, Cities/The Labyrinth of Stone.md",
-    "0. The South-East Mountains/Features/The Mountains/Slumbering Mount.md",
-    "0. The South-East Mountains/Features/The Sun-lost Aphelion.md",
-    "-1. Lore of Mist/Great Features/The Mist Codex.md",
-    "-1. Lore of Mist/Great Features/The Divine Barrier.md",
-    "-1. Lore of Mist/Great Features/The Aether-Veil Projector.md",
-    "-1. Lore of Mist/Great Features/Archaic Storm Conduits.md",
-    "-1. Lore of Mist/Great Features/Amides.md",
-    "-1. Lore of Mist/Great Features/OPER_MOLERAT/OPER_MOLERAT.md",
-    "-1. Lore of Mist/Great Features/OPER_MOLERAT/Bunker 1xNWH.md",
-    "99. Brainstorming/_To-Do List.md",
-    "-1. Lore of Mist/Great Features/CONSOLE/The CONSOLE.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Seat of Stone.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthara.md",
+    "0. The Discordant Plains/Features/The Wild River.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
+    "0. The North-West Highlands/Towns, Cities/_North West Town Ordering.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Blackwood Ring.md",
+    "0. The North-West Highlands/Towns, Cities/Herringshold.md",
+    "0. The North-West Highlands/Town-Islands/Warden-Hunter's Hideout.md",
+    "0. The North-West Highlands/Town-Islands/The Town of Frost-Haven.md",
+    "0. The North-West Highlands/Town-Islands/The Port of Last Call.md",
+    "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
+    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/NPCs/Reggie Brown.md",
+    "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
+    "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
+    "0. The North-West Highlands/NPCs/Igor Larionov.md",
+    "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
+    "0. The North-West Highlands/NPCs/Burton Browns.md",
+    "0. The North-West Highlands/NPCs/Barney Carper.md",
+    "0. The North-West Highlands/Items/Mind Rock.md",
+    "0. The North-West Highlands/Items/Master Mind Rock.md",
+    "0. The North-West Highlands/Items/Ice-Rocks.md",
+    "0. The North-West Highlands/Items/A Mist-Cutter Ship.md",
+    "_Assets/frost-bound warden.png",
     "_Assets/Mist CONSOLE Room.jpg",
     "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods",
     "_Assets/Obelisk field in north sea.png",

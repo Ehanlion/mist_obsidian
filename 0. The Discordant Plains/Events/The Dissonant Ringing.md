@@ -1,3 +1,5 @@
+Regional Location: [[The Discordant Plains]]
+Subsection: Persistent echoing across the plains
 # Description
 	As you walk the plains, a faint but constant ringing whines against your ears. Its faint, but it sets your teeth on edge. It is like someone, far in the distance, is scraping a sharp blade against a chalk-board. However, aside from that, the plains are calm and green. Only in the far distances where you see the rises of Lake Middle-Mist's ridges or the far edges of the Deep Woods can you be reminded that you are not stranded in a flat sea of grass. 
 
