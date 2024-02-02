@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Coast/NPCs/Ignel Valis.md",
+                "file": "GM Screen/Ethan's Creatures.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The South-East Coast/NPCs/Ignel Valis.md",
+                "file": "GM Screen/Ethan's Creatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The South-East Coast/NPCs/Ignel Valis.md",
+                "file": "GM Screen/Ethan's Creatures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The South-East Coast/NPCs/Ignel Valis.md"
+                "file": "GM Screen/Ethan's Creatures.md"
               }
             }
           }
@@ -171,9 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a8e276d8ea46df6",
+  "active": "c463d6e74c344419",
   "lastOpenFiles": [
-    "ignel valis statblock.png",
+    "0. The South-East Coast/NPCs/Ignel Valis.md",
+    "_Monsters/frost-bound warden.monster",
+    "_Assets/ignel valis statblock.png",
     "-1. Lore of Mist/Items/Shards.md",
     "_Monsters/ignel valis.monster",
     "_Monsters",
@@ -211,13 +213,11 @@
     "_Assets/Hope town hugos arena.png",
     "_Assets/Hope town fedorovs legion.png",
     "_Assets/Hope town black tide reapers.png",
-    "_Assets/Deep woods and twilight woods border.png",
     "-1. Lore of Mist/Great Features/PROJ_BUNKER",
     "99. Brainstorming/The Followers of Alsolace",
     "-1. Lore of Mist/Pantheon of Mist/Other",
     "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
     "-1. Lore of Mist/Pantheon of Mist/Prime Deities",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Untitled",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight"
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Untitled"
   ]
 }

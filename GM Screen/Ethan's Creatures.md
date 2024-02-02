@@ -5,3 +5,6 @@ Subsection: Personal list of cool monsters I find
 
 [[Frost-Bound Wardens]] Stat Block:
 ![[frost-bound warden.png]]
+
+[[Ignel Valis]] Stat Block:
+![[ignel valis statblock.png]]
