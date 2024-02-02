@@ -4,7 +4,6 @@ Subsection: [[Hope Town]], works with [[Fedorov's Legion]]
 (Val-is NOT Val-eese)
 Powerful wizard. Someone who [[Kelswin Lovejoy]] looks up to with great reverence.
 He now goes by the name 'Silvan Gile' (an anagram of Ignel Valis) and uses this name in Hope Town. As far as the people of Mist are concerned, it has been a long time since Ignel Valis was seen. 
-
 # Silvan Gale not Ignel Valis!
 Remember Ethan, DO NOT call Ignel as Ignel. His name is Silvan Gale and will not answer to Ignel since he has made a new, secret life for himself in [[Hope Town]].
 # Character Description:
@@ -30,5 +29,9 @@ Ignel is a very worldly wizard and has travelled all over Mist in his many years
 It should be noted that Ignel working for the Legion is a bit of knowledge that is very local to Hope Town. **THAT IS BECAUSE IGNEL USES A DIFFERENT NAME THERE.** He goes by Silvan Gile in Hope Town and not many there know his true identity. Only [[Fedorov Barovick VII]] knows that Silvan is in-fact Ignel. 
 # Character Locations:
 Ignel would be found in the palace of [[Fedorov's Legion]] along [[The South-East Coast]] in [[Hope Town]]. He frequents matches at [[Hugo's Arena]] and love [[The Pirate Fighting League]] and often referees for it, since Fedorov's Legion is in command of the fighting trade in Hope Town. 
+# Stat Block for Ignel Valis
+![[ignel valis statblock.png]]
+#### A Note on Contingency:
+Ignel uses Contingency to setup the Polymorph spell to cast on Ignel once Ignel gets reduced beneath 100 hit points. It will turn him into a Tyrannosaurus Rex. 
 # Character Missions:
 No missions for Ignel yet. 

@@ -4,7 +4,7 @@
 
 # Where are the Wielded Magic Items Are:
 1. [Boots of Golden Luck](https://www.5esrd.com/database/magicitem/boots-of-golden-luck/) worn by [[Ignel Valis]]
-2. Cloak of the Magi worn by [[Ignel Valis]]
+2. [Cloak of the Magi](https://roll20.net/compendium/dnd5e/Robe%20of%20the%20Archmagi#content)worn by [[Ignel Valis]]
 3. [Cloak of Eyes](https://www.5esrd.com/database/magicitem/cloak-of-eyes/) worn by [[Ignel Valis]]
 4. [[Master Mind Rock]], held by [[Ignel Valis]]
 5. [[Mind Rock]], attached to the Karak-Ulgurath, detailed in [[The Vanishings in the North-West]] document.
