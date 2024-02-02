@@ -1,8 +1,8 @@
-This is a great book regarding the adventures of [[Ignel Valis]]. The book ends with the tragic tale of his demise as he fought an Ancient Black Dragon named [[Fenrix the Plague-Bringer]]. The story tells the great tales of his mighty deeds. 
+This is a great book regarding the adventures of [[Ignel Valis]]. The book ends with the tragic tale of his demise as he fought an Ancient Black Dragon named [[Agnedelo Plague-Bringer]]. The story tells the great tales of his mighty deeds. 
 
 # The Great Draconic Fight:
 The greatest of all Ignel's deeds was killing Fenrix. It was a great battle that occurred deep in [[The Dark Woods]]. It was a gruesome fight, seeing the minions of both [[Ignel Valis]] and [[Garrick Blackthorn]]
-killed in the fight. In the final moments, [[Ignel Valis]] was defeated by [[Fenrix the Plague-Bringer]] but not before striking a fatal blow to the great dragon. [[Garrick Blackthorn]] was the only person to walk away from the fight. 
+killed in the fight. In the final moments, [[Ignel Valis]] was defeated by [[Agnedelo Plague-Bringer]] but not before striking a fatal blow to the great dragon. [[Garrick Blackthorn]] was the only person to walk away from the fight. 
 #### Important Note about Garrick:
 The book DOES NOT mention him by name. At no point is Garrick explicitly mentioned as Garrick. If you are reading to sort of explain events to players always refer to it as [[Ignel Valis]] and his 'Adventuring Companion' as well as their hired-hands (with adventuring company meaning Garrick). It is important to make it appear as though the two don't know each other. 
 

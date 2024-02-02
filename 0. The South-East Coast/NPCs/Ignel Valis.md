@@ -11,7 +11,7 @@ Remember Ethan, DO NOT call Ignel as Ignel. His name is Silvan Gale and will not
 ### Ignel's Past:
 Ignel started off as a powerful wizard. He was well liked and loved as a hero. He was wilting inside though; his aspirations drew away from being a hero. The praise, the stress, the desperation he felt to always be better than before ate away at him. He felt bitter that people cared about the person and only the deeds that they did. He sought an end for his old life, a way out and he settled on faking his death. 
 #### The 'Fall' of Ignel
-He joined with [[Garrick Blackthorn]] to adventure into [[The Dark Woods]] to kill [[Fenrix the Plague-Bringer]]. He sought a shard, a powerful artifact he had heard about from his travels. He knew Garrick wanted the soul of the dragon and thought this was the perfect way out. He had Garrick organize some local writers to create [[The Greatest of the Great]] where he was written as having died fighting Fenrix. 
+He joined with [[Garrick Blackthorn]] to adventure into [[The Dark Woods]] to kill [[Agnedelo Plague-Bringer]]. He sought a shard, a powerful artifact he had heard about from his travels. He knew Garrick wanted the soul of the dragon and thought this was the perfect way out. He had Garrick organize some local writers to create [[The Greatest of the Great]] where he was written as having died fighting Fenrix. 
 #### The Rise of Silvan Gale
 He assumed a new identity as Silvan Gale and went to join the pirates; to feed his bitterness from feeling like an object to those who read about him and to become just a little bit evil. Maybe Garrick rubbed off on him. 
 #### More Description:

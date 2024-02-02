@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/Ethan's Creatures.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7b31b8bffd51e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Screen/Ethan's Creatures.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Screen/Ethan's Creatures.md",
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM Screen/Ethan's Creatures.md"
+                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md"
               }
             }
           }
@@ -171,8 +183,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c463d6e74c344419",
+  "active": "5a8e276d8ea46df6",
   "lastOpenFiles": [
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Bernhard.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/DeAngelo.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Faustus.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Valentino.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Sprague.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Marwood.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Mansfield.md",
+    "0. The North-East Forests/NPCs/Agnedelo Plague-Bringer.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
+    "0. The North-East Forests/Features/The Providing Orchard.md",
     "0. The South-East Coast/NPCs/Ignel Valis.md",
     "_Monsters/frost-bound warden.monster",
     "_Assets/ignel valis statblock.png",
@@ -192,17 +215,6 @@
     "0. The North-West Highlands/Town-Islands/Warden-Hunter's Hideout.md",
     "0. The North-West Highlands/Town-Islands/The Town of Frost-Haven.md",
     "0. The North-West Highlands/Town-Islands/The Port of Last Call.md",
-    "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
-    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
-    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-    "0. The North-West Highlands/NPCs/Reggie Brown.md",
-    "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
-    "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
-    "0. The North-West Highlands/NPCs/Igor Larionov.md",
-    "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
-    "0. The North-West Highlands/NPCs/Burton Browns.md",
-    "0. The North-West Highlands/NPCs/Barney Carper.md",
-    "0. The North-West Highlands/Items/Mind Rock.md",
     "_Assets/frost-bound warden.png",
     "_Assets/Mist CONSOLE Room.jpg",
     "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods",

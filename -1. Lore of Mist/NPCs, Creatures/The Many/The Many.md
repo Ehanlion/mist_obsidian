@@ -7,8 +7,8 @@ The members of The Many:
 1. [[Faustus]] (leader of the group)
 2. [[Marwood]] (second in command)
 3. [[Bernhard]]
-4. [[Cleophas]]
-5. [[DeAngelo]] 
+4. [[Cleophas]] (druid and agriculture lead)
+5. [[DeAngelo]] (druid and agriculture lead)
 6. [[Mansfield]] (lead programmer)
 7. [[Sprague]] (secondary programmer)
 8. [[Valentino]] (third programmer)

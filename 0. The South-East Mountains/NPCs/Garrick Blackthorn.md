@@ -3,7 +3,7 @@ Subsection: [[The Iron-fist Marauders]]
 # Character Description:
 *Garrick doesn't take any bull shit. He is a no-nonsense, straight forward man. And he is a seasoned killer. He is tall, nearly 7 feet and that's the least imposing thing about him. He has one eye, the other shrouded by a massive black scar from some battle long ago. He has a broad nose and a wide face, joined to his body by the widest neck you can imagine. He wears a black and red draped cloak with a silver first in the middle of the back. He swings a wicked black, glinting great-axe as if it were a toy. His skin is painted in red tattoos depicting the deaths of his victims; that is, what skin you can see, the rest of him is covered in black, glinting plate armor.*
 ### Garrick's Past:
-Garrick was never good aligned. Don't make that mistake. He has been, and will always been Chaotic Evil. However he is highly manipulative and deeply persuasive. Garrick convinced [[Ignel Valis]] to venture into [[The Dark Woods]] to attack [[Fenrix the Plague-Bringer]]. Garrick wanted the soul of Fenrix for his own power and [[Ignel Valis]] wanted a shard from the hoard of Fenrix. Their missions aligned so they worked together. All their soldiers were killed, Ignel walked away with the shard, and Garrick walked away with the soul of Fenrix. The parted ways on fair terms, Ignel had his death faked and [[The Greatest of the Great]] written to commemorate his life. Garrick joined [[The Iron-fist Marauders]] and quickly asserted dominance over their ranks. 
+Garrick was never good aligned. Don't make that mistake. He has been, and will always been Chaotic Evil. However he is highly manipulative and deeply persuasive. Garrick convinced [[Ignel Valis]] to venture into [[The Dark Woods]] to attack [[Agnedelo Plague-Bringer]]. Garrick wanted the soul of Fenrix for his own power and [[Ignel Valis]] wanted a shard from the hoard of Fenrix. Their missions aligned so they worked together. All their soldiers were killed, Ignel walked away with the shard, and Garrick walked away with the soul of Fenrix. The parted ways on fair terms, Ignel had his death faked and [[The Greatest of the Great]] written to commemorate his life. Garrick joined [[The Iron-fist Marauders]] and quickly asserted dominance over their ranks. 
 
 **Deeper Description:**
 -  Black Dragon-born, fighter or barbarian.
@@ -14,7 +14,7 @@ Garrick was never good aligned. Don't make that mistake. He has been, and will a
 # Character Relationships:
 -  Tyrannical leader of [[The Iron-fist Marauders]].
 -  Garrick is [[Deion Deus]]'s (Sean's character) sworn enemy. Deion vows to remove Garrick, and those in his inner circle, from power over the Iron-fist.
-- Garrick used to adventure with [[Ignel Valis]] in there old adventuring days. That is until their fight with [[Fenrix the Plague-Bringer]]. 
+- Garrick used to adventure with [[Ignel Valis]] in there old adventuring days. That is until their fight with [[Agnedelo Plague-Bringer]]. 
 # Character Locations:
 He is always found at the stronghold of [[The Iron-fist Marauders]], lovingly called [[The Bastion of Blood]]. He sometimes patrols [[The Blood-Stone Pass]] with his elite guard in an effort to instill fear and order to the pass. 
 # Character Missions:
@@ -32,4 +32,4 @@ Garrick wears the Belt of Cloud Giant Strength (Strength 27). He got it from kil
 Garrick has the breath weapon of a Young Black Dragon, making him a brutal foe in combat. 
 
 [[Turtle Stance]], Master-Level:
-Garrick has learned the turtle stance. He once passed through [[The Green Order]] in his much younger days under a disguise. He learned from [[Mona Shadowbloom]], a young student under the master of those days. She left to travel with Garrick and eventually died by his side. He was only there searching for the dragon, [[Fenrix the Plague-Bringer]] and knowledge about it of which he was successful. 
+Garrick has learned the turtle stance. He once passed through [[The Green Order]] in his much younger days under a disguise. He learned from [[Mona Shadowbloom]], a young student under the master of those days. She left to travel with Garrick and eventually died by his side. He was only there searching for the dragon, [[Agnedelo Plague-Bringer]] and knowledge about it of which he was successful. 
