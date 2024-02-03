@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "5a8e276d8ea46df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7b31b8bffd51e55",
             "type": "leaf",
             "state": {
@@ -54,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96ee8541ca1c7fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-1. Lore of Mist/Language in Mist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
+                "file": "-1. Lore of Mist/Language in Mist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
+                "file": "-1. Lore of Mist/Language in Mist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md"
+                "file": "-1. Lore of Mist/Language in Mist.md"
               }
             }
           }
@@ -183,41 +183,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a8e276d8ea46df6",
+  "active": "96ee8541ca1c7fb9",
   "lastOpenFiles": [
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Bernhard.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/DeAngelo.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Cleophas.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Faustus.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Valentino.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Sprague.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Marwood.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Mansfield.md",
-    "0. The North-East Forests/NPCs/Agnedelo Plague-Bringer.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
-    "0. The North-East Forests/Features/The Providing Orchard.md",
-    "0. The South-East Coast/NPCs/Ignel Valis.md",
+    "-1. Lore of Mist/Pantheon of Mist/The Prime Deities.md",
+    "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods.md",
+    "-1. Lore of Mist/Pantheon of Mist/Miscellaneous/The Storm Lord.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Earthshaker.md",
+    "-1. Lore of Mist/Pantheon of Mist/The Pantheon of Mist.md",
+    "-1. Lore of Mist/Pantheon of Mist/The Old Gods.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Wildmother.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Platinum Dragon.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Moonweaver.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Matron of Ravens.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Everlight.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Knowing Mentor.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Lawbearer.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Arch Heart.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The All-Hammer.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Cloaked Serpent.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Whispered One.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Crawling King.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Scaled Tyrant.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Chained Oblivion.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Spider Queen.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Ruiner.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Strife Emperor.md",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Lord of the Hells.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Dawnfather.md",
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Changebringer.md",
     "_Monsters/frost-bound warden.monster",
     "_Assets/ignel valis statblock.png",
-    "-1. Lore of Mist/Items/Shards.md",
     "_Monsters/ignel valis.monster",
     "_Monsters",
-    "GM Screen/Ethan's Useful Links.md",
-    "GM Screen/Ethan's Item Sheet.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Seat of Stone.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthara.md",
-    "0. The Discordant Plains/Features/The Wild River.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
-    "0. The North-West Highlands/Towns, Cities/_North West Town Ordering.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Blackwood Ring.md",
-    "0. The North-West Highlands/Towns, Cities/Herringshold.md",
-    "0. The North-West Highlands/Town-Islands/Warden-Hunter's Hideout.md",
-    "0. The North-West Highlands/Town-Islands/The Town of Frost-Haven.md",
-    "0. The North-West Highlands/Town-Islands/The Port of Last Call.md",
     "_Assets/frost-bound warden.png",
     "_Assets/Mist CONSOLE Room.jpg",
-    "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods",
+    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
     "_Assets/Obelisk field in north sea.png",
     "_Assets/Macro view of deep woods and dark woods.png",
     "_Assets/karak-ulgurath the crab lord.png",
@@ -227,7 +227,7 @@
     "_Assets/Hope town black tide reapers.png",
     "-1. Lore of Mist/Great Features/PROJ_BUNKER",
     "99. Brainstorming/The Followers of Alsolace",
-    "-1. Lore of Mist/Pantheon of Mist/Other",
+    "-1. Lore of Mist/Pantheon of Mist/Miscellaneous",
     "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
     "-1. Lore of Mist/Pantheon of Mist/Prime Deities",
     "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Untitled"

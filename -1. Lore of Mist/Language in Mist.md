@@ -4,18 +4,24 @@ I as a GM have often just brushed over languages, using exotic ones whenever I s
 | Language | Typical Speakers | Script | **Usage in Mist** |
 | ---- | ---- | ---- | ---- |
 | Abyssal | Demons | Infernal |  |
-| Celestial | Celestials | Celestial |  |
-| Draconic | Dragons, dragonborn | Draconic |  |
-| Deep Speech | Aboleths, cloakers | - | [[The Many]] |
-| Infernal | Devils | Infernal |  |
-| Primordial | Elementals | Dwarvish | Cults of deities outside of [[The Prime Deities]] or [[The Betrayer Gods]] |
+| Celestial | Celestials | Celestial | Followers of [[The Prime Deities]] |
+| Draconic | Dragons, dragonborn | Draconic | Dragons, dragon cults, citizens of [[The South-West Arid Expanse]] and trades of [[The Scorchsand Wastes]] |
+| Deep Speech | Aboleths, cloakers | Runic | [[The Many]] |
+| Infernal | Devils | Infernal | Followers of [[The Betrayer Gods]] |
+| Primordial | Elementals | Dwarvish | Cults of gods outside of [[The Prime Deities]] or [[The Betrayer Gods]] |
 | Sylvan | Fey creatures | Elvish | Elves and forest creatures of [[The Green Order]] |
 | Undercommon | Underworld traders | Elvish |  |
 In my world, these languages will gain new meanings with who and what groups are inherently tied to them.
 
+#### Celestial:
+Celestial is the chosen language in which worshippers of [[The Prime Deities]] write their scripture, songs, and teachings. In temples of [[The Prime Deities]], there will always be writing in Celestial that tells stories just for the devout, unreadable by those proficient only in the common tongues. Its flowing, angelic speech starkly constants the grating reverberations of Infernal, the language that all followers of [[The Prime Deities]] detest.
+#### Draconic:
+Obviously, Draconic is the language of dragons, of which there are many spread around the island of Mist. However, it is also a dominant language used in [[The South-West Arid Expanse]], specifically the parts near [[The South-East Mountains]] and in settlements on [[The Scorchsand Wastes]]. The brutal nature of draconic beasts and the history of their presence near [[The South-West Arid Expanse]] has rubbed off into the culture of that region, meaning many who dabble in fighting, readings, or trade there can speak the odd tongue of dragons. Of course, draconic beings like dragonborn, and the dragon-spawns of dragon cults write ritual texts in the language of their overlords.
 #### Deep Speech:
-Only the most ancient and the most powerful of creatures understand Deep Speech for it is the ancestral language of [[The Many]]. Even though they were humans and the likes, they spoke in deep speech. Deep speech doesn't have a written language but [[The Many]] created one for it comprised of runic carvings and symbols. 
+Only the most ancient and the most powerful of creatures understand Deep Speech for it is the ancestral language of [[The Many]]. Even though they were humans and the likes, they spoke in deep speech. Deep speech doesn't have a written language but [[The Many]] created one for it comprised of runic carvings and symbols. Creations of [[The Many]], temples and buildings of [[The Many]], and their machines all respond exclusively to Deep Speech for it was the protected language of their creators.
+#### Infernal
+Infernal is the language of [[The Betrayer Gods]]. Their followers speak this cursed and abrupt language to communicate in their deeds of evil. It is frowned upon for someone believing in the good of the world to speak the in the tongue of the hated. However, it is common for those who fight the scourges of Mist to learn Infernal simply to allow them to understand that which they fight. 
 #### Primordial:
 Texts in primordial are usually dedicated to the worship of beings not of either [[The Prime Deities]] or [[The Betrayer Gods]]. Ancient ritual texts such as [[The Codex of The Storm]], the summoning texts for [[The Storm Lord]], are one of these texts. Cultists of 'higher' beings (outside [[The Prime Deities]] and [[The Betrayer Gods]]) use primordial for their cults.  
 #### Sylvan:
-Writings in sylvan are often used exclusively by [[The Green Order]], an order of elves and forest creatures that reside within [[The Twilight Woods]]. Their special texts, histories, and treatises are all written with sylvan to keep their secrecy secured. 
+Writings in sylvan are often used exclusively by [[The Green Order]], an order of elves and forest creatures that reside within and protect [[The Twilight Woods]]. Their special texts, histories, and treatises are all written with sylvan to keep their secrecy secured. It is worth noting though, that many of [[The Green Order]] are followers of either [[The Moonweaver]], [[The Wildmother]], or [[The Arch Heart]] so there is a good mix of Sylvan as well as Celestial within [[The Green Order]]. However, all sensitive materials and documents within [[The Green Order]] are still written in Sylvan for secrecies sake. 
