@@ -3,16 +3,18 @@ I as a GM have often just brushed over languages, using exotic ones whenever I s
 # The Exotic Languages:
 | Language | Typical Speakers | Script | **Usage in Mist** |
 | ---- | ---- | ---- | ---- |
-| Abyssal | Demons | Infernal |  |
+| Abyssal | Demons | Infernal | Dark creatures of corruption and evil, cults of dark worship, and cryptic beings.  |
 | Celestial | Celestials | Celestial | Followers of [[The Prime Deities]] |
 | Draconic | Dragons, dragonborn | Draconic | Dragons, dragon cults, citizens of [[The South-West Arid Expanse]] and trades of [[The Scorchsand Wastes]] |
 | Deep Speech | Aboleths, cloakers | Runic | [[The Many]] |
 | Infernal | Devils | Infernal | Followers of [[The Betrayer Gods]] |
 | Primordial | Elementals | Dwarvish | Cults of gods outside of [[The Prime Deities]] or [[The Betrayer Gods]] |
 | Sylvan | Fey creatures | Elvish | Elves and forest creatures of [[The Green Order]] |
-| Undercommon | Underworld traders | Elvish |  |
+| Undercommon | Underworld traders | Elvish | Traders, merchants, and smugglers |
 In my world, these languages will gain new meanings with who and what groups are inherently tied to them.
 
+#### Abyssal
+The language of darkness and foreboding. It is said that Abyssal is a corrupted form of Infernal and that Abyssal is a darker, more sinister language of the already dark dialect of Infernal. Cults worshipping dark creatures, [[The Syndicate of Ice]] as an example, speaks this cursed language. It is rumored that foul creatures living in the deepest of crevasse within [[The Under-Mountain Pass]] communicate in garbled remnants of Infernal, known as Abyssal. Abyssal is known as 'the language that not even [[The Betrayer Gods]] would speak' since it is a devolved form of their language, Infernal. 
 #### Celestial:
 Celestial is the chosen language in which worshippers of [[The Prime Deities]] write their scripture, songs, and teachings. In temples of [[The Prime Deities]], there will always be writing in Celestial that tells stories just for the devout, unreadable by those proficient only in the common tongues. Its flowing, angelic speech starkly constants the grating reverberations of Infernal, the language that all followers of [[The Prime Deities]] detest.
 #### Draconic:
@@ -25,3 +27,5 @@ Infernal is the language of [[The Betrayer Gods]]. Their followers speak this cu
 Texts in primordial are usually dedicated to the worship of beings not of either [[The Prime Deities]] or [[The Betrayer Gods]]. Ancient ritual texts such as [[The Codex of The Storm]], the summoning texts for [[The Storm Lord]], are one of these texts. Cultists of 'higher' beings (outside [[The Prime Deities]] and [[The Betrayer Gods]]) use primordial for their cults.  
 #### Sylvan:
 Writings in sylvan are often used exclusively by [[The Green Order]], an order of elves and forest creatures that reside within and protect [[The Twilight Woods]]. Their special texts, histories, and treatises are all written with sylvan to keep their secrecy secured. It is worth noting though, that many of [[The Green Order]] are followers of either [[The Moonweaver]], [[The Wildmother]], or [[The Arch Heart]] so there is a good mix of Sylvan as well as Celestial within [[The Green Order]]. However, all sensitive materials and documents within [[The Green Order]] are still written in Sylvan for secrecies sake. 
+#### Undercommon:
+Undercommon is the language of cities, be it from [[Gandoras City]] to [[Hope Town]] to [[Sonderton]]. Between trades, good dealers, merchants, and smugglers all peoples of commerce learn Undercommon for their communications. Guilds write their rules and laws in the script while illegal trades converse in secretive notes of Undercommon to avoid suspicion of the law, although often Undercommon is mingled with Sylvan to disguise it from the keen eye of a well-trained official. If you expect to make trade in a city, it is best you know Undercommon. If a trader hears you speak common instead of Undercommon, you can be best assured that the prices you pay will feel like extortion. 

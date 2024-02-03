@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "b7b31b8bffd51e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "96ee8541ca1c7fb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Lore of Mist/Language in Mist.md",
+                "file": "0. The South-East Mountains/Features/The Order of the Mountains.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 387.5
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Lore of Mist/Language in Mist.md",
+                "file": "0. The South-East Mountains/Features/The Order of the Mountains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Lore of Mist/Language in Mist.md",
+                "file": "0. The South-East Mountains/Features/The Order of the Mountains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Lore of Mist/Language in Mist.md"
+                "file": "0. The South-East Mountains/Features/The Order of the Mountains.md"
               }
             }
           }
@@ -185,6 +173,22 @@
   },
   "active": "96ee8541ca1c7fb9",
   "lastOpenFiles": [
+    "0. The South-East Mountains/Features/The Mountains/The Peak of Gold.md",
+    "0. The South-East Mountains/Features/The Mountains/The Peak of Silver.md",
+    "0. The South-East Mountains/Features/The Mountains/The Frozen Peak.md",
+    "0. The South-East Mountains/Features/The Mountains/Untitled.canvas",
+    "0. The South-East Mountains/Features/The Mountains/The Commotal Caldera.md",
+    "0. The South-East Mountains/Features/The Mountains/Slumbering Mount.md",
+    "0. The South-East Mountains/Features/The Mountains/Mount Gryphon.md",
+    "0. The South-East Mountains/Features/The Mountains/Dragonswing Peak.md",
+    "0. The South-East Mountains/Features/The Mountains/Bellowing's Crest.md",
+    "0. The South-East Mountains/Features/The Order of the Mountains.md",
+    "0. The South-East Mountains/Features/The Under-Mountain Pass/The Under-Mountain Pass.md",
+    "0. The South-East Mountains/Features/The Under-Mountain Pass/The Delegation of Amethyst.md",
+    "0. The South-East Mountains/Features/The Under-Mountain Pass/Fathomsdeep.md",
+    "-1. Lore of Mist/Language in Mist.md",
+    "99. Brainstorming/_To-Do List.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
     "-1. Lore of Mist/Pantheon of Mist/The Prime Deities.md",
     "-1. Lore of Mist/Pantheon of Mist/The Betrayer Gods.md",
     "-1. Lore of Mist/Pantheon of Mist/Miscellaneous/The Storm Lord.md",
@@ -196,21 +200,6 @@
     "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Moonweaver.md",
     "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Matron of Ravens.md",
     "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Everlight.md",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Knowing Mentor.md",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Lawbearer.md",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Arch Heart.md",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The All-Hammer.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Cloaked Serpent.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Whispered One.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Crawling King.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Scaled Tyrant.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Chained Oblivion.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Spider Queen.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Ruiner.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Strife Emperor.md",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods/The Lord of the Hells.md",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Dawnfather.md",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities/The Changebringer.md",
     "_Monsters/frost-bound warden.monster",
     "_Assets/ignel valis statblock.png",
     "_Monsters/ignel valis.monster",
