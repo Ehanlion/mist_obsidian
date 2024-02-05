@@ -15,19 +15,23 @@ The Mountains of [[The South-East Mountains]] vary in size, altitude, weather, a
 	- Difficulty: Impassable
 2. [[The Commotal Caldera]]
 	- Difficulty: Low
-3. [[Bellowing's Crest]]
+	- Group: [[The Black Guard]] 
+1. [[Bellowing's Crest]]
 	- Difficulty: Low
-4. [[Mount Gryphon]]
+2. [[Mount Gryphon]]
 	- Difficulty: Medium
-5. [[The Frozen Peak]]
+3. [[The Frozen Peak]]
 	- Difficulty: Extreme
-6. [[Slumbering Mount]]
+	- Group: [[The Syndicate of Ice]]
+1. [[Slumbering Mount]]
 	- Difficulty: Extreme
-7. [[Dragonswing Peak]]
+	- Group: [[The Iron-fist Marauders]]
+1. [[Dragonswing Peak]]
 	- Difficulty: Hard
-8. [[The Peak of Silver]]
+2. [[The Peak of Silver]]
 	- Difficulty: Hard
-9. [[The Peak of Gold]]
+3. [[The Peak of Gold]]
 	- Difficulty: Medium
-10. [[The Eastern Razor Peaks]]
+	- Group: 
+1. [[The Eastern Razor Peaks]]
 	- Difficulty: Impassable
