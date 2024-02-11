@@ -8,8 +8,7 @@ Subsection: None
 3. **Buster Croaks**, elder of the Grung. Green grung with various tattoos of the great fish he has caught.
 4. **Simon Karbala**, elder of the rest. Old gentlemen of the village. Is a aging human with thick grey hair. Still enjoys fishing of course, but is getting on in his years.
 5. **Freya Depths-Chaser**, revered of the rest. Young female Tiefling fisher-women. She once held onto a great fish and was dragged to the depths but caught the fish. Earned her the title 'Depths-Chaser.'
-
-**Lesser NPCs:**
+# Lesser NPCs:
 1. Helga (wood elf): Bartender in The Laughing Elk
 2. Belga (wood elf): Bartender in The Laughing Elk
 3. Bjorn (Leonine): Cook in The Laughing Elk
@@ -49,18 +48,20 @@ The tavern has many cooks since it has a very high demand and multiple bartender
 3. Cook: Bjorn (Leonine)
 4. Cook: Storga (Satyr)
 5. Cook: Lyra (Human)
-
-**Tavern mini-mission offerings:**
-1. A man offering coin for labor hauling fish to market.
-2. A man asking about his friend, [[Reggie Brown]].
-3. A women asking someone to dive off the coat for her lost ring.
-4. Two man who want some diving partners to hunt a particularly large red fish that has been eating fish near the docks. 
-5. A women who wants help cleaning off some of the buildings in the center of town. 
-6. 3 Grung who are daring people to try sliding down 'The Algae Tunnel.' (this is the name of the chute channeling the Grung's Path water down the cliff towards the sea.)
 #### Mini-Mission: Not all is as it seems:
 In the tavern, there was a poisoning. [[His Majesty]] was accused by [[Deion Deus]] of poisoning [[Jordan Leabrook]]. The idea arose since [[His Majesty]] passed [[Jordan Leabrook]] a glass of liquor that 'was darker than others' and [[Jordan Leabrook]] because horribly poisoned. [[His Majesty]] did not poison the glass and thought someone else did.
 
 The glass was poisoned by a shape-changer. There are two at the bar posing as Helga and Belga. Both are normally reclusive, silent, and awkward around guests but the shape-changers are boisterous, confident, and have a desire to get information. They poisoned a glass with red grung poison to frame the grung. 
+## The Mission Board:
+The town's request board is located on the side of the tavern, directly to the right of the entrance way. People from the town post about jobs they need, requests, or notices. 
+#### Current Offerings:
+- [ ] A man offering coin for labor hauling fish to market. The man has a bad back and has a hard time lifting his catch up to the town. 
+- [ ] A man asking about his friend, [[Reggie Brown]].
+- [ ] A grung asking someone to dive off the coat for her lost ring. The notices mentions that 'divorce is imminent' should the ring not be found. 
+- [ ] Two man who want some diving partners to hunt a particularly large red fish that has been eating fish near the docks. The fish is a monstrosity.
+- [ ] A women who wants help cleaning off some of the buildings in the center of town. There are odd growths of coral on it.
+- [ ] 3 Grung who are daring people to try sliding down 'The Algae Tunnel.' (this is the name of the chute channeling the Grung's Path water down the cliff towards the sea.) The reward is 'water,' which is actually a potion of water breathing (the grung breath water so to them it is just 'water').
+- [ ] A grung asking for help researching, classifying, and documenting 'The Magic Grung Rock.' A historian and someone who is good at books is requested. 
 ## The Store: "The Dull Store"
 This is the general store in Smears-burrow. Like other towns along the coast, they are supplied by a trade caravan every other week or so. This store is a simply barn-like structure with an attached stone building. It acts like a warehouse, storing necessary goods. 
 
@@ -81,29 +82,26 @@ In general, there is a good chance anything that isn't a fish and is remotely co
 1. Run by a man named Snaglak. He is a Grung. 
 ## The Grung Ponds:
 The people of Smears-burrow love the Grung that live there. Not only are they civil, but they are wonderful fishers. The grung make most of their homes nearby to the large portion of cottages where the rest of the village lives. 
-
-**The Grung Path:**
+#### The Grung Path
 Leading off from the town center is another pathway which leads to the Grung Ponds. It is unique and made from darker green stones unlike the white flagstones comprising the other paths. The pathway is also recessing into the ground and water flows between the stones that make up the path. The green color comes from the algae that has grown into the stones. The reason for this is simple: a natural spring feeds the Grung Ponds with fresh water. In return, this overflows the ponds and flows down the pathway. 
 
 Since the pathway leads to the town center, it flows water towards the town center. The path way encircles the green area that is the town's center and the flows off in a channel that has been built towards the cliff face. It flows down a tall, dangerous, circular tunnel only 5 feet in diameter that leads directly down to sea level to drain the water off. 
-
-**The Grung's Spring:**
+#### The Grung's Spring
 The Grung ponds are very close to the town and are located near what the locals call "The Stone Teeth." The Stone Teeth are three massive stone pyramid rocks that are set at vertices of an equilateral triangle shape. They surround a spring that spills its water down a hill into the Grung Ponds. 
-
-**The Grung Ponds:**
+#### The Grung Ponds
 The pools are a peaceful and tranquil place to live. Water from the Stone Teeth spills down the hill that they rest on, cascading over rocks, into the low grounds of The Grung Ponds. Lilypad's, floating flowers, plant growths, and stones dot the surface of the Grung Ponds. The center is clear since this is the deepest part by a long shot.
 
 The ponds are very deep and cavernous as you swim down. Grungs make their homes in pockets on the walls of the ponds as you swim down. At the deepest part of the cave is the great chamber of the grung, where the grung have their most sacred artifact as well as their throne for their leader. 
-
-**The Grung's Prized artifact:**
+#### The Magic Grung Rock
 The Grung (unbeknownst to them) covet one of the [[Shards]] above all else. They just revere it as a powerful thing that was resting in the pools when they first found it. This one of the [[Shards]] sits above the grung throne. This specific one of the [[Shards]] is Key 3, a large conch shell with glittering green accents and marking. It makes the water unnaturally clear, crisp, and clean. It also gives the ponds healing powers, allowing anyone who lives in them to have unnaturally good health.
 
 When the Grung found it, it was resting with a body of one of [[The Many]]. The Grung, not knowing what the body was nor its importance, discarded it and grabbed the [[Shards]] that it held and coveted it as their most prized possession. If asked about it, they do not know what [[The Many]] nor what the [[Shards]] are, but they do know that the body looked human like.  
-
-**The Grung-Democracy:**
+#### The Grung-mocracy 
 A leader of the Grung is chosen by who catches the greatest fish the year before. As expected, this position changes a lot and is a fierce competition amongst the Grung. They have a massive chamber where they track Grung fisher's scores. They are such great fishers because of how competitive they are. 
+#### Types of Grung:
+There are three types of Grung: green grung, blue grung, and red grung. There is a fabled black grung but one has not been born for generations. The poisons of the grung increase in potency from green to blue and to red. Green causes mild nauseous and disorientation (+1d6 poison damage), blue causes vivid hallucinations and intense pain (+3d6 poison damage), and red causes organ melting and death (+9d6 poison damage). Concentrated dosages reflect the damage numbers listed. In grung society, green grung are usually home tenders and simple folk, blue grung are fishers and gatherers, and red grung are warriors. 
 
-1. Their current leader is named Buster Croaks. He is an elder Grung. 
+1. Their current leader is named Buster Croaks. He is an elder, Blue, Grung. 
 ## The White Cliff Mines:
 The cliffs nears Smears-burrow are rich with crystals alongside deposits of [[Ice-Rocks]]. Permanent scaffoldings have been built along the cliff face to allow miners to trek down to the mines. 
 

@@ -1,7 +1,12 @@
 {
-  "accentColor": "#229f09",
+  "accentColor": "",
   "theme": "obsidian",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Typewriter"
+  "cssTheme": "Typewriter",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }
