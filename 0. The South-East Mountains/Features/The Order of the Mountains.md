@@ -2,14 +2,12 @@ Regional Location: [[The South-East Mountains]]
 Subsection: Ordering of the Mountains from South to North.
 # Description:
 The Mountains of [[The South-East Mountains]] vary in size, altitude, weather, and difficulty to scale. The following will be a list, from south to north, of each mountains location, difficulty, weather, and any important settlements or groups that claim the mountain:
-
 #### Difficulty Ratings:
 1. **Impassible**: The mountain(s) cannot be traversed
 2. **Low**: The mountain(s) can be passed by an experienced climber
 3. **Medium**: The mountain(s) are dangerous, even for an experience climber
 4. **Hard**: These mountain(s) claim the lives of even the most seasoned mountain climbers. 
 5. **Extreme:** You will not make it, no matter the experience.
-
 #### The Mountains in Order (South to North):
 1. [[The Southern Razor Peaks]]
 	- Difficulty: Impassable
@@ -32,6 +30,6 @@ The Mountains of [[The South-East Mountains]] vary in size, altitude, weather, a
 	- Difficulty: Hard
 3. [[The Peak of Gold]]
 	- Difficulty: Medium
-	- Group: 
+	- Group: [[The Delegation of Amethyst]]
 1. [[The Eastern Razor Peaks]]
 	- Difficulty: Impassable

@@ -57,6 +57,10 @@ The tavern has many cooks since it has a very high demand and multiple bartender
 4. Two man who want some diving partners to hunt a particularly large red fish that has been eating fish near the docks. 
 5. A women who wants help cleaning off some of the buildings in the center of town. 
 6. 3 Grung who are daring people to try sliding down 'The Algae Tunnel.' (this is the name of the chute channeling the Grung's Path water down the cliff towards the sea.)
+#### Mini-Mission: Not all is as it seems:
+In the tavern, there was a poisoning. [[His Majesty]] was accused by [[Deion Deus]] of poisoning [[Jordan Leabrook]]. The idea arose since [[His Majesty]] passed [[Jordan Leabrook]] a glass of liquor that 'was darker than others' and [[Jordan Leabrook]] because horribly poisoned. [[His Majesty]] did not poison the glass and thought someone else did.
+
+The glass was poisoned by a shape-changer. There are two at the bar posing as Helga and Belga. Both are normally reclusive, silent, and awkward around guests but the shape-changers are boisterous, confident, and have a desire to get information. They poisoned a glass with red grung poison to frame the grung. 
 ## The Store: "The Dull Store"
 This is the general store in Smears-burrow. Like other towns along the coast, they are supplied by a trade caravan every other week or so. This store is a simply barn-like structure with an attached stone building. It acts like a warehouse, storing necessary goods. 
 
