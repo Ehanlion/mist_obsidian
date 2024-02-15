@@ -31,21 +31,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "96ee8541ca1c7fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "31bfed910d2bb5ee",
@@ -58,8 +46,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/Ethan's Useful Links.md",
-                "mode": "preview",
+                "file": "0. The South-East Coast/Items/Cavarra Weapons.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "file": "0. The South-East Coast/Items/Cavarra Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "file": "0. The South-East Coast/Items/Cavarra Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md"
+                "file": "0. The South-East Coast/Items/Cavarra Weapons.md"
               }
             }
           }
@@ -191,9 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96ee8541ca1c7fb9",
+  "active": "65b4aa5fbd0162ba",
   "lastOpenFiles": [
+    "0. The South-East Coast/NPCs/Cavarra Crusher.md",
+    "0. The South-East Coast/Items/Cavarra Weapons.md",
     "99. Brainstorming/_To-Do List.md",
+    "0. The South-East Coast/Items",
+    "0. The South-East Coast/Untitled.md",
     "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
     "0. The North-West Highlands/Features/The Sunken Caverns.md",
     "0. The North-West Highlands/Items/Ice-Rocks.md",
@@ -216,9 +208,6 @@
     "GM Screen/Conditions/exhaustion (OneD&D).md",
     "GM Screen/Conditions/exhaustion.md",
     "0. The North-West Highlands/Features/Shimmer Mist Lagoon.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthara.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Seat of Stone.md",
-    "GM Screen/DCs/setting a DC.md",
     "0. The South-East Mountains/Features/The Mountains/Untitled.canvas",
     "_Monsters/frost-bound warden.monster",
     "_Assets/ignel valis statblock.png",
@@ -238,7 +227,6 @@
     "99. Brainstorming/The Followers of Alsolace",
     "-1. Lore of Mist/Pantheon of Mist/Miscellaneous",
     "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Eight/Untitled"
+    "-1. Lore of Mist/Pantheon of Mist/Prime Deities"
   ]
 }
