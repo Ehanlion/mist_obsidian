@@ -32,8 +32,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "31bfed910d2bb5ee",
@@ -46,8 +45,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The South-East Coast/Items/Cavarra Weapons.md",
-                "mode": "source",
+                "file": "GM Screen/Ethan's Useful Links.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The South-East Coast/Items/Cavarra Weapons.md",
+                "file": "GM Screen/Ethan's Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The South-East Coast/Items/Cavarra Weapons.md",
+                "file": "GM Screen/Ethan's Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The South-East Coast/Items/Cavarra Weapons.md"
+                "file": "GM Screen/Ethan's Useful Links.md"
               }
             }
           }
@@ -181,9 +180,10 @@
   },
   "active": "65b4aa5fbd0162ba",
   "lastOpenFiles": [
-    "0. The South-East Coast/NPCs/Cavarra Crusher.md",
-    "0. The South-East Coast/Items/Cavarra Weapons.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
     "99. Brainstorming/_To-Do List.md",
+    "0. The South-East Coast/Items/Cavarra Weapons.md",
+    "0. The South-East Coast/NPCs/Cavarra Crusher.md",
     "0. The South-East Coast/Items",
     "0. The South-East Coast/Untitled.md",
     "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
@@ -207,7 +207,6 @@
     "0. The North-West Highlands/Towns, Cities/_North West Town Ordering.md",
     "GM Screen/Conditions/exhaustion (OneD&D).md",
     "GM Screen/Conditions/exhaustion.md",
-    "0. The North-West Highlands/Features/Shimmer Mist Lagoon.md",
     "0. The South-East Mountains/Features/The Mountains/Untitled.canvas",
     "_Monsters/frost-bound warden.monster",
     "_Assets/ignel valis statblock.png",
