@@ -6,7 +6,6 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 57.02875399361022,
         "children": [
           {
             "id": "0e87e4dfa6d9bf35",
@@ -31,27 +30,57 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "31bfed910d2bb5ee",
-        "type": "tabs",
-        "dimension": 42.97124600638978,
-        "children": [
+          },
           {
-            "id": "65b4aa5fbd0162ba",
+            "id": "7d6aa7cf72c28a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/Ethan's Useful Links.md",
+                "file": "Session Notes/Mist Sessions/Mist S5 03-23-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3bddc46b93ef383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6220feed79c4219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af41aee3fde90e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/NPCs/Reggie Brown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Screen/Ethan's Useful Links.md",
+                "file": "0. The North-West Highlands/NPCs/Reggie Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Screen/Ethan's Useful Links.md",
+                "file": "0. The North-West Highlands/NPCs/Reggie Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM Screen/Ethan's Useful Links.md"
+                "file": "0. The North-West Highlands/NPCs/Reggie Brown.md"
               }
             }
           }
@@ -178,35 +207,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65b4aa5fbd0162ba",
+  "active": "af41aee3fde90e29",
   "lastOpenFiles": [
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-West Highlands/NPCs/Reggie Brown.md",
+    "GM Screen/Underwater/holding breath underwater.md",
+    "0. The North-West Highlands/Side-Quests/Helping Smears-burrow.md",
+    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "Session Notes/Mist Sessions/Mist S5 03-23-24.md",
     "99. Brainstorming/_To-Do List.md",
+    "0. The North-West Highlands/Towns, Cities/_North West Town Ordering.md",
+    "Session Notes/Mist Sessions/Mist S4 02-15-24.md",
+    "GM Screen/Underwater/diving into water.md",
+    "0. The North-West Highlands/NPCs/Barney Carper.md",
+    "-1. Lore of Mist/Items/Shards.md",
+    "Session Notes/Mist Sessions/Mist S3 02-10-24.md",
+    "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
+    "99. Player Data/Kelswin Lovejoy.md",
+    "99. Player Data/Wake.md",
+    "99. Player Data/Deion Deus.md",
+    "GM Screen/Ethan's Useful Links.md",
     "0. The South-East Coast/Items/Cavarra Weapons.md",
     "0. The South-East Coast/NPCs/Cavarra Crusher.md",
     "0. The South-East Coast/Items",
     "0. The South-East Coast/Untitled.md",
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
     "0. The North-West Highlands/Features/The Sunken Caverns.md",
     "0. The North-West Highlands/Items/Ice-Rocks.md",
     "0. The North-West Highlands/Items/A Mist-Cutter Ship.md",
     "0. The North-West Highlands/Items/Trident of Returning (Manual).md",
     "0. The North-West Highlands/Items/Master Mind Rock.md",
-    "0. The North-West Highlands/Items/Mind Rock.md",
-    "99. Brainstorming/Shapeshifters in the Tavern.md",
-    "99. Brainstorming/Rhyming Naga Puzzle.md",
-    "Session Notes/Mist Sessions/Mist S3 02-10-24.md",
-    "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
-    "Session Notes/Mist Sessions/Mist S1 12-29-23.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "1. Missions/_Mission Index.md",
-    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
-    "1. Missions/Mission Phase 1/Mission, Escort Across the North-West.md",
-    "1. Missions/Mission Phase 1/Mission, Raids on the North-East Coast.md",
-    "-1. Lore of Mist/Items/Shards.md",
-    "0. The North-West Highlands/Towns, Cities/_North West Town Ordering.md",
-    "GM Screen/Conditions/exhaustion (OneD&D).md",
-    "GM Screen/Conditions/exhaustion.md",
     "0. The South-East Mountains/Features/The Mountains/Untitled.canvas",
     "_Monsters/frost-bound warden.monster",
     "_Assets/ignel valis statblock.png",

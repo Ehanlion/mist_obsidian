@@ -3,7 +3,7 @@
   "theme": "obsidian",
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Typewriter",
+  "cssTheme": "Obsidian gruvbox",
   "nativeMenus": false,
   "showViewHeader": true,
   "interfaceFontFamily": "",

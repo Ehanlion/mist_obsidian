@@ -55,13 +55,13 @@ The glass was poisoned by a shape-changer. There are two at the bar posing as He
 ## The Mission Board:
 The town's request board is located on the side of the tavern, directly to the right of the entrance way. People from the town post about jobs they need, requests, or notices. 
 #### Current Offerings:
-- [ ] A man offering coin for labor hauling fish to market. The man has a bad back and has a hard time lifting his catch up to the town. 
+- [x] A man offering coin for labor hauling fish to market. The man has a bad back and has a hard time lifting his catch up to the town. 
 - [ ] A man asking about his friend, [[Reggie Brown]].
-- [ ] A grung asking someone to dive off the coat for her lost ring. The notices mentions that 'divorce is imminent' should the ring not be found. 
-- [ ] Two man who want some diving partners to hunt a particularly large red fish that has been eating fish near the docks. The fish is a monstrosity.
+- [x] A grung asking someone to dive off the coat for her lost ring. The notices mentions that 'divorce is imminent' should the ring not be found. 
+- [x] Two man who want some diving partners to hunt a particularly large red fish that has been eating fish near the docks. The fish is a monstrosity.
 - [ ] A women who wants help cleaning off some of the buildings in the center of town. There are odd growths of coral on it.
 - [ ] 3 Grung who are daring people to try sliding down 'The Algae Tunnel.' (this is the name of the chute channeling the Grung's Path water down the cliff towards the sea.) The reward is 'water,' which is actually a potion of water breathing (the grung breath water so to them it is just 'water').
-- [ ] A grung asking for help researching, classifying, and documenting 'The Magic Grung Rock.' A historian and someone who is good at books is requested. 
+- [x] A grung asking for help researching, classifying, and documenting 'The Magic Grung Rock.' A historian and someone who is good at books is requested. 
 ## The Store: "The Dull Store"
 This is the general store in Smears-burrow. Like other towns along the coast, they are supplied by a trade caravan every other week or so. This store is a simply barn-like structure with an attached stone building. It acts like a warehouse, storing necessary goods. 
 
