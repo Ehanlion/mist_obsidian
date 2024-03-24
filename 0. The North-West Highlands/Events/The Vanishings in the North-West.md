@@ -11,8 +11,10 @@ Small vanishings up and along the coast. One or two people here or there from to
 1. Librarians
 2. Historians
 3. Supply Caravans from the Trade Guild from [[Gandoras City]]
+
+[[Karak-Ulgurath]], the crustacean overlord, needs miners because the area they are mining in is unstable and collapses very easily. Miners, enslaved by the crab, are needed for their expertise which is taken from them after being dominated by the crab. The crab has plenty of raw labor but needs expertise to mine efficiently. As for the librarians, the crab is learning about the powers of the [[Shards]] that it is seeking, but this is primarily because it is forced to by [[Ignel Valis]]. [[Ignel Valis]] has commanded the crab to learn about the [[Shards]] and so it has selected librarians to try and learn from. 
 #### People by Town:
-1. [[Saddle-Port]]:
+1. [[Saddle-Port]]: 
 	1. [[Vivian Lovejoy]] (librarian)
 2. [[Smears-burrow]]
 	1. [[Reggie Brown]] (fisher)
@@ -20,11 +22,15 @@ Small vanishings up and along the coast. One or two people here or there from to
 	3. Gurdath Fallonswallow (miner)
 	4. Mary-Anne Birch (librarian) 
 3. [[Gullhook]]
+	1. Librarian
+	2. Miner
+	3. Miner
+	4. Miner
 4. [[Herringshold]]
 5. [[Schooner's End]]
 6. [[Trawlrock]]
 7. [[Anchorpoint Fisheries]]
-#### Attacking the Caravans:
+# Attacking the Caravans:
 The followers, namely brutes like the Sahaguin followers, will attack supply caravans that are sent by [[Gandoras City]] along the coast. This is done to obtain weapons and armor for the followers. These attacks occur between towns to disrupt the trade flow.
 
 They target the following goods in particular:
@@ -32,7 +38,7 @@ They target the following goods in particular:
 2. Weapons
 3. Armors and shields
 4. Magical Artifacts
-#### Who is taking these people:
+# Who is taking these people:
 Groups of mutated sea creatures appear to be leading the raids. These can be any form of sea creature but they will all have in common mutations dictated in the 'Mutations' section of [[The Followers of Karak-Ulgurath]] note.
 
 Creature list:
@@ -43,8 +49,7 @@ Creature list:
 	1. Saghuagin are accompanied by hunter or giant sharks
 
 **It is even simpler than that:**
-All that needs to happen in raids are for mutated, sea-looking creatures to come up from the cliffs or a part of town, steal people they are looking 
-for, and fade back to the sea. 
+All that needs to happen in raids are for mutated, sea-looking creatures to come up from the cliffs or a part of town, steal people they are looking for, and fade back to the sea. 
 
 _ _ __
 # Timings of the Raids:

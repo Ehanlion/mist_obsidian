@@ -20,6 +20,8 @@ Subsection: None
 9. Mary-Anne Birch (Elf): Librarian for the Old Birch Library
 10. Fogram Heavygaze (goliath): a prolific miner 
 11. Gurdath Fallonswallow (firbolg): a well liked and boisterous miner
+12. Gargle (green grung): grung in marriage, lost ring and was saved by [[Slug Stoll]]
+13. Gaston Long-line: deceased now, poaching fisherman
 # The Center of the Town:
 The town is centered on the library with the ancient and massive birch tree being the center piece of the town. Lines with lanterns hanging from them are hung from the long-since petrified branches of the old tree and at night they light up the town center.
 
@@ -134,6 +136,9 @@ Much like getting down to the mines, fishers and diver take precarious scaffoldi
 The town does NOT have any ships. Visiting ships are always forced to dock on the visitors wharfs, a ways away from the fishing jetties that dominate the sea nearest to the cliffs. 
 
 Any ship, scuff mark, or oddity a ship could make against any one of the main fishing jetties should stand out as odd or weird. 
+
+**Punishment for Poaching:**
+If a fisherman is caught poaching off of another fisherman's fishing spot or crates the punishment is severe. A guilty fisherman is sentenced to death, an overwhelmingly severe punishment for the small town but a necessary one. They are built on community so poaching directly harms the whole community. The death is executed in the kelp chute, the tunnel draining the grung path to the sea beneath. It is rocky and jagged, shredding the body into fish food. 
 # Events:
 1. **Monthly Fish Off:** Teams of 4 accepted. Judging done by the towns elders, one from the Grung and two from the rest of the town (since that is how the percentage population divides, 33% Grung, 66% other). Categories for: largest catch, most dangerous catch, most odd catch, and prettiest fish. Gold prizes to the winners. Many come from [[Saddle-Port]], [[Herringshold]], and [[Gullhook]] to join in. 
 2. **The Great Other-Grung Capture the Flag Game:** Every year, around when the season begin to change back from cold and frosty to warm and spring-y, a game of capture the flag is held. No maiming, but blunt trauma and knocking people out is allowed. It is just for fun. Winning team gets a trophy. The Grung have lost this for 8 years in a row now and would love some help to win. 
