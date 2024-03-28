@@ -7,7 +7,7 @@
 2. [Cloak of the Magi](https://roll20.net/compendium/dnd5e/Robe%20of%20the%20Archmagi#content)worn by [[Ignel Valis]]
 3. [Cloak of Eyes](https://www.5esrd.com/database/magicitem/cloak-of-eyes/) worn by [[Ignel Valis]]
 4. [[Master Mind Rock]], held by [[Ignel Valis]]
-5. [[Mind Rock]], attached to the Karak-Ulgurath, detailed in [[The Vanishings in the North-West]] document.
+5. [[Mind Rock]], attached to the [[Karak-Ulgurath]], detailed in [[The Vanishings in the North-West]] document.
 6. [Holy Avenger](https://roll20.net/compendium/dnd5e/Holy%20Avenger#content) wielded by [[King Hyranthara]]
 
 #### Non-Standard Items:

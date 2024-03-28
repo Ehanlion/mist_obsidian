@@ -5,7 +5,7 @@ Reggie, to his friends known as R.B., is an average fisherman. He has a tangled 
 # Location:
 Reggie lives in [[Smears-burrow]] and is a relatively well liked and notable fisherman there. 
 
-He captains a single fishing vessel by the names of the Blessed Bream. It is small -- at max capacity, maybe 10 men could accompany the skipper. It is equipped with a couple fishing pole stands, some nets, and some harpoons for shallows fishing. 
+He captains a single fishing vessel by the names of *The Blueberry*. It is a petite vessel, but one that is more than capable of storing large amounts of cargo if necessary. It is about 45 feet long and 15 feet wide with a deep keel, capable of deep-sea fishing journeys. 
 # Man Missing:
 Reggie has recently gone missing from [[Smears-burrow]]. He was last reported leaving on his fishing boat and sailing along the coast to fish in the shallows. Importantly, it is known that he is NOT missing from a raid that happened at [[Smears-burrow]] because he went missing BEFORE the raid that happened. 
 
