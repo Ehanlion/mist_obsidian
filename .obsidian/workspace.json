@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,8 +50,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -74,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+                "file": "0. The North-West Highlands/Features/The Sunken Caverns.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +166,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Karak-Ulgurath.md"
+                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md"
               }
             }
           }
@@ -212,32 +213,34 @@
   },
   "active": "133bf91d6a2d72c5",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
-    "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
+    "GM Screen/objects and damage/object hit points.md",
+    "GM Screen/objects and damage/object armor class.md",
+    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
     "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
-    "0. The North-West Highlands/NPCs/Igor Larionov.md",
-    "GM Screen/Ethan's Item Sheet.md",
-    "99. Brainstorming/_To-Do List.md",
-    "0. The North-West Highlands/Events/Karak-Ulgurath Raid Example.md",
-    "-1. Lore of Mist/Items/Shards.md",
-    "-1. Lore of Mist/NPCs, Creatures/The Many/The Many.md",
-    "0. The South-East Coast/NPCs/Ignel Valis.md",
-    "0. The South-East Coast/NPCs/Silvan Gile.md",
-    "0. The North-East Forests/NPCs/Agnedelo the Plague-Bringer.md",
-    "0. The North-West Highlands/NPCs/Reggie Brown.md",
-    "GM Screen/Underwater/diving into water.md",
-    "Session Notes/Mist Sessions/Mist S5 03-23-24.md",
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
     "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
-    "GM Screen/Underwater/holding breath underwater.md",
+    "Session Notes/Mist Sessions/Mist S6 03-29-24.md",
+    "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
+    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+    "0. The North-West Highlands/NPCs/Yugo Stolid.md",
+    "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
     "0. The North-West Highlands/Side-Quests/Helping Smears-burrow.md",
-    "0. The North-West Highlands/Towns, Cities/_North West Town Ordering.md",
-    "Session Notes/Mist Sessions/Mist S4 02-15-24.md",
+    "0. The North-West Highlands/Events/Karak-Ulgurath Town Raid Example.md",
+    "0. The North-West Highlands/NPCs/Reggie Brown.md",
+    "0. The North-West Highlands/NPCs/Igor Larionov.md",
+    "0. The North-West Highlands/NPCs/His Majesty.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Gandoras Trades Guild.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Trades-Masters.md",
+    "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
+    "0. The North-West Highlands/NPCs/Burton Browns.md",
     "0. The North-West Highlands/NPCs/Barney Carper.md",
-    "Session Notes/Mist Sessions/Mist S3 02-10-24.md",
-    "99. Player Data/Kelswin Lovejoy.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "1. Missions/Mist Mission Index.md",
+    "1. Missions/_incomplete/Mission, Entering the Green Order.md",
+    "1. Missions/_incomplete",
+    "1. Missions/_ideas",
+    "1. Missions/_incomplete/Mission, De-throne Garrick.md",
+    "0. The North-West Highlands/Features/The Sunken Caverns.md",
     "0. The South-East Coast/Items",
     "0. The South-East Mountains/Features/The Mountains/Untitled.canvas",
     "_Monsters/frost-bound warden.monster",
@@ -256,8 +259,6 @@
     "_Assets/Hope town black tide reapers.png",
     "-1. Lore of Mist/Great Features/PROJ_BUNKER",
     "99. Brainstorming/The Followers of Alsolace",
-    "-1. Lore of Mist/Pantheon of Mist/Miscellaneous",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
-    "-1. Lore of Mist/Pantheon of Mist/Prime Deities"
+    "-1. Lore of Mist/Pantheon of Mist/Miscellaneous"
   ]
 }

@@ -5,8 +5,7 @@ Jordan is tall, fair looking, with brown hair. He has a jaunty smile and an easy
 
 He is a distant cousin of [[Master Smith Claudia]]. 
 # Location:
-Jared, and his family, live in [[Saddle-Port]], along [[The North-West Highlands]]. He has a simple, small cottage which he lives in with his family. He enjoys visiting the tavern within the town on evenings. 
-
+[[Jordan Leabrook]], and his family, live in [[Saddle-Port]], along [[The North-West Highlands]]. He has a simple, small cottage which he lives in with his family. He enjoys visiting the tavern within the town on evenings. 
 # Knowledge about Vanishings:
 Jordan has a small amount of knowledge about people disappearing from towns along [[The North-West Highlands]]. He just knows that a couple people from the next town up from [[Saddle-Port]], being [[Smears-burrow]], have been reported missing.
 

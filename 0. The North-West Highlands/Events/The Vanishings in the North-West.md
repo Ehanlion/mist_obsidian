@@ -30,6 +30,8 @@ Small vanishings up and along the coast. One or two people here or there from to
 5. [[Schooner's End]]
 6. [[Trawlrock]]
 7. [[Anchorpoint Fisheries]]
+
+It is important that, for some of these towns, no one was stolen because the town didn't have either librarians or miners or both. In this case, the town gets annihilated and an intense battle ensues. There needs to be evidence that some town tried to fight the raiders and failed horribly. 
 # Attacking the Caravans:
 The followers, namely brutes like the Sahaguin followers, will attack supply caravans that are sent by [[Gandoras City]] along the coast. This is done to obtain weapons and armor for the followers. These attacks occur between towns to disrupt the trade flow.
 

@@ -1,5 +1,5 @@
 # Mission Overview:
-A fun task give to the party by [[Pombo Wrinkle, the Short One]], the master potion make of [[The Green Order]]. It can only be done after [[Mission, Entering the Green Order]] has been successfully completed. Refer to [[_Mission Index]] to check if it is allowed. 
+A fun task give to the party by [[Pombo Wrinkle, the Short One]], the master potion make of [[The Green Order]]. It can only be done after [[Mission, Entering the Green Order]] has been successfully completed. Refer to [[Mist Mission Index]] to check if it is allowed. 
 
 [[Pombo Wrinkle, the Short One]] will assign this mission to the party given that they express interest in potion making and displayed at least some sort of talent for potion making in their initiation. He will talk about:
 -  How many unique ingredients the forests harbor

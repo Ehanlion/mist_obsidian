@@ -1,3 +1,5 @@
+Campaign: [[Mist Sessions]]
+
 Welcome to Mist adventurers. I hope you enjoy the many, many adventures that are yet to come. 
 # First Beginnings
 The adventure begins in [[The North-West Highlands]], in the village of [[Saddle-Port]]. This is [[Kelswin Lovejoy]]'s home village. 
@@ -14,10 +16,15 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 | Town's Guard in the Tavern | There have been multiple cases of people missing up the coast. It is known that there a three people missing from [[Smears-burrow]], a town up the coast -- one librarian and two miners.  |
 | Poor Merchant | A merchant is town had his boat sunk just off shore. His name is [[Barney Carper]]. He couldn't retrieve his lockbox with his valuables in it and needs it returned or he faces ruin. |
 | Fishermen  | Two fisherman at the docks look like they need help.   |
+# Resolving Hooks:
+As of [[Mist S5 03-23-24]], the group has explored [[Smears-burrow]] with [[Jordan Leabrook]] and discovered that some force is raiding towns on firsts-day. They have moved back to [[Saddle-Port]] and reached there on weeks-end. They will have the full duration of weeks-end to prepare for the raid.
+
+As of [[Mist S5 03-23-24]], the group did not follow up with the poor merchant to find the sunken ship named "Stan-ta Ray." From the session, it was alluded to having sunk outside the sea cave that was discovered. The ship has dark yellow paint and 'a name with two words, the first hyphenated.' (to distinguish between [[Reggie Brown]]'s ship "The Blueberry" from [[Smears-burrow]] and "Stan-ta Ray.")
+
+As of [[Mist S5 03-23-24]], the group found the sea cave that was a staging point for the raiding parties. There was one guard who was killed by [[Slug Stoll]]. They found that the cave was lived in by 30 people (Sahuaguin) and they found a rusted trident that has not been inspected. It will have the initials RB on it. They found a dead body, identified as having died in a struggle but not an identity. (really [[Reggie Brown]]'s body)
 ___
 ## 1. Town's Guard in the Tavern:
 Walking through town you hear murmurings of people being taken or having gone missing from towns up the coast from [[Saddle-Port]]. 
-
 #### The Tavern:
 A man by the name of [[Jordan Leabrook]] is the town's guard. He knows a little about people going missing up the coast of [[The North-West Highlands]]. He is motivated to learn more about the missing people because none have gone missing from [[Saddle-Port]] yet, and since he has kids, he wants to make sure that they are not in danger. 
 #### Jordan's Suggestions:
@@ -99,7 +106,5 @@ The raiders in the cave have already cleared out however, and are boarded on [[R
 The captain will offer anyone who returns his lock box half of what it contains -- a total sum of 500 gold of gems and jewels. 
 
 ___
-# Post Hooks:
-Realistically, things get a little wishy-washy here. Both hooks are setup to have the party eventually get back to [[Saddle-Port]]. That would allow for a raid by members of [[The Followers of Karak-Ulgurath]]. They would search for Librarians and stone masons, as described in [[The Vanishings in the North-West]]. This means the raiders would target [[Vivian Lovejoy]] and maybe [[Kelswin Lovejoy]] (since they are both librarian-related).
-
-The end-all, be all, is that there should be a combat where the party comes face to face with a force of [[The Followers of Karak-Ulgurath]] and the party is outmatched by this force. 
+# End of Mission:
+The group has made their way back to the town of [[Saddle-Port]] and is ready to defend against the oncoming attack OR they are ready to face to consequences of their delay in [[Smears-burrow]]. Either way should involve [[Vivian Lovejoy]] to some extent be it as a target to defend or as a victim of [[Karak-Ulgurath]], [[The Followers of Karak-Ulgurath]], and a vicious raid on the town of [[Saddle-Port]].

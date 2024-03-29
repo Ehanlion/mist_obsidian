@@ -26,15 +26,14 @@ Nearby to the tavern are some visitors cottages that the tavern runs. There are 
 
 1. Herbert Shaw: Older, no hair and bald, multiple scars from when he worked on fishing boats. Likes to tell stories.
 2. Alice Shaw: Older, flowing grey hair and keen eyes. Friendly laugh and enjoys talking about the specials for the day that she is cooking.
-
 #### The Trading Post: "Yugo's Store"
-Saddle-Port, like many towns, has a small trading port where merchant cargos sell small amounts of their goods to the local tender. This trading post is run by a man named Yugo Stolid.  
+Saddle-Port, like many towns, has a small trading port where merchant cargos sell small amounts of their goods to the local tender. This trading post is run by a man named [[Yugo Stolid]].  
 
 Carried are simple goods, two healing potions, and a potion of water breathing. He has many troves of old fishing gear. He also knows when the next caravan is due in because they run on a relatively regular schedule. 
 
 The trading post also stocks basic food supplies from a supply caravan that runs up the coast from [[Gandoras City]]. The caravan comes just about every week and will sell basic goods to Yugo, who will then sell them to the people of saddle-port. 
 
-1. Yugo Stolid: Young and squat halfling who is very noticing. Good at bartering to make a sale. Uses a Russian accent.
+1. [[Yugo Stolid]]: Young and squat halfling who is very noticing. Good at bartering to make a sale. Uses a Russian accent.
 #### Oxen stables:
 Saddle-port naturally has a lot of oxen grazing nearby so it is logical that they use oxen for the fishing turn-styles. Oxen also provide an excellent source of dairy, much needed for a small, isolated town.
 
