@@ -1,4 +1,4 @@
-Regional Location: In the seas of Mist
+Regional Location: The Seas of Mist
 Subsection: Wander deep within [[The Shrouds of the Frost-Bound Wardens]]
 # True Nature:
 The true nature of the Wardens are that they are constructs, powered by [[The Aether-Veil Projector]] and can be shutdown via [[The Mist Codex]]. They are a feature that is enabled within [[The Mist Codex]] to provide a layer of defense. 

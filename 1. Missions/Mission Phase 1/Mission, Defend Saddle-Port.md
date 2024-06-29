@@ -118,6 +118,7 @@ ___
 Layout: [[Smears-burrow]] ------ Cave ---------------------------- [[Saddle-Port]]
 
 On Weeks-end, the raiders are restocking "The Blueberry" at the cave that [[Slug Stoll]] found, just 10 miles south of [[Smears-burrow]]. They will sail to a point off the coast of [[Saddle-Port]] by midday on firsts-day, pretending to fish and concealing their numbers. Once darkness falls on firsts-day, the raiders towards [[Saddle-Port]]. The raid will happen at the 11th hour just before midnight.
-
+# Raid Conduct:
+The raid will be according to what is detailed in [[Karak-Ulgurath Town Raid Example]]. There will be a light, infiltration group, backed up by powerful support lurking just off the white cliffs looming over the sea. Support stands on top of the crustacean support creatures. 
 
 

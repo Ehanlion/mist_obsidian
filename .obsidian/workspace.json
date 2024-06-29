@@ -32,50 +32,12 @@
             }
           },
           {
-            "id": "133bf91d6a2d72c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6220feed79c4219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af41aee3fde90e29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Screen/Ethan's Useful Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa4db3f48ee823b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Features/The Sunken Caverns.md",
+                "file": "-1. Global Lands of Mist/Great Events/Glister Storms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
+                "file": "-1. Global Lands of Mist/Great Events/Glister Storms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
+                "file": "-1. Global Lands of Mist/Great Events/Glister Storms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md"
+                "file": "-1. Global Lands of Mist/Great Events/Glister Storms.md"
               }
             }
           }
@@ -211,36 +173,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "133bf91d6a2d72c5",
+  "active": "aa4db3f48ee823b1",
   "lastOpenFiles": [
-    "GM Screen/objects and damage/object hit points.md",
-    "GM Screen/objects and damage/object armor class.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
-    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-    "0. The North-West Highlands/NPCs/Jordan Leabrook.md",
-    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
-    "Session Notes/Mist Sessions/Mist S6 03-29-24.md",
-    "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
-    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
-    "0. The North-West Highlands/NPCs/Yugo Stolid.md",
-    "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
-    "0. The North-West Highlands/Side-Quests/Helping Smears-burrow.md",
-    "0. The North-West Highlands/Events/Karak-Ulgurath Town Raid Example.md",
-    "0. The North-West Highlands/NPCs/Reggie Brown.md",
-    "0. The North-West Highlands/NPCs/Igor Larionov.md",
-    "0. The North-West Highlands/NPCs/His Majesty.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Gandoras Trades Guild.md",
-    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/The Trades-Masters.md",
-    "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
-    "0. The North-West Highlands/NPCs/Burton Browns.md",
+    "-1. Global Lands of Mist/Great Features/The Seas of Mist.md",
+    "0. The South-West Arid Expanse/Features/The Warm Ocean.md",
+    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
+    "0. The North-West Highlands/Towns, Cities/_North West Town Ordering.md",
+    "-1. Global Lands of Mist/Great Events/Glister Storms.md",
+    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Glisters.md",
     "0. The North-West Highlands/NPCs/Barney Carper.md",
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
-    "1. Missions/Mist Mission Index.md",
-    "1. Missions/_incomplete/Mission, Entering the Green Order.md",
+    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Foundling Glister.md",
+    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Crimson Glister.md",
+    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port.md",
+    "0. The North-East Forests/Features/The Edge-lands.md",
+    "_Assets/blood-red glister.png",
+    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Emotion Glister.md",
+    "-1. Global Lands of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
+    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "1. Missions/_ideas/Mission, Time Heist.md",
+    "GM Screen/Ethan's Creatures.md",
+    "-1. Global Lands of Mist/Great Events/The Moon-Fall Resurgence.md",
+    "-1. Global Lands of Mist/Great Events/The Red Moon.md",
+    "-1. Global Lands of Mist/Great Events/The Final Day of The Many.md",
+    "-1. Global Lands of Mist/Great Events/The Calamitous Typhoon.md",
+    "-1. Global Lands of Mist/Great Features/Archaic Storm Conduits.md",
+    "-1. Global Lands of Mist/Great Features/Amides.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/For Ethan's Eyes Only/Understanding the Console Logs.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_7.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/For Ethan's Eyes Only",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_6.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_5.md",
+    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters",
     "1. Missions/_incomplete",
     "1. Missions/_ideas",
-    "1. Missions/_incomplete/Mission, De-throne Garrick.md",
-    "0. The North-West Highlands/Features/The Sunken Caverns.md",
     "0. The South-East Coast/Items",
     "0. The South-East Mountains/Features/The Mountains/Untitled.canvas",
     "_Monsters/frost-bound warden.monster",
@@ -249,16 +214,13 @@
     "_Monsters",
     "_Assets/frost-bound warden.png",
     "_Assets/Mist CONSOLE Room.jpg",
-    "-1. Lore of Mist/Pantheon of Mist/Betrayer Gods",
+    "-1. Global Lands of Mist/Pantheon of Mist/Betrayer Gods",
     "_Assets/Obelisk field in north sea.png",
     "_Assets/Macro view of deep woods and dark woods.png",
     "_Assets/karak-ulgurath the crab lord.png",
     "_Assets/Hope town the blue coats.png",
     "_Assets/Hope town hugos arena.png",
     "_Assets/Hope town fedorovs legion.png",
-    "_Assets/Hope town black tide reapers.png",
-    "-1. Lore of Mist/Great Features/PROJ_BUNKER",
-    "99. Brainstorming/The Followers of Alsolace",
-    "-1. Lore of Mist/Pantheon of Mist/Miscellaneous"
+    "-1. Lore of Mist/Great Features/PROJ_BUNKER"
   ]
 }

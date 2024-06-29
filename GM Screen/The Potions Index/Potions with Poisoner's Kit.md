@@ -104,7 +104,7 @@ A creature subjected to this poison must succeed on a DC 13 Constitution saving 
 #### Devil’s Powder
 A hyper fine, red powder with a faintly smoky aroma, this powder is to be blown into the face of the target before dispersing harmlessly into the air. The target has to make a DC 18 Charisma Saving throw. On a failed save, the target experiences an altered version of reality where it perceives the world as a hellscape inhabited by foul creatures and becomes extremely vulnerable to intimidation, aggressive forms of persuasion and deception for 1 hour. On a successful save, the target becomes slightly paranoid and skittish.
 
-Ingredients: Angel’s Trumpet, Blight Spores
+	Ingredients: Angel’s Trumpet, Blight Spores
 
 #### Dracula’s Essence
 To be kept in a crystal vial, this poison looks like a small vial of fresh blood, but is always in motion, seemingly trying to escape it vessel. Upon opening the vial, it falls still and turns into a rust coloured liquid. When this potion is drank or comes in contact with the blood vial an injury or injection, it forces the target to make a DC 18 Constitution saving throw. On a success, the target retches the entire content of its stomach and takes 2d8 poison damage.
