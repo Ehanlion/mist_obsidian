@@ -8,7 +8,7 @@ This index tracks all of the missions that I have planned to date. Under each mi
 	- [[Mist S3 02-10-24]]
 	- [[Mist S4 02-15-24]]
 	- [[Mist S5 03-23-24]]
-- [[Mission, Defend Saddle-Port]]
+- [[Mission, Defend Saddle-Port, Part 1]]
 	-  [[Mist S6 03-29-24]]
 
 **Later Mission with unresolved start points:**

@@ -1,9 +1,9 @@
 {
-  "accentColor": "#ff9705",
+  "accentColor": "#8cff00",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "translucency": false,
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Obsidian Nord",
   "nativeMenus": false,
   "showViewHeader": true,
   "interfaceFontFamily": "",
