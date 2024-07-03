@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aee865820488428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Items/Mutated Barnacle Growths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7f73325c9709096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e6c5fb2f1d5383fa",
@@ -190,10 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2332ac62b57285d9",
+  "active": "a7f73325c9709096",
   "lastOpenFiles": [
-    "GM Screen/Obscuring Areas/heavily obscured.md",
+    "0. The North-West Highlands/Items/Mutated Barnacle Growths.md",
     "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
+    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
+    "GM Screen/Obscuring Areas/heavily obscured.md",
     "Untitled.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "GM Screen/Untitled.canvas",
@@ -210,7 +237,6 @@
     "GM Screen/Ethan's Boons",
     "0. The North-West Highlands/Events/Karak-Ulgurath Town Raid Example.md",
     "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
     "Session Notes/Mist Sessions/Mist S6 03-29-24.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
     "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Glisters.md",
@@ -219,7 +245,6 @@
     "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Crimson Glister.md",
     "-1. Global Lands of Mist/Great Events/Glister Storms.md",
     "-1. Global Lands of Mist/Great Features/The Seas of Mist.md",
-    "0. The South-West Arid Expanse/Features/The Warm Ocean.md",
     "_Assets/blood-red glister.png",
     "-1. Global Lands of Mist/Great Features/CONSOLE/For Ethan's Eyes Only",
     "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters",

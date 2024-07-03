@@ -16,7 +16,7 @@ Destroying [[Saddle-Port]] is a **goal** of this mission. Target the *Drunken Wy
 # Raid Focus
 Focus all efforts upon capturing [[Vivian Lovejoy]] and the three miners that happened to be staying in the town. Disregard all player characters and other character and focus entirely on capturing these key targets. 
 
-_ _ __
+__ __
 # Conducting Combat
 Players will control the NPCs of the town, except for very strong NPCs and key *target* NPCs (like [[Vivian Lovejoy]], the miners can be controlled it's fine). 
 #### Grouping NPCs
@@ -27,5 +27,11 @@ The raid takes place at night, during a thunderstorm. Use **heavy wind**, **ligh
 1. **Lightning:** Deals 1d12 lightning damage to 3 targets. Thunder that follows makes talking to anyone 15 ft away or more impossible.
 2. **Heavy Wind:** Makes moving in the direction of the wind count as difficult terrain and moving away from the wind count as double speed. Other directions not impacted.
 3. **Heavy Rain Sheets:** [[heavily obscured]] condition used, all attacks made at disadvantage. Cannot see beyond 5 ft.  
+
+## External Factors:
+Remember that the creatures, since they are part of [[The Followers of Karak-Ulgurath]], have [[Mutated Barnacle Growths]] on them.
+
+![[Mutated Barnacle Growths]]
+
 
 __ __
