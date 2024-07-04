@@ -11,7 +11,7 @@ Refer to the raid examples within [[Karak-Ulgurath Town Raid Example]] for guidi
 #### A Note on Destruction
 Other towns were subject to *unsuspecting* night raids. This time the raid was predicted, and so a fight is ensuing. 
 
-Destroying [[Saddle-Port]] is a **goal** of this mission. Target the *Drunken Wyvern* tavern, the *Cozy Book Nook (library)*, *Yugo's store*, *the bull pens*, and all *fishing boats*. 
+Destroying [[Saddle-Port]] is a **goal** of this mission. Target the *Drunken Wyvern* tavern, the *Cozy Book Nook (library)*, *Yugo's store*, *the bull pens*, and all *fishing boats*. One or two shots from siege crabs. 
 
 # Raid Focus
 Focus all efforts upon capturing [[Vivian Lovejoy]] and the three miners that happened to be staying in the town. Disregard all player characters and other character and focus entirely on capturing these key targets. 
