@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phrax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,7 +232,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7f73325c9709096",
+  "active": "471eaa71a75ed05c",
   "lastOpenFiles": [
     "GM Screen/Ethan's Useful Links.md",
     "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
