@@ -4,22 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6f6278c02be9d4b7",
+        "id": "71d93fda244aa3e4",
         "type": "tabs",
-        "dimension": 50,
         "children": [
-          {
-            "id": "2332ac62b57285d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "0aee865820488428",
             "type": "leaf",
@@ -27,6 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "0. The North-West Highlands/Items/Mutated Barnacle Growths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2332ac62b57285d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +49,6 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "0e87e4dfa6d9bf35",
@@ -96,14 +94,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+                "file": "Session Notes/Mist Sessions/Mist S6 03-29-24.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phrax",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,11 +229,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "471eaa71a75ed05c",
+  "active": "a7f73325c9709096",
   "lastOpenFiles": [
-    "GM Screen/Ethan's Useful Links.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
+    "Session Notes/Mist Sessions/Mist S6 03-29-24.md",
+    "Session Notes/Mist Sessions/Mist S5 03-23-24.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
+    "-1. Global Lands of Mist/Pantheon of Mist/The Pantheon of Mist.md",
+    "_Templates/Format of this Vault.md",
+    "_Templates/_Template for Regional Descriptions.md",
+    "_Templates/_Template for NPC.md",
+    "_Templates/_Template for Locations.md",
+    "_Templates/_Template for Games.md",
+    "_Templates/_Template for Features.md",
+    "_Templates/_Format Testings.md",
+    "_Templates/Building this Vault.md",
+    "GM Screen/Ethan's Useful Links.md",
     "0. The North-West Highlands/Events/Karak-Ulgurath Town Raid Example.md",
     "0. The North-West Highlands/Items/Mutated Barnacle Growths.md",
     "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
@@ -250,18 +258,7 @@
     "GM Screen/Ethan's Creatures.md",
     "GM Screen/Ethan's Boons/Boon of the Stalwart.md",
     "GM Screen/Ethan's Boons/Boon of the Inspiring.md",
-    "GM Screen/Ethan's Boons/Boon of the Commonfolk.md",
-    "GM Screen/Cover/half cover.md",
-    "GM Screen/Ethan's Item Sheet.md",
     "GM Screen/Ethan's Boons",
-    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
-    "Session Notes/Mist Sessions/Mist S6 03-29-24.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Glisters.md",
-    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Foundling Glister.md",
-    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Emotion Glister.md",
-    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters/Crimson Glister.md",
-    "-1. Global Lands of Mist/Great Events/Glister Storms.md",
     "_Assets/blood-red glister.png",
     "-1. Global Lands of Mist/Great Features/CONSOLE/For Ethan's Eyes Only",
     "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters",
