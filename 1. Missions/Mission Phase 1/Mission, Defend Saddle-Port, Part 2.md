@@ -9,7 +9,7 @@ The weather is a **violent thunderstorm** with lightning nearby, strong winds, a
 Refer to the raid examples within [[Karak-Ulgurath Town Raid Example]] for guiding the raid. 
 
 Raiders arrive on the Blueberry, the boat of [[Reggie Brown]]. They will also seek to leave on this boat amidst the thunderstorm. 
-
+## From the Note about the Raids:
 ![[Karak-Ulgurath Town Raid Example]]
 
 ### A Note on Destruction
@@ -75,6 +75,8 @@ The raid takes place at night, during a thunderstorm. Use **heavy wind**, **ligh
 1. **Lightning:** Deals 1d12 lightning damage to 3 targets. Thunder that follows makes talking to anyone 15 ft away or more impossible.
 2. **Heavy Wind:** Makes moving in the direction of the wind count as difficult terrain and moving away from the wind count as double speed. Other directions not impacted.
 3. **Heavy Rain Sheets:** [[heavily obscured]] condition used, all attacks made at disadvantage. Cannot see beyond 5 ft.  
+
+Rotate between all 3 options each round on *initiative count 20.*
 ###### Interactable Items
 1. **Barrels of Fish Oil:** There are **barrels of fish oil** near combat. These can be pushed *with a DC 10 athletics check*.
 2. **Fishing Poles:** There are **tall metal fishing rods** that can be used to direct lightning strikes. These require no check to interact with
