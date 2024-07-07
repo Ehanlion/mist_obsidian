@@ -25,11 +25,12 @@ Command units are primary and secondary leaders of the group. They are brutish a
 
 **Casting Support Units:**
 Each general raid party has multiple casters, usually having one per 6 brute units to allow the caster to use mass healing word to heal all 6 brutes. Other than healing, they usually stand back and watch the brutes do the heavy lifting. 
-1. [Sahuaguin Priest](https://dr-eigenvalue.github.io/bestiary/creature/sahuagin-priestess)
+1. [Sahuaguin High Priestess](https://www.5esrd.com/database/creature/sahuagin-high-priest/)
 
 **Brutish Units:**
 Every raid group has brute units that simply exist to do hard labor. They are just mindless, obedient fighters that ruthlessly follow commands of their leaders. 
 1. [Sahuaguin](https://dr-eigenvalue.github.io/bestiary/creature/sahuagin)
+2. [Sahuaguin Blade-master](https://www.kassoon.com/dnd/monster-stat-block/328/sahuagin-blademaster/) - used as a Brute, but an elite, heavy-hitting specialized troop sent after particularly tough enemies. 
 # Raid Strategies
 The group's primary focus is to abduct targets, focusing on [[Karak-Ulgurath]] demand of bringing librarians and miners to its dominion in [[The Sunken Caverns]]. A party should initially begin a raid with stealth, using a small group of the second in command, a priest, and 6 normal Sahuaguin to start the raid. 
 

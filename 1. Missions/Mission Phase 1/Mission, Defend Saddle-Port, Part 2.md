@@ -9,8 +9,12 @@ The weather is a **violent thunderstorm** with lightning nearby, strong winds, a
 Refer to the raid examples within [[Karak-Ulgurath Town Raid Example]] for guiding the raid. 
 
 Raiders arrive on the Blueberry, the boat of [[Reggie Brown]]. They will also seek to leave on this boat amidst the thunderstorm. 
-## From the Note about the Raids:
+### From the Note about the Raids:
 ![[Karak-Ulgurath Town Raid Example]]
+### Barnacle Growths
+Remember that the creatures, since they are part of [[The Followers of Karak-Ulgurath]], have [[Mutated Barnacle Growths]] on them.
+
+![[Mutated Barnacle Growths]]
 
 ### A Note on Destruction
 Other towns were subject to *unsuspecting* night raids. This time the raid was predicted, and so a fight is ensuing. 
@@ -80,10 +84,6 @@ Rotate between all 3 options each round on *initiative count 20.*
 ###### Interactable Items
 1. **Barrels of Fish Oil:** There are **barrels of fish oil** near combat. These can be pushed *with a DC 10 athletics check*.
 2. **Fishing Poles:** There are **tall metal fishing rods** that can be used to direct lightning strikes. These require no check to interact with
-### External Factors:
-Remember that the creatures, since they are part of [[The Followers of Karak-Ulgurath]], have [[Mutated Barnacle Growths]] on them.
-
-![[Mutated Barnacle Growths]]
 
 ## Offers to Escape Death
 Some of the player characters will die in this combat here are ways they can get out of it.
