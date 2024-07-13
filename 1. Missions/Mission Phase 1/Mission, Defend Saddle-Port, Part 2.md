@@ -84,6 +84,7 @@ Rotate between all 3 options each round on *initiative count 20.*
 ###### Interactable Items
 1. **Barrels of Fish Oil:** There are **barrels of fish oil** near combat. These can be pushed *with a DC 10 athletics check*.
 2. **Fishing Poles:** There are **tall metal fishing rods** that can be used to direct lightning strikes. These require no check to interact with
+3. **Potions:** The group has a *potion of heroism*, a *potion of fire breath*, and a *lesser mana potion*. These are found in [[Potions with Alchemist's Supplies]] note document. 
 
 ## Offers to Escape Death
 Some of the player characters will die in this combat here are ways they can get out of it.

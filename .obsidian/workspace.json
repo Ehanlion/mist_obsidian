@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "71d93fda244aa3e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0aee865820488428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Items/Mutated Barnacle Growths.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2332ac62b57285d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7f73325c9709096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
         "children": [
@@ -82,7 +39,7 @@
               "type": "markdown",
               "state": {
                 "file": "GM Screen/Ethan's Useful Links.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -94,14 +51,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7f73325c9709096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Screen/Ethan's Boons/Boon of the Stalwart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "422b199e619091c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
+                "file": "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
+                "file": "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -207,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md"
+                "file": "Session Notes/Mist Sessions/Mist S7 07-07-24.md"
               }
             }
           }
@@ -229,13 +210,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7f73325c9709096",
+  "active": "422b199e619091c4",
   "lastOpenFiles": [
-    "GM Screen/Ethan's Useful Links.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
-    "0. The North-West Highlands/Events/Karak-Ulgurath Town Raid Example.md",
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "Session Notes/Mist Sessions/Mist S6 03-29-24.md",
+    "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
+    "GM Screen/The Potions Index/Potions with Alchemist's Supplies.md",
+    "GM Screen/Ethan's Boons/Boon of the Stalwart.md",
+    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 1.md",
+    "GM Screen/Ethan's Boons/Boon of the Inspiring.md",
+    "GM Screen/Ethan's Boons/Boon of the Leader.md",
+    "GM Screen/Ethan's Boons/Boon of the Commonfolk.md",
+    "GM Screen/Ethan's Boons/Boon of the Helper.md",
+    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "GM Screen/The Potions Index/Potions Ingredients, Harvestable.md",
+    "0. The North-West Highlands/Items/Mutated Barnacle Growths.md",
+    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/Events/Karak-Ulgurath Town Raid Example.md",
     "Session Notes/Mist Sessions/Mist S5 03-23-24.md",
     "-1. Global Lands of Mist/Pantheon of Mist/The Pantheon of Mist.md",
     "_Templates/Format of this Vault.md",
@@ -246,18 +238,7 @@
     "_Templates/_Template for Features.md",
     "_Templates/_Format Testings.md",
     "_Templates/Building this Vault.md",
-    "0. The North-West Highlands/Items/Mutated Barnacle Growths.md",
-    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-    "GM Screen/Obscuring Areas/heavily obscured.md",
-    "Untitled.md",
     "GM Screen/Untitled.canvas",
-    "99. Brainstorming/_To-Do List.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 1.md",
-    "GM Screen/Ethan's Boons/Boon of the Helper.md",
-    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
-    "GM Screen/Ethan's Creatures.md",
-    "GM Screen/Ethan's Boons/Boon of the Stalwart.md",
-    "GM Screen/Ethan's Boons/Boon of the Inspiring.md",
     "GM Screen/Ethan's Boons",
     "_Assets/blood-red glister.png",
     "-1. Global Lands of Mist/Great Features/CONSOLE/For Ethan's Eyes Only",
