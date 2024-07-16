@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "985ba9d8e06044a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aebf6b7268a5cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
         "children": [
@@ -18,20 +36,6 @@
             }
           },
           {
-            "id": "710cd3f304a918fd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99. Brainstorming/_To-Do List.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "244aaff5af8e925b",
             "type": "leaf",
             "pinned": true,
@@ -39,7 +43,7 @@
               "type": "markdown",
               "state": {
                 "file": "GM Screen/Ethan's Useful Links.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -52,25 +56,25 @@
               "type": "markdown",
               "state": {
                 "file": "GM Screen/General Session Rules of Thumb.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "b5b7abced7334125",
+            "id": "cadc72fabbbd09ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Features/The Hidden Aquifer.md",
+                "file": "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Features/The Hidden Aquifer.md",
+                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Features/The Hidden Aquifer.md",
+                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Features/The Hidden Aquifer.md"
+                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md"
               }
             }
           }
@@ -198,37 +202,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5b7abced7334125",
+  "active": "1aebf6b7268a5cd3",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Features/The Fields of Salt.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
-    "GM Screen/General Session Rules of Thumb.md",
-    "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 1.md",
-    "Session Notes/Mist Sessions/Mist S6 03-29-24.md",
-    "GM Screen/The Potions Index/Potions with Alchemist's Supplies.md",
-    "GM Screen/Ethan's Boons/Boon of the Stalwart.md",
-    "GM Screen/Ethan's Boons/Boon of the Inspiring.md",
-    "GM Screen/Ethan's Boons/Boon of the Leader.md",
-    "GM Screen/Ethan's Boons/Boon of the Commonfolk.md",
-    "GM Screen/Ethan's Boons/Boon of the Helper.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
-    "GM Screen/The Potions Index/Potions Ingredients, Harvestable.md",
-    "0. The North-West Highlands/Items/Mutated Barnacle Growths.md",
-    "0. The North-West Highlands/NPCs/The Followers of Karak-Ulgurath.md",
-    "0. The North-West Highlands/Events/Karak-Ulgurath Town Raid Example.md",
-    "Session Notes/Mist Sessions/Mist S5 03-23-24.md",
-    "-1. Global Lands of Mist/Pantheon of Mist/The Pantheon of Mist.md",
-    "_Templates/Format of this Vault.md",
-    "_Templates/_Template for Regional Descriptions.md",
-    "_Templates/_Template for NPC.md",
-    "_Templates/_Template for Locations.md",
-    "_Templates/_Template for Games.md",
+    "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
+    "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/ENCRY_MANSFIELD_EMRG.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/The CONSOLE.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/ENCRY_MANSFIELD.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_1.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_2.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_3.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_4.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_5.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_6.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_7.md",
+    "-1. Global Lands of Mist/Great Features/CONSOLE/For Ethan's Eyes Only/Understanding the Console Logs.md",
+    "-1. Global Lands of Mist/Great Features/OPER_MOLERAT/OPER_MOLERAT.md",
+    "-1. Global Lands of Mist/Great Features/OPER_MOLERAT/Bunker 6xSWD.md",
+    "-1. Global Lands of Mist/Great Features/OPER_MOLERAT/Bunker 5xSEC.md",
+    "-1. Global Lands of Mist/Great Features/OPER_MOLERAT/Bunker 4xSEM.md",
+    "-1. Global Lands of Mist/Great Features/OPER_MOLERAT/Bunker 3xHMP.md",
+    "-1. Global Lands of Mist/Great Features/OPER_MOLERAT/Bunker 2xNEF.md",
+    "-1. Global Lands of Mist/Great Features/OPER_MOLERAT/Bunker 1xNWH.md",
+    "-1. Global Lands of Mist/Great Features/Amides.md",
+    "-1. Global Lands of Mist/Great Features/Archaic Storm Conduits.md",
+    "-1. Global Lands of Mist/Great Features/The Aether-Veil Projector.md",
+    "-1. Global Lands of Mist/Great Features/The Divine Barrier.md",
+    "_Assets/blood-red glister.png",
     "GM Screen/Untitled.canvas",
     "GM Screen/Ethan's Boons",
-    "_Assets/blood-red glister.png",
     "-1. Global Lands of Mist/Great Features/CONSOLE/For Ethan's Eyes Only",
     "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters",
     "1. Missions/_incomplete",
