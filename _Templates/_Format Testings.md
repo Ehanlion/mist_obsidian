@@ -17,9 +17,11 @@ This is a normal block of text:
 
 	> ajkjaksd
 
+Do not use indents ever, always use '>'
+
+> This is much more readable on phone
 
 
-		Indent
 
 Note that these all merge together
 
