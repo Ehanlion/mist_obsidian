@@ -5,6 +5,16 @@ E.g. a ship enters the shroud from the north of the islands and manage to miracu
 
 # Getting past the Wardens:
 The [[Frost-Bound Wardens]] are fearsome, gigantic titans. They are not to be trifled with. Even a party of max level characters would stand no chance against these beings. 
-
 # Locations of the shrouds:
 The shrouds is NOT centered on the center point of the island of Mist but rather it is centered on [[The North-West Highlands]]. For this reason, the borders of the shroud are a lot closer to both [[The South-East Coast]] and [[The South-West Arid Expanse]]. This, combined with the natural occurrence of [[The Eastern Razor Peaks]] and [[The Southern Razor Peaks]] makes [[The South-East Mountains]] the only way to travel to [[The South-East Coast]]. 
+
+# Revising the Layers of the Mist
+### Layer 1: Cold Mist
+Layers of dense, swirling Mist freeze anything that dares to venture into it. After a long time, any creature or ship is covered in thick layers of ice.
+### Layer 2: Navigation Failure
+In this layer, your natural sense of direction fails; simply sailing in the same direction will fail you. This area is filled with [[Glisters]] as well. To get past, one must acquire [[Mistical Enchanted Compass]]. 
+### Layer 3: The Wardens
+Name is evident: the [[Frost-Bound Wardens]] will destroy anything that comes through here. This is the last defense. No one will make it past.
+### Layer 4: Modify Memory
+If somehow the [[Frost-Bound Wardens]] are evaded, the Mist seeps into every pore of the body and attempts to erase the identity of the creatures. Treat this as casting a 9th level modify memory on each creature. It will erase any notion of the player travelling into the shrouds and what they experienced. 
+

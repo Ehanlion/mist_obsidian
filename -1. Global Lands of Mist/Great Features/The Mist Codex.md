@@ -8,16 +8,19 @@ There are multiple different control interfaces for how the codex can be used. T
 Inhibitors for all of the planes of existence can be enabled and disabled using this control interface. In general the interface is enabling/disabling **inhibitors of each plane.**
 
 Listings of the Planes: [Overview of the Planes](https://roll20.net/compendium/dnd5e/The%20Planes%20of%20Existence#content)
-1. Material Plane
-2. Transitive Planes
+1. Prime Material Plane
+2. Echoes
+	1. The Feywilds
+	2. The Shadow-fell 
+3. Transitive Planes
 	1. Ethereal Plane
 	2. Astral Plane
-3. Inner Planes
+4. Inner Planes
 	1. Elemental Plane of Fire
 	2. Elemental Plane of Water *([[Where the Oceans Lead]] details how this inhibitor was actually ineffective)*
 	3. Elemental Plane of Air
 	4. Elemental Plane of Earth
-4. Outer Planes
+5. Outer Planes
 	1. Upper Planes
 		1. Mechanus
 		2. Arcadia
@@ -36,7 +39,7 @@ Listings of the Planes: [Overview of the Planes](https://roll20.net/compendium/d
 		6. Gehenna
 		7. The Nine Hells
 		8. Acheron
-5. Demi-planes
+6. Demi-planes
 
 Each part of the tree has its own runic interface that, when all of the 8 [[Shards]] are inserted into the Mist Codex, can be toggled on or off. If the rune is toggled 'on' that means it is blocking that plane.
 #### Divine Interactions: 2

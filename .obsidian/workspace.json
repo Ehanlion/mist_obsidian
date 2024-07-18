@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
+                "file": "-1. Books/Planar Questions - I. Valis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab7c60c0206e09fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99. Player Data/Wake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61d1430ee7b12b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-1. Global Lands of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8522703523ef17e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-1. Global Lands of Mist/Great Features/The Mist Codex.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
+                "file": "-1. Books/Planar Questions - I. Valis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
+                "file": "-1. Books/Planar Questions - I. Valis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md"
+                "file": "-1. Books/Planar Questions - I. Valis.md"
               }
             }
           }
@@ -204,8 +240,23 @@
   },
   "active": "1aebf6b7268a5cd3",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "-1. Global Lands of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
+    "99. Player Data/Wake.md",
+    "-1. Books/Planar Questions - I. Valis.md",
+    "-1. Global Lands of Mist/Great Features/The Mist Codex.md",
+    "-1. Global Lands of Mist/Great Features/The Divine Barrier.md",
+    "-1. Global Lands of Mist/Great Features/The Aether-Veil Projector.md",
+    "-1. Global Lands of Mist/Pantheon of Mist/Miscellaneous/The Storm Lord.md",
+    "-1. Global Lands of Mist/Pantheon of Mist/The Prime Deities.md",
+    "-1. Global Lands of Mist/Great Features/The Shrouds of the Frost-Bound Wardens.md",
+    "-1. Books",
+    "-1. Global Lands of Mist/Items/Mistical Enchanted Compass.md",
+    "-1. Global Lands of Mist/Items/Shards.md",
+    "-1. Global Lands of Mist/Items/Stormphrax.md",
     "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
+    "GM Screen/General Session Rules of Thumb.md",
+    "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "_Templates/Format of this Vault.md",
     "_Templates/_Template for Regional Descriptions.md",
     "_Templates/_Template for NPC.md",
@@ -216,27 +267,13 @@
     "_Assets/The blinded dungeon.png",
     "0. The South-East Mountains/Features/The Blood-Stone Pass/The Blood-Stone Pass.md",
     "_Assets/Yugo Stolid.png",
-    "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
     "_Assets/52de4f85-4abb-436f-b073-f58b0f71e1d7.webp",
     "GM Screen/Spells/Spell Books and Spell Scrolls.md",
     "-1. Global Lands of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
-    "-1. Global Lands of Mist/NPCs, Creatures/The Many/The Runewilds.md",
-    "-1. Global Lands of Mist/NPCs, Creatures/The Many/The Many.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/ENCRY_MANSFIELD_EMRG.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/The CONSOLE.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/ENCRY_MANSFIELD.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_1.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_2.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_3.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_4.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_5.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_6.md",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/DataLog_AVP_7.md",
     "_Assets/blood-red glister.png",
     "GM Screen/Untitled.canvas",
     "GM Screen/Ethan's Boons",
-    "-1. Global Lands of Mist/Great Features/CONSOLE/For Ethan's Eyes Only",
+    "-1. Global Lands of Mist/Great Features/Console/For Ethan's Eyes Only",
     "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters",
     "1. Missions/_incomplete",
     "1. Missions/_ideas",
@@ -248,7 +285,6 @@
     "_Monsters",
     "_Assets/frost-bound warden.png",
     "_Assets/Mist CONSOLE Room.jpg",
-    "-1. Global Lands of Mist/Pantheon of Mist/Betrayer Gods",
     "_Assets/Obelisk field in north sea.png",
     "_Assets/Macro view of deep woods and dark woods.png",
     "_Assets/karak-ulgurath the crab lord.png"

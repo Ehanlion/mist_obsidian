@@ -48,3 +48,6 @@ Wake knows:
 #### Added during play:
 - Wake is hunting two members of [[Fedorov's Legion]], named [[Dmitri Mironov]] and [[Igor Larionov]], for their crimes of murder against [[The Blue Coat Brigade]]. Wake was given 90 gp from [[Pavel Hard]] for this mission and also got a black riding horse from [[Gandoras City]]. 
 - Wake was hunting the Big Red Fish in [[Smears-burrow]], alongside two Grung named Earl and Frill. Wake is a risk taker and even though this was a match that would not swing their way, they were willing to risk their lives for it. Demonstrates both bravery and recklessness in Wake's character. 
+
+#### Ideas:
+Wake could be used by [[Ignel Valis]] ([[Silvan Gile]]) as a power source for an incredibly risky spell (use 9th level from COFSA), aimed at opening a portal to the planes. This attempts to breach [[The Divine Barrier]]. This will fail. It will kill wake. It will annihilate [[The South-East Coast]] and [[Hope Town]]. 

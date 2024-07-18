@@ -4,6 +4,11 @@ Subsection: Wander deep within [[The Shrouds of the Frost-Bound Wardens]]
 The true nature of the Wardens are that they are constructs, powered by [[The Aether-Veil Projector]] and can be shutdown via [[The Mist Codex]]. They are a feature that is enabled within [[The Mist Codex]] to provide a layer of defense. 
 # Description:
 Massive sentinels the sizes of buildings. Their arms the sizes of ships. Their glowing, blue icy eyes, like giant pools of water. Their arms, as they move in the seas, create giant whirlpools and eddies and miniature waterfalls form from their stone crevices. Ice clings to every part of their bodies. They move with a lethargic and deliberate movements 
+### Revision
+- They are massively tall and wide
+- Their upper body is made from rocks, held together with swirling storms,, mist, and water
+- Their lower body is a swirling mass of rocks, with two vaguely leg-ish legs.
+- Their lower body is surrounded by a massive water funnel. 
 # Living in the Shroud:
 The Wardens only live in [[The Shrouds of the Frost-Bound Wardens]]. They do not venture out for any reason. Myth has it that they feed on the mists itself, regenerating it constantly. They mark the end of the worlds in Mist. It is said that, while dangerous, the Wardens are there to stop one from sailing off the edge of the world into the abyss of nothing. 
 # Getting past the FBW:
