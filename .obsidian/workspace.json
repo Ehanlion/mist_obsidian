@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1aebf6b7268a5cd3",
+            "id": "8522703523ef17e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,42 +20,19 @@
             }
           },
           {
-            "id": "ab7c60c0206e09fd",
+            "id": "6d6a08569b54d35d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Player Data/Wake.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61d1430ee7b12b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-1. Global Lands of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8522703523ef17e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-1. Global Lands of Mist/Great Features/The Mist Codex.md",
+                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e6c5fb2f1d5383fa",
@@ -110,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-1. Books/Planar Questions - I. Valis.md",
+                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-1. Books/Planar Questions - I. Valis.md",
+                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-1. Books/Planar Questions - I. Valis.md"
+                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md"
               }
             }
           }
@@ -238,43 +215,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aebf6b7268a5cd3",
+  "active": "6d6a08569b54d35d",
   "lastOpenFiles": [
-    "-1. Global Lands of Mist/NPCs, Creatures/Frost-Bound Wardens.md",
-    "99. Player Data/Wake.md",
     "-1. Books/Planar Questions - I. Valis.md",
-    "-1. Global Lands of Mist/Great Features/The Mist Codex.md",
-    "-1. Global Lands of Mist/Great Features/The Divine Barrier.md",
-    "-1. Global Lands of Mist/Great Features/The Aether-Veil Projector.md",
-    "-1. Global Lands of Mist/Pantheon of Mist/Miscellaneous/The Storm Lord.md",
-    "-1. Global Lands of Mist/Pantheon of Mist/The Prime Deities.md",
-    "-1. Global Lands of Mist/Great Features/The Shrouds of the Frost-Bound Wardens.md",
-    "-1. Books",
-    "-1. Global Lands of Mist/Items/Mistical Enchanted Compass.md",
-    "-1. Global Lands of Mist/Items/Shards.md",
-    "-1. Global Lands of Mist/Items/Stormphrax.md",
+    "-1. Global/Pantheon of Mist/The Prime Deities.md",
+    "-1. Global/Items/The Codex of The Storm.md",
+    "-1. Books/The Greatest of the Great.md",
     "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
-    "GM Screen/General Session Rules of Thumb.md",
     "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
+    "GM Screen/General Session Rules of Thumb.md",
+    "-1. Global/Pantheon of Mist/The Pantheon of Mist.md",
+    "-1. Global/Great Features/The Mist Codex.md",
+    "-1. Global/Pantheon of Mist/Miscellaneous/The Storm Lord.md",
+    "-1. Global/Language in Mist.md",
+    "99. Player Data/Kelswin Lovejoy.md",
+    "-1. Global/Pantheon of Mist/The Betrayer Gods.md",
+    "-1. Global/Pantheon of Mist/The Old Gods.md",
+    "-1. Global/Pantheon of Mist/Prime Deities/The Arch Heart.md",
+    "-1. Global/Pantheon of Mist/Prime Deities/The All-Hammer.md",
+    "-1. Global/NPCs, Creatures/Frost-Bound Wardens.md",
+    "99. Player Data/Wake.md",
+    "-1. Global/Great Features/The Divine Barrier.md",
+    "-1. Global/Great Features/The Aether-Veil Projector.md",
+    "-1. Global/Great Features/The Shrouds of the Frost-Bound Wardens.md",
+    "-1. Books",
+    "-1. Global/Items/Mistical Enchanted Compass.md",
+    "-1. Global/Items/Shards.md",
+    "-1. Global/Items/Stormphrax.md",
     "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
     "_Templates/Format of this Vault.md",
-    "_Templates/_Template for Regional Descriptions.md",
-    "_Templates/_Template for NPC.md",
-    "_Templates/_Template for Locations.md",
-    "_Templates/_Format Testings.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
-    "0. The North-West Highlands/NPCs/Yugo Stolid.md",
     "_Assets/The blinded dungeon.png",
-    "0. The South-East Mountains/Features/The Blood-Stone Pass/The Blood-Stone Pass.md",
     "_Assets/Yugo Stolid.png",
     "_Assets/52de4f85-4abb-436f-b073-f58b0f71e1d7.webp",
-    "GM Screen/Spells/Spell Books and Spell Scrolls.md",
-    "-1. Global Lands of Mist/NPCs, Creatures/The Many/The Scintillating Order.md",
     "_Assets/blood-red glister.png",
     "GM Screen/Untitled.canvas",
     "GM Screen/Ethan's Boons",
-    "-1. Global Lands of Mist/Great Features/Console/For Ethan's Eyes Only",
-    "-1. Global Lands of Mist/NPCs, Creatures/Global Monsters",
+    "-1. Global/Great Features/Console/For Ethan's Eyes Only",
+    "-1. Global/NPCs, Creatures/Global Monsters",
     "1. Missions/_incomplete",
     "1. Missions/_ideas",
     "0. The South-East Coast/Items",

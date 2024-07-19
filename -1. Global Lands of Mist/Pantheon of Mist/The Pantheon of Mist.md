@@ -1,4 +1,0 @@
-Ruling Index: [[D&D Game Mechanics]]
-Subsection: Rulings on the divine in Mist
-# The Gods of Mist
-Mist is a land of high magic and greatness. For thousands of years the divine has had a hand in the workings of Mist. Before the arrival of [[The Many]], the primal beings of Mist worshipped what are now called [[The Old Gods]]. These are derelict, unknown, and widely forgotten gods that have no dominion nor influence in Mist. The only known survivor of [[The Old Gods]] is [[Grumbar]], whose soul is sealed and his essence trapped on Mist still. Now Mist follows [[The Pantheon of Mist]], consisting of [[The Prime Deities]] (powerful, good-aligned Gods), [[The Betrayer Gods]] (turned, evil-aligned Gods), and other miscellaneous deities. 

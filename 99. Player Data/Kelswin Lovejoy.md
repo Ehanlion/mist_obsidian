@@ -13,7 +13,6 @@ He loves the stories of great adventurers in particular, one being [[Ignel Valis
 
 Kelswin writes letters to his mother to stay close to her.
 He always tells her what town he will be in next so that she can send a letter there for him.
-
 ### Character traits of Kelswin:
 These are things I was talking to Chris about to make sure I have the demeanor of Kelswin locked down. 
 - Studios and academic, loves to learn
@@ -54,3 +53,7 @@ Kelswin knows:
 
 #### Added during play:
 - While in [[Smears-burrow]], Kelswin helped a Green Grung historian named Ralverth with searching archives for information on the Grung's Great Magic Grung Rock (secretly one of the [[Shards]]). Kelswin touched it for just a brief second but saw scenes of a maelstrom brewing, the conch echoing, and a voice shouting something amidst the storm. 
+#### Any changes Chris wants seen?
+1. There is no direction ahead, need firmer guide to where the party should be directing energy 
+2. A mission that firmly leads somewhere. 
+3. Need dungeons

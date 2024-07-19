@@ -4,7 +4,7 @@
 
 "That brings me to the planes, for they are key to these ancient rites. The ancient texts say we must, and I quote, 'pass energy from the weave across planes to appease or feed the deities.' If the planes were blocked, the rites would fail. I am scared. The Fey, The Shadow fell, The Ethereal, The Astral: planes I long to see, described in ancient texts with unfathomable beauty, mystery, and magic, are lost. I could not open a portal to them. Something must be wrong. Something must be horribly wrong."
 
-"Perhaps, with a catalyst, there could be a way to breach into the planes. More research is needed."
+"Perhaps, with a catalyst, there could be a way to breach into the planes. More research is needed. Oh the lengths I would go to in order to fulfill my dreams, I can only dream of these places."
 
 *This topic comes to a close with this passage. It is brief. There is no more elaboration in this book. The author had more, but you never read them.*
 

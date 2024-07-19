@@ -3,8 +3,7 @@ The Mist Codex is a 'computer,' essentially an archaic control console, that acc
 # Activating the Codex:
 # Controls for the Codex:
 There are multiple different control interfaces for how the codex can be used. There exists and interface for planar-interactions, [[The Shrouds of the Frost-Bound Wardens]], [[Frost-Bound Wardens]], and arcanum.
-
-#### Planar Interaction: 24
+#### Planar Interaction: 25
 Inhibitors for all of the planes of existence can be enabled and disabled using this control interface. In general the interface is enabling/disabling **inhibitors of each plane.**
 
 Listings of the Planes: [Overview of the Planes](https://roll20.net/compendium/dnd5e/The%20Planes%20of%20Existence#content)
