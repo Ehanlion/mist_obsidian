@@ -10,3 +10,5 @@ She is the adopted mother of [[Kelswin Lovejoy]], although both regard the other
 Vivian runs a small library in [[Saddle-Port]], called "The Cozy Book Nook." It is a small library, with basic books and some magical tomes.
 # Vivian as a Spell-Caster:
 Vivian is a level 1 wizard. She knows very basic spells like magic missile and shield, and cantrips like shape water and mage hand. She could be played in combat, but it would be short lived. If it came to it, she would sacrifice herself to save [[Kelswin Lovejoy]]. 
+# Relationship to the Green Order
+[[Vivian Lovejoy]] was originally a member of [[The Green Order]] but moved away after serving them faithfully as an explorer and historian. She helped them learn about [[The Twilight Woods]]. 
