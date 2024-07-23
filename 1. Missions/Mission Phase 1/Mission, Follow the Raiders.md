@@ -29,9 +29,27 @@ Used by [[The Followers of Karak-Ulgurath]] for staging raids and storing suppli
 They are a series of directions, relative to landmarks. They lead to an ancient underground complex used by [[The Many]]. They use this complex because the operation was headed by [[Silvan Gile]] who explored this. The complex is an early on living complex for [[The Many]]. It doesn't have a major purpose other than for living. 
 
 **The Clues:**
-Make none of the clues towns
-Make 3 of the clues statues and given as obscure references to religious beings
-Make 3 of the clues lead to helpful places (restoring spring, rejuvenating fountain etc.)
-Make 3 of the clues large locations not yet draw on their map
-1. 
-2. 
+1. Distant Overlook **good**
+2. Statue of [[The Wildmother]] **neutral**
+3. Statue of [[The Knowing Mentor]] **neutral**
+4. Statue of [[The Matron of Ravens]] **neutral**
+5. Statue of [[The Spider Queen]] **evil**
+6. Statue of [[The Whispered One]] **evil**
+7. The revitalizing springs **good**
+8. The wishing pond **neutral**
+9. The kelp bay **neutral**
+
+**Ordering the Clues:**
+1. The place which looks far to the north east (1)
+2. The green women (2)
+3. The wishing pond (8)
+4. The father of undeath (6)
+5. The grey robes (3)
+6. The pale woman (4)
+7. The revitalizing spring (7) 
+8. The opulent alluring woman (5)
+9. The churning green ocean (9)
+
+##### How is this used?
+1. Each place has a rune of the language I created on it and they need all 9 for a password
+2. The order matters, the second password relates to the order in which the gods/places were visited. Good/Neutral/Evil
