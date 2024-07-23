@@ -1,4 +1,3 @@
-Category: [[_To-Do List]]
 # Description:
 A dungeon where the players are magically blinded, overpowering all forms of sight, both for enemies and for players. Players should need to draw a variant of the map as they explore as there will be quest objectives that they need to remember the location of. Move directions should be only on compass directions and given only in terms of compass directions so N, NE, E, SE, S, SW, W, NW only.
 

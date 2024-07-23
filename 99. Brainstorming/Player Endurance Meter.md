@@ -1,5 +1,3 @@
-Category: [[_To-Do List]]
-
 # Description:
 This is an idea for a meter to track a players fatigue from an intensive environment. Not all combat scenarios are equal: sometimes you fight on the cold slops of a mountain in a blizzard, maybe on the fiery slopes of a volcano, maybe underwater. In intensive situations, I feed like D&D is not super well equipped to handle the intensity of some of these scenarios. 
 

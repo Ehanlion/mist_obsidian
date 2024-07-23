@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "985ba9d8e06044a2",
+        "id": "1d0581ec1fe7456d",
         "type": "tabs",
         "children": [
           {
-            "id": "8522703523ef17e8",
+            "id": "b6304a0ddfbb699e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Books/Planar Questions - I. Valis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d6a08569b54d35d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc257ed56ac0ee57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
+                "file": "-1. Items/Soul-Siphon Ring.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e6c5fb2f1d5383fa",
@@ -75,31 +50,21 @@
             }
           },
           {
-            "id": "422b199e619091c4",
+            "id": "6d6a08569b54d35d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/General Session Rules of Thumb.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cadc72fabbbd09ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 260.5
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -165,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
+                "file": "-1. Items/Soul-Siphon Ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
+                "file": "-1. Items/Soul-Siphon Ring.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md"
+                "file": "-1. Items/Soul-Siphon Ring.md"
               }
             }
           }
@@ -227,34 +192,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6a08569b54d35d",
+  "active": "b6304a0ddfbb699e",
   "lastOpenFiles": [
-    "-1. Global/Pantheon of Mist/Prime Deities/The Wildmother.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
-    "0. The North-West Highlands/NPCs/Vivian Lovejoy.md",
-    "-1. Books/Planar Questions - I. Valis.md",
-    "99. Player Data/Kelswin Lovejoy.md",
-    "99. Player Data/Wake.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 1.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
-    "-1. Global/Great Features/Archaic Storm Conduits.md",
-    "-1. Global/Great Features/The Aether-Veil Projector.md",
-    "0. The North-West Highlands/NPCs/Karak-Ulgurath.md",
-    "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
-    "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
-    "-1. Global/Pantheon of Mist/The Prime Deities.md",
-    "-1. Global/Items/The Codex of The Storm.md",
-    "-1. Books/The Greatest of the Great.md",
+    "-1. Items/Master Mind Rock.md",
+    "-1. Items/Ice-Rocks.md",
+    "-1. Items/Soul-Siphon Ring.md",
+    "-1. Items/Trident of Returning (Manual).md",
+    "-1. Items/The Rune of Opening.md",
+    "-1. Books/The Codex of The Storm.md",
+    "-1. Items/Stormphrax.md",
+    "-1. Items/Shards.md",
+    "-1. Items/Mist-Cutter Ship.md",
+    "99. Brainstorming/Blinded Dungeon Crawl.md",
+    "-1. Items",
+    "99. Brainstorming/Brawl in the Caldera.md",
+    "99. Brainstorming/Creation challenge from Tik-Tok.md",
+    "99. Brainstorming/Ideas for character's backstories.md",
+    "99. Brainstorming/Player Endurance Meter.md",
+    "99. Brainstorming/The Mirrored Doorway Puzzle.md",
+    "99. Brainstorming/Shapeshifters in the Tavern.md",
+    "99. Brainstorming/Rhyming Naga Puzzle.md",
+    "0. The North-West Highlands/NPCs/Arnov Vasilov.md",
+    "99. Brainstorming/Testing Creature Stat Block Ideas.md",
+    "0. The North-West Highlands/Towns, Cities/North West Town Ordering.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/NPCs/King Hyranthara.md",
+    "GM Screen/Ethan's Item Sheet.md",
+    "0. The South-East Coast/NPCs/Ignel Valis.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "Session Notes/Mist Sessions/Mist S9 07-19-24.md",
     "Session Notes/Mist Sessions/Mist S7 07-07-24.md",
-    "GM Screen/General Session Rules of Thumb.md",
-    "-1. Global/Pantheon of Mist/The Pantheon of Mist.md",
-    "-1. Global/Great Features/The Mist Codex.md",
-    "-1. Global/Pantheon of Mist/Miscellaneous/The Storm Lord.md",
-    "-1. Global/Language in Mist.md",
-    "-1. Global/Pantheon of Mist/The Betrayer Gods.md",
-    "-1. Global/Pantheon of Mist/The Old Gods.md",
-    "-1. Global/Pantheon of Mist/Prime Deities/The Arch Heart.md",
-    "-1. Global/Pantheon of Mist/Prime Deities/The All-Hammer.md",
     "-1. Books",
     "_Assets/The blinded dungeon.png",
     "_Assets/Yugo Stolid.png",
@@ -271,7 +237,6 @@
     "_Monsters/frost-bound warden.monster",
     "_Assets/ignel valis statblock.png",
     "_Monsters/ignel valis.monster",
-    "_Monsters",
     "_Assets/frost-bound warden.png",
     "_Assets/Mist CONSOLE Room.jpg",
     "_Assets/Obelisk field in north sea.png",

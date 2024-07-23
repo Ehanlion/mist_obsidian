@@ -1,4 +1,3 @@
-Category: [[_To-Do List]]
 Subcategory: Tavern in [[Smears-burrow]], 2 bartenders
 # Description:
 Two bartenders were removed from duty (not sure how) and replaced with two shapeshifters (not sure what creature yet). Their goal is to gather information and report back to [[Karak-Ulgurath]] and [[The Followers of Karak-Ulgurath]]. 

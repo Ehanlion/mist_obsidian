@@ -21,6 +21,10 @@ He assumed a new identity as [[Silvan Gile]] and went to join the pirates; to fe
 -  Staff of the Magi, [Boots of Golden Luck](https://www.5esrd.com/database/magicitem/boots-of-golden-luck/)
 -  [Cloak of Eyes](https://www.5esrd.com/database/magicitem/cloak-of-eyes/) Ignel wears a weird cloak what appear to be bloody eyes on it; it is certainly unnerving. 
 - One of the [[Shards]], specifically Key 1
+#### Items:
+1. [Boots of Golden Luck](https://www.5esrd.com/database/magicitem/boots-of-golden-luck/) worn by [[Ignel Valis]]
+2. [Cloak of the Magi](https://roll20.net/compendium/dnd5e/Robe%20of%20the%20Archmagi#content)worn by [[Ignel Valis]]
+3. [Cloak of Eyes](https://www.5esrd.com/database/magicitem/cloak-of-eyes/) worn by [[Ignel Valis]]
 # Character Relationships: 
 Ignel is a very worldly wizard and has travelled all over Mist in his many years of life. He knows are can draw from many connections.
 - Ignel is revered by [[Kelswin Lovejoy]] as his hero. Ignel has had many books written about him and as such many wizard look up to him as a sort of hero, Kelswin included.
