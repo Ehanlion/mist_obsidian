@@ -26,30 +26,58 @@ Used by [[The Followers of Karak-Ulgurath]] for staging raids and storing suppli
 4. **Underwater Cave**: Alchemists station with recipe book for potions (paralyzing and water breathing). 
 5. **Lover's Cave**: Already gone through by [[Slug Stoll]]. 
 ### What are the Clues?
-They are a series of directions, relative to landmarks. They lead to an ancient underground complex used by [[The Many]]. They use this complex because the operation was headed by [[Silvan Gile]] who explored this. The complex is an early on living complex for [[The Many]]. It doesn't have a major purpose other than for living. 
+They are a series of directions, relative to landmarks. They lead to an ancient underground complex used by [[The Many]]. They use this complex because the operation was headed by [[Silvan Gile]] who explored this. The complex is an early on living complex for [[The Many]]. It doesn't have a major purpose other than for living but it should include cool references. 
 
-**The Clues:**
-1. Distant Overlook **good**
-2. Statue of [[The Wildmother]] **neutral**
-3. Statue of [[The Knowing Mentor]] **neutral**
-4. Statue of [[The Matron of Ravens]] **neutral**
-5. Statue of [[The Spider Queen]] **evil**
-6. Statue of [[The Whispered One]] **evil**
-7. The revitalizing springs **good**
-8. The wishing pond **neutral**
-9. The kelp bay **neutral**
+# The Clues I made:
+The clues are a series of vague descriptions about places within the High Forest. There are 4 locations and 5 statues of gods, these are those locations/gods:
+1. The Distant Overlook
+2. The Revitalizing Spring 
+3. The Wishing Pond
+4. The Bay of Kelp
+5. [[The Wildmother]]
+6. [[The Whispered One]]
+7. [[The Matron of Ravens]]
+8. [[The Spider Queen]]
+9. [[The Knowing Mentor]]
 
-**Ordering the Clues:**
-1. The place which looks far to the north east (1)
-2. The green women (2)
-3. The wishing pond (8)
-4. The father of undeath (6)
-5. The grey robes (3)
-6. The pale woman (4)
-7. The revitalizing spring (7) 
-8. The opulent alluring woman (5)
-9. The churning green ocean (9)
+**The opening blurb to the riddle is as follows:**
+Travel the hidden journey, 
+prayers to lost divinities,
+of hidden sigil and rights or wrongs,
+keyed entry of two is found. 
 
-##### How is this used?
-1. Each place has a rune of the language I created on it and they need all 9 for a password
-2. The order matters, the second password relates to the order in which the gods/places were visited. Good/Neutral/Evil
+Then this is followed by the Clues below, in order, from top to bottom. 
+
+| Deity/Location              | Clue                            | Alignment |
+| --------------------------- | ------------------------------- | --------- |
+| [[The Distant Overlook]]    | The point of whale spotting     | Good      |
+| [[The Wildmother]]          | The green woman                 | Neutral   |
+| [[The Wishing Pond]]        | The wishing pond                | Neutral   |
+| [[The Whispered One]]       | The father of death             | Evil      |
+| [[The Knowing Mentor]]      | The gray-robed woman            | Neutral   |
+| [[The Matron of Ravens]]    | The pale woman                  | Neutral   |
+| [[The Revitalizing Spring]] | The revitalizing spring         | Good      |
+| [[The Spider Queen]]        | The opulent, alluring woman     | Evil      |
+| [[The Bay of Kelp]]         | The churning, green ocean waves | Neutral   |
+- At each location lies a rune of the ancient language of the many
+- The players must find this rune at each of the sites
+- Furthermore, the players must decide the alignment, good evil or neutral, or each entry on the list.
+- At the entrances to the compound, there are passkey inputs, since it was a site of the many
+	- One passkey it the runes, placed in order in which the sites are listed on the riddle
+	- The second is inputting the alignments, with good at the bottom near a good aligned dragon and the evil at the top near an evil aligned dragon
+### What to look for and where they lead:
+These clues **do not have to be explored in order**.
+However, the order listed on the riddle **does matter**.
+
+**Finding the clues:** The party will find runes at each clue location. These runes are in *deep speech*, the ancient language of [[The Many]]. The party does not need to understand what the runes say. *The runes are one of the two passcodes to entering the complex.* 
+
+**Location Alignments:** The party will also need to understand the alignment of each location. This is more obscure. The alignment of the deities is straight forwards but the alignment of the locations is more up-in-the-air. *The alignments are the second of two passcodes to enter the complex.* 
+
+# Understanding regions in [[The High Forests]]
+![[The High Forests]]
+
+### Hiding the locations:
+| Deity/Location | Forest Region |
+| -------------- | ------------- |
+|                |               |
+|                |               |
