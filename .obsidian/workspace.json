@@ -4,6 +4,37 @@
     "type": "split",
     "children": [
       {
+        "id": "095736e12d78632a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4552d3e0470af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Features/The High Forests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc9b1a536666e78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
         "children": [
@@ -51,26 +82,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
+                "file": "-1. Items/Weave-breaker Ring.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b6304a0ddfbb699e",
+            "id": "cd3cf0ed0fd7c8e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-1. Items/Soul-Siphon Ring.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 419.5
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -136,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -198,55 +229,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "315e9a2998f733d2",
+  "active": "fc9b1a536666e78c",
   "lastOpenFiles": [
-    "-1. Global/Language in Mist.md",
+    "0. The North-West Highlands/Features/The High Forests.md",
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders.md",
-    "Session Notes/Mist Sessions/Mist S9 07-19-24.md",
-    "0. The North-West Highlands/Features/The Revitalizing Spring.md",
-    "-1. Items/Soul-Siphon Ring.md",
-    "-1. Global/NPCs, Creatures/The Many/The Many.md",
-    "Session Notes/Mist Sessions/Mist S2 01-20-24.md",
-    "Session Notes/Mist Sessions/Mist S1 12-29-23.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "0. The North-West Highlands/Features/The Wishing Pond.md",
-    "0. The North-West Highlands/Features/Untitled",
-    "0. The North-West Highlands/Features/The Bay of Kelp.md",
-    "0. The North-West Highlands/Features/The Distant Overlook.md",
-    "_Assets/Heroic_figure_at_the_cliff.jpeg",
+    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
+    "1. Missions/_incomplete/Mission, De-throne Garrick.md",
+    "1. Missions/Mission Phase 1/Mission, Welcome to Mist.md",
+    "1. Missions/_incomplete/Mission, Entering the Green Order.md",
+    "1. Missions/_incomplete/Mission, Potions for the Green Order.md",
+    "1. Missions/_incomplete/Mission, Save Sylvia's Starlight Grove.md",
+    "1. Missions/_ideas/Mission, Time Heist.md",
+    "-1. Items/Weave-breaker Ring.md",
+    "0. The North-West Highlands/Features/The Sinking Storm Culverts.md",
+    "0. The North-West Highlands/Features/The Sea Caves/The Sea Caves of the Highlands.md",
+    "0. The North-West Highlands/Features/The Sea Caves",
+    "-1. Creatures/Glisters.md",
+    "-1. Global/Great Events/One-off",
+    "-1. Creatures/Crimson Glister.md",
+    "-1. Creatures/Agnedelo the Plague-Bringer.md",
+    "0. The Discordant Plains/The Discordant Plains.md",
+    "-1. Creatures/The Lost Prowlers.md",
+    "-1. Items/Shards.md",
+    "-1. Creatures",
+    "-1. Items/Red-Moon Blade.md",
+    "-1. Items/Mutated Barnacle Growths.md",
+    "-1. Items/Mistical Enchanted Compass.md",
+    "-1. Items/Mist-Cutter Ship.md",
+    "-1. Items/Mind Rock.md",
     "-1. Items/Master Mind Rock.md",
     "-1. Items/Ice-Rocks.md",
-    "-1. Items/Trident of Returning (Manual).md",
-    "-1. Items/The Rune of Opening.md",
-    "-1. Books/The Codex of The Storm.md",
-    "-1. Items/Stormphrax.md",
-    "-1. Items/Shards.md",
-    "-1. Items/Mist-Cutter Ship.md",
-    "99. Brainstorming/Blinded Dungeon Crawl.md",
+    "-1. Items/Cavarra Weapons.md",
+    "_Monsters/Frost Bound Warden Stat Block.png",
+    "_Assets/Heroic_figure_at_the_cliff.jpeg",
+    "_Assets/Hope town black tide reapers.png",
+    "_Assets/Hope town hugos arena.png",
+    "_Assets/Hope town the blue coats.png",
+    "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
+    "_Assets/karak-ulgurath the crab lord.png",
+    "_Assets/Macro view of deep woods and dark woods.png",
+    "_Assets/Mist CONSOLE Room.jpg",
+    "_Assets/Obelisk field in north sea.png",
     "-1. Items",
-    "99. Brainstorming/Brawl in the Caldera.md",
-    "99. Brainstorming/Creation challenge from Tik-Tok.md",
-    "99. Brainstorming/Ideas for character's backstories.md",
-    "99. Brainstorming/Player Endurance Meter.md",
-    "99. Brainstorming/The Mirrored Doorway Puzzle.md",
     "-1. Books",
-    "_Assets/The blinded dungeon.png",
-    "_Assets/Yugo Stolid.png",
-    "_Assets/52de4f85-4abb-436f-b073-f58b0f71e1d7.webp",
-    "_Assets/blood-red glister.png",
     "GM Screen/Untitled.canvas",
     "GM Screen/Ethan's Boons",
     "-1. Global/Great Features/Console/For Ethan's Eyes Only",
     "-1. Global/NPCs, Creatures/Global Monsters",
     "1. Missions/_incomplete",
     "1. Missions/_ideas",
-    "0. The South-East Coast/Items",
-    "0. The South-East Mountains/Features/The Mountains/Untitled.canvas",
-    "_Monsters/frost-bound warden.monster",
-    "_Assets/ignel valis statblock.png",
-    "_Assets/frost-bound warden.png",
-    "_Assets/Mist CONSOLE Room.jpg",
-    "_Assets/Obelisk field in north sea.png",
-    "_Assets/Macro view of deep woods and dark woods.png"
+    "0. The South-East Mountains/Features/The Mountains/Untitled.canvas"
   ]
 }

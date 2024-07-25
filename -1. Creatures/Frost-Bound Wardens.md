@@ -19,6 +19,6 @@ Few have made it deep enough within [[The Shrouds of the Frost-Bound Wardens]] t
 Wardens have the siege property which is all they need to dispatch ships with easy. With their exceedingly powerful arms and massive stature, the Wardens simply smash any ships that try to sail through the waters. With that said, their massive size makes their attacks seem lethargic. This is the only factor that may help a captain avoid destruction. A smart helmsman will wait to see where the Wardens aim to smash and sail around it just as the arms are being brough down. Misjudge your course, and you will die in the frosty waters of [[The Shrouds of the Frost-Bound Wardens]]. 
 
 **Stat Block for the Frost-Bound Warden:**
-![[frost-bound warden.png]]
+![[Frost Bound Warden Stat Block.png]]
 
 

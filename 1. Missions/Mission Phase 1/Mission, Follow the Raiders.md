@@ -18,7 +18,7 @@ There are 5 sea caves, described as following. They are listed as if you were mo
 3. **High Tide Cave**: 25 mi from [[Saddle-Port]].  At high tide, a ship can sail directly into the cave. 
 4. **Underwater Cave**: 30 mi from [[Saddle-Port]]. Cave that is fully submerged underwater. Requires swimming to access it. 
 5. **Lover's Cave**: 45 mi from [[Saddle-Port]]. Normal cave near sharp sea rocks. Near lover's point, close to [[Smears-burrow]]. 
-### What is the deal with the caves?
+### What is in the Sea Caves?
 Used by [[The Followers of Karak-Ulgurath]] for staging raids and storing supplies. These caves contain special clues and hints about where the followers congregate and store goods/prisoners.
 1. **Rock Pillar Cave**: Map of other parts of highlands that group is missing. Part of clue to follower's hideout. Recent activity at this part.
 2. **Low Tide Cave**: Training area with leftover weapons. Part of clue to follower's hideout. 
@@ -27,7 +27,6 @@ Used by [[The Followers of Karak-Ulgurath]] for staging raids and storing suppli
 5. **Lover's Cave**: Already gone through by [[Slug Stoll]]. 
 ### What are the Clues?
 They are a series of directions, relative to landmarks. They lead to an ancient underground complex used by [[The Many]]. They use this complex because the operation was headed by [[Silvan Gile]] who explored this. The complex is an early on living complex for [[The Many]]. It doesn't have a major purpose other than for living but it should include cool references. 
-
 # The Clues I made:
 The clues are a series of vague descriptions about places within the High Forest. There are 4 locations and 5 statues of gods, these are those locations/gods:
 1. The Distant Overlook
@@ -68,16 +67,11 @@ Then this is followed by the Clues below, in order, from top to bottom.
 ### What to look for and where they lead:
 These clues **do not have to be explored in order**.
 However, the order listed on the riddle **does matter**.
-
-**Finding the clues:** The party will find runes at each clue location. These runes are in *deep speech*, the ancient language of [[The Many]]. The party does not need to understand what the runes say. *The runes are one of the two passcodes to entering the complex.* 
-
-**Location Alignments:** The party will also need to understand the alignment of each location. This is more obscure. The alignment of the deities is straight forwards but the alignment of the locations is more up-in-the-air. *The alignments are the second of two passcodes to enter the complex.* 
-
+The players **must** find all 9 locations, discover the runes on each, and assign each location the correct alignment. 
+##### Finding the Runes:
+The party will find runes at each clue location. These runes are in *deep speech*, the ancient language of [[The Many]]. The party does not need to understand what the runes say. *The runes are one of the two passcodes to entering the complex.* 
+##### Assigning the Alignments:
+The party will also need to understand the alignment of each location. This is more obscure. The alignment of the deities is straight forwards but the alignment of the locations is more up-in-the-air. *The alignments are the second of two passcodes to enter the complex.* 
 # Understanding regions in [[The High Forests]]
 ![[The High Forests]]
-
-### Hiding the locations:
-| Deity/Location | Forest Region |
-| -------------- | ------------- |
-|                |               |
-|                |               |
+# Phase 2: Embarking to solve the Riddle

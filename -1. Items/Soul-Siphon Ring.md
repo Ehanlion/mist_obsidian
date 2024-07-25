@@ -2,7 +2,7 @@ Regional Location: Anywhere
 Subsection: Generally evil places, [[The Dark Woods]], [[The Blood-Stone Pass]], [[Hope Town]] etc. 
 # Description:
 This ring can imbue its wielder with incredible physique and prowess in martial combat. You just have to give in to it. The cost? It just borrows *a teensy bit* of your living soul. Small price to pay for unbeatable power.  
-# Magic Item:
+# Mechanics
 - Requires Attunement
 - Sentient, Chaotic Evil. Goal is to devour user's soul. Offers strength and constitution as incentive. 
 - **Cursed:** Once attuned, the ring cannot be removed or unattuned from.
