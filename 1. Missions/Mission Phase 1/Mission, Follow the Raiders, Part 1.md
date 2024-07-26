@@ -58,12 +58,7 @@ Then this is followed by the Clues below, in order, from top to bottom.
 | [[The Revitalizing Spring]] | The revitalizing spring         | Good      |
 | [[The Spider Queen]]        | The opulent, alluring woman     | Evil      |
 | [[The Bay of Kelp]]         | The churning, green ocean waves | Neutral   |
-- At each location lies a rune of the ancient language of the many
-- The players must find this rune at each of the sites
-- Furthermore, the players must decide the alignment, good evil or neutral, or each entry on the list.
-- At the entrances to the compound, there are passkey inputs, since it was a site of the many
-	- One passkey it the runes, placed in order in which the sites are listed on the riddle
-	- The second is inputting the alignments, with good at the bottom near a good aligned dragon and the evil at the top near an evil aligned dragon
+
 ### What to look for and where they lead:
 These clues **do not have to be explored in order**.
 However, the order listed on the riddle **does matter**.
@@ -72,6 +67,4 @@ The players **must** find all 9 locations, discover the runes on each, and assig
 The party will find runes at each clue location. These runes are in *deep speech*, the ancient language of [[The Many]]. The party does not need to understand what the runes say. *The runes are one of the two passcodes to entering the complex.* 
 ##### Assigning the Alignments:
 The party will also need to understand the alignment of each location. This is more obscure. The alignment of the deities is straight forwards but the alignment of the locations is more up-in-the-air. *The alignments are the second of two passcodes to enter the complex.* 
-# Understanding regions in [[The High Forests]]
-![[The High Forests]]
-# Phase 2: Embarking to solve the Riddle
+

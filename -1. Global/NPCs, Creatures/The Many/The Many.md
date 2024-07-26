@@ -27,4 +27,4 @@ It is beyond important to note that the citizens of Mist do not understand that 
 The following locations were created by [[The Many]] in the time between first landing on the island and [[The Final Day of The Many]]. 
 1. [[The Obelisk Field]]: A field of obelisks now located in the sea off the coast of [[The North-West Highlands]].
 2. [[The Solemn Flutes]]: A series of odd stone rings located in [[The Discordant Plains]]. Originally created as just a passion project and to echo a lovely sound across [[The Discordant Plains]]. 
-3. [[Bunker 1xNWH]]: Houses [[The Aether-Veil Projector]] and [[The Mist Codex]]. Ancient stone bunker submerged under the water level along the west coast of [[The Harmonious Sea]] and [[The North-West Highlands]]
+3. [[The Aether-Veil Projector]] and [[The Mist Codex]] housed in ancient stone bunker submerged under the water level along the west coast of [[The Harmonious Sea]] and [[The North-West Highlands]]

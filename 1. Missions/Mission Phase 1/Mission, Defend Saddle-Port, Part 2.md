@@ -1,3 +1,6 @@
+Campaign: [[Mist Sessions]]
+Prior Session: [[Mission, Defend Saddle-Port, Part 1]]
+
 > Note: I am going to try a new approach to writing a Mission. This time, instead of fully writing everything out, I am going to leave a lot of openings for improv and instead focus on highlighting general structure, some names of important things, and some key events I want to happen. 
 
 # Recap from Last Time

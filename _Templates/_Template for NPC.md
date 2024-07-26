@@ -9,10 +9,8 @@ Include a brief, colorful description of the character and highlight a few, impo
 -  Clothing
 # Character Relationships:
 Are there important people that this character interacts with? Who do they hate? Who do they work with? Do they have a lover? 
-
 # Character Locations:
 Where would this character be found? Do they frequent many locations? Are there multiple that this character would be found in? List factions, cities, and locations that this character would interact with,
-
 # Character Missions:
 Are there things a player can do for this NPC to win their favor? Does this NPC need something done or maybe they relate to another mission in some way. 
 

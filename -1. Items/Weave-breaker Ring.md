@@ -1,5 +1,6 @@
 Regional Location: [[The North-West Highlands]], [[The North-East Forests]], [[The South-East Coast]]
 Subsection: Generally held by casters
+#item 
 # Description:
 This ring is innocuous; a simple metal band of cold metal. However it holds great power, at a great cost. A sought after item for any great caster, [[Weave-breaker Ring]]s harness gambling and the weave to roll the dice on your magic power. The more used the ring is, the more tarnished the metal appears. Fresh, unused rings are shimmering, vibrant silver metal while heavily used ones are tarnished, unpolishable rusty metal. 
 # Mechanics:
