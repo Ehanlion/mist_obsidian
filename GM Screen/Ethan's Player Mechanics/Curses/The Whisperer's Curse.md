@@ -1,7 +1,5 @@
-
 # Description
 *A cold, vice grip squeezes your longs. The vibrancy in your vision fades, the beautiful hues of the worlds re-toned to a grayscale. The tips of your fingers feel numb and the sides of your temple feel taught. You limbs feel disconnected and distant as you swing you arms to move. You stomach churns with uneasiness.*
-
 # Mechanical Effects
 This is the list of effect that this curse incurs. Note that it is more powerful, so refer to the later section of 'Magically Removing the Curse' to see how, and if, it is possible to remove the curse.
 -  This curse has a Charisma save of DC 14. The save can be repeated at the end of a long rest but not while the creature is near the source of the curse.
