@@ -62,6 +62,7 @@ The party will also need to understand the alignment of each location. This is m
 |     |     |     | x   |     |     |     | x   |     |
 |     | x   | x   |     | x   | x   |     |     | x   |
 | x   |     |     |     |     |     | x   |     |     |
+
 At the bottom of input is Gold Dragon (lawful good) and the top has a Black Dragon (Chaotic Evil). The black dragon is actually [[Agnedelo the Plague-Bringer]], friend of [[Valentino]]. The gold dragon is [[Kragclaw, The Golden Beast]], a normal gold dragon of ancient lore. They won't know this but it is fun to allude to. 
 # Understanding regions in [[The High Forests]]
 ![[The High Forests]]
