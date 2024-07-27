@@ -83,7 +83,7 @@
             "group": "db2202dcdeb71213"
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "00cdd12a2c6f7ceb",
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md"
               }
             }
           }
@@ -253,13 +253,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc9b1a536666e78c",
+  "active": "f6f95a13cc33d5c3",
   "lastOpenFiles": [
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "0. The North-West Highlands/Features/The High Forests.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
     "-1. Items/Weave-breaker Ring.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+    "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
+    "0. The North-West Highlands/NPCs/Igor Larionov.md",
+    "99. Brainstorming/The Followers of Alsolace/The Followers of Alsolace.md",
+    "0. The North-West Highlands/Features/Livy's Livestock (Slave House).md",
+    "0. The North-West Highlands/NPCs/Burton Browns.md",
+    "GM Screen/Spells/Schools of Magic.md",
+    "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
+    "0. The North-West Highlands/NPCs/Arnov Vasilov.md",
+    "Session Notes/Mist Sessions/Mist S9 07-19-24.md",
     "-1. Creatures/Kragclaw, The Golden Beast.md",
     "-1. Creatures/Bazemore, The Earth-Shaker.md",
     "_Templates/_Template for Missions.md",
@@ -272,15 +281,6 @@
     "_Templates/_Template for Games.md",
     "_Templates/_Template for Features.md",
     "-1. Global/NPCs, Creatures/The Many/The Many.md",
-    "0. The North-East Forests/The North-East Forests.md",
-    "-1. Creatures/The Followers of Karak-Ulgurath.md",
-    "0. The North-West Highlands/Features/The Distant Overlook.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 1.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 2.md",
-    "1. Missions/Mission Phase 1/Mission, Defend Saddle-Port, Part 1.md",
-    "-1. Global/Pantheon of Mist/Prime Deities/The Knowing Mentor.md",
-    "-1. Global/Pantheon of Mist/Prime Deities/The Matron of Ravens.md",
-    "GM Screen/Ethan's Useful Links.md",
     "0. The North-West Highlands/Features/The Sea Caves",
     "-1. Global/Great Events/One-off",
     "-1. Creatures",

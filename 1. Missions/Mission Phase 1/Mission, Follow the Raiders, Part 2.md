@@ -76,3 +76,28 @@ Realistically, I expect the players to venture to [[Gullhook]] first. A lot of t
 6. **Important:** The locals do know that the Sahuaguin attacks, many were taken, that the Sahuaguin attacked from forest and sea, and that there are Sahuaguin in the forests still. 
 
 Other than that, roleplay heavy in [[Gullhook]] and pivot to using [[The High Forests]] document to run that part of the mission. 
+# Running [[Gullhook]]
+Okay Gullhook is pretty expansive so ad-lib with stuff there and make it canon later. Just do your best to keep things flowing and split between players whenever possible. 
+
+**Important things to stick to:**
+- Raiders were going to attack town, town defenders, huge battle, many dead on both sides, wide spread destruction on side facing [[The High Forests]] and side facing the cliffs / [[The Distant Sea]]. 
+- Miners/stone-workers are missing
+- Librarians from library are missing
+- Many vacancies for jobs/skilled labor, many lost during fights
+- General wariness of outsiders, guards at gates check for barnacles growths upon entry
+- [[Gullhook]] had between 1-2 thousand residents and they lost around a hundred or so. 
+
+**Cool hooks or ideas to seed in town:**
+- Glimpses of Sahuaguin to high passive perception, tracking leads back to salvage yard. Some Sahuaguin are spying on the town. 
+- Igor and Dmitri were here, Dmitri went off to visit Livy's Livestock. Igor is in town still. Hear about this from a random tavern, maybe Chugga's or the brothel, love makes its way. 
+	- This would be for Wake specifically, if they ask around have people refer them to bars or brothel or something idk
+- Monsters hunters needed in the Guildhall, group can choose to abandon their quest and go monster hunting instead.
+	- Crews are here from island towns of:
+		- [[The Port of Last Call]] - further east than other island towns
+		- [[The Town of Frost-Haven]] - icy, cold town surrounded with icebergs far north
+		- [[Warden-Hunter's Hideout]] - right near [[The Shrouds of the Frost-Bound Wardens]]
+- Deion can meet some old friends from [[Gandoras City]] at the Trading Post, since this is where the caravans pass through. Caravans have been having a rough time, the one currently in town is the last one since [[Gandoras City]] and the Trade Guild are shutting them down due to violence. 
+- Rock-tenders need help levitating a ship, good chance for Kelswin to learn magic but not magic? 
+- The Other Way and [[Arnov Vasilov]] can help with the Mind Rock and some info about that. He can tell tales about the South east coast? Maybe allude to [[Ignel Valis]] as Sylvan Gile here? Just say like, oh powerful magic, knew a wizard from the coast who did that, name was Sylvan, Sylvan Gile or something.
+- People going missing in town, specifically those who have already lost loved ones. Connected to [[Tennyson Heralds]] and [[The Followers of Alsolace]] who are abducting people and sending them to [[Livy's Livestock (Slave House)]]. This connect to [[Dmitri Mironov]], who is gone from [[Gullhook]] because he is taking some abductees to [[Livy's Livestock (Slave House)]] and [[Igor Larionov]] who is helping but is hiding out in [[Gullhook]]. 
+	- [[Igor Larionov]] and [[Dmitri Mironov]] are helping because the slaves get shipped back to [[Fedorov's Legion]] or to [[The Sunken Caverns]] for [[The Followers of Karak-Ulgurath]], as per [[Fedorov Barovick VII]] orders. 
