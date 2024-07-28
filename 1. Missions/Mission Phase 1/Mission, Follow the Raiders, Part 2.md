@@ -5,7 +5,6 @@ Prior: [[Mission, Follow the Raiders, Part 1]]
 1. [[Gullhook]] - for town stuff
 2. [[The High Forests]] - for forest stuff
 3. [[The Followers of Karak-Ulgurath]] - for Sahuaguin encounter stuff 
-
 # START HERE:
 The party starts in the sea cave with the spire out front, 5 miles from [[Saddle-Port]]. They are 45 miles from [[Smears-burrow]], or about 1 long day in the rough weather. 
 

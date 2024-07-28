@@ -1,0 +1,1 @@
+[[Elder Thistleton]] gave the journal to her while she worked with [[The Green Order]]. She was doing research for them regarding [[The Twilight Woods]]. 
