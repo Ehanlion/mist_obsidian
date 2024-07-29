@@ -13,28 +13,27 @@ Thanks to [[The Followers of Karak-Ulgurath]], and a vicious raid (now about 3 w
 - Crab corpses littered in groups of 10 ish at various spots, flowers now grow from them
 	- These are concentrated from the cliff face and towards the entertainment district, specifically Starlight Archives and Rock Bottom.
 - Remnants of battles around western edge of town and around entertainment sector. 
-# Notable NPCs:
 # TOWN EFFECTS READ HERE:
 ### Price Crunch ACTIVE:
 Due to the intense raids across [[The North-West Highlands]], [[Gandoras City]] stopping the caravans and trade convoys from legally leaving the city, and increased raids on town-to-town trade by northern bandits, it has been difficult to get more expensive items between cities. So not only are *prices* *increased*, but *supply is reduced heavily.* Every merchant will complain about the rarity of incoming trades of actually valuable goods. 
 ### Town Raids:
 Sahuaguin are still present both within the town and within [[The High Forests]]. They are conducting small raids, to steal supplies, gold, items, and people if they can. They coordinate secretly with [[Tennyson Heralds]] and [[The Followers of Alsolace]], alongside visitors from [[Hope Town]]: [[Dmitri Mironov]] and [[Igor Larionov]]. They hideout in the salvage yards and like to operate at night, disguised. With high enough observation skills you can notice them in taverns or in back alleys watching the townsfolk. 
 ### Raids on the Byway:
-Sahuaguin may be messing with the town, but another force is at large: 
+Sahuaguin may be messing with the town, but another force is at large, [[The Forest Freaks]]. A group of rowdy children, teens, and early-stage 20-year-olds lead a group that raid convoys between [[Gullhook]] and [[Anchorpoint Fisheries]] and then [[Anchorpoint Fisheries]] and [[Trawlrock]]. None know the true nature of this group, so they are described by those who have witnessed them as "masked forest creatures, who appear from thin air, hit the convoys, and vanish like a disappearing mist on a sunny day." They are known to use non-lethal methods and to target valuables in transit, like magic items and treasury shipments. Refer to [[The Forest Freaks]] document for info on how to find them, their hideout, and their reasons behind attacks. 
 
 # Parts of Town:
-I am organizing this as a table, by each district to make it more convenient. 
+[[Gullhook]] is divided into 4 primary sections: Industry, Entertainment, Living, and Commerce. Alongside each other live creatures of every walk of life. Small in portions compared to the great city of [[Gandoras City]] but large next to any of the towns upon [[The North-West Highlands]]. 
 ## Industry
-| Location Name          | Overseer                                                 | Key NPCs | Worker Types                                                                         |
-| ---------------------- | -------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ |
-| The Cradles            | Captain Merida Wavestrider                               |          | Wood workers, iron workers                                                           |
-| The Dry Docks          | Master Darius Ironwood                                   |          | Ship captains                                                                        |
-| The Dockyard Guildhall | Guildmaster Thorne Seafarer                              |          | Merchants, Captains, Sailors, hunters                                                |
-| The Tidal Weave        | Mistress Elara Silverloom                                |          | Seamstresses, sorcerers                                                              |
-| The Breweries of Brine | Brewmaster Talia Salts                                   |          | Seasoned alcohol experts, grunt workers, sommeliers                                  |
-| The Trading Post       | Merchant Guildmaster Rowan Blackbarter                   |          | Merchants, workers of the NW Byway (ring road that Deion travels on), hands for hire |
-| Briar's Forge          | Smithmaster Briar Flameheart and Forge Master McAllister |          | Iron workers, forge clerics                                                          |
-| The Salvage Yards      | Foreman Gideon Rusthand                                  |          | The riff raff, various thugs, Sahuaguin are hiding in wreckage here spying on town   |
+| Location Name          | Overseer                                                 | Worker Types                                                                         |
+| ---------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| The Cradles            | Captain Merida Wavestrider                               | Wood workers, iron workers                                                           |
+| The Dry Docks          | Master Darius Ironwood                                   | Ship captains                                                                        |
+| The Dockyard Guildhall | Guildmaster Thorne Seafarer                              | Merchants, Captains, Sailors, hunters                                                |
+| The Tidal Weave        | Mistress Elara Silverloom                                | Seamstresses, sorcerers                                                              |
+| The Breweries of Brine | Brewmaster Talia Salts                                   | Seasoned alcohol experts, grunt workers, sommeliers                                  |
+| The Trading Post       | Merchant Guildmaster Rowan Blackbarter                   | Merchants, workers of the NW Byway (ring road that Deion travels on), hands for hire |
+| Briar's Forge          | Smithmaster Briar Flameheart and Forge Master McAllister | Iron workers, forge clerics                                                          |
+| The Salvage Yards      | Foreman Gideon Rusthand                                  | The riff raff, various thugs, Sahuaguin are hiding in wreckage here spying on town   |
 #### The Cradles:
 > The Cradles are massive dry docks where the town's ships are born and repaired, their skeletal forms emerging from the mist like great sea beasts. Skilled shipwrights and laborers work tirelessly here, crafting vessels that will brave the ocean's depths.
 #### The Dry Docks:
@@ -73,7 +72,10 @@ I am organizing this as a table, by each district to make it more convenient.
 > The Breweries of Brine are famous for their unique sea-infused brews, offering everything from salty ales to kelp-flavored spirits. These breweries supply many of the taverns and drinking establishments in the town.
 
 **Booze for Sale:**
-- 
+- *Sea Salt Beer* = salty after taste, cheap. Burps taste like the ocean
+- *Aged Seaweed Wine* = expensive, complex taste, allows user to speak to sea creatures very briefly if it is used to get someone VERY drunk. 
+- *Coral-Cask aged Whiskey of the Sea* = imbued with strength of coral. If used to get someone VERY drunk, they have resistance to slashing, piercing, and bludgeoning damage but have disadvantage on saves, ability checks, and attack roles since they are VERY disoriented. 
+- *Jelly-Venom Infused Mead* = deliciously sweet and deliciously deadly, a mead made from the venom of a deadly jellyfish named [[Yellow Cap Killers]]. When drunk, the brew can give either resistance or immunity to poison damage depending on how much is consumed. To get resistance, consume a small amount and pass a DC 13 Con save. To get immunity, pass a DC 18 Con save. On a failure, resistance-consumption gives the poisoned condition for 24 hours until cured. For immunity-consumption, the potion gives a madness as well as the poisoned condition for 24 hours. 
 
 **Mission:**
 - A beer vat has begun producing bad beer and repair crews have gone missing in the vat. Go explore the vat. At the heart is a beer-octopus tainting the waters. 
@@ -101,7 +103,7 @@ I am organizing this as a table, by each district to make it more convenient.
 | The Farmer's Depot   | Various stalls with various sellers. | Food Items         | Talk about strange things going on at Livy's Livestock (Livy's slaves) |
 | Bakers and Butchers  | Gromm Ironhide                       | Food Items         |                                                                        |
 | The Housing Union    | Barnaby Widdershins                  | Building supplies  |                                                                        |
-
+### Ware Ideas to Sell:
 **Goods to Sell:** -  refer to [Wikidot Common Magic Items](http://dnd5e.wikidot.com/wondrous-items)
 - *Trinkets* - (10 to 100 gp)
 	- [Candle of the Deep](http://dnd5e.wikidot.com/wondrous-items:candle-of-the-deep) - underwater candle
@@ -127,7 +129,17 @@ I am organizing this as a table, by each district to make it more convenient.
 >The Other Way is a quirky shop offering unusual and exotic items from far-off lands, where curious magical trinkets and mysterious artifacts captivate the adventurous spirit.
 
 **Arnov:**
-[[Arnov Vasilov]] is the owner of The Other Way. He specializes in sourcing magic items from 
+[[Arnov Vasilov]] is the owner of The Other Way. He specializes in sourcing magic items from far off lands. His stocks are dwindling but his spirits are high. He has connections to [[Yugo Stolid]] as well as the gambling den they speak of, far off in [[The Dark Woods]]. 
+
+*Something for [[Wake]]*:
+He was once apart of [[Fedorov's Legion]] before he escaped. Friendly to those who oppose them and knows about [[Dmitri Mironov]] and [[Igor Larionov]]. "I would never forget the looks of people that worked for [[Fedorov's Legion]], always have a look of madness and cruelty in their eyes."
+
+**Things Arnov can do for people:**
+- Identify a magic item, and give info about its history
+- Buy a magic item for a discount price
+- Sell a magic item at a hugely overprice amount 
+- Play games of luck and fate, gambling items for items
+	- Think that he is a street racer who only gambles/races for pinks. 
 #### Enchanter's Exchange:
 >The Enchanter's Exchange is a magical emporium specializing in enchanted items and arcane components, a must-visit for casters and martials alike.
 #### Quirk and Quill:
@@ -145,27 +157,36 @@ I am organizing this as a table, by each district to make it more convenient.
 #### The Housing Union:
 >The Housing Union is the central place for real estate and lodging in Gullhook, offering everything from short-term rentals to permanent homes for newcomers and long-time residents alike.
 ## Living
-| Location Name      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Wealth                             | Events                                                                                                                                            |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The Dirge Quarters | The Dirge Quarters are the most impoverished area of Gullhook, characterized by narrow, winding alleyways and cramped, dilapidated buildings. The residents here are hardworking but struggle to make ends meet, with many laboring in the docks or factories. Despite the hardships, there's a strong sense of community, and the area is often filled with the sound of music and laughter as neighbors come together to support one another.                                                              | Poor                               |                                                                                                                                                   |
-| The Hovels         | The Hovels offer modest living conditions, home to artisans, tradespeople, and those working in mid-level jobs around the town.  While the buildings are simple and sometimes in need of repair, the residents take pride in their homes, often decorating them with colorful flowers and handmade crafts.                                                                                                                                                                                                   | Moderate                           |                                                                                                                                                   |
-| The Scuttled Holds | The Scuttled Holds are a moderate residential area, primarily housing skilled workers and lower-middle-class families. The neighborhood is known for its unique architectural style, with homes made from salvaged ship parts, giving it a distinctive nautical theme. The streets are clean and well-kept, with a few small parks and communal spaces where children play and families gather.                                                                                                              | Moderate                           |                                                                                                                                                   |
-| Les Palissades     | Les Palissades is the wealthiest district in Gullhook, featuring grand, well-maintained homes and lush gardens. The streets are wide and lined with trees, giving the area a serene and picturesque quality. This district is home to the town's elite, including successful merchants, guildmasters, and other affluent individuals. The air here is filled with a sense of sophistication and refinement, with fine dining establishments and exclusive shops catering to the residents' luxurious tastes. | Wealthy                            | Frequent, opulent parties are hosted. If a great deed is done, maybe less folk are invited.                                                       |
-| The Barracks       | The Barracks serve as the primary military quarters for Gullhook's soldiers and guards. The facility is a fortress-like complex, designed for both defense and training, with high walls and well-guarded gates. Inside, the barracks are functional and orderly, equipped with all necessary amenities to support the town's defenders. The atmosphere is disciplined and focused, with regular drills and a strong emphasis on readiness and duty.                                                         | Military, guards, men-at-arms etc. | Guards are searching anyone entering the town for signs of [[Mutated Barnacle Growths]]. Some guards are crooked allowing smugglers and stuff in. |
+| Location Name      | Wealth                             | Physical town location                                                                    |
+| ------------------ | ---------------------------------- | ----------------------------------------------------------------------------------------- |
+| The Dirge Quarters | Poor                               | Located on the southern-and western edges of the city. Directly borders with The Hovels.  |
+| The Hovels         | Moderate                           | Located in the midsection of town, bordering on the commerce and entertainment districts. |
+| The Scuttled Holds | Moderate                           | Located near the salvage yards and the cradles.                                           |
+| The Palisades      | Wealthy                            | Located towards the north part of the town, has vast overlooks of [[The Distant Sea]].    |
+| The Barracks       | Military, guards, men-at-arms etc. | Located directly next to the industry district, primarily next to the Dockyard Guildhall. |
+#### The Dirge Quarters:
+>The Dirge Quarters are the most impoverished area of Gullhook, characterized by narrow, winding alleyways and cramped, dilapidated buildings. The residents here are hardworking but struggle to make ends meet, with many laboring in the docks or factories. Despite the hardships, there's a strong sense of community, and the area is often filled with the sound of music and laughter as neighbors come together to support one another.
+#### The Hovels:
+>The Hovels offer modest living conditions, home to artisans, tradespeople, and those working in mid-level jobs around the town.  While the buildings are simple and sometimes in need of repair, the residents take pride in their homes, often decorating them with colorful flowers and handmade crafts.
+#### The Scuttled Holds:
+>The Scuttled Holds are a moderate residential area, primarily housing skilled workers and lower-middle-class families. The neighborhood is known for its unique architectural style, with homes made from salvaged ship parts, giving it a distinctive nautical theme. The streets are clean and well-kept, with a few small parks and communal spaces where children play and families gather.
+#### The Palisades: 
+>Les Palissades is the wealthiest district in Gullhook, featuring grand, well-maintained homes and lush gardens. The streets are wide and lined with trees, giving the area a serene and picturesque quality. This district is home to the town's elite, including successful merchants, guildmasters, and other affluent individuals. The air here is filled with a sense of sophistication and refinement, with fine dining establishments and exclusive shops catering to the residents' luxurious tastes.
+#### The Barracks:
+>The Barracks serve as the primary military quarters for Gullhook's soldiers and guards. The facility is a fortress-like complex, designed for both defense and training, with high walls and well-guarded gates. Inside, the barracks are functional and orderly, equipped with all necessary amenities to support the town's defenders. The atmosphere is disciplined and focused, with regular drills and a strong emphasis on readiness and duty.
+
 **Specific, extra amenities for each:**
 Each location has its own tiny restaurants and shops because of their size. The primary districts have larger establishments but small, hole-in-the-wall places are present for each residential area. 
 ## Entertainment
-| Establishment Name    | Owner                                                  | Description                                                                                                                                                                                                                       | Type                  | Events                                                                                                                                                                                                          |
-| --------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Rock Bottom           | Wilt Hard bass                                         | A beat down looking bar, once made from heavy slabs of dark stone. Now it sits desolate and disused, the stone blocks crumbles to rubble. Lichen grows all over as the roof is fractured and destroyed.                           | Tavern                | Closed. Was run by an order of stone masons and miners and they all went missing during the raid.                                                                                                               |
-| Chugga's              | Chugga                                                 | A rowdy tavern where bad ale and even worse liquor flows freely for long and till late. Rough crowds, don't bring your money, you'll lose it.                                                                                     | Tavern                | Out chug Chugga.                                                                                                                                                                                                |
-| The Sorcerer's Parlor | Quicks                                                 | A magical tavern with magical evenings. Gravity doesn't work in here so tables float, meals fly, the servers have wings. It's all upside down thanks to Quicks.                                                                   | Inn                   | The anti-gravity dance off and line dancing.                                                                                                                                                                    |
-| Love Makes its Way    | Alan 5Kills (called skills)                            | A stylish brothel house with fine dining, finer partners, and swanky prices. Not for the average joe but a splurge of cash will get you far here. Just don't cross Alan, he'll kill you.                                          | Brothel               | Information. Hookers know a lot of information since they have a lot of customers.                                                                                                                              |
-| Starlight Archives    | Leandra Starlight                                      | A once beautiful white building with elegant stained glass windows is now a half burnt shell, the fantastic windows shattered and destroyed. The building closed the the public.                                                  | Library               | Abandoned and closed. Librarian went missing during the raid. Books relocated to temple glade.                                                                                                                  |
-| The Temple Glade      | [[Tennyson Heralds]] and [[The Followers of Alsolace]] | In the midst of the town, slightly away from the rest of the buildings likes a grove of trees and bushes. In the midst sits a small clustering of religious buildings: stone heat domes, long preaching halls, and small shrines. | Religious and cultish | Remembrance circles for the fallen. Prayers, healing chants, meditations rooms.<br><br>[[Tennyson Heralds]] and his followers preach a new god named [[Alsolace]] fueled by light and gold, vanquisher of evil. |
-##### Special Development for Temple Glade:
-The following actually works really closely with [[Livy's Livestock (Slave House)]] and abducts people from town and sends them over to the slave house. They have been targeting grieving people from the recent raids. They bring them into private rooms to pray, drug them, and then cart them over. They are working closely with [[Dmitri Mironov]] and [[Igor Larionov]] who are helping with this. 
-
+| Establishment Name    | Owner                                                  | Type                  | Events                                                                                                                                                                                                          |
+| --------------------- | ------------------------------------------------------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rock Bottom           | Wilt Hard bass                                         | Tavern                | Closed. Was run by an order of stone masons and miners and they all went missing during the raid.                                                                                                               |
+| Chugga's              | Chugga                                                 | Tavern                | Out chug Chugga.                                                                                                                                                                                                |
+| The Sorcerer's Parlor | Quicks                                                 | Inn                   | The anti-gravity dance off and line dancing.                                                                                                                                                                    |
+| Love Makes its Way    | Alan 5Kills (called skills)                            | Brothel               | Information. Hookers know a lot of information since they have a lot of customers.                                                                                                                              |
+| Starlight Archives    | Leandra Starlight                                      | Library               | Abandoned and closed. Librarian went missing during the raid. Books relocated to temple glade.                                                                                                                  |
+| The Temple Glade      | [[Tennyson Heralds]] and [[The Followers of Alsolace]] | Religious and cultish | Remembrance circles for the fallen. Prayers, healing chants, meditations rooms.<br><br>[[Tennyson Heralds]] and his followers preach a new god named [[Alsolace]] fueled by light and gold, vanquisher of evil. |
+### Gambling Games in the Bars:
 **Use Gambling (or other) Games Here:**
 1. [[Black-wing's Duels]]
 2. [[Dragon's Hoard Twenty-One]]
@@ -175,6 +196,21 @@ The following actually works really closely with [[Livy's Livestock (Slave House
 6. Ball-knocker's tournament 
 7. Dart's tournament (use actual dart board)
 8. Just have them being played loudly in taverns
+#### Rock Bottom:
+>A beat down looking bar, once made from heavy slabs of dark stone. Now it sits desolate and disused, the stone blocks crumbles to rubble. Lichen grows all over as the roof is fractured and destroyed.
+#### Chugga's:
+>A rowdy tavern where bad ale and even worse liquor flows freely for long and till late. Rough crowds, don't bring your money, you'll lose it.
+#### The Sorcerer's Parlor:
+>A magical tavern with magical evenings. Gravity doesn't work in here so tables float, meals fly, the servers have wings. It's all upside down thanks to Quicks.
+#### Love Makes its Way:
+>A stylish brothel house with fine dining, finer partners, and swanky prices. Not for the average joe but a splurge of cash will get you far here. Just don't cross Alan, he'll kill you.
+#### Starlight Archives:
+>A once beautiful white building with elegant stained glass windows is now a half burnt shell, the fantastic windows shattered and destroyed. The building closed the the public.
+#### The Temple Glade:
+>In the midst of the town, slightly away from the rest of the buildings likes a grove of trees and bushes. In the midst sits a small clustering of religious buildings: stone heat domes, long preaching halls, and small shrines.
+
+**Special Development for Temple Glade:**
+The following actually works really closely with [[Livy's Livestock (Slave House)]] and abducts people from town and sends them over to the slave house. They have been targeting grieving people from the recent raids. They bring them into private rooms to pray, drug them, and then cart them over. They are working closely with [[Dmitri Mironov]] and [[Igor Larionov]] who are helping with this. 
 # How they Fish:
 > Large rune-rocks dot the coast here. They swirl with vibrant magical energy as mages, rock-tenders they are called, stand to invoke them on wooden scaffolding. A coordinator stands by the cliff on a raised wooden platform issuing signals to the rock-tenders. Ships float up the cliff, wrapped in an arcane embrace as the mages set them down upon wooden berthing docks, arranged in neat rows near the cliff. Cargo and fishing catches levitate out of hulls and nets and are set down in neat sorting piles nearby. 
 ### The Magic Rune Rocks:
@@ -187,5 +223,4 @@ When invoked, they make heavy objects very light and can levitate them. Rock-ten
 
 *The rocks of Many?*
 They are actually a small project of [[The Many]], mostly a gag idea but expanded on later to help quarry places which eventually created the sea caves of [[Shimmer Mist Lagoon]], [[The Echoing Grotto]], and [[The Sunken Caverns]]. 
-# Events:
-# Related Quests:
+# COOL SPECIAL STUFF:
