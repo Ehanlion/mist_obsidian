@@ -13,9 +13,15 @@ Thanks to [[The Followers of Karak-Ulgurath]], and a vicious raid (now about 3 w
 - Crab corpses littered in groups of 10 ish at various spots, flowers now grow from them
 	- These are concentrated from the cliff face and towards the entertainment district, specifically Starlight Archives and Rock Bottom.
 - Remnants of battles around western edge of town and around entertainment sector. 
-
 # Notable NPCs:
-# Town Center:
+# TOWN EFFECTS READ HERE:
+### Price Crunch ACTIVE:
+Due to the intense raids across [[The North-West Highlands]], [[Gandoras City]] stopping the caravans and trade convoys from legally leaving the city, and increased raids on town-to-town trade by northern bandits, it has been difficult to get more expensive items between cities. So not only are *prices* *increased*, but *supply is reduced heavily.* Every merchant will complain about the rarity of incoming trades of actually valuable goods. 
+### Town Raids:
+Sahuaguin are still present both within the town and within [[The High Forests]]. They are conducting small raids, to steal supplies, gold, items, and people if they can. They coordinate secretly with [[Tennyson Heralds]] and [[The Followers of Alsolace]], alongside visitors from [[Hope Town]]: [[Dmitri Mironov]] and [[Igor Larionov]]. They hideout in the salvage yards and like to operate at night, disguised. With high enough observation skills you can notice them in taverns or in back alleys watching the townsfolk. 
+### Raids on the Byway:
+Sahuaguin may be messing with the town, but another force is at large: 
+
 # Parts of Town:
 I am organizing this as a table, by each district to make it more convenient. 
 ## Industry
@@ -84,17 +90,18 @@ I am organizing this as a table, by each district to make it more convenient.
 - Find the Sahuaguin: Some Sahuaguin are hiding in the yards. They are in cohorts with [[Tennyson Heralds]] at the Temple Glade, as well as [[Dmitri Mironov]] and [[Igor Larionov]]. 
 
 ## Commerce
-| Store Name           | Description                                                                                                                                                                                 | Owner                                | Goods              | Specials                                                               |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------ | ---------------------------------------------------------------------- |
-| The Other Way        | The Other Way is a quirky shop offering unusual and exotic items from far-off lands, where curious magical trinkets and mysterious artifacts captivate the adventurous spirit.              | [[Arnov Vasilov]]                    | Magic Items        | Can help identify the mind rock.                                       |
-| Enchanter's Exchange | The Enchanter's Exchange is a magical emporium specializing in enchanted items and arcane components, a must-visit for casters and martials alike.                                          | Fizzle Fizzle                        | Magic Items        |                                                                        |
-| Quirk and Quill      | Quirk and Quill is a cozy bookstore and stationery shop, brimming with ancient tomes, mystical scrolls, and finely crafted writing instruments for the scholarly and the curious.           | Pip Quickquill                       | Writing tools      |                                                                        |
-| The Dozy Brewers     | The Dozy Brewers is a quaint potions shop known for its magical brews and relaxing atmosphere.                                                                                              | Zara Moonwhisper                     | Potions            |                                                                        |
-| Urban Poultices      | Urban Poultices is an apothecary that blends traditional remedies with urban alchemy, offering potions and salves for ailments of all kinds.                                                | Thaddeus Greenfingers                | Potion Ingredients |                                                                        |
-| Bizarro Bazaar       | Bizarro Bazaar is a vibrant market filled with oddities and curiosities, where merchants sell everything from enchanted oddities to peculiar pets.                                          | Mira Windrider                       | Random items       |                                                                        |
-| The Farmer's Depot   | The Farmer's Depot is the heart of Gullhook's agricultural trade, where fresh produce, meats, and other local goods are sold directly from the region's farmers.                            | Various stalls with various sellers. | Food Items         | Talk about strange things going on at Livy's Livestock (Livy's slaves) |
-| Bakers and Butchers  | Bakers and Butchers is a bustling food market, famous for its fresh bread, pastries, and a wide selection of quality meats, catering to the town's culinary needs                           | Gromm Ironhide                       | Food Items         |                                                                        |
-| The Housing Union    | The Housing Union is the central place for real estate and lodging in Gullhook, offering everything from short-term rentals to permanent homes for newcomers and long-time residents alike. | Barnaby Widdershins                  | Building supplies  |                                                                        |
+| Store Name           | Owner                                | Goods              | Specials                                                               |
+| -------------------- | ------------------------------------ | ------------------ | ---------------------------------------------------------------------- |
+| The Other Way        | [[Arnov Vasilov]]                    | Magic Items        | Can help identify the mind rock.                                       |
+| Enchanter's Exchange | Fizzle Fizzle                        | Magic Items        |                                                                        |
+| Quirk and Quill      | Pip Quickquill                       | Writing tools      |                                                                        |
+| The Dozy Brewers     | Zara Moonwhisper                     | Potions            |                                                                        |
+| Urban Poultices      | Thaddeus Greenfingers                | Potion Ingredients |                                                                        |
+| Bizarro Bazaar       | Mira Windrider                       | Random items       |                                                                        |
+| The Farmer's Depot   | Various stalls with various sellers. | Food Items         | Talk about strange things going on at Livy's Livestock (Livy's slaves) |
+| Bakers and Butchers  | Gromm Ironhide                       | Food Items         |                                                                        |
+| The Housing Union    | Barnaby Widdershins                  | Building supplies  |                                                                        |
+
 **Goods to Sell:** -  refer to [Wikidot Common Magic Items](http://dnd5e.wikidot.com/wondrous-items)
 - *Trinkets* - (10 to 100 gp)
 	- [Candle of the Deep](http://dnd5e.wikidot.com/wondrous-items:candle-of-the-deep) - underwater candle
@@ -117,14 +124,26 @@ I am organizing this as a table, by each district to make it more convenient.
 	- [Seeker Darts](http://dnd5e.wikidot.com/wondrous-items:seeker-dart) - seeks a target, one time use thing
 	- [Rings of Suffering](http://dnd5e.wikidot.com/wondrous-items:rings-of-shared-suffering) - matched pair, funny, kind of terrible
 #### The Other Way:
+>The Other Way is a quirky shop offering unusual and exotic items from far-off lands, where curious magical trinkets and mysterious artifacts captivate the adventurous spirit.
+
+**Arnov:**
+[[Arnov Vasilov]] is the owner of The Other Way. He specializes in sourcing magic items from 
 #### Enchanter's Exchange:
+>The Enchanter's Exchange is a magical emporium specializing in enchanted items and arcane components, a must-visit for casters and martials alike.
 #### Quirk and Quill:
+>Quirk and Quill is a cozy bookstore and stationery shop, brimming with ancient tomes, mystical scrolls, and finely crafted writing instruments for the scholarly and the curious.
 #### The Dozy Brewers:
+>The Dozy Brewers is a quaint potions shop known for its magical brews and relaxing atmosphere.
 #### Urban Poultices:
+>Urban Poultices is an apothecary that blends traditional remedies with urban alchemy, offering potions and salves for ailments of all kinds.
 #### Bizarro Bazaar:
+>Bizarro Bazaar is a vibrant market filled with oddities and curiosities, where merchants sell everything from enchanted oddities to peculiar pets.
 #### The Farmer's Depot:
+>The Farmer's Depot is the heart of Gullhook's agricultural trade, where fresh produce, meats, and other local goods are sold directly from the region's farmers.
 #### Bakers and Butchers:
+>Bakers and Butchers is a bustling food market, famous for its fresh bread, pastries, and a wide selection of quality meats, catering to the town's culinary needs
 #### The Housing Union:
+>The Housing Union is the central place for real estate and lodging in Gullhook, offering everything from short-term rentals to permanent homes for newcomers and long-time residents alike.
 ## Living
 | Location Name      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Wealth                             | Events                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |

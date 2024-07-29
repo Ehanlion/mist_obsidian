@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "-1. Creatures/The Followers of Karak-Ulgurath.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "-1. Creatures/The Followers of Karak-Ulgurath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "-1. Creatures/The Followers of Karak-Ulgurath.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "-1. Creatures/The Followers of Karak-Ulgurath.md"
               }
             }
           }
@@ -224,9 +224,18 @@
   },
   "active": "fc9b1a536666e78c",
   "lastOpenFiles": [
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "0. The North-West Highlands/Features/The High Forests.md",
+    "-1. Creatures/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/NPCs/The Forest Freaks.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "0. The North-West Highlands/NPCs/Glee Bishop.md",
+    "GM Screen/Ethan's Gambling Games/Ball Knockers.md",
+    "GM Screen/Ethan's Gambling Games/Black-wing's Duels.md",
+    "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
+    "_Assets/dnd 5e pool mini game.jpeg",
+    "0. The North-West Highlands/Side-Quests/Helping Smears-burrow.md",
+    "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
+    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "GM Screen/Ethan's Useful Links.md",
     "0. The North-West Highlands/NPCs/Glorval.md",
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 1.md",
@@ -242,14 +251,6 @@
     "0. The North-West Highlands/NPCs/Dmitri Mironov.md",
     "0. The North-West Highlands/NPCs/Igor Larionov.md",
     "99. Brainstorming/The Followers of Alsolace/The Followers of Alsolace.md",
-    "0. The North-West Highlands/Features/Livy's Livestock (Slave House).md",
-    "0. The North-West Highlands/NPCs/Burton Browns.md",
-    "GM Screen/Spells/Schools of Magic.md",
-    "0. The North-West Highlands/NPCs/Arnov Vasilov.md",
-    "-1. Creatures/Kragclaw, The Golden Beast.md",
-    "-1. Creatures/Bazemore, The Earth-Shaker.md",
-    "_Templates/_Template for Missions.md",
-    "_Templates/_Format Testings.md",
     "0. The North-West Highlands/Features/The Sea Caves",
     "-1. Global/Great Events/One-off",
     "-1. Creatures",
@@ -262,7 +263,6 @@
     "_Assets/karak-ulgurath the crab lord.png",
     "_Assets/Macro view of deep woods and dark woods.png",
     "_Assets/Mist CONSOLE Room.jpg",
-    "_Assets/Obelisk field in north sea.png",
     "-1. Items",
     "-1. Books",
     "GM Screen/Untitled.canvas",
