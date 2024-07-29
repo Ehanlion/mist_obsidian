@@ -19,20 +19,24 @@ Thanks to [[The Followers of Karak-Ulgurath]], and a vicious raid (now about 3 w
 # Parts of Town:
 I am organizing this as a table, by each district to make it more convenient. 
 ## Industry
-| Location Name          | Overseer                                                 | Worker Types                                                                         | Special                                                                                                                                                            |
-| ---------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| The Cradles            | Captain Merida Wavestrider                               | Wood workers, iron workers                                                           |                                                                                                                                                                    |
-| The Dry Docks          | Master Darius Ironwood                                   | Ship captains                                                                        | Possible to find employment or a captain willing to help here. Other place to look is guildhall.                                                                   |
-| The Dockyard Guildhall | Guildmaster Thorne Seafarer                              | Merchants, Captains, Sailors, hunters                                                |                                                                                                                                                                    |
-| The Tidal Weave        | Mistress Elara Silverloom                                | Seamstresses, sorcerers                                                              | Sell clothes of elemental protection but they can only survive some number of hits dealing that type of damage before they break.                                  |
-| The Breweries of Brine | Brewmaster Talia Salts                                   | Seasoned alcohol experts, grunt workers, sommeliers                                  | One of the massive beer vats has begun producing bad beer. Someone should go investigate it. Beer-octopus at the bottom. Reward of a endless decanted of a spirit. |
-| The Trading Post       | Merchant Guildmaster Rowan Blackbarter                   | Merchants, workers of the NW Byway (ring road that Deion travels on), hands for hire |                                                                                                                                                                    |
-| Briar's Forge          | Smithmaster Briar Flameheart and Forge Master McAllister | Iron workers, forge clerics                                                          |                                                                                                                                                                    |
-| The Salvage Yards      | Foreman Gideon Rusthand                                  | The riff raff, various thugs, Sahuaguin are hiding in wreckage here spying on town   | Purge the yards: yard-master requests help of adventurers to seek out and kill creatures hiding in the ruins attacking adventurers.                                |
+| Location Name          | Overseer                                                 | Key NPCs | Worker Types                                                                         |
+| ---------------------- | -------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ |
+| The Cradles            | Captain Merida Wavestrider                               |          | Wood workers, iron workers                                                           |
+| The Dry Docks          | Master Darius Ironwood                                   |          | Ship captains                                                                        |
+| The Dockyard Guildhall | Guildmaster Thorne Seafarer                              |          | Merchants, Captains, Sailors, hunters                                                |
+| The Tidal Weave        | Mistress Elara Silverloom                                |          | Seamstresses, sorcerers                                                              |
+| The Breweries of Brine | Brewmaster Talia Salts                                   |          | Seasoned alcohol experts, grunt workers, sommeliers                                  |
+| The Trading Post       | Merchant Guildmaster Rowan Blackbarter                   |          | Merchants, workers of the NW Byway (ring road that Deion travels on), hands for hire |
+| Briar's Forge          | Smithmaster Briar Flameheart and Forge Master McAllister |          | Iron workers, forge clerics                                                          |
+| The Salvage Yards      | Foreman Gideon Rusthand                                  |          | The riff raff, various thugs, Sahuaguin are hiding in wreckage here spying on town   |
 #### The Cradles:
 > The Cradles are massive dry docks where the town's ships are born and repaired, their skeletal forms emerging from the mist like great sea beasts. Skilled shipwrights and laborers work tirelessly here, crafting vessels that will brave the ocean's depths.
 #### The Dry Docks:
 > The dry docks are massive sets of cradles, not for under constructions ships, but rather for the massive ships lifted from the sea to berth in. Captains pay Rock-tenders at the Dockyard Guildhall to transport their vessels.
+
+**Buying a Ship:**
+- *Talking to the Docks Merchant:*
+- *Bartering with a ship owner:*
 #### The Dockyard Guildhall:
 > The Dockyard Guildhall serves as the heart of maritime commerce and trade in Gullhook, where deals are struck and routes are charted. It's a place of constant negotiation and strategy, buzzing with the voices of captains and merchants. Its run by the guild master, under whom serves the trade masters and commerce masters, the ship masters and map masters, and the hunt masters. Ranks are assigned through bronze, silver, and gold signets. 
 
@@ -56,14 +60,28 @@ I am organizing this as a table, by each district to make it more convenient.
 - *Ship Crew Offerings:*
 #### The Tidal Weave:
 >The Tidal Weave is a renowned textile mill producing exquisite fabrics, known for their sea-inspired patterns and magical properties. Here, artisans skillfully blend dyes and enchantments, creating cloth that shimmers like the ocean.
+
+**Buying Magical Clothes:**
+- Clothes of elemental protection: They give resistance to a damage type, but after taking N-instances of damage, they revert to non-magical clothing. 
 #### The Breweries of Brine:
 > The Breweries of Brine are famous for their unique sea-infused brews, offering everything from salty ales to kelp-flavored spirits. These breweries supply many of the taverns and drinking establishments in the town.
+
+**Booze for Sale:**
+- 
+
+**Mission:**
+- A beer vat has begun producing bad beer and repair crews have gone missing in the vat. Go explore the vat. At the heart is a beer-octopus tainting the waters. 
+	- Reward: Endless decanted of beer. 
 #### The Trading Post:
 > The Trading Post is a bustling hub of exchange, where exotic goods from distant lands meet the necessities of daily life. Traders and adventurers converge here, bartering everything from spices to enchanted relics.
 #### Briar's Forge:
 > Briar's Forge is the go-to destination for finely crafted weapons and armor, where the clang of hammers rings out day and night. The forge is run by the legendary blacksmith Briar, known for his skill in imbuing steel with mystical energies.
 #### The Salvage Yards:
 > The Salvage Yards are a sprawling expanse where the remnants of shipwrecks and lost cargo are brought to be dismantled or repurposed. Treasure hunters and inventors scour the yards, searching for valuable artifacts and rare materials. Creatures lurk in the darkness.
+
+**Missions:**
+- Clear the yards: A evil creature runs amok attacking those who have paid to scavenge. 
+- Find the Sahuaguin: Some Sahuaguin are hiding in the yards. They are in cohorts with [[Tennyson Heralds]] at the Temple Glade, as well as [[Dmitri Mironov]] and [[Igor Larionov]]. 
 
 ## Commerce
 | Store Name           | Description                                                                                                                                                                                 | Owner                                | Goods              | Specials                                                               |
@@ -98,6 +116,15 @@ I am organizing this as a table, by each district to make it more convenient.
 	- [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) - looks like stone of good luck even if you use identify to identify it
 	- [Seeker Darts](http://dnd5e.wikidot.com/wondrous-items:seeker-dart) - seeks a target, one time use thing
 	- [Rings of Suffering](http://dnd5e.wikidot.com/wondrous-items:rings-of-shared-suffering) - matched pair, funny, kind of terrible
+#### The Other Way:
+#### Enchanter's Exchange:
+#### Quirk and Quill:
+#### The Dozy Brewers:
+#### Urban Poultices:
+#### Bizarro Bazaar:
+#### The Farmer's Depot:
+#### Bakers and Butchers:
+#### The Housing Union:
 ## Living
 | Location Name      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Wealth                             | Events                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
