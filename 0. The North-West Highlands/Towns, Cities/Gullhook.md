@@ -198,8 +198,11 @@ Each location has its own tiny restaurants and shops because of their size. The 
 8. Just have them being played loudly in taverns
 #### Rock Bottom:
 >A beat down looking bar, once made from heavy slabs of dark stone. Now it sits desolate and disused, the stone blocks crumbles to rubble. Lichen grows all over as the roof is fractured and destroyed.
+
+**Abandoned:**
+Prior to the raid on the town, this was a bustling point of drinking for your average working townsperson. It was simple, municipal, but lively at night. It had fair, generous prices and hearty food. Many came here for simple nights with good memories. However now, the building is closed being half destroyed from the raid. On the premises sit numerous shells of giant crabs, tantamount to the viciousness of the raid. 
 #### Chugga's:
->A rowdy tavern where bad ale and even worse liquor flows freely for long and till late. Rough crowds, don't bring your money, you'll lose it.
+>A rowdy tavern where bad ale and even worse liquor flows freely for long and till late. Rough crowds, don't bring your money, you'll lose it. 
 #### The Sorcerer's Parlor:
 >A magical tavern with magical evenings. Gravity doesn't work in here so tables float, meals fly, the servers have wings. It's all upside down thanks to Quicks.
 #### Love Makes its Way:
