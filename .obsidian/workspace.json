@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01aab40eae891193",
+        "id": "f012e93943e1ef6a",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9b1a536666e78c",
+            "id": "d2ea1c3039bd528a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "447d11636bb60ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/NPCs/The Forest Freaks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,21 +86,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "881fc070a2b6e68b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 214
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -240,12 +216,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc9b1a536666e78c",
+  "active": "c463d6e74c344419",
   "lastOpenFiles": [
-    "GM Screen/Ethan's Useful Links.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "0. The North-West Highlands/NPCs/The Forest Freaks.md",
+    "Session Notes/Mist Sessions/Mist S9 07-19-24.md",
+    "Session Notes/Mist Sessions/Mist S10 07-27-2024.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
     "0. The North-West Highlands/Features/The High Forests.md",
     "_Templates/_Format Testings.md",
     "99. Brainstorming/Moral Dilemma with Deities Puzzles.md",
@@ -266,9 +244,7 @@
     "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
     "-1. Books/Vivian's Spell Journal.md",
     "GM Screen/Underwater/diving into water.md",
-    "Session Notes/Mist Sessions/Mist S9 07-19-24.md",
     "0. The South-East Mountains/Features/The Order of the Mountains.md",
-    "0. The South-East Mountains/Features/The Under-Mountain Pass/The Delegation of Amethyst.md",
     "0. The North-West Highlands/Features/The Sea Caves",
     "-1. Global/Great Events/One-off",
     "-1. Creatures",
