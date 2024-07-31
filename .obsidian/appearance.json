@@ -1,15 +1,17 @@
 {
-  "accentColor": "#0011ff",
-  "theme": "obsidian",
-  "baseFontSize": 15,
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "AnuPpuccin",
   "nativeMenus": false,
   "showViewHeader": true,
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "monospaceFontFamily": "",
+  "interfaceFontFamily": "Overpass",
+  "textFontFamily": "Rubik",
+  "monospaceFontFamily": "Noto Serif",
   "enabledCssSnippets": [
-    "extended-colorschemes"
-  ]
+    "extended-colorschemes",
+    "custom-rainbow-colors"
+  ],
+  "baseFontSizeAction": true
 }
