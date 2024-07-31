@@ -8,6 +8,15 @@ This is a normal block of text:
 ##### Heading 5
 ###### Heading 6
 
+```
+This is a code block
+```
+
+**Bold Text**
+*Italics Text*
+***Bold and Italics Text***
+
+
 
 > This is the most nice and powerful block, use the '>' character
 
@@ -22,21 +31,6 @@ Do not use indents ever, always use '>'
 > This is much more readable on phone
 
 
-1. asdf
-2. sdsads
-
-- 1231
-- 123213
-- 1322131
-
-
-
-
-Note that these all merge together
-
-	But not this one
-
-Tables are really easy to add, just use the '|' character:
 
 | Column 1     | Column 2      |     |
 | ------------ | ------------- | --- |
@@ -44,10 +38,3 @@ Tables are really easy to add, just use the '|' character:
 | ...          | ...           |     |
 
 <iframe width=700 height=500 src="https://dr-eigenvalue.github.io/bestiary/creature/commoner"></iframe>
-
-```
-<iframe width=700 height=500 src="https://dr-eigenvalue.github.io/bestiary/creature/commoner"></iframe>
-
-You can change the width and the height to fit the webpage better
-```
-

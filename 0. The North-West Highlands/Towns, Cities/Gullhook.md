@@ -177,6 +177,7 @@ He was once apart of [[Fedorov's Legion]] before he escaped. Friendly to those w
 
 **Specific, extra amenities for each:**
 Each location has its own tiny restaurants and shops because of their size. The primary districts have larger establishments but small, hole-in-the-wall places are present for each residential area. 
+
 ## Entertainment
 | Establishment Name    | Owner                                                  | Type                  | Events                                                                                                                                                                                                          |
 | --------------------- | ------------------------------------------------------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -223,6 +224,8 @@ They give off signatures of **conjuration** and **transmutation**.
 
 **Abilities:**
 When invoked, they make heavy objects very light and can levitate them. Rock-tenders are able to invoke the rocks through their ways to lift ships up the cliffs and then hand them to other rock-tenders further inland to set down. 
+
+They can also be used to levitate moving creature, so the town guard uses them in emergency to detain criminals if they are in the area. 
 
 *The rocks of Many?*
 They are actually a small project of [[The Many]], mostly a gag idea but expanded on later to help quarry places which eventually created the sea caves of [[Shimmer Mist Lagoon]], [[The Echoing Grotto]], and [[The Sunken Caverns]]. 

@@ -103,10 +103,19 @@
   "primary-theme@@editor-border-width": "px",
   "primary-theme@@interface_status-bar-style": "sb-default",
   "primary-theme@@interface_status-bar-item-display": "sb-word-count-only",
-  "primary-theme@@bold-weight": 550,
   "primary-theme@@h1-text-transform": "normal",
   "primary-theme@@bold-color@@light": "#904122",
-  "primary-theme@@italic-color@@dark": "#576FDB",
-  "primary-theme@@bold-color@@dark": "#C6453C",
-  "primary-theme@@no-decor-link": false
+  "primary-theme@@italic-color@@dark": "#4D99FE",
+  "primary-theme@@bold-color@@dark": "#FC758C",
+  "primary-theme@@no-decor-link": false,
+  "primary-theme@@h1-color@@dark": "#E10000",
+  "primary-theme@@h2-color@@dark": "#FF8600",
+  "primary-theme@@h3-color@@dark": "#FFBB00",
+  "primary-theme@@h4-color@@dark": "#00DC14",
+  "primary-theme@@h5-color@@dark": "#005ABF",
+  "primary-theme@@h6-color@@dark": "#672AC4",
+  "primary-theme@@link-color@@dark": "#B17AF9",
+  "primary-theme@@link-external-color@@dark": "#529F7C",
+  "primary-theme@@bold-weight": 500,
+  "primary-theme@@bold-italic-color@@dark": "#FFFFFF"
 }
