@@ -1,9 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#cd873c",
   "theme": "obsidian",
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Primary",
   "nativeMenus": false,
   "showViewHeader": true,
   "interfaceFontFamily": "Overpass",
