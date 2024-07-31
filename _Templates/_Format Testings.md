@@ -22,6 +22,15 @@ Do not use indents ever, always use '>'
 > This is much more readable on phone
 
 
+1. asdf
+2. sdsads
+
+- 1231
+- 123213
+- 1322131
+
+
+
 
 Note that these all merge together
 
@@ -29,10 +38,10 @@ Note that these all merge together
 
 Tables are really easy to add, just use the '|' character:
 
-| Column 1 | Column 2 |
-| - | - |
-| data field 1 | description 1 |
-| ... | ... |
+| Column 1     | Column 2      |     |
+| ------------ | ------------- | --- |
+| data field 1 | description 1 |     |
+| ...          | ...           |     |
 
 <iframe width=700 height=500 src="https://dr-eigenvalue.github.io/bestiary/creature/commoner"></iframe>
 

@@ -8,5 +8,8 @@
   "showViewHeader": true,
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
