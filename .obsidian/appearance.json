@@ -1,17 +1,16 @@
 {
-  "accentColor": "#cd873c",
+  "accentColor": "#4388ad",
   "theme": "obsidian",
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "AnuPpuccin",
   "nativeMenus": false,
   "showViewHeader": true,
   "interfaceFontFamily": "Overpass",
   "textFontFamily": "Rubik",
   "monospaceFontFamily": "Noto Serif",
   "enabledCssSnippets": [
-    "extended-colorschemes",
-    "custom-rainbow-colors"
+    "extended-colorschemes"
   ],
   "baseFontSizeAction": true
 }
