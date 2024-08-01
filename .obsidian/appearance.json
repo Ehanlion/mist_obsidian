@@ -3,7 +3,7 @@
   "theme": "obsidian",
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Primary",
+  "cssTheme": "Minimal",
   "nativeMenus": false,
   "showViewHeader": true,
   "interfaceFontFamily": "Overpass",
