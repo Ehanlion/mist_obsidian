@@ -18,8 +18,12 @@ General session idea was a mass combat with prep. Lots of NPCs that were control
     - Why are the player characters the adventurers if the NPCs are crazy stronger
     - Felt like Attack, that's it, Attack, that's it and repeat and repeat
 - Combat idea from a Souls-like:
-    - You have to kill an enemy before more of its kind comes
-- The combat was good overall and the prep part was very good
+    - You have to kill an enemy before more of its kind comes **bold**
+- The combat was good overall and the prep part was very good *italics*
     - The prep mattering was good
 # 2. Character Ideas + Acquired Information
-# 3. Awarded Items Etc. per Character
+# 3. Awarded Items etc. per Character
+1. [[Deion Deus]] - [[Boon of the Commonfolk]]
+2. [[Kelswin Lovejoy]] - Wild Magic Pearls
+3. [[Kelswin Lovejoy]] - [Cloak of Energy Absorption](https://www.5esrd.com/database/magicitem/cloak-of-energy-absorption/)
+4. 
