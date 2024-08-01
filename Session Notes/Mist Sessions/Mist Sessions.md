@@ -1,7 +1,7 @@
 > This file contains information amassed during the duration of the first mist campaign. Now, with that said, I only realized that it made total sense to use this file as a storage place for things I've learned during the campaign during the time period between session 8 and session 9. Thus this document isn't totally up to date just yet.
 
 _ _ __
-### Index:
+# Index:
 1. **General Rules of Thumb**
 2. **Character Arc Ideas + Acquired Information per Character**
 3. **Awarded Items/Boons/Honor Classes/Abilities per Character**
@@ -21,9 +21,16 @@ General session idea was a mass combat with prep. Lots of NPCs that were control
     - You have to kill an enemy before more of its kind comes **bold**
 - The combat was good overall and the prep part was very good *italics*
     - The prep mattering was good
-# 2. Character Ideas + Acquired Information
-# 3. Awarded Items etc. per Character
+# 2. Character Stuff & Ideas
+- [ ] Hunter's guild in [[Gullhook]] ties to [[The Green Order]] in [[The Twilight Woods]]
+- [ ] Chugga's bar tournament w/ [[Ball Knockers]]
+- [ ] Work on Livy from [[Livy's Livestock (Slave House)]] & tie to [[The Forest Freaks]]
+- [ ] [[Puck]] takes [[Deion Deus]]'s Hands with super poison dagger
+	- [ ] [[Puck]] seduced by [[Garrick Blackthorn]], [[Deion Deus]] framed in [[Puck]]'s mind as a weakling and a coward for not killing those kids
+	- [ ] [[Puck]] stands over [[Deion Deus]]: "I could finish you, but I won't. Then it's not on my shoulders that I killed ya, you're just weak. Just like Garrick told me."
+	- [ ] [[Puck]] lures [[Deion Deus]] to back room being friendly, then does this. Chop of hand with [[Deion Deus]]'s own hand-axe.
+# 3. Awards per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls
 3. [[Kelswin Lovejoy]] - [Cloak of Energy Absorption](https://www.5esrd.com/database/magicitem/cloak-of-energy-absorption/)
-4. 
+4. [[Wake]] - learns how to form wave cutter blade 

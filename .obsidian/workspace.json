@@ -4,8 +4,27 @@
     "type": "split",
     "children": [
       {
+        "id": "4f606488e01ef852",
+        "type": "tabs",
+        "dimension": 10.56307289393278,
+        "children": [
+          {
+            "id": "32e351963a8bc2b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+              }
+            },
+            "group": "11d36394cfceaeb8"
+          }
+        ]
+      },
+      {
         "id": "fdf7e889a93f448c",
         "type": "tabs",
+        "dimension": 56.9620253164557,
         "children": [
           {
             "id": "3716640b3a21ebed",
@@ -41,19 +60,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e9846908b07ebcbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/_Format Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "11d36394cfceaeb8"
           }
         ],
         "currentTab": 2
@@ -61,6 +69,7 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
+        "dimension": 32.47490178961152,
         "children": [
           {
             "id": "0e87e4dfa6d9bf35",
@@ -151,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 220
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -231,11 +240,14 @@
   },
   "active": "d2ea1c3039bd528a",
   "lastOpenFiles": [
-    "_Templates/_Format Testing.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
     "GM Screen/Ethan's Useful Links.md",
+    "0. The North-West Highlands/Towns, Cities/Gandoras City/Gandoras City.md",
+    "0. The North-West Highlands/The North-West Highlands.md",
+    "_Templates/_Format Testing.md",
+    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
+    "0. The North-West Highlands/Features/The High Forests.md",
     "0. The North-West Highlands/NPCs/Arnov Vasilov.md",
     "0. The North-West Highlands/Towns, Cities/Herringshold.md",
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
@@ -255,9 +267,6 @@
     "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
     "0. The North-West Highlands/NPCs/Glorval.md",
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 1.md",
-    "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
-    "-1. Books/Vivian's Spell Journal.md",
-    "GM Screen/Underwater/diving into water.md",
     "0. The North-West Highlands/Features/The Sea Caves",
     "-1. Global/Great Events/One-off",
     "-1. Creatures",

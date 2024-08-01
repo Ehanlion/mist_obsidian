@@ -92,18 +92,19 @@ Sahuaguin may be messing with the town, but another force is at large, [[The For
 - Find the Sahuaguin: Some Sahuaguin are hiding in the yards. They are in cohorts with [[Tennyson Heralds]] at the Temple Glade, as well as [[Dmitri Mironov]] and [[Igor Larionov]]. 
 
 ## Commerce
-| Store Name           | Owner                                | Goods              | Specials                                                               |
-| -------------------- | ------------------------------------ | ------------------ | ---------------------------------------------------------------------- |
-| The Other Way        | [[Arnov Vasilov]]                    | Magic Items        | Can help identify the mind rock.                                       |
-| Enchanter's Exchange | Fizzle Fizzle                        | Magic Items        |                                                                        |
-| Quirk and Quill      | Pip Quickquill                       | Writing tools      |                                                                        |
-| The Dozy Brewers     | Zara Moonwhisper                     | Potions            |                                                                        |
-| Urban Poultices      | Thaddeus Greenfingers                | Potion Ingredients |                                                                        |
-| Bizarro Bazaar       | Mira Windrider                       | Random items       |                                                                        |
-| The Farmer's Depot   | Various stalls with various sellers. | Food Items         | Talk about strange things going on at Livy's Livestock (Livy's slaves) |
-| Bakers and Butchers  | Gromm Ironhide                       | Food Items         |                                                                        |
-| The Housing Union    | Barnaby Widdershins                  | Building supplies  |                                                                        |
-### Ware Ideas to Sell:
+| Store Name                | Owner                                | Goods                           | Specials                                                                    |
+| ------------------------- | ------------------------------------ | ------------------------------- | --------------------------------------------------------------------------- |
+| The Other Way             | [[Arnov Vasilov]]                    | Magic Items                     | Can help identify the mind rock.                                            |
+| Enchanter's Exchange      | Fizzle Fizzle                        | Magic Items                     |                                                                             |
+| Quirk and Quill           | Pip Quickquill                       | Writing tools                   |                                                                             |
+| The Dozy Brewers          | Zara Moonwhisper                     | Potions                         |                                                                             |
+| Urban Poultices           | Thaddeus Greenfingers                | Potion Ingredients              |                                                                             |
+| Bizarro Bazaar            | Mira Windrider                       | Random items                    |                                                                             |
+| The Farmer's Depot        | Various stalls with various sellers. | Food Items                      | Talk about strange things going on at Livy's Livestock (Livy's slaves)      |
+| Bakers and Butchers       | Gromm Ironhide                       | Food Items                      |                                                                             |
+| The Housing Union         | Barnaby Widdershins                  | Building supplies               |                                                                             |
+| Mavis's Tinker's Toolshed | Mavis Minks                          | Experimental tinkering projects | New magical hands, new magical legs. Brutal to install. Works mostly okay.  |
+### Ideas for Wares to Sell:
 **Goods to Sell:** -  refer to [Wikidot Common Magic Items](http://dnd5e.wikidot.com/wondrous-items)
 - *Trinkets* - (10 to 100 gp)
 	- [Candle of the Deep](http://dnd5e.wikidot.com/wondrous-items:candle-of-the-deep) - underwater candle
@@ -203,7 +204,12 @@ Each location has its own tiny restaurants and shops because of their size. The 
 **Abandoned:**
 Prior to the raid on the town, this was a bustling point of drinking for your average working townsperson. It was simple, municipal, but lively at night. It had fair, generous prices and hearty food. Many came here for simple nights with good memories. However now, the building is closed being half destroyed from the raid. On the premises sit numerous shells of giant crabs, tantamount to the viciousness of the raid. 
 ### Chugga's:
->A rowdy tavern where bad ale and even worse liquor flows freely for long and till late. Rough crowds, don't bring your money, you'll lose it. 
+>A rowdy tavern where bad ale and even worse liquor flows freely for long and till late. Rough crowds, don't bring your money, you'll lose it. Famed for their tournaments of Ball Knocking and Chug contests that run deep into the night. Plenty of gambling is to be had here. 
+
+**Interesting Patrons:**
+- [[Puck]] is here looking for [[Deion Deus]]
+- Chugga the tavern keep
+- [[Glorval]] and [[Glee Bishop]], [[Ball Knockers]] duo of doom
 ### The Sorcerer's Parlor:
 >A magical tavern with magical evenings. Gravity doesn't work in here so tables float, meals fly, the servers have wings. It's all upside down thanks to Quicks.
 ### Love Makes its Way:
