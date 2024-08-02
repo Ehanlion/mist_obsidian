@@ -1,0 +1,14 @@
+# Basic, Overall Idea:
+I was thinking that it would be super crazy to have a series of session that are, in essence, occurring within a players hallucinations within the span of just a couple of minutes. I think some powerful effect, maybe cast from a creature mid combat (like something super psychic-powered and eldritch in nature) OR something a player eats could cause this. We could pan to a player falling unconscious from the effect and then "waking up" - and I put "waking up" in air-quotes because they would be waking up, just only in their hallucination. Then once they "wake up," feign normality as the GM and continue running the session from the perspective of, "Oh, okay player-X you just woke up from that effect and now this is what's going on, what do you do?" Everyone acts normally because I tell none of the players before doing this. 
+## Possible Issue:
+1. **What about the other players?** The big issue I see is that, if we play for 3 ish sessions, the player who hallucinated gets the information from their experience but the *other players* are technically left out of the loop. Since in the hallucination it i likely there would be lore elements and combat, if the players feel like that should take them close to a level up, then everything reverts because it was a hallucination, that would feel REALLY terrible. 
+2. 
+## Triggering Effect Ideas:
+I think it could really be anything, but I would focus on either a *powerful magic effect from something mind-messy and psychic* or also from *a powerful food item.* The bigger picture is that whatever happens needs to knock out the player and smoothly allow me to finish with what the others are doing and meld what they finish doing with the visions of the players experiencing the effect.
+
+**Example:**
+Player is hit with magical effect, fails save, knocks them out cold and they fall unconscious hitting the ground. Now what?
+1. Other plays revive this player = start the visions right there and have them pick up right there just as a hallucination.
+2. The players do a bunch of other stuff = start the visions after, player has no memory but small bride to gap.
+## Working in Other Players:
+The big concept is that the other players are kept in the dark because then they can actually roleplay like their true characters with no bias from knowing what is going on. *However,* it would be *really cool* if you tell a player "hey when I nod to you, that's your sign to do something in combat or roleplay *really really out of character.*" If we keep doing this, we end up with the sensation that something is going wrong, at least in the eyes of the player having the hallucination. 

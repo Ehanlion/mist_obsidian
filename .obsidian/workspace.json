@@ -6,8 +6,19 @@
       {
         "id": "01b6e493f7b6a5ec",
         "type": "tabs",
-        "dimension": 14.578910120311395,
+        "dimension": 15.895196506550219,
         "children": [
+          {
+            "id": "9d003b132c0deab6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md"
+              }
+            },
+            "group": "1a05b5b41957e5ac"
+          },
           {
             "id": "0612786d65e22330",
             "type": "leaf",
@@ -24,7 +35,7 @@
       {
         "id": "fdf7e889a93f448c",
         "type": "tabs",
-        "dimension": 51.52158527954707,
+        "dimension": 49.47598253275109,
         "children": [
           {
             "id": "3716640b3a21ebed",
@@ -48,7 +59,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "1a05b5b41957e5ac"
           },
           {
             "id": "d2ea1c3039bd528a",
@@ -62,25 +74,14 @@
               }
             },
             "group": "236338d23f18c597"
-          },
-          {
-            "id": "bb7913e7a74b2e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Mist Sessions/Mist S10 07-27-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 33.89950460014155,
+        "dimension": 34.62882096069869,
         "children": [
           {
             "id": "0e87e4dfa6d9bf35",
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Features/The High Forests.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Features/The High Forests.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Features/The High Forests.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -249,35 +250,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3716640b3a21ebed",
+  "active": "d2ea1c3039bd528a",
   "lastOpenFiles": [
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "Session Notes/Mist Sessions/Mist S10 07-27-2024.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
+    "0. The North-West Highlands/NPCs/Yugo Stolid.md",
+    "99. Brainstorming/A Trip to Remember (Inception).md",
+    "0. The North-West Highlands/NPCs/Melissa Revals.md",
+    "Livy Revals.md",
     "GM Screen/Ethan's Useful Links.md",
+    "0. The North-West Highlands/NPCs/Arnov Vasilov.md",
+    "0. The North-West Highlands/Side-Quests/Helping Smears-burrow.md",
+    "0. The North-West Highlands/Events/The Vanishings in the North-West.md",
+    "0. The North-West Highlands/Events/Karak-Ulgurath Town Raid Example.md",
+    "0. The North-West Highlands/NPCs/Alsolace Cult/Erstorndin.md",
+    "0. The North-West Highlands/NPCs/Crab Time",
+    "Session Notes/Mist Sessions/Mist S10 07-27-2024.md",
+    "0. The North-West Highlands/Features/The High Forests.md",
     "0. The North-West Highlands/Towns, Cities/Gandoras City/Gandoras City.md",
     "0. The North-West Highlands/The North-West Highlands.md",
     "_Templates/_Format Testing.md",
     "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
-    "0. The North-West Highlands/NPCs/Arnov Vasilov.md",
     "0. The North-West Highlands/Towns, Cities/Herringshold.md",
     "0. The North-West Highlands/NPCs/The Forest Freaks.md",
     "Session Notes/Mist Sessions/Mist S9 07-19-24.md",
     "99. Brainstorming/Moral Dilemma with Deities Puzzles.md",
-    "-1. Creatures/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/NPCs/Crab Time/The Followers of Karak-Ulgurath.md",
     "-1. Creatures/Yellow Cap Killers.md",
-    "0. The North-West Highlands/NPCs/Melissa Smarfs.md",
     "0. The North-West Highlands/NPCs/Glee Bishop.md",
-    "GM Screen/Ethan's Gambling Games/Ball Knockers.md",
-    "GM Screen/Ethan's Gambling Games/Black-wing's Duels.md",
-    "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
     "_Assets/dnd 5e pool mini game.jpeg",
-    "0. The North-West Highlands/Side-Quests/Helping Smears-burrow.md",
-    "0. The North-West Highlands/Side-Quests/Hunt a Baby Kraken.md",
-    "0. The North-West Highlands/NPCs/Glorval.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 1.md",
     "0. The North-West Highlands/Features/The Sea Caves",
     "-1. Global/Great Events/One-off",
     "-1. Creatures",
@@ -297,7 +299,6 @@
     "-1. Global/Great Features/Console/For Ethan's Eyes Only",
     "-1. Global/NPCs, Creatures/Global Monsters",
     "1. Missions/_incomplete",
-    "1. Missions/_ideas",
     "0. The South-East Mountains/Features/The Mountains/Untitled.canvas"
   ]
 }

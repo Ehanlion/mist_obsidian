@@ -195,21 +195,27 @@ Each location has its own tiny restaurants and shops because of their size. The 
 3. [[Hands of Fate]]
 4. [[Silver-wing's Duels]]
 5. [[Tamora's Twisted Twenty]]
-6. Ball-knocker's tournament 
-7. Dart's tournament (use actual dart board)
-8. Just have them being played loudly in taverns
+6. [[Ball Knockers]] tournament 
+7. The players can invent gambling games and play them too (needs a gullible victim)
 ### Rock Bottom:
 >A beat down looking bar, once made from heavy slabs of dark stone. Now it sits desolate and disused, the stone blocks crumbles to rubble. Lichen grows all over as the roof is fractured and destroyed.
 
 **Abandoned:**
 Prior to the raid on the town, this was a bustling point of drinking for your average working townsperson. It was simple, municipal, but lively at night. It had fair, generous prices and hearty food. Many came here for simple nights with good memories. However now, the building is closed being half destroyed from the raid. On the premises sit numerous shells of giant crabs, tantamount to the viciousness of the raid. 
 ### Chugga's:
->A rowdy tavern where bad ale and even worse liquor flows freely for long and till late. Rough crowds, don't bring your money, you'll lose it. Famed for their tournaments of Ball Knocking and Chug contests that run deep into the night. Plenty of gambling is to be had here. 
+>Chugga's is a notorious, rowdy tavern where bad ale and even worse liquor flow freely from dawn till the wee hours. The dimly lit interior is a chaotic blend of laughter, shouting, and the occasional brawl, making it a magnet for sailors, adventurers, and anyone looking to forget their troubles. The rough wooden tables and chairs bear the scars of countless drunken nights, and the air is thick with the smell of spilled beer and pipe smoke.
+>
+>The tavern's infamous tournaments of [[Ball Knockers]] — A relatively sophisticated game of billiards combined with gambling — and Chug contests, where participants race to down tankards of the foulest brews, are the stuff of legend. These events draw a crowd of spectators and competitors eager to prove their mettle and perhaps win a few coins, though most leave lighter in the pocket and heavier in the head.
+>
+>Gambling is rampant at Chugga's, with dice games, card tables, and impromptu bets springing up in every corner. The raucous atmosphere is overseen by the burly and ever-watchful owner, Chugga, whose booming voice can silence even the rowdiest of patrons. His presence ensures that, while chaos reigns, things never get completely out of hand.
+>
+>The walls of Chugga's are adorned with a mismatched collection of maritime relics, hunting trophies, and dubious "art," each with its own tale of misadventure. Despite the rough crowd and questionable beverages, there's a certain camaraderie and thrill that keeps patrons coming back, night after wild night.
 
 **Interesting Patrons:**
-- [[Puck]] is here looking for [[Deion Deus]]
-- Chugga the tavern keep
-- [[Glorval]] and [[Glee Bishop]], [[Ball Knockers]] duo of doom
+- Chugga the tavern keep keeps a watchful eye over the room
+	- Chugga is a HUGE orc, built like an 800 pound cube with a massive apron that says Chugga Chugs 
+	- Chugga is strong, high con, charismatic, and wise. His dex and int blow 
+- [[Glorval]] and [[Glee Bishop]], [[Ball Knockers]] duo of doom, play the  ball knockers tables
 ### The Sorcerer's Parlor:
 >A magical tavern with magical evenings. Gravity doesn't work in here so tables float, meals fly, the servers have wings. It's all upside down thanks to Quicks.
 ### Love Makes its Way:
@@ -218,6 +224,8 @@ Prior to the raid on the town, this was a bustling point of drinking for your av
 >A once beautiful white building with elegant stained glass windows is now a half burnt shell, the fantastic windows shattered and destroyed. The building closed the the public.
 ### The Temple Glade:
 >In the midst of the town, slightly away from the rest of the buildings likes a grove of trees and bushes. In the midst sits a small clustering of religious buildings: stone heat domes, long preaching halls, and small shrines.
+#### Tennyson and the Followers of Alsolace
+The workers of temple glade actually are [[The Followers of Alsolace]], led by [[Tennyson Heralds]]. He is a mad preacher who "hails from the hidden forests ([[The High Forests]] and also total BS)." He uses smooth words, reassurance, and firm preaching to rally those who surround him.
 
 **Special Development for Temple Glade:**
 The following actually works really closely with [[Livy's Livestock (Slave House)]] and abducts people from town and sends them over to the slave house. They have been targeting grieving people from the recent raids. They bring them into private rooms to pray, drug them, and then cart them over. They are working closely with [[Dmitri Mironov]] and [[Igor Larionov]] who are helping with this. 

@@ -67,7 +67,7 @@ At the bottom of input is Gold Dragon (lawful good) and the top has a Black Drag
 ![[The High Forests]]
 # NEXT STEPS: Post-Start and Smears-burrow
 Realistically, I expect the players to venture to [[Gullhook]] first. A lot of the elements of the riddle are only understandable if they start to learn more about the pantheon. This requires them to speak to locals and [[Gullhook]] is close to [[The High Forests]].
-### Key Things to understand
+## Key Things to understand
 1. The **Runes** are on each statue and hidden around each location in the riddle. They are easy to find.
 2. Make the connection between whale watching and the distant overlook well known, that first clue should be easy and lead the party towards what they have to find. 
 3. The [[Gullhook]] NPCs refer to the "deities in the woods," "ancient statues," and strange phenomenon if asked. Religious leaders would know rumors of powerful statues but not of their locations.
@@ -101,3 +101,65 @@ Okay Gullhook is pretty expansive so ad-lib with stuff there and make it canon l
 - The Other Way and [[Arnov Vasilov]] can help with the Mind Rock and some info about that. He can tell tales about the South east coast? Maybe allude to [[Ignel Valis]] as Sylvan Gile here? Just say like, oh powerful magic, knew a wizard from the coast who did that, name was Sylvan, Sylvan Gile or something.
 - People going missing in town, specifically those who have already lost loved ones. Connected to [[Tennyson Heralds]] and [[The Followers of Alsolace]] who are abducting people and sending them to [[Livy's Livestock (Slave House)]]. This connect to [[Dmitri Mironov]], who is gone from [[Gullhook]] because he is taking some abductees to [[Livy's Livestock (Slave House)]] and [[Igor Larionov]] who is helping but is hiding out in [[Gullhook]]. 
 	- [[Igor Larionov]] and [[Dmitri Mironov]] are helping because the slaves get shipped back to [[Fedorov's Legion]] or to [[The Sunken Caverns]] for [[The Followers of Karak-Ulgurath]], as per [[Fedorov Barovick VII]] orders. 
+## Side Quests to do and Where They Are:
+I am going to break these up by district in [[Gullhook]] and then label them by location in the district.
+**Important:** *Every side quest* should include *at least one* bit of info to advance the plot. The side quest will list this.
+### Industry District Quests:
+
+### Commerce District Quests:
+### Entertainment District Quests:
+## Running Chugga's:
+Chugga's is best described as absolute, unquestionable chaos so make sure to run it that way. Legit if you think of anything funny, say that it's happening in the background. 
+### Kill Deion:
+Don't actually kill him obviously, but  do put him close to death. Make sure if he goes down to [[Puck]], that the other players notice someone running with a hand in a bag, and blood on his clothes. Make sure the players notice Deion going with [[Puck]] at first too.
+
+Plan:
+- [[Puck]] is in Chugga's.
+- He will act VERY friendly towards [[Deion Deus]] and want to catch up.
+- Eventually he will want to "show Deion something in my room, come up here"
+- [[Puck]] will then use an overpowered poison dagger to kill Deion if possible:
+	- Dagger is purple worm poison, 12d6 additional
+	- 3 Con saves versus DC 15 against:
+		- Paralysis on fail, silenced on success
+		- Full damage on fail, half on success
+		- Poisoned on fail, nothing on success
+	- Get the con saves in any order players wants to give them randomize order you accept them
+- **Why does [[Puck]] do this?**
+	- He wants to become henchman to [[Garrick Blackthorn]]
+	- He has been seduced by his promises of power, his talking's of weakness, and his principles
+- [[Puck]] goes after [[Deion Deus]] hand with the insignia of [[The Iron-fist Marauders]] on it to take as proof of kill.
+	- Chop off the hand wit insignia
+	- Use Deion's own axe cause that would be symbolic and fun 
+### Slipping in Lore Here:
+## Persisting Events:
+These are events that are just happening in the background in [[Gullhook]] to be aware of.
+Makes sure to allude to them, especially the Sahuaguin.
+### The Cult of Alsolace
+Okay I cooked this ages ago and its time for it to appear in [[Gullhook]].
+In [[Gullhook]] there is a place called *temple glade*. It is run by [[Tennyson Heralds]].
+[[Tennyson Heralds]] leads [[The Followers of Alsolace]] who follow their (100% fake) god of [[Alsolace]]
+[[Alsolace]] protects from [[Erstorndin]] (also 100% fake). 
+Their goals are to: 
+- Drug and enslave villagers for [[Livy Revals]] and [[Livy's Livestock (Slave House)]]
+- Take as much gold as possible for shrine to [[Alsolace]]
+- Push idea that [[Alsolace]] can save people from [[Erstorndin]], who is "attacking poor people"
+	- [[Erstorndin]] targets the *Dirge quarters and Hovels* in [[Gullhook]]
+	- He is not real, his "followers" are just [[The Followers of Alsolace]] dressed in black 
+	- This scheme is used to get more gold
+- Work with Sahuaguin as *someone* has paid [[Tennyson Heralds]] to do it
+	- That someone is [[Ignel Valis]] (Silvan Gile), but no one apart from [[Tennyson Heralds]] know it
+	- Some members may, but only saying "The powerful mage from [[Hope Town]] paid us" or some BS
+
+**For the record:**
+- The shrines are all totally legit in *temple glade*
+- [[Tennyson Heralds]] uses references to the gods like the clues do in the riddle from above since the riddle for this part *was actually based on him because he works for Sahuaguin!*
+### The Sahuaguin:
+There are Sahuaguin in the town still.
+They hide out in *the salvage yards* in the *industry district*
+They spy, sneak around and gather info about the town. 
+Make people with high perception notice "green walking sea creatures" snaking behind buildings or in a tavern
+Trailing them leads down to the salvage yards.
+They are:
+- Trying to spy and gather information
+- capture and take more persons of interest that have arrived via ship into [[The High Forests]] to abduct 
+

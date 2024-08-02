@@ -21,7 +21,11 @@ General session idea was a mass combat with prep. Lots of NPCs that were control
     - You have to kill an enemy before more of its kind comes **bold**
 - The combat was good overall and the prep part was very good *italics*
     - The prep mattering was good
+
+**My takeaway:** Don't give players NPCs to play. Unless leading phalanxes of troops in open warfare, it feels terrible. Less but more powerful enemies > more weaker enemies because group lacks AoE for now. Really need to figure out interacting with stuff in combat; need more options to do for free. 
 # 2. Character Stuff & Ideas
+Any Idea that is checked off and ~~strike through~~ has been implemented already. This is just to track ideas to add:
+
 - [ ] Hunter's guild in [[Gullhook]] ties to [[The Green Order]] in [[The Twilight Woods]]
 - [ ] Chugga's bar tournament w/ [[Ball Knockers]]
 - [ ] Work on Livy from [[Livy's Livestock (Slave House)]] & tie to [[The Forest Freaks]]
@@ -29,6 +33,9 @@ General session idea was a mass combat with prep. Lots of NPCs that were control
 	- [ ] [[Puck]] seduced by [[Garrick Blackthorn]], [[Deion Deus]] framed in [[Puck]]'s mind as a weakling and a coward for not killing those kids
 	- [ ] [[Puck]] stands over [[Deion Deus]]: "I could finish you, but I won't. Then it's not on my shoulders that I killed ya, you're just weak. Just like Garrick told me."
 	- [ ] [[Puck]] lures [[Deion Deus]] to back room being friendly, then does this. Chop of hand with [[Deion Deus]]'s own hand-axe.
+- [ ] Super long way off but have affair between [[Livy Revals]] and [[Fedorov Barovick VII]] be a weapon for stripping [[Fedorov Barovick VII]] of his right to rule [[Fedorov's Legion]]. Add something to [[Fedorov's Legion]] to make their affair and their child from it a method to invalidate his rule. 
+	- [ ] flesh out rules for this
+	- [ ] flesh out child that they had
 # 3. Awards per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls
