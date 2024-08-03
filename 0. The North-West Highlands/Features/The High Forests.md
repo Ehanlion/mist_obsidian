@@ -5,7 +5,7 @@ A clustering of diverse, wind swept forests atop the [[The North-West Highlands]
 
 Of course, this rumor is false. But it was made true, in part, by the people of [[The North-West Highlands]] *believing* that it was true. The forest has 5 sections. They assigned, in belief, 5 gods to it and through generations wrote the folk tale about it.
 # The 5 sections:
-**To illustrate:** Divide the forest into a rough circle. Each region occupies 1/5th of the pie. Each region is relatively equal in size. Below are each region and a short description. 
+**To illustrate:** Divide the forest into a rough circle. Each region occupies 1/5th of the pie. Each region is relatively equal in size. Below are each region and a short description. From most westerly and then rotating towards north, we go: *TWMS*, *TGOF*, *TUV*, *TSG*, *TCR*. So evil-ish ones border [[The Bay of Kelp]] and [[The Harmonious Sea]] while the more good ones face inland and more towards the towns. The North-West Byway wraps east around the east side of [[The Echoing Grotto]] instead of going through The Charmed Royalties or The Widow-Maker's Grove. The Byway enters from north in The Glades of Fate and exits south from The Serenity Groves before making its way towards [[Trawlrock]]. 
 ### The Untamed Verdant
 > The forest associated with [[The Wildmother]]. A lush, vibrant section of the forest. It teems with flora and fauna; a general aura of unpredictable life and charm imbues this area with a sense of hope and wildness. 
 
@@ -41,7 +41,7 @@ The more you walk in this forest the more that you seem to be watched. The Stone
 - Sahuaguin patrol this region of the forest since it is the most westerly. 
 - Since this region is the closest to [[The Bay of Kelp]], it is the area where the Sahuaguin are most potent. 
 # Hidden Shrines to the Gods:
-### [[The Wildmother]]
+## [[The Wildmother]]
 > A statue of a kneeling women, shrouded in green forest moss stands amidst a placid clearing. Her stone body is covered head to toe with decadent, green mottled moss. Her hand, placed against the ground, sprouts luscious flowers of bright petals and fragrant smells. She seems to be smiling. Around the clearing you see deer, stags, foxes, and animals pawing close to the fringes of the area. Some approach performing various rituals at the statue's base before returning to the forest. 
 
 **Embracing the Shrine:**
@@ -56,7 +56,7 @@ The following is a table of animals, the actions they do, and the reward a playe
 | Bird   | Performs a beautiful and light song.                 | Supportive and healing | Gain a number of bardic inspiration dies equal to your proficiency bonus. They are each a d6.                                                                                 | Limited to number of dice equal to half proficiency bonus rounded down.                       |
 | Bear   | Moves an increddibly heavy rock nearby in the glade. | Strong and leading     | Gain reaction: heroic swap. As a reaction, swap places with someone within 10 feet as you drag them out of the way. Can perform a number of times equal to proficiency bonus. | Limited to number of uses equal to half proficiency bonus rounded down                        |
 A creature can only gain these blessings once per year. However, once the blessings fade after a week, lesser but permanent effects still stay. 
-### [[The Knowing Mentor]]
+## [[The Knowing Mentor]]
 > A masked woman stands erect and tall, the back of her statue fused with the thick branch of a towering willow tree. A small stream trickles around the base of the statue as the willow branches lazily hang and scrape the top of the waters. The statue is simple and mostly featureless, wearing a simple gray moss robe draping down from her shoulders. 
 
 **Knowledge is Power:**
@@ -71,7 +71,7 @@ Fulfilled I shall be.
 Now learn from me and thirst."
 
 If a player approach the shrine and offers up **a guilt**, **a fear**, and **a burning desire**, then they may learn to answer a question that the shrine would know. 
-### [[The Matron of Ravens]]
+## [[The Matron of Ravens]]
 > A women, a stern expression mounted upon her face, gazes reverently out across at you. She stands on the base of a grand petrified tree, surrounded in a glen by tall trees: some petrified, some scarred with fire marks, some healthy. A black bird (raven) perches on her should, where you see draped, a scarf of scarved black feathers, inlayed with black gems. 
 
 **How bout them Ravens eh?**
@@ -87,14 +87,14 @@ Precursors: "Accept my challenge but be forewarned, an answer wrong, a curse unf
 *Curses and blessings:*
 - Curse: "Your fate is sealed." At a crucial moment the raven will curse the player and try to make them fail. This can happen at most once per week but doesn't stop. A player must work to do something that honors [[The Matron of Ravens]].
 - Blessing: "Raven's Boon." The protection of the raven gives you a fated life. Once per long rest, when you would drop to 0 hit points, roll a D20 and call odds or evens. On your pick, you instead drop to 1 hit point instead. On a 20, you can regain full hit points, but the blessing fades forever. 
-### [[The Spider Queen]]
+## [[The Spider Queen]]
 > A pedestal stands amidst the damp forest. No statue sits on top but markings are clearly present from where one once stood. The pedestal is decorated with gilded, ornately carved webs and eyes. The eyes seem to watch you as you walk around it. The forest surround this area is eerily quiet and the whooshing of winds blows spider webs back and forth, scattering the sunlight as it drifts into the forest. As you stare more, you realize the clearing is ringed with dense rings of spider webs from roots to tree tops. 
 
 **To Find a Rampant-Running Statue:**
 This shrine is a sentient, brought-to-life, stone golem. The spider motif that was on the platform is a huge stone spider, gilded in gold and red inlays. It roams the forest. *Make sure it gets seen by adventurers as something shimmering through the woods.* If the golem is baited to walk back on the platform, the magic giving it sentience ends. This magic was casted by [[Ignel Valis]] very recently.
 
 This creature gives off a signature of recently casted magic for detect magic. This creatures gives off necromancy, enchantment, transmutation. 
-### [[The Whispered One]]
+## [[The Whispered One]]
 > A dense shroud of mist covers an open glen. You can catch a glimpse of a faint, stone shrine in the middle but the shifting mists make it hard. Walking into the mists, you lose sight of the shrine. Even walking in a straight lines finds you lost walking out another side of the glade. The grounds surrounding the mist are littered with skeletons and fresh corpses. (If you are lucky enough to see the statue, it is a tall man with gaunt features and a gilded crown with green, swirling gems inlaid into it).
 
 **Special Condition:**
@@ -103,3 +103,10 @@ This area is shrouded in magic mist. To walk to the shrine, you must *have only 
 **Looting the corpses:**
 It is terrible luck to loot the corpses. If you do, gain [[The Whisperer's Curse]] (will force a DC 16 Charisma saving throw, read note for more info). 
 
+# Hidden Legendary Attractions:
+These forests are rumored to conceal powerful, unnatural attractions that draw the eye of those in desperate need of help or those down on their luck. 
+
+## [[The Revitalizing Spring]]
+![[The Revitalizing Spring]]
+## [[The Wishing Pond]]
+![[The Wishing Pond]]

@@ -89,27 +89,64 @@ Okay Gullhook is pretty expansive so ad-lib with stuff there and make it canon l
 
 **Cool hooks or ideas to seed in town:**
 - Glimpses of Sahuaguin to high passive perception, tracking leads back to salvage yard. Some Sahuaguin are spying on the town. 
+- Tax collector needs help with labor to go collect taxes, except everyone who is getting taxes collected should be getting a break from them since they lost loved one in the raids
+	- make this discoverable be like "oh I already paid, I thought I was getting a break"
+	- Have them work with crooked guards? 
 - Igor and Dmitri were here, Dmitri went off to visit Livy's Livestock. Igor is in town still. Hear about this from a random tavern, maybe Chugga's or the brothel, love makes its way. 
 	- This would be for Wake specifically, if they ask around have people refer them to bars or brothel or something idk
+	- Arnov has seen them the day he is asked about it
+	- They are actually in temple glade with Tennyson
 - Monsters hunters needed in the Guildhall, group can choose to abandon their quest and go monster hunting instead.
 	- Crews are here from island towns of:
 		- [[The Port of Last Call]] - further east than other island towns
 		- [[The Town of Frost-Haven]] - icy, cold town surrounded with icebergs far north
 		- [[Warden-Hunter's Hideout]] - right near [[The Shrouds of the Frost-Bound Wardens]]
 - Deion can meet some old friends from [[Gandoras City]] at the Trading Post, since this is where the caravans pass through. Caravans have been having a rough time, the one currently in town is the last one since [[Gandoras City]] and the Trade Guild are shutting them down due to violence. 
-- Rock-tenders need help levitating a ship, good chance for Kelswin to learn magic but not magic? 
+	- good lead in for tales of happenings in widow makers stands or charmer royalties
+	- Maybe have them recount sighting of Sahuaguin, which they thought was weird. 
+- Rock-tenders need help levitating a ship, good chance for Kelswin to learn magic but not magic? \
+	- Pitch this like a rock tender job opening is available
+	- willing to train but must show magic ability
+- Ship repair for a damaged pirate ship that sailed into town. Needs someone to help repair hull
+	- Great way to learn about seas and  danged
+	- Lots of knowledge about shrouds mist oceans etc.
+- Help "Fishermen" (actually pirates) unload their "catch" (expensive, illicit goods) into town
+	- Discrete, good face mission
+	- Need to get goods off ship and smuggle them to a seller in town willing to pay mule fee
 - The Other Way and [[Arnov Vasilov]] can help with the Mind Rock and some info about that. He can tell tales about the South east coast? Maybe allude to [[Ignel Valis]] as Sylvan Gile here? Just say like, oh powerful magic, knew a wizard from the coast who did that, name was Sylvan, Sylvan Gile or something.
+	- good way to seed that SG is after powerful artifacts since maybe Arnov helped him?
+	- DO NOT include a connection to NW because that would be leading towards SG = IV 
 - People going missing in town, specifically those who have already lost loved ones. Connected to [[Tennyson Heralds]] and [[The Followers of Alsolace]] who are abducting people and sending them to [[Livy's Livestock (Slave House)]]. This connect to [[Dmitri Mironov]], who is gone from [[Gullhook]] because he is taking some abductees to [[Livy's Livestock (Slave House)]] and [[Igor Larionov]] who is helping but is hiding out in [[Gullhook]]. 
 	- [[Igor Larionov]] and [[Dmitri Mironov]] are helping because the slaves get shipped back to [[Fedorov's Legion]] or to [[The Sunken Caverns]] for [[The Followers of Karak-Ulgurath]], as per [[Fedorov Barovick VII]] orders. 
+- Potion maker from Dozy Brewer's needs help getting ingredients from market 
+	- hunt for specific alchemic ingredients and acquire them to get paid out
+	- Also a change to learn bout potion brewing. 
+	- Learn to use an alchemists, herbalists, or whatever kit or something 
+- Brute and enforcer of private hand needed for sparring practice
+	- Basically someone goes to be an expert dueler's target dummy?
 ## Side Quests to do and Where They Are:
 I am going to break these up by district in [[Gullhook]] and then label them by location in the district.
 **Important:** *Every side quest* should include *at least one* bit of info to advance the plot. The side quest will list this.
-### Industry District Quests:
 
+The most important part about side quest is to make sure to give clues to them solving the riddle:
+
+| Deity/Location              | Clue                            | Alignment |
+| --------------------------- | ------------------------------- | --------- |
+| [[The Distant Overlook]]    | The point of whale spotting     | Good      |
+| [[The Wildmother]]          | The green woman                 | Neutral   |
+| [[The Wishing Pond]]        | The wishing pond                | Neutral   |
+| [[The Whispered One]]       | The father of death             | Evil      |
+| [[The Knowing Mentor]]      | The gray-robed woman            | Neutral   |
+| [[The Matron of Ravens]]    | The pale woman                  | Neutral   |
+| [[The Revitalizing Spring]] | The revitalizing spring         | Good      |
+| [[The Spider Queen]]        | The opulent, alluring woman     | Evil      |
+| [[The Bay of Kelp]]         | The churning, green ocean waves | Neutral   |
+This is the table. Have people talk about the gods or the locations w.r.t the names of these clues. 
+### Industry District Quests:
 ### Commerce District Quests:
 ### Entertainment District Quests:
 ## Running Chugga's:
-Chugga's is best described as absolute, unquestionable chaos so make sure to run it that way. Legit if you think of anything funny, say that it's happening in the background. 
+Chugga's is best described as absolute, unquestionable chaos so make sure to run it that way. Legit if you think of anything funny, say that it's happening in the background. Refer to [[Gullhook]] document in the *Chugga's* section for some side quest ideas. 
 ### Kill Deion:
 Don't actually kill him obviously, but  do put him close to death. Make sure if he goes down to [[Puck]], that the other players notice someone running with a hand in a bag, and blood on his clothes. Make sure the players notice Deion going with [[Puck]] at first too.
 
@@ -130,8 +167,13 @@ Plan:
 - [[Puck]] goes after [[Deion Deus]] hand with the insignia of [[The Iron-fist Marauders]] on it to take as proof of kill.
 	- Chop off the hand wit insignia
 	- Use Deion's own axe cause that would be symbolic and fun 
-### Slipping in Lore Here:
-## Persisting Events:
+### Kelswin Meets the Green Order
+Introduce a member of the Green Order in [[Elder Thistleton]], He goes by Bristles. 
+- He is here to explore [[The High Forests]] and to search for a legendary spring which can heal even the most desperate of conditions (The Revitalizing Spring).
+- He has been sent by order, needs to talk to the Hunter's guild. The group are far separated but still get along so so 
+- Rumor of something brewing on the coast saw him needing to talk to some old allies 
+	- Reference to [[Fedorov's Legion]] getting ready to take over [[The Blue Coat Brigade]]. [[The Dead-Tide Reapers]] are not involved but will help [[Fedorov's Legion]] or [[The Blue Coat Brigade]] depending on offers. 
+## Running Temple Glade:
 These are events that are just happening in the background in [[Gullhook]] to be aware of.
 Makes sure to allude to them, especially the Sahuaguin.
 ### The Cult of Alsolace
@@ -153,7 +195,7 @@ Their goals are to:
 **For the record:**
 - The shrines are all totally legit in *temple glade*
 - [[Tennyson Heralds]] uses references to the gods like the clues do in the riddle from above since the riddle for this part *was actually based on him because he works for Sahuaguin!*
-### The Sahuaguin:
+## The Sahuaguin:
 There are Sahuaguin in the town still.
 They hide out in *the salvage yards* in the *industry district*
 They spy, sneak around and gather info about the town. 

@@ -13,14 +13,18 @@ Thanks to [[The Followers of Karak-Ulgurath]], and a vicious raid (now about 3 w
 - Crab corpses littered in groups of 10 ish at various spots, flowers now grow from them
 	- These are concentrated from the cliff face and towards the entertainment district, specifically Starlight Archives and Rock Bottom.
 - Remnants of battles around western edge of town and around entertainment sector. 
+## Specifying the Destruction Further:
+> [!NOTE] Describing the Destruction
+> Looking around the town, you notice upon closer investigation, that it is rife with damage and carnage. The dirge quarters, standing on the outskirts of the town were assaulted and the remnants of burned husks of buildings are still clearly noticeably, despite the efforts to clean the area and to plant new flowers and bushes amidst the wreckage. Furthermore, the Entertainment district suffered heavy assaults,. The beautiful compound of the starlight archives library and the rugged and municipal stone walls of the Rock Bottom Tavern have been destroyed and annihilated, the corpses of several massive crabs now teeming with planted flowers and creeping vines. Damages to the sea-side section of the industry district, specifically the Dry Docks and the Cradles are minimal but present; numerous massive crab husks are surrounded by traditional grave stones of those who fought to protect the diverse and colorful fleet of ships stocked here. 
 # Town-Wide Effects:
-## Price Crunch ACTIVE:
+## Prices are Higher than Ever:
 Due to the intense raids across [[The North-West Highlands]], [[Gandoras City]] stopping the caravans and trade convoys from legally leaving the city, and increased raids on town-to-town trade by northern bandits, it has been difficult to get more expensive items between cities. So not only are *prices* *increased*, but *supply is reduced heavily.* Every merchant will complain about the rarity of incoming trades of actually valuable goods. 
-## Town Raids:
+## Small Sahuaguin Town Raids:
 Sahuaguin are still present both within the town and within [[The High Forests]]. They are conducting small raids, to steal supplies, gold, items, and people if they can. They coordinate secretly with [[Tennyson Heralds]] and [[The Followers of Alsolace]], alongside visitors from [[Hope Town]]: [[Dmitri Mironov]] and [[Igor Larionov]]. They hideout in the salvage yards and like to operate at night, disguised. With high enough observation skills you can notice them in taverns or in back alleys watching the townsfolk. 
-## Raids on the Byway:
+## Non-Sahuaguin Raids on Byway:
 Sahuaguin may be messing with the town, but another force is at large, [[The Forest Freaks]]. A group of rowdy children, teens, and early-stage 20-year-olds lead a group that raid convoys between [[Gullhook]] and [[Anchorpoint Fisheries]] and then [[Anchorpoint Fisheries]] and [[Trawlrock]]. None know the true nature of this group, so they are described by those who have witnessed them as "masked forest creatures, who appear from thin air, hit the convoys, and vanish like a disappearing mist on a sunny day." They are known to use non-lethal methods and to target valuables in transit, like magic items and treasury shipments. Refer to [[The Forest Freaks]] document for info on how to find them, their hideout, and their reasons behind attacks. 
-
+## Security Crackdown and Harsh Guards:
+The guards are friendly to the townsfolk, but make no mistake, they will imprison and execute anyone who is acting in a nature that deserves punishment. Theft of goods less than 1000 gp results in imprisonment of over a year. Theft of goods exceeding 1000 gp is punishable by death. Attacking someone results in being locked in stockades. Causing bleeding results in imprisonment. Using a deadly weapon also immediately results in imprisonment. Killing someone means you get killed. 
 # Parts of Town:
 [[Gullhook]] is divided into 4 primary sections: Industry, Entertainment, Living, and Commerce. Alongside each other live creatures of every walk of life. Small in portions compared to the great city of [[Gandoras City]] but large next to any of the towns upon [[The North-West Highlands]]. 
 ## Industry
@@ -92,18 +96,18 @@ Sahuaguin may be messing with the town, but another force is at large, [[The For
 - Find the Sahuaguin: Some Sahuaguin are hiding in the yards. They are in cohorts with [[Tennyson Heralds]] at the Temple Glade, as well as [[Dmitri Mironov]] and [[Igor Larionov]]. 
 
 ## Commerce
-| Store Name                | Owner                                | Goods                           | Specials                                                                    |
-| ------------------------- | ------------------------------------ | ------------------------------- | --------------------------------------------------------------------------- |
-| The Other Way             | [[Arnov Vasilov]]                    | Magic Items                     | Can help identify the mind rock.                                            |
-| Enchanter's Exchange      | Fizzle Fizzle                        | Magic Items                     |                                                                             |
-| Quirk and Quill           | Pip Quickquill                       | Writing tools                   |                                                                             |
-| The Dozy Brewers          | Zara Moonwhisper                     | Potions                         |                                                                             |
-| Urban Poultices           | Thaddeus Greenfingers                | Potion Ingredients              |                                                                             |
-| Bizarro Bazaar            | Mira Windrider                       | Random items                    |                                                                             |
-| The Farmer's Depot        | Various stalls with various sellers. | Food Items                      | Talk about strange things going on at Livy's Livestock (Livy's slaves)      |
-| Bakers and Butchers       | Gromm Ironhide                       | Food Items                      |                                                                             |
-| The Housing Union         | Barnaby Widdershins                  | Building supplies               |                                                                             |
-| Mavis's Tinker's Toolshed | Mavis Minks                          | Experimental tinkering projects | New magical hands, new magical legs. Brutal to install. Works mostly okay.  |
+| Store Name                | Owner                                | Goods                           | Specials                                                                   |
+| ------------------------- | ------------------------------------ | ------------------------------- | -------------------------------------------------------------------------- |
+| The Other Way             | [[Arnov Vasilov]]                    | Magic Items                     | Can help identify the mind rock.                                           |
+| Enchanter's Exchange      | Fizzle Fizzle                        | Magic Items                     |                                                                            |
+| Quirk and Quill           | Pip Quickquill                       | Writing tools                   |                                                                            |
+| The Dozy Brewers          | Zara Moonwhisper                     | Potions                         |                                                                            |
+| Urban Poultices           | Thaddeus Greenfingers                | Potion Ingredients              |                                                                            |
+| Bizarro Bazaar            | Mira Windrider                       | Random items                    |                                                                            |
+| The Farmer's Depot        | Various stalls with various sellers. | Food Items                      | Talk about strange things going on at Livy's Livestock (Livy's slaves)     |
+| Bakers and Butchers       | Gromm Ironhide                       | Food Items                      |                                                                            |
+| The Housing Union         | Barnaby Widdershins                  | Building supplies               |                                                                            |
+| Mavis's Tinker's Toolshed | Mavis Minks                          | Experimental tinkering projects | New magical hands, new magical legs. Brutal to install. Works mostly okay. |
 ### Ideas for Wares to Sell:
 **Goods to Sell:** -  refer to [Wikidot Common Magic Items](http://dnd5e.wikidot.com/wondrous-items)
 - *Trinkets* - (10 to 100 gp)
@@ -127,13 +131,16 @@ Sahuaguin may be messing with the town, but another force is at large, [[The For
 	- [Seeker Darts](http://dnd5e.wikidot.com/wondrous-items:seeker-dart) - seeks a target, one time use thing
 	- [Rings of Suffering](http://dnd5e.wikidot.com/wondrous-items:rings-of-shared-suffering) - matched pair, funny, kind of terrible
 ### The Other Way:
->The Other Way is a quirky shop offering unusual and exotic items from far-off lands, where curious magical trinkets and mysterious artifacts captivate the adventurous spirit.
 
+> [!NOTE] Description of The Other Way
+> As you step into The Other Way, a sense of wonder immediately envelops you. The air is thick with the scent of aged parchment and mystical herbs, mingling with a faint, crackling energy. Shelves lined with enchanted artifacts glimmer with an ethereal light, casting dancing shadows on the stone walls. Arnov Vasilov, a tall and enigmatic figure with piercing eyes, greets you with a knowing smile. His voice, deep and resonant, guides you through the vast array of magical items, each with its own story and aura.
+
+#### How is the Store Setup:
 **Arnov:**
 [[Arnov Vasilov]] is the owner of The Other Way. He specializes in sourcing magic items from far off lands. His stocks are dwindling but his spirits are high. He has connections to [[Yugo Stolid]] as well as the gambling den they speak of, far off in [[The Dark Woods]]. 
 
 *Something for [[Wake]]*:
-He was once apart of [[Fedorov's Legion]] before he escaped. Friendly to those who oppose them and knows about [[Dmitri Mironov]] and [[Igor Larionov]]. "I would never forget the looks of people that worked for [[Fedorov's Legion]], always have a look of madness and cruelty in their eyes."
+He was once apart of [[Fedorov's Legion]] before he escaped. Friendly to those who oppose them and knows about [[Dmitri Mironov]] and [[Igor Larionov]]. "I would never forget the looks of people that worked for [[Fedorov's Legion]], always have a look of madness and cruelty in their eyes." He has seen two men, [[Dmitri Mironov]] and [[Igor Larionov]] (not that he knows them by name), around the town very recently. Like the same day the group enters the shop. 
 
 **Things Arnov can do for people:**
 - Identify a magic item, and give info about its history
@@ -142,21 +149,63 @@ He was once apart of [[Fedorov's Legion]] before he escaped. Friendly to those w
 - Play games of luck and fate, gambling items for items
 	- Think that he is a street racer who only gambles/races for pinks. 
 ### Enchanter's Exchange:
->The Enchanter's Exchange is a magical emporium specializing in enchanted items and arcane components, a must-visit for casters and martials alike.
+
+> [!NOTE] Description of the Enchanter's Exchange:
+> The Enchanter's Exchange is a riot of colors and sounds. Bottles of potions bubble with iridescent liquids, and enchanted trinkets hum with magical energy. The shop's owner, Fizzle Fizzle, a gnome with a wild shock of blue hair and an infectious giggle, darts between displays, offering enthusiastic explanations. The scent of exotic spices and ancient tomes fills the air, while a soft, magical glow bathes the room in a warm, welcoming light.
+
 ### Quirk and Quill:
->Quirk and Quill is a cozy bookstore and stationery shop, brimming with ancient tomes, mystical scrolls, and finely crafted writing instruments for the scholarly and the curious.
+
+> [!NOTE] Description of the Quirk and Quill 
+> Quirk and Quill is a haven for scribes and scholars. The aroma of fresh parchment and ink wafts through the air, accompanied by the soft rustling of pages. Shelves are stacked high with elegantly bound journals, quills of every hue, and ink pots that shimmer with vibrant colors. Pip Quickquill, a sprightly halfling with a perpetual ink stain on his cheek, flits about, his eyes twinkling with mischief and creativity. The atmosphere is one of quiet inspiration, perfect for those seeking to pen their next masterpiece.
+
 ### The Dozy Brewers:
->The Dozy Brewers is a quaint potions shop known for its magical brews and relaxing atmosphere.
+
+> [!NOTE] Description of the Dozy Brewers
+> Entering The Dozy Brewers is like stepping into a dream. The air is filled with the soothing scent of lavender and chamomile, mingling with the faint, earthy aroma of brewing potions. Zara Moonwhisper, a serene elf with a gentle demeanor, moves gracefully among the bubbling cauldrons and shelves of glistening potions. Soft, ambient music plays in the background, creating an atmosphere of calm and relaxation. The potions, each carefully crafted and labeled, promise everything from restful sleep to vivid dreams.
 ### Urban Poultices:
->Urban Poultices is an apothecary that blends traditional remedies with urban alchemy, offering potions and salves for ailments of all kinds.
+
+> [!NOTE] Description of Urban Poultices 
+> Urban Poultices is a bustling apothecary brimming with life. The pungent smell of herbs and dried flowers fills the air, mingling with the sweet scent of freshly ground spices. Thaddeus Greenfingers, a stout dwarf with a thick, braided beard, tends to his shelves of roots, leaves, and mysterious powders with meticulous care. The shop is a riot of colors and textures, with bundles of herbs hanging from the ceiling and jars of ingredients lining every surface. The atmosphere is one of earthy magic and practical wisdom.
+
 ### Bizarro Bazaar:
->Bizarro Bazaar is a vibrant market filled with oddities and curiosities, where merchants sell everything from enchanted oddities to peculiar pets.
+
+> [!NOTE] Description of Bizarro Bazaar:
+> Bizarro Bazaar is a treasure trove of oddities and curiosities. The air is alive with the scent of incense and the rustle of strange artifacts. Mira Windrider, a tall, willowy elf with an enigmatic smile, presides over her eclectic collection with a twinkle in her eye. The shop is filled with the sound of chimes and the soft hum of magical objects. Each corner holds a surprise, from enchanted trinkets to peculiar contraptions, inviting you to explore and discover the unexpected.
+
 ### The Farmer's Depot:
->The Farmer's Depot is the heart of Gullhook's agricultural trade, where fresh produce, meats, and other local goods are sold directly from the region's farmers.
+
+> [!NOTE] Description of The Farmer's Depot
+> The Farmer's Depot is a lively marketplace, buzzing with activity and the chatter of friendly vendors. The air is thick with the mouth-watering scent of freshly baked bread, ripe fruits, and sizzling meats. Stalls brimming with colorful produce and handmade goods create a vibrant tapestry of sights and sounds. The vendors, each with their own unique charm, call out to passersby, offering samples and sharing stories of their farms. The stands are permanent and large, spreading out amidst the sea of people. Canvas, lanterns, and strings hanging laden with food drape across walkways to provide shade and a welcome, hearty aroma. The atmosphere is one of community and abundance, where everyone is welcome.
+#### How is the Market Setup:
+Since the people selling here are just the growers from [[The Fields of Salt]], there are *permanent stands* for each vendor. They are decorated and setup exactly as they like and they open every weekend from 5th's day to week's end. The area is like a large Souk, with draping canvas covering walk ways, big deltas in the heights of buildings and a bustling, raucous atmosphere. 
+#### Things to do at the Farmer's Depot:
+The farmer's market is a great place to meet the common folk. There are stalls selling goods all from [[The Fields of Salt]]. Vendors hawk their wares loudly and proudly. Players can interact with these vendors.
+
+They sell from the following farms:
+1. [[Livy's Livestock (Slave House)]]: sells livestock like cattle, sheep, pigs, bugbears, deer, elephant, beaver, snake, legit just anything that moves. Oh yeah and slaves, but that's a hush hush topic. 
+2. [[The Fruity Orchards]]: sells any type of fruit. They have massive orchards. Are currently bringing in low amount of fruit. Something is eating their workers and their fruit. Fruit dragon maybe???
+3. [[Bonnie's Hovel Farms]]: Small monk-style huts that farm simple earth-bound crops like potatoes, onions, carrots, basically any root veggies. They are also badass monks that can train you. 
+4. [[The Great Middle Growers]]: They grow everything, yes I mean everything in vast amounts. By far the largest far, so largest vendor representation.
+5. [[Seasonia's Seasonings]]: Small farm that focuses on seasonings. They have salt fields, herbal gardens. They sell large amounts to alchemists in the city. 
+6. [[Veggieville]]: The sell veggies (GM that's vegetarian likes this). They have a veggie growing contest amidst the farmers, each of whom farms a different veggie, to bring the most perfect sample to market. 
+7. [[Southern Farms Oddities]]: Odds and ends are sold here. Strange nuts and seeds are farmed from orchards of nut trees. 
+#### Strange Rumors about Livy's:
+Listening to the other vendors, you can hear talks about strange noises and happenings. Some ragged children who have run to neighboring farms of [[Livy's Livestock (Slave House)]], namely [[The Fruity Orchards]] begging for help. Some farmers *allegedly* have gone and spied and have seen people in manacles on the farm being moves around and beaten. 
+
 ### Bakers and Butchers:
->Bakers and Butchers is a bustling food market, famous for its fresh bread, pastries, and a wide selection of quality meats, catering to the town's culinary needs
+
+> [!NOTE] Description of Baker's and Butchers
+> Bakers and Butchers is a rustic shop filled with the hearty aroma of freshly baked bread and the rich, savory scent of cured meats. Gromm Ironhide, a burly dwarf with a booming laugh, greets customers with a warm smile and a firm handshake. The shop's shelves are laden with loaves of crusty bread, wheels of cheese, and slabs of expertly butchered meats. The sound of a crackling fire and the clinking of metal tools create a cozy, inviting atmosphere, perfect for gathering provisions for a feast.
+
 ### The Housing Union:
->The Housing Union is the central place for real estate and lodging in Gullhook, offering everything from short-term rentals to permanent homes for newcomers and long-time residents alike.
+
+> [!NOTE] Description of the Housing Union
+> The Housing Union is a hub of construction and creativity. The scent of fresh timber and sawdust fills the air, mingling with the sharp tang of metal and the earthy aroma of stone. Barnaby Widdershins, a gnome with a knack for craftsmanship, bustles about, offering advice and assistance with a twinkle in his eye. The shop is filled with the sounds of hammers and saws, creating a dynamic and industrious atmosphere. Shelves are stocked with everything from nails and screws to beams and bricks, providing all the essentials for building and repair.
+### Mavis's Tinker's Toolshed:
+
+> [!NOTE] Description of Mavis's Tinker's Toolshed
+> Mavis's Tinker's Toolshed is a wonderland of invention and creativity. The air is filled with the scent of oil and metal, mingling with the faint whiff of ozone from recent experiments. Mavis Minks, a wiry gnome with perpetually smudged goggles and a mischievous grin, tinkers away at her latest project. The shop is a chaotic but fascinating array of gears, springs, and half-finished contraptions, each more intriguing than the last. The atmosphere is one of boundless curiosity and endless possibility, inviting you to explore and imagine.
+
 ## Living
 | Location Name      | Wealth                             | Physical town location                                                                    |
 | ------------------ | ---------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -180,14 +229,14 @@ He was once apart of [[Fedorov's Legion]] before he escaped. Friendly to those w
 Each location has its own tiny restaurants and shops because of their size. The primary districts have larger establishments but small, hole-in-the-wall places are present for each residential area. 
 
 ## Entertainment
-| Establishment Name    | Owner                                                  | Type                  | Events                                                                                                                                                                                                          |
-| --------------------- | ------------------------------------------------------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Rock Bottom           | Wilt Hard bass                                         | Tavern                | Closed. Was run by an order of stone masons and miners and they all went missing during the raid.                                                                                                               |
-| Chugga's              | Chugga                                                 | Tavern                | Out chug Chugga.                                                                                                                                                                                                |
-| The Sorcerer's Parlor | Quicks                                                 | Inn                   | The anti-gravity dance off and line dancing.                                                                                                                                                                    |
-| Love Makes its Way    | Alan 5Kills (called skills)                            | Brothel               | Information. Hookers know a lot of information since they have a lot of customers.                                                                                                                              |
-| Starlight Archives    | Leandra Starlight                                      | Library               | Abandoned and closed. Librarian went missing during the raid. Books relocated to temple glade.                                                                                                                  |
-| The Temple Glade      | [[Tennyson Heralds]] and [[The Followers of Alsolace]] | Religious and cultish | Remembrance circles for the fallen. Prayers, healing chants, meditations rooms.<br><br>[[Tennyson Heralds]] and his followers preach a new god named [[Alsolace]] fueled by light and gold, vanquisher of evil. |
+| Establishment Name    | Owner                                                  | Type                  |
+| --------------------- | ------------------------------------------------------ | --------------------- |
+| Rock Bottom           | Wilt Hard bass                                         | Tavern                |
+| Chugga's              | Chugga                                                 | Tavern                |
+| The Sorcerer's Parlor | Quicks                                                 | Inn                   |
+| Love Makes its Way    | Alan 5Kills (called skills)                            | Brothel               |
+| Starlight Archives    | Leandra Starlight                                      | Library               |
+| The Temple Glade      | [[Tennyson Heralds]] and [[The Followers of Alsolace]] | Religious and cultish |
 ### Gambling Games in the Bars:
 **Use Gambling (or other) Games Here:**
 1. [[Black-wing's Duels]]
@@ -216,14 +265,71 @@ Prior to the raid on the town, this was a bustling point of drinking for your av
 	- Chugga is a HUGE orc, built like an 800 pound cube with a massive apron that says Chugga Chugs 
 	- Chugga is strong, high con, charismatic, and wise. His dex and int blow 
 - [[Glorval]] and [[Glee Bishop]], [[Ball Knockers]] duo of doom, play the  ball knockers tables
+#### Drinks at Chugga's:
+- The Big Chug = massive barrel of ale. If you order you *must* chug it in 30 seconds or you will get thrown out to incredibly loud applause.
+- Normal Ale
+- Vintage Fire Wine = burns intensely and dulls your perception but increases you strength 
+- The Seducer Shot = turns you into a love machine, advantage on charisma checks and saves
+- **Drinks from the Breweries of Brine**:
+	- *Sea Salt Beer* = salty after taste, cheap. Burps taste like the ocean
+	- *Aged Seaweed Wine* = expensive, complex taste, allows user to speak to sea creatures very briefly if it is used to get someone VERY drunk. 
+	- *Coral-Cask aged Whiskey of the Sea* = imbued with strength of coral. If used to get someone VERY drunk, they have resistance to slashing, piercing, and bludgeoning damage but have disadvantage on saves, ability checks, and attack roles since they are VERY disoriented. 
+	- *Jelly-Venom Infused Mead* = deliciously sweet and deliciously deadly, a mead made from the venom of a deadly jellyfish named [[Yellow Cap Killers]]. When drunk, the brew can give either resistance or immunity to poison damage depending on how much is consumed. To get resistance, consume a small amount and pass a DC 13 Con save. To get immunity, pass a DC 18 Con save. On a failure, resistance-consumption gives the poisoned condition for 24 hours until cured. For immunity-consumption, the potion gives a madness as well as the poisoned condition for 24 hours. 
+#### Things to do in Chugga's:
+Refer to *ideas for wares to sell* in commerce section for small items to gamble for.
+You need to RP during games and reveal wacky characters, use a random name and race table. 
+
+1. **[[Ball Knockers]] games:**
+	1. Play for money 
+	2. Play for information versus items or versus information
+	3. RP during game
+2. **[[Ball Knockers]] tournament:**
+	1. Enter in teams of two and then compete in a bracket to see who comes out victorious. A high gold amount + a magic item is a prize for the winner, thanks to a powerful sponsor. 
+3. **Gambling games**
+	1. Everyone cheats, rough crowd
+	2. Usually someone watching, incentivize perception to reveal enemies cheating. 
+4. **Clear the Rats**
+	1. Steal this side quest idea: [Moonrat Quest Idea](https://www.reddit.com/r/loremasters/comments/1c92fx/minor_quest_a_tavern_keeper_needs_his_basement/)
+	2. Basic gist is that Chugga want to get ride of rats plaguing food stores in basement. 
+	3. In one area there are rabid, giant rats that appear to be in need of killing
+	4. In another room is one shaft of moonlight, a rat looking to attack PC runs into it
+		1. *When a moonrat enters moonlight. it regains its intelligence*
+		2. These are wise, intelligent, sentient rats that can speak to the players
+		3. Rats trying to enter meat locker, they speak if in moonlight:
+			1. "Please help us, we are dying of hunger."
+	5. Dilemma: Kill rats, tell Chugga and he'll likely kill the rats, or help rats escape 
+	6. *Mention that they were chased out of the forest by a massive spider*, alluding to the charmed royalties in [[The High Forests]]. They were chased out by "something fast, made of stone, with gleaming eyes"
+5. **Finding a lover**:
+	1. A horrifically ugly girl named Alice is sitting in a corner
+	2. She is not pretty but lovely to speak to and with a beautiful soul
+	3. She is desperate to find a lover, of any nature, except for created by dark magic
+6. **Just Talking to people:**
+	1. People from every walk of life here
+	2. They have stories to tell and are from far off lands
 ### The Sorcerer's Parlor:
 >A magical tavern with magical evenings. Gravity doesn't work in here so tables float, meals fly, the servers have wings. It's all upside down thanks to Quicks.
+#### Things to do in the Parlor:
+- The parlor is upper class ish, and pretty fancy.
+- It is also very high magic with tall vaulted ceilings wreathed with swirling magical tides.
+- A big event is the antigravity dance in which couples fly through the air to music played by a floating band. 
 ### Love Makes its Way:
 >A stylish brothel house with fine dining, finer partners, and swanky prices. Not for the average joe but a splurge of cash will get you far here. Just don't cross Alan, he'll kill you.
+
+#### Hookers have info:
+Since hooker or workers get to see some pretty diverse clients, they have access to a lot of information. They will divulge it for a fee of course. Or a favor depending on the worker. 
 ### Starlight Archives:
 >A once beautiful white building with elegant stained glass windows is now a half burnt shell, the fantastic windows shattered and destroyed. The building closed the the public.
 ### The Temple Glade:
 >In the midst of the town, slightly away from the rest of the buildings likes a grove of trees and bushes. In the midst sits a small clustering of religious buildings: stone heat domes, long preaching halls, and small shrines.
+
+The entire area is surrounded by water, kind of like a ring that you cross via a bridge. There are decadent trees lazily gracing the waters and guards and holy members standing on each of the bridges. There are three bridges, North, East, and West, and no South bridge because it is said that to go South is to go backwards in your life. 
+#### Holy Grounds:
+No matter what strife comes between citizens of [[Gullhook]], there is a sacred rule at the Temple Glade: No violence on the presences what so ever. There are guards that affiliate with the Temple Glade and they strictly prohibit violence and will imprison anyone that starts a fight. 
+#### A Place of Healing:
+There are shine to all [[The Prime Deities]] here as well as shrine to some of [[The Betrayer Gods]], (namely [[The Spider Queen]] and [[The Whispered One]], the patrons of The Charmed Royalties and The Widow-maker's Stands from [[The High Forests]]). In the glen are weak healing shrines, many meditation rooms, heating chambers, steam saunas, and stuff like that. 
+
+**Tennyson is violent:**\
+[[Tennyson Heralds]] is violent and abducts and drugs people. Despite his good notoriety in the town and his *generous* contributions to the town guard, he would still be subject to the same laws of the town as anyone else. 
 #### Tennyson and the Followers of Alsolace
 The workers of temple glade actually are [[The Followers of Alsolace]], led by [[Tennyson Heralds]]. He is a mad preacher who "hails from the hidden forests ([[The High Forests]] and also total BS)." He uses smooth words, reassurance, and firm preaching to rally those who surround him.
 
@@ -242,4 +348,5 @@ They can also be used to levitate moving creature, so the town guard uses them i
 
 ### SECRET: The Rocks of the Many?
 They are actually a small project of [[The Many]], mostly a gag idea but expanded on later to help quarry places which eventually created the sea caves of [[Shimmer Mist Lagoon]], [[The Echoing Grotto]], and [[The Sunken Caverns]]. 
-# COOL SPECIAL STUFF:
+# Special Interactive Events:
+These are events that are not listed as bad effects, like at the beginning of the document. 

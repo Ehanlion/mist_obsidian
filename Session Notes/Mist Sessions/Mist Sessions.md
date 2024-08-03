@@ -36,6 +36,12 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Super long way off but have affair between [[Livy Revals]] and [[Fedorov Barovick VII]] be a weapon for stripping [[Fedorov Barovick VII]] of his right to rule [[Fedorov's Legion]]. Add something to [[Fedorov's Legion]] to make their affair and their child from it a method to invalidate his rule. 
 	- [ ] flesh out rules for this
 	- [ ] flesh out child that they had
+- [ ] Start seeding ideas for a war on [[The South-East Coast]] between [[Fedorov's Legion]] and [[The Blue Coat Brigade]]
+- [ ] Get a new sheet of NPC names and RACEs table for quick reference
+- [ ] Integrate quests in mission doc more neatly and divide by region in Gullhook. 
+- [ ] Figure out moonrat's enemy for mission in Chugga's. 
+- [ ] Draw map of [[Gullhook]] and [[The High Forests]] 
+- [ ] Update and re-format player data sheets for [[Wake]] [[Deion Deus]] [[Slug Stoll]] and [[Kelswin Lovejoy]]
 # 3. Awards per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls
