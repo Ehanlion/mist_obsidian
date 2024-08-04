@@ -108,6 +108,8 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 | Bakers and Butchers       | Gromm Ironhide                       | Food Items                      |                                                                            |
 | The Housing Union         | Barnaby Widdershins                  | Building supplies               |                                                                            |
 | Mavis's Tinker's Toolshed | Mavis Minks                          | Experimental tinkering projects | New magical hands, new magical legs. Brutal to install. Works mostly okay. |
+| Critters for Company      |                                      |                                 |                                                                            |
+| The Ink Parlor            |                                      |                                 |                                                                            |
 ### Ideas for Wares to Sell:
 **Goods to Sell:** -  refer to [Wikidot Common Magic Items](http://dnd5e.wikidot.com/wondrous-items)
 - *Trinkets* - (10 to 100 gp)
@@ -130,6 +132,16 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 	- [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) - looks like stone of good luck even if you use identify to identify it
 	- [Seeker Darts](http://dnd5e.wikidot.com/wondrous-items:seeker-dart) - seeks a target, one time use thing
 	- [Rings of Suffering](http://dnd5e.wikidot.com/wondrous-items:rings-of-shared-suffering) - matched pair, funny, kind of terrible
+### Critters for Company:
+
+> [!NOTE] Descriptions of Critters for Company:
+> Sells fun pets. 
+
+### The Ink Parlor:
+
+> [!NOTE] Description of the Ink Parlor
+> A small smokey shop with artistic tattoo parlors engraving peoples skin with magical tattoos. 
+
 ### The Other Way:
 
 > [!NOTE] Description of The Other Way
