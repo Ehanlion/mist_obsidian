@@ -45,6 +45,11 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Update and re-format player data sheets for [[Wake]] [[Deion Deus]] [[Slug Stoll]] and [[Kelswin Lovejoy]]
 - [ ] Add surfing mini quest idea
 - [ ] Flesh out quest to clear the salvage yard in [[Gullhook]]
+- [ ] Item: glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
+- [ ] Try making a creature that is based on the old UA class of Mystic
+- [ ] Build an order known as the "Exultant"
+- [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 
+- [ ] Prep tattoos for offering at Ink 
 # 3. Fight Ideas:
 - [ ] Enemy that is anchored to an object through magical means. They get dragged towards the object if not within a certain radius. 
 - [ ] Some lair effect that causes chains to drag a player within melee range of a powerful enemy. It is blocked if you can keep something within line of sight of you and the creature to stop the chain dragging you. 
@@ -54,6 +59,6 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 3. [[Kelswin Lovejoy]] - [Cloak of Energy Absorption](https://www.5esrd.com/database/magicitem/cloak-of-energy-absorption/)
 4. [[Wake]] - learns how to form wave cutter blade 
 5. [[Wake]] - [Deck of Miscellany](http://dnd5e.wikidot.com/wondrous-items:deck-of-miscellany)
-6. Group - [Earring of Message](http://dnd5e.wikidot.com/wondrous-items:earring-of-message), modify = 500 ft range, 1000 with static, 5 charges, talk to on other creature with earring, that creature can talk back without using a charge (only one communication of to and then response)
+6. Group - [Earring of Message](http://dnd5e.wikidot.com/wondrous-items:earring-of-message), uses [message](https://roll20.net/compendium/dnd5e/Message#content) (range 120 ft) originally modified, but I think as RAW is fine. Message allows them to talk back so: Talk to target, get response back = 1 charge
 7. [[Deion Deus]] -  [Blood Spear](http://dnd5e.wikidot.com/wondrous-items:blood-spear) 
-8. [[Kelswin Lovejoy]] - tattoo receipt for the tattoo parlor
+8. [[Kelswin Lovejoy]] - tattoo receipt for the tattoo parlor 
