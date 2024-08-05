@@ -23,11 +23,11 @@ General session idea was a mass combat with prep. Lots of NPCs that were control
     - The prep mattering was good
 
 **My takeaway:** Don't give players NPCs to play. Unless leading phalanxes of troops in open warfare, it feels terrible. Less but more powerful enemies > more weaker enemies because group lacks AoE for now. Really need to figure out interacting with stuff in combat; need more options to do for free. 
-# 2. Character Stuff & Ideas
+# 2. Character/Mission/Item Ideas
 Any Idea that is checked off and ~~strike through~~ has been implemented already. This is just to track ideas to add:
 
 - [ ] Hunter's guild in [[Gullhook]] ties to [[The Green Order]] in [[The Twilight Woods]]
-- [ ] Chugga's bar tournament w/ [[Ball Knockers]]
+- [x] Chugga's bar tournament w/ [[Ball Knockers]] **Run Already**
 - [ ] Work on Livy from [[Livy's Livestock (Slave House)]] & tie to [[The Forest Freaks]]
 - [ ] [[Puck]] takes [[Deion Deus]]'s Hands with super poison dagger
 	- [ ] [[Puck]] seduced by [[Garrick Blackthorn]], [[Deion Deus]] framed in [[Puck]]'s mind as a weakling and a coward for not killing those kids
@@ -40,10 +40,20 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Get a new sheet of NPC names and RACEs table for quick reference
 - [ ] Integrate quests in mission doc more neatly and divide by region in Gullhook. 
 - [ ] Figure out moonrat's enemy for mission in Chugga's. 
-- [ ] Draw map of [[Gullhook]] and [[The High Forests]] 
+- [x] Draw map of [[Gullhook]], **Finished Drawing**
+- [ ] Draw map of the [[The High Forests]] 
 - [ ] Update and re-format player data sheets for [[Wake]] [[Deion Deus]] [[Slug Stoll]] and [[Kelswin Lovejoy]]
-# 3. Awards per Character
+- [ ] Add surfing mini quest idea
+- [ ] Flesh out quest to clear the salvage yard in [[Gullhook]]
+# 3. Fight Ideas:
+- [ ] Enemy that is anchored to an object through magical means. They get dragged towards the object if not within a certain radius. 
+- [ ] Some lair effect that causes chains to drag a player within melee range of a powerful enemy. It is blocked if you can keep something within line of sight of you and the creature to stop the chain dragging you. 
+# 4. Awards/Items per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls
 3. [[Kelswin Lovejoy]] - [Cloak of Energy Absorption](https://www.5esrd.com/database/magicitem/cloak-of-energy-absorption/)
 4. [[Wake]] - learns how to form wave cutter blade 
+5. [[Wake]] - [Deck of Miscellany](http://dnd5e.wikidot.com/wondrous-items:deck-of-miscellany)
+6. Group - [Earring of Message](http://dnd5e.wikidot.com/wondrous-items:earring-of-message), modify = 500 ft range, 1000 with static, 5 charges, talk to on other creature with earring, that creature can talk back without using a charge (only one communication of to and then response)
+7. [[Deion Deus]] -  [Blood Spear](http://dnd5e.wikidot.com/wondrous-items:blood-spear) 
+8. [[Kelswin Lovejoy]] - tattoo receipt for the tattoo parlor
