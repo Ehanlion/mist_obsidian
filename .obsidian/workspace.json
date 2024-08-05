@@ -9,16 +9,6 @@
         "dimension": 72.8395061728395,
         "children": [
           {
-            "id": "0e87e4dfa6d9bf35",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "244aaff5af8e925b",
             "type": "leaf",
             "pinned": true,
@@ -26,6 +16,20 @@
               "type": "markdown",
               "state": {
                 "file": "GM Screen/Ethan's Useful Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2edc07d3f2ab96b3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
                 "mode": "source",
                 "source": false
               },
@@ -257,16 +261,31 @@
     "GM Screen/Ethan's Gambling Games/Ball Knockers.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
+    "1. Missions/Smaller Quests/Mist Side Quests.md",
     "GM Screen/Ethan's Useful Links.md",
+<<<<<<< HEAD
     "0. The North-West Highlands/NPCs/Crab Time/Dmitri Mironov.md",
     "0. The North-West Highlands/NPCs/Crab Time/Igor Larionov.md",
     "-1. Books/The Greatest of the Great.md",
     "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
+=======
+    "1. Missions/Smaller Quests/Hunt a Baby Kraken.md",
+    "1. Missions/Smaller Quests/Helping Smears-burrow.md",
+    "1. Missions/Smaller Quests",
+    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "Session Notes/Mist Sessions/Mist S10 07-27-2024.md",
+    "Session Notes/Mist Sessions/Mist S11 08-24-2024.md",
+>>>>>>> origin/master
     "0. The North-West Highlands/Features/The High Forest/The Serenity Groves.md",
     "0. The North-West Highlands/Features/The High Forest/The Untamed Verdant.md",
     "0. The North-West Highlands/Features/The High Forest/The Glades of Fate.md",
     "0. The North-West Highlands/Features/The High Forest/The Charmed Royalties.md",
     "0. The North-West Highlands/Features/The High Forest/The Widow-maker's Stands.md",
+<<<<<<< HEAD
+=======
+    "0. The North-West Highlands/Features/The High Forests.md",
+>>>>>>> origin/master
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 1.md",
     "0. The North-West Highlands/Features/The High Forest/The Revitalizing Spring.md",
     "0. The North-West Highlands/Features/The High Forest",
@@ -279,7 +298,11 @@
     "0. The North-West Highlands/Features/Farming/Bonnie's Hovel Farms.md",
     "0. The North-West Highlands/Features/Farming",
     "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
+<<<<<<< HEAD
     "GM Screen/Ethan's Gambling Games/Silver-wing's Duels.md",
+=======
+    "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
+>>>>>>> origin/master
     "0. The North-West Highlands/NPCs/Crab Time",
     "_Assets/dnd 5e pool mini game.jpeg",
     "0. The North-West Highlands/Features/The Sea Caves",
@@ -298,7 +321,6 @@
     "-1. Books",
     "GM Screen/Untitled.canvas",
     "GM Screen/Ethan's Boons",
-    "-1. Global/Great Features/Console/For Ethan's Eyes Only",
     "0. The South-East Mountains/Features/The Mountains/Untitled.canvas"
   ]
 }
