@@ -23,6 +23,20 @@ General session idea was a mass combat with prep. Lots of NPCs that were control
     - The prep mattering was good
 
 **My takeaway:** Don't give players NPCs to play. Unless leading phalanxes of troops in open warfare, it feels terrible. Less but more powerful enemies > more weaker enemies because group lacks AoE for now. Really need to figure out interacting with stuff in combat; need more options to do for free. 
+
+## From [[Mist S10 07-27-2024]]
+Roleplay is good:
+- just enjoying the idea that you can talk to people
+- different persons
+Learning small funny things is appealing
+From JP:
+- create situations that characters can clearly work through using only an ability that a specific character has 
+- steal something, option to use ability outside of combat
+From Sean:
+- one thing
+- try for options to be able to stick together to do a side quests
+They all want dungeons haha
+
 # 2. Character/Mission/Item Ideas
 Any Idea that is checked off and ~~strike through~~ has been implemented already. This is just to track ideas to add:
 
@@ -43,6 +57,8 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [x] Draw map of [[Gullhook]], **Finished Drawing**
 - [ ] Draw map of the [[The High Forests]] 
 - [ ] Update and re-format player data sheets for [[Wake]] [[Deion Deus]] [[Slug Stoll]] and [[Kelswin Lovejoy]]
+- [ ] I referenced the author to a book on smithing in [[Gullhook]] named McAllister. Place him in Briar's Forge. Have him have clues about the vanishings and ideas about the forest and weapons. 
+# 3. Awards per Character
 - [ ] Add surfing mini quest idea
 - [ ] Flesh out quest to clear the salvage yard in [[Gullhook]]
 - [ ] Item: glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage

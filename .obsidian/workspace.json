@@ -4,53 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf7e889a93f448c",
-        "type": "tabs",
-        "dimension": 58.6015538290788,
-        "children": [
-          {
-            "id": "3716640b3a21ebed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Features/The High Forests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0198ab480f2ba2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2ea1c3039bd528a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 41.3984461709212,
+        "dimension": 72.8395061728395,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -93,9 +49,74 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3716640b3a21ebed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Features/The High Forests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0198ab480f2ba2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3e5d9c42c59a2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Screen/Ethan's Gambling Games/Ball Knockers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e876663ceef1cf68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
+      },
+      {
+        "id": "78717be700c559c7",
+        "type": "tabs",
+        "dimension": 27.160493827160494,
+        "children": [
+          {
+            "id": "6609995428519dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5026054382324
+    "width": 257.00621795654297
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -233,55 +254,9 @@
       "command-palette:Open command palette": false
     }
   },
+
   "active": "6d6a08569b54d35d",
   "lastOpenFiles": [
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "1. Missions/Smaller Quests/Mist Side Quests.md",
-    "1. Missions/Smaller Quests/Hunt a Baby Kraken.md",
-    "1. Missions/Smaller Quests/Helping Smears-burrow.md",
-    "1. Missions/Smaller Quests",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-    "Session Notes/Mist Sessions/Mist S10 07-27-2024.md",
-    "Session Notes/Mist Sessions/Mist S11 08-24-2024.md",
-    "0. The North-West Highlands/Features/The High Forest/The Serenity Groves.md",
-    "0. The North-West Highlands/Features/The High Forest/The Untamed Verdant.md",
-    "0. The North-West Highlands/Features/The High Forest/The Glades of Fate.md",
-    "0. The North-West Highlands/Features/The High Forest/The Charmed Royalties.md",
-    "0. The North-West Highlands/Features/The High Forest/The Widow-maker's Stands.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 1.md",
-    "0. The North-West Highlands/Features/The High Forest/The Revitalizing Spring.md",
-    "0. The North-West Highlands/Features/The High Forest",
-    "-1. Global/Pantheon of Mist/Betrayer Gods/The Whispered One.md",
-    "0. The North-West Highlands/Features/Farming/The Fruity Orchards.md",
-    "0. The North-West Highlands/Features/Farming/Seasonia's Seasonings.md",
-    "0. The North-West Highlands/Features/Farming/The Great Middle Growers.md",
-    "0. The North-West Highlands/Features/Farming/Veggieville.md",
-    "0. The North-West Highlands/Features/Farming/Southern Farms Oddities.md",
-    "0. The North-West Highlands/Features/Farming/Bonnie's Hovel Farms.md",
-    "0. The North-West Highlands/Features/Farming",
-    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
-    "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
-    "0. The North-West Highlands/NPCs/Crab Time",
-    "_Assets/dnd 5e pool mini game.jpeg",
-    "0. The North-West Highlands/Features/The Sea Caves",
-    "-1. Global/Great Events/One-off",
-    "-1. Creatures",
-    "_Monsters/Frost Bound Warden Stat Block.png",
-    "_Assets/Heroic_figure_at_the_cliff.jpeg",
-    "_Assets/Hope town black tide reapers.png",
-    "_Assets/Hope town hugos arena.png",
-    "_Assets/Hope town the blue coats.png",
-    "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
-    "_Assets/karak-ulgurath the crab lord.png",
-    "_Assets/Macro view of deep woods and dark woods.png",
-    "_Assets/Mist CONSOLE Room.jpg",
-    "-1. Items",
-    "-1. Books",
-    "GM Screen/Untitled.canvas",
-    "GM Screen/Ethan's Boons",
-    "0. The South-East Mountains/Features/The Mountains/Untitled.canvas"
+
   ]
 }

@@ -108,6 +108,8 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 | Bakers and Butchers       | Gromm Ironhide                       | Food Items                      |                                                                            |
 | The Housing Union         | Barnaby Widdershins                  | Building supplies               |                                                                            |
 | Mavis's Tinker's Toolshed | Mavis Minks                          | Experimental tinkering projects | New magical hands, new magical legs. Brutal to install. Works mostly okay. |
+| Critters for Company      |                                      |                                 |                                                                            |
+| The Ink Parlor            |                                      |                                 |                                                                            |
 ### Ideas for Wares to Sell:
 **Goods to Sell:** -  refer to [Wikidot Common Magic Items](http://dnd5e.wikidot.com/wondrous-items)
 - *Trinkets* - (10 to 100 gp)
@@ -120,6 +122,27 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 	- [ ]  [Lantern of Tracking](http://dnd5e.wikidot.com/wondrous-items:lantern-of-tracking) - tracks a type of creature, one type per lantern
 	- [ ]  [Charlatan's Die](http://dnd5e.wikidot.com/wondrous-items:charlatans-die) - Make this winnable in game? choose face of d6 to land on
 - *Slightly more powerful items* (101 to 250 gp)
+	- [Blood Spear](http://dnd5e.wikidot.com/wondrous-items:blood-spear) - gain temp hp on kill
+	- [Deck of Wonder](http://dnd5e.wikidot.com/wondrous-items:deck-of-wonder) - less op variant of deck of many things
+	- [Deck of Miscellany](http://dnd5e.wikidot.com/wondrous-items:deck-of-miscellany) - deck of many things but no effect and all random items
+	- [Infernal Puzzle Box](http://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box) - troll item could be funny to hide something op in it
+	- [Wind Fan](http://dnd5e.wikidot.com/wondrous-items:wind-fan) - blows wind, chance of breaking kind of cool
+	- [Wand of Secrets](http://dnd5e.wikidot.com/wondrous-items:wand-of-secrets) - find secret doors for free
+	- [Staff of the Adder](http://dnd5e.wikidot.com/wondrous-items:staff-of-the-adder) - summon an adder snake, if killed staff breaks
+	- [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) - looks like stone of good luck even if you use identify to identify it
+	- [Seeker Darts](http://dnd5e.wikidot.com/wondrous-items:seeker-dart) - seeks a target, one time use thing
+	- [Rings of Suffering](http://dnd5e.wikidot.com/wondrous-items:rings-of-shared-suffering) - matched pair, funny, kind of terrible
+### Critters for Company:
+
+> [!NOTE] Descriptions of Critters for Company:
+> Sells fun pets. 
+
+### The Ink Parlor:
+
+> [!NOTE] Description of the Ink Parlor
+> A small smokey shop with artistic tattoo parlors engraving peoples skin with magical tattoos. 
+
+
 	- [x]  [Blood Spear](http://dnd5e.wikidot.com/wondrous-items:blood-spear) - gain temp hp on kill **Given to [[Deion Deus]]**
 	- [ ]  [Deck of Wonder](http://dnd5e.wikidot.com/wondrous-items:deck-of-wonder) - less op variant of deck of many things
 	- [x]  [Deck of Miscellany](http://dnd5e.wikidot.com/wondrous-items:deck-of-miscellany) - deck of many things but no effect and all random items **Given to [[Wake]]**
@@ -130,6 +153,7 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 	- [ ]  [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) - looks like stone of good luck even if you use identify to identify it
 	- [ ]  [Seeker Darts](http://dnd5e.wikidot.com/wondrous-items:seeker-dart) - seeks a target, one time use thing
 	- [ ]  [Rings of Suffering](http://dnd5e.wikidot.com/wondrous-items:rings-of-shared-suffering) - matched pair, funny, kind of terrible
+
 ### The Other Way:
 
 > [!NOTE] Description of The Other Way
