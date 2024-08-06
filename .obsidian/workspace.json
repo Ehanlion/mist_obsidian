@@ -4,26 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "af37999486c9f92e",
-        "type": "tabs",
-        "dimension": 12.35038084874864,
-        "children": [
-          {
-            "id": "b23d6224d287cc64",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c5ff440a7b470767",
         "type": "tabs",
-        "dimension": 51.196953210010875,
+        "dimension": 52.30102869518137,
         "children": [
           {
             "id": "f98d55487bc374ed",
@@ -68,7 +51,7 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 36.45266594124048,
+        "dimension": 47.69897130481863,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -111,9 +94,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8c23c13f2c8c6bb6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +162,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a650b926bbda742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b23d6224d287cc64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
               }
             }
           }
@@ -173,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.50260543823242
+    "width": 236.50260543823242
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -189,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -229,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
               }
             }
           }
@@ -251,12 +264,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e876663ceef1cf68",
+  "active": "8c23c13f2c8c6bb6",
   "lastOpenFiles": [
-    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "GM Screen/Ethan's Useful Links.md",
     "1. Missions/Smaller Quests/Mist Side Quests.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "99. Brainstorming/Blinded Dungeon Crawl.md",
+    "99. Brainstorming/A Trip to Remember (Inception).md",
+    "99. Brainstorming/Brawl in the Caldera.md",
+    "99. Brainstorming/Creation challenge from Tik-Tok.md",
+    "99. Brainstorming/Ideas for character's backstories.md",
+    "99. Brainstorming/Moral Dilemma with Deities Puzzles.md",
+    "99. Brainstorming/Player Endurance Meter.md",
+    "99. Brainstorming/Rhyming Naga Puzzle.md",
+    "99. Brainstorming/Shapeshifters in the Tavern.md",
+    "99. Brainstorming/The Mirrored Doorway Puzzle.md",
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "0. The North-West Highlands/Features/The High Forests.md",
     "GM Screen/Ethan's Gambling Games/Ball Knockers.md"
