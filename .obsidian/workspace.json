@@ -4,9 +4,71 @@
     "type": "split",
     "children": [
       {
+        "id": "af37999486c9f92e",
+        "type": "tabs",
+        "dimension": 12.35038084874864,
+        "children": [
+          {
+            "id": "b23d6224d287cc64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5ff440a7b470767",
+        "type": "tabs",
+        "dimension": 51.196953210010875,
+        "children": [
+          {
+            "id": "f98d55487bc374ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c28972f0a362da3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Features/The High Forests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e876663ceef1cf68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 72.8395061728395,
+        "dimension": 36.45266594124048,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -16,7 +78,7 @@
               "type": "markdown",
               "state": {
                 "file": "GM Screen/Ethan's Useful Links.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -49,74 +111,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3716640b3a21ebed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Features/The High Forests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0198ab480f2ba2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3e5d9c42c59a2b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Screen/Ethan's Gambling Games/Ball Knockers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e876663ceef1cf68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "78717be700c559c7",
-        "type": "tabs",
-        "dimension": 27.160493827160494,
-        "children": [
-          {
-            "id": "6609995428519dff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -176,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.00621795654297
+    "width": 245.50260543823242
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -192,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -232,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -254,9 +251,14 @@
       "command-palette:Open command palette": false
     }
   },
-
-  "active": "6d6a08569b54d35d",
+  "active": "e876663ceef1cf68",
   "lastOpenFiles": [
-
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "1. Missions/Smaller Quests/Mist Side Quests.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+    "0. The North-West Highlands/Features/The High Forests.md",
+    "GM Screen/Ethan's Gambling Games/Ball Knockers.md"
   ]
 }
