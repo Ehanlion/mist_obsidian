@@ -66,3 +66,43 @@ I want to keep this *very* well organized because it will track mini and even bi
 > 
 
 # Side Quest List
+###### Exploring the Sahuaguin-Infested Salvage Yards
+- [ ] Check to indicated if the quest has been completed
+- **Session first used in:**
+- **Location used in:** [[Gullhook]], specifically the Salvage Yards 
+> [!NOTE] Quest Hook
+> A sinister threat has emerged within the Gullhook Salvage Yards. Townsfolk have reported sightings of strange, fish-like individuals lurking among the wreckage of old ships. These mysterious intruders have been causing unease and fear, and their intentions remain unknown.
+>
+A reward of 100 gold pieces per head is offered to any brave soul or band of adventurers willing to investigate and eliminate these lurking threats. Be warned: these creatures are dangerous and elusive, using the maze of the salvage yard to their advantage. Previous attempts to root them out have ended in tragedy, with several crews meeting a grim fate. Their shifty and cunning nature makes them formidable opponents.
+>
+To accept this quest, first report to the Guild-Master in the Guildhall to get a contract, then report to Foreman Gideon Rusthand at the Salvage Yards for more details and guidance. Your courage and skill are needed to ensure the safety of Gullhook and put an end to this mysterious menace.
+- **Rewards:**
+	- Offering 100 gp per head of killed sea creature
+	- Bonus gold if you find Gideon's forest charter book about mysteries and the unexplored in "The Hidden Forest ([[The High Forests]])"
+- **Quest Description and Information:**
+	- *Gideon:* Gideon is a portly, larger man with a husky voice. He has a small office (decorated with old memorabilia and mystery-hunting info and postings) and home that occupies the remains of an old ship - his old ship - called fog scythe.
+		- Gideon was a pirate captain
+		- Gideon led "Mist Plunges," sailing missions into the Mist (to little success)
+		- Gideon's ship was badly injured and scuttled in [[Gullhook]] after a storm. He took over The Salvage Yards as a result. 
+		- Gideon is a kook: he loves mysteries and the unknown, but has a bad memory. He has a book called his charter book about mysteries of the Hidden Forests
+			- It contains info about the lore of the [[The Revitalizing Spring]] and [[The Wishing Pond]]
+			- It contains reference to "shrines of the 5 founding gods" meaning [[The Wildmother]], [[The Knowing Mentor]], [[The Matron of Ravens]], [[The Spider Queen]], and [[The Whispered One]].
+		- Gideon is forgetful and a little batty
+		- Gideon is VERY paranoid now with the interlopers on his property 
+		- Gideon is injured, was attacked while walking the yards at night "by something that squidges and squelches around" He tried to run away, got trapped in a net, and his charter of mysteries was taken from him then. 
+	- *The Salvage Yards:*
+		- Extremely chaotic
+		- huge height differences between wreckage
+		- Scattered remains of massive, derelict ships mixed with neat scaffolding for workers to harvest resources. 
+		- Collapse masts, old sails draped from ship to ship, hanging gantries, old ballista, shattered crates and storage areas. 
+		- Snaking walkways carve paths between ships and they are overrun with thick sea grass that grows tall and wavy 
+	- *The Interlopers - Sahuaguin*
+		- Interloper enemy breakdown: 
+			- 1x blade master (use saltmarsh)
+			- 1x priestess (use saltmarsh)
+			- 5x Sahuaguin brutes (use monster manual)
+		- Interloper Tactics:
+			- Set traps: nets, tripwire, oil flasks and fire, crossbows with poison and tripwire triggers, fall traps, swinging wreckage. Triggers off pressure plates, tripwires, or manually from someone watching them
+			- Hide during day, and then go out at night to steal and recon and protect salvage yards
+			- Are working alongside [[Tennyson Heralds]] and [[The Followers of Alsolace]] given instructions from [[Karak-Ulgurath]]. 
+			- They abduct children for [[Tennyson Heralds]] (who gives them to [[Livy's Livestock (Slave House)]]), search for strong obedient workers to abduct, and steal and cause chaos. 
