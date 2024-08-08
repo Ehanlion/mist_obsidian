@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md"
               }
             }
           }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
+                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md"
               }
             }
           }
@@ -249,10 +249,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2edc07d3f2ab96b3",
+  "active": "f98d55487bc374ed",
   "lastOpenFiles": [
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "1. Missions/Smaller Quests/Mist Side Quests.md",
+    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
     "GM Screen/Ethan's Useful Links.md",
