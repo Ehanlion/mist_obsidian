@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38926ca9de86be6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/The North-West Highlands.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e6c5fb2f1d5383fa",
@@ -96,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,6 +120,7 @@
       {
         "id": "a38923bc55b5fc73",
         "type": "tabs",
+        "dimension": 63.97124887690926,
         "children": [
           {
             "id": "c463d6e74c344419",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
+                "file": "0. The North-West Highlands/The North-West Highlands.md"
               }
             }
           }
@@ -157,6 +170,7 @@
       {
         "id": "7a650b926bbda742",
         "type": "tabs",
+        "dimension": 36.02875112309075,
         "children": [
           {
             "id": "b23d6224d287cc64",
@@ -164,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
+                "file": "0. The North-West Highlands/The North-West Highlands.md"
               }
             }
           }
@@ -188,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
+                "file": "0. The North-West Highlands/The North-West Highlands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
+                "file": "0. The North-West Highlands/The North-West Highlands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
+                "file": "0. The North-West Highlands/The North-West Highlands.md"
               }
             }
           }
@@ -250,24 +264,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2edc07d3f2ab96b3",
+  "active": "38926ca9de86be6b",
   "lastOpenFiles": [
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
+    "0. The North-West Highlands/Towns, Cities/Herringshold.md",
+    "0. The North-West Highlands/Towns, Cities/North West Town Ordering.md",
+    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
+    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
+    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md",
+    "0. The North-West Highlands/Towns, Cities/Trawlrock.md",
+    "-1. Books/Vivian's Spell Journal.md",
+    "-1. Books/The Greatest of the Great.md",
+    "-1. Books/The Codex of The Storm.md",
+    "-1. Books/Planar Questions - I. Valis.md",
+    "99. Player Data/Kelswin Lovejoy.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
     "1. Missions/Smaller Quests/Mist Side Quests.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "99. Player Data/Deion Deus.md",
+    "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
+    "Session Notes/Mist Sessions/Mist S9 07-19-24.md",
+    "Session Notes/Mist Sessions/Mist S10 07-27-2024.md",
+    "0. The North-West Highlands/NPCs/Livy Revals.md",
+    "0. The North-West Highlands/Features/The High Forests.md",
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "GM Screen/Ethan's Useful Links.md",
     "99. Brainstorming/Blinded Dungeon Crawl.md",
     "99. Brainstorming/A Trip to Remember (Inception).md",
-    "99. Brainstorming/Brawl in the Caldera.md",
-    "99. Brainstorming/Creation challenge from Tik-Tok.md",
-    "99. Brainstorming/Ideas for character's backstories.md",
-    "99. Brainstorming/Moral Dilemma with Deities Puzzles.md",
-    "99. Brainstorming/Player Endurance Meter.md",
-    "99. Brainstorming/Rhyming Naga Puzzle.md",
-    "99. Brainstorming/Shapeshifters in the Tavern.md",
-    "99. Brainstorming/The Mirrored Doorway Puzzle.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
-    "GM Screen/Ethan's Gambling Games/Ball Knockers.md"
+    "99. Brainstorming/Brawl in the Caldera.md"
   ]
 }

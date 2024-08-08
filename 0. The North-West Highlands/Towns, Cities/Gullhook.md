@@ -15,7 +15,7 @@ Thanks to [[The Followers of Karak-Ulgurath]], and a vicious raid (now about 3 w
 - Remnants of battles around western edge of town and around entertainment sector. 
 ## Specifying the Destruction Further:
 > [!NOTE] Describing the Destruction
-> Looking around the town, you notice upon closer investigation, that it is rife with damage and carnage. The dirge quarters, standing on the outskirts of the town were assaulted and the remnants of burned husks of buildings are still clearly noticeably, despite the efforts to clean the area and to plant new flowers and bushes amidst the wreckage. Furthermore, the Entertainment district suffered heavy assaults,. The beautiful compound of the starlight archives library and the rugged and municipal stone walls of the Rock Bottom Tavern have been destroyed and annihilated, the corpses of several massive crabs now teeming with planted flowers and creeping vines. Damages to the sea-side section of the industry district, specifically the Dry Docks and the Cradles are minimal but present; numerous massive crab husks are surrounded by traditional grave stones of those who fought to protect the diverse and colorful fleet of ships stocked here. 
+> Looking around the town, you notice upon closer investigation, that it is rife with damage and carnage. The dirge quarters, standing on the outskirts of the town were assaulted and the remnants of burned husks of buildings are still clearly noticeably, despite the efforts to clean the area and to plant new flowers and bushes amidst the wreckage. Furthermore, the Entertainment district suffered heavy assaults. The beautiful compound of the starlight archives library and the rugged and municipal stone walls of the Rock Bottom Tavern have been destroyed and annihilated, the corpses of several massive crabs now teeming with planted flowers and creeping vines. Damages to the sea-side section of the industry district, specifically the Dry Docks and the Cradles are minimal but present; numerous massive crab husks are surrounded by traditional grave stones of those who fought to protect the diverse and colorful fleet of ships stocked here. 
 # Town-Wide Effects:
 ## Prices are Higher than Ever:
 Due to the intense raids across [[The North-West Highlands]], [[Gandoras City]] stopping the caravans and trade convoys from legally leaving the city, and increased raids on town-to-town trade by northern bandits, it has been difficult to get more expensive items between cities. So not only are *prices* *increased*, but *supply is reduced heavily.* Every merchant will complain about the rarity of incoming trades of actually valuable goods. 
@@ -96,20 +96,20 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 - Find the Sahuaguin: Some Sahuaguin are hiding in the yards. They are in cohorts with [[Tennyson Heralds]] at the Temple Glade, as well as [[Dmitri Mironov]] and [[Igor Larionov]]. 
 
 ## Commerce
-| Store Name                | Owner                                | Goods                           | Specials                                                                   |
-| ------------------------- | ------------------------------------ | ------------------------------- | -------------------------------------------------------------------------- |
-| The Other Way             | [[Arnov Vasilov]]                    | Magic Items                     | Can help identify the mind rock.                                           |
-| Enchanter's Exchange      | Fizzle Fizzle                        | Magic Items                     |                                                                            |
-| Quirk and Quill           | Pip Quickquill                       | Writing tools                   |                                                                            |
-| The Dozy Brewers          | Zara Moonwhisper                     | Potions                         |                                                                            |
-| Urban Poultices           | Thaddeus Greenfingers                | Potion Ingredients              |                                                                            |
-| Bizarro Bazaar            | Mira Windrider                       | Random items                    |                                                                            |
-| The Farmer's Depot        | Various stalls with various sellers. | Food Items                      | Talk about strange things going on at Livy's Livestock (Livy's slaves)     |
-| Bakers and Butchers       | Gromm Ironhide                       | Food Items                      |                                                                            |
-| The Housing Union         | Barnaby Widdershins                  | Building supplies               |                                                                            |
-| Mavis's Tinker's Toolshed | Mavis Minks                          | Experimental tinkering projects | New magical hands, new magical legs. Brutal to install. Works mostly okay. |
-| Critters for Company      |                                      |                                 |                                                                            |
-| The Ink Parlor            |                                      |                                 |                                                                            |
+| Store Name                | Owner                                | Goods                           |
+| ------------------------- | ------------------------------------ | ------------------------------- |
+| The Other Way             | [[Arnov Vasilov]]                    | Magic Items                     |
+| Enchanter's Exchange      | Fizzle Fizzle                        | Magic Items                     |
+| Quirk and Quill           | Pip Quickquill                       | Writing tools                   |
+| The Dozy Brewers          | Zara Moonwhisper                     | Potions                         |
+| Urban Poultices           | Thaddeus Greenfingers                | Potion Ingredients              |
+| Bizarro Bazaar            | Mira Windrider                       | Random items                    |
+| The Farmer's Depot        | Various stalls with various sellers. | Food Items                      |
+| Bakers and Butchers       | Gromm Ironhide                       | Food Items                      |
+| The Housing Union         | Barnaby Widdershins                  | Building supplies               |
+| Mavis's Tinker's Toolshed | Mavis Minks                          | Experimental tinkering projects |
+| Critters for Company      |                                      |                                 |
+| The Ink Parlor            |                                      |                                 |
 ### Ideas for Wares to Sell:
 **Goods to Sell:** -  refer to [Wikidot Common Magic Items](http://dnd5e.wikidot.com/wondrous-items)
 - *Trinkets* - (10 to 100 gp)
