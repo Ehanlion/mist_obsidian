@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e6c5fb2f1d5383fa",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md"
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
               }
             }
           }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md"
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
               }
             }
           }
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md"
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md"
               }
             }
           }
@@ -249,12 +250,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f98d55487bc374ed",
+  "active": "2edc07d3f2ab96b3",
   "lastOpenFiles": [
-    "1. Missions/Smaller Quests/Mist Side Quests.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
+    "1. Missions/Smaller Quests/Mist Side Quests.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "GM Screen/Ethan's Useful Links.md",
     "99. Brainstorming/Blinded Dungeon Crawl.md",
     "99. Brainstorming/A Trip to Remember (Inception).md",

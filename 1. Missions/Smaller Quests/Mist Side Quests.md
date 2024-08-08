@@ -106,3 +106,4 @@ To accept this quest, first report to the Guild-Master in the Guildhall to get a
 			- Hide during day, and then go out at night to steal and recon and protect salvage yards
 			- Are working alongside [[Tennyson Heralds]] and [[The Followers of Alsolace]] given instructions from [[Karak-Ulgurath]]. 
 			- They abduct children for [[Tennyson Heralds]] (who gives them to [[Livy's Livestock (Slave House)]]), search for strong obedient workers to abduct, and steal and cause chaos. 
+			- When they attack they attack from cover and use the wreckage to hide and evade. 
