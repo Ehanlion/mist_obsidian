@@ -64,9 +64,8 @@ I want to keep this *very* well organized because it will track mini and even bi
 > 
 > It needs to be *very apparent* that a large quest demands a full party to journey on it; from a simple posting that says "four required for task X," to "large crew needed to audition for task Y," or simply "this quest is very dangerous, take your friends or you will die."
 > 
-
 # Side Quest List
-###### Exploring the Sahuaguin-Infested Salvage Yards
+###### Exploring the Sahuaguin-Infested Salvage Yards- **UNUSED**
 - [ ] Check to indicated if the quest has been completed
 - **Session first used in:**
 - **Location used in:** [[Gullhook]], specifically the Salvage Yards 
@@ -106,4 +105,13 @@ To accept this quest, first report to the Guild-Master in the Guildhall to get a
 			- Hide during day, and then go out at night to steal and recon and protect salvage yards
 			- Are working alongside [[Tennyson Heralds]] and [[The Followers of Alsolace]] given instructions from [[Karak-Ulgurath]]. 
 			- They abduct children for [[Tennyson Heralds]] (who gives them to [[Livy's Livestock (Slave House)]]), search for strong obedient workers to abduct, and steal and cause chaos. 
-			- When they attack they attack from cover and use the wreckage to hide and evade. 
+			- When they attack they attack from cover and use the wreckage to hide and evade.
+		- What they know:
+			- Interlopers have notes about potential targets and threats in town
+			- make sure to highlight that one of the Sahuaguin spied on group in the tavern they visited and at night in the room that they stayed in
+			- They stole Gideon's charter of mysteries 
+			- They know of clued path back to compound but never reveal willingly or if forced, do so cryptically while laughing 
+	- *Important Items*
+		- Blade master has small painting of family, in background is a roiling green sea with kelp floating on it. Alludes to clue from [[Mission, Follow the Raiders, Part 2]] and the line "Churning Green Ocean Waves"
+		- Gideon's Forest Charter Mystery Book
+		- Potential Threat list from [[Gullhook]]

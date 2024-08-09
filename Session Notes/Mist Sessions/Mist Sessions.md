@@ -62,7 +62,7 @@ How to get clues the best way:
 Chris preps areas and people in those areas and then ad libs outside of that 
 
 Price magic items in a way where items that are going to be very appealing to the commonfolk are in high demand, and  thus are high cost whereas a powerful but unusual item wouldn't be super pricey 
-# 2. Character/Mission/Item Ideas
+# 2. Character/Mission Ideas
 Any Idea that is checked off and ~~strike through~~ has been implemented already. This is just to track ideas to add:
 
 - [ ] Hunter's guild in [[Gullhook]] ties to [[The Green Order]] in [[The Twilight Woods]]
@@ -89,14 +89,21 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Add surfing mini quest idea
 - [ ] Work on [[Vivian Lovejoy]]'s journal that [[Kelswin Lovejoy]] found and is reading.
 - [ ] A cave of ice with frozen bodies in the walls, frozen in combat poses. an ancient white dragon prowls the cave and hunts. It protects a secret entrance to something important. 
-# 3. Item Ideas
+- [ ] Implement 6-level exhaustion system with 2x EL penalty to d20 rolls and 5x EL penalty in feet to movement. Exhaustion after being downed in combat and coming back. Applies to initiative but not death saves. 
+	- [ ] Maybe add an adrenaline system onto this 
+- [ ] flesh out inspiration system to give inspiration more. give for never going down in combat, landing a lot of crits, doing 3/4 a monsters hp solo or something, exceptional social interaction, solving a riddle, finding a clue, etc... 
+# 3. Item/Ability Ideas
 - [ ] glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
 - [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 
 - [ ] Prep tattoos for offering at Ink 
+- [ ] Lance weapon that charges in a straight line?
+- [ ] Ability allowing re-roll of entire damage roll. If you roll lower than before you take the damage instead. Call it like "curse fated strike" or some BS 
 # 3. Fight Ideas
 - [ ] Enemy that is anchored to an object through magical means. They get dragged towards the object if not within a certain radius. 
 - [ ] Some lair effect that causes chains to drag a player within melee range of a powerful enemy. It is blocked if you can keep something within line of sight of you and the creature to stop the chain dragging you. 
 - [ ] Try making a creature that is based on the old UA class of Mystic
+- [ ] Dragon who's breath attack curses magic items (wisdom save for magic item) and causes chaos
+- [ ] Enemy that copies the next attack that it gets hit by and empowers it. Call it a mimic or something. 
 # 4. Awards/Items per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls
