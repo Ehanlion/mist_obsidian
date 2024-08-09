@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "e6c5fb2f1d5383fa",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/The North-West Highlands.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/The North-West Highlands.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/The North-West Highlands.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/The North-West Highlands.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/The North-West Highlands.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -264,8 +264,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38926ca9de86be6b",
+  "active": "e876663ceef1cf68",
   "lastOpenFiles": [
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "1. Missions/Smaller Quests/Mist Side Quests.md",
+    "0. The North-West Highlands/The North-West Highlands.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
     "0. The North-West Highlands/Towns, Cities/Herringshold.md",
@@ -279,8 +282,6 @@
     "-1. Books/The Codex of The Storm.md",
     "-1. Books/Planar Questions - I. Valis.md",
     "99. Player Data/Kelswin Lovejoy.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "1. Missions/Smaller Quests/Mist Side Quests.md",
     "99. Player Data/Deion Deus.md",
     "Session Notes/Mist Sessions/Mist S8 07-12-24.md",
     "Session Notes/Mist Sessions/Mist S9 07-19-24.md",
@@ -290,7 +291,6 @@
     "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
     "GM Screen/Ethan's Useful Links.md",
     "99. Brainstorming/Blinded Dungeon Crawl.md",
-    "99. Brainstorming/A Trip to Remember (Inception).md",
-    "99. Brainstorming/Brawl in the Caldera.md"
+    "99. Brainstorming/A Trip to Remember (Inception).md"
   ]
 }

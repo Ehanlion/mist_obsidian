@@ -88,6 +88,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Build an order known as the "Exultant"
 - [ ] Add surfing mini quest idea
 - [ ] Work on [[Vivian Lovejoy]]'s journal that [[Kelswin Lovejoy]] found and is reading.
+- [ ] A cave of ice with frozen bodies in the walls, frozen in combat poses. an ancient white dragon prowls the cave and hunts. It protects a secret entrance to something important. 
 # 3. Item Ideas
 - [ ] glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
 - [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 
