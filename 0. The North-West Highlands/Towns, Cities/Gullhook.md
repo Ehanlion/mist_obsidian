@@ -121,6 +121,7 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 	- [ ]  [Masquerade Tattoo](http://dnd5e.wikidot.com/wondrous-items:masquerade-tattoo) - requires magic tattoo artist, disguise self 1/day (tattoo shop idea)
 	- [ ]  [Lantern of Tracking](http://dnd5e.wikidot.com/wondrous-items:lantern-of-tracking) - tracks a type of creature, one type per lantern
 	- [ ]  [Charlatan's Die](http://dnd5e.wikidot.com/wondrous-items:charlatans-die) - Make this winnable in game? choose face of d6 to land on
+	- [ ] [Mood mark Paint](https://dnd5e.wikidot.com/wondrous-items:moodmark-paint) - paint to show mood
 - *Slightly more powerful items* (101 to 500 gp)
 	- [x]  [Blood Spear](http://dnd5e.wikidot.com/wondrous-items:blood-spear) - gain temp hp on kill **Given to [[Deion Deus]]**
 	- [ ]  [Deck of Wonder](http://dnd5e.wikidot.com/wondrous-items:deck-of-wonder) - less op variant of deck of many things
@@ -129,7 +130,8 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 	- [ ]  [Wind Fan](http://dnd5e.wikidot.com/wondrous-items:wind-fan) - blows wind, chance of breaking kind of cool
 	- [ ]  [Wand of Secrets](http://dnd5e.wikidot.com/wondrous-items:wand-of-secrets) - find secret doors for free
 	- [ ]  [Staff of the Adder](http://dnd5e.wikidot.com/wondrous-items:staff-of-the-adder) - summon an adder snake, if killed staff breaks
-	- [ ]  [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) - looks like stone of good luck even if you use identify to identify it
+	- [x]  [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) - looks like stone of good luck even if you use identify to identify it **Given to [[Kelswin Lovejoy]] and [[Slug Stoll]] (both don't know what it is)**
+	- [ ] [Stone of Good Luck](https://dnd5e.wikidot.com/wondrous-items:luckstone) - 
 	- [ ]  [Seeker Darts](http://dnd5e.wikidot.com/wondrous-items:seeker-dart) - seeks a target, one time use thing
 	- [ ]  [Rings of Suffering](http://dnd5e.wikidot.com/wondrous-items:rings-of-shared-suffering) - matched pair, funny, kind of terrible
 ### Critters for Company:

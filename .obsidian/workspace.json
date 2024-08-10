@@ -4,10 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ff440a7b470767",
+        "id": "bc27fa2067432eb8",
         "type": "tabs",
-        "dimension": 49.598163030998855,
+        "dimension": 22.17453505007153,
         "children": [
+          {
+            "id": "b23d6224d287cc64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6c5fb2f1d5383fa",
+        "type": "tabs",
+        "dimension": 77.82546494992847,
+        "children": [
+          {
+            "id": "244aaff5af8e925b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Screen/Ethan's Useful Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2edc07d3f2ab96b3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6d6a08569b54d35d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
           {
             "id": "f98d55487bc374ed",
             "type": "leaf",
@@ -44,71 +103,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c801c141006e6ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/How to build a location - Matt Mercer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "e6c5fb2f1d5383fa",
-        "type": "tabs",
-        "dimension": 50.401836969001145,
-        "children": [
-          {
-            "id": "244aaff5af8e925b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Screen/Ethan's Useful Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2edc07d3f2ab96b3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6d6a08569b54d35d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +117,6 @@
       {
         "id": "a38923bc55b5fc73",
         "type": "tabs",
-        "dimension": 63.97124887690926,
         "children": [
           {
             "id": "c463d6e74c344419",
@@ -138,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Revital",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,24 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7a650b926bbda742",
-        "type": "tabs",
-        "dimension": 36.02875112309075,
-        "children": [
-          {
-            "id": "b23d6224d287cc64",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -202,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -264,12 +243,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6a08569b54d35d",
+  "active": "e876663ceef1cf68",
   "lastOpenFiles": [
-    "_Templates/How to build a location - Matt Mercer.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
-    "Session Notes/Mist Sessions/Mist S12 8-9-24.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "Session Notes/Mist Sessions/Mist S11 7-24-2024.md",
+    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+    "0. The North-West Highlands/Features/The High Forests.md",
+    "1. Missions/Smaller Quests/Mist Side Quests.md",
+    "_Templates/How to build a location - Matt Mercer.md",
+    "Session Notes/Mist Sessions/Mist S12 8-9-24.md",
     "Session Notes/Mist Sessions/Mist S2 1-20-24.md",
     "Session Notes/Mist Sessions/Mist S1 12-29-23.md",
     "Session Notes/Mist Sessions/Mist S3 2-10-24.md",
@@ -280,11 +263,7 @@
     "Session Notes/Mist Sessions/Mist S8 7-12-24.md",
     "Session Notes/Mist Sessions/Mist S9 7-19-24.md",
     "Session Notes/Mist Sessions/Mist S10 7-27-2024.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
     "0. The North-West Highlands/The North-West Highlands.md",
-    "1. Missions/Smaller Quests/Mist Side Quests.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
     "GM Screen/Ethan's Useful Links.md",
     "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
     "0. The North-West Highlands/Towns, Cities/Herringshold.md",
