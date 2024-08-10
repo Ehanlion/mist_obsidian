@@ -17,11 +17,11 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 | Poor Merchant | A merchant is town had his boat sunk just off shore. His name is [[Barney Carper]]. He couldn't retrieve his lockbox with his valuables in it and needs it returned or he faces ruin. |
 | Fishermen  | Two fisherman at the docks look like they need help.   |
 # Resolving Hooks:
-As of [[Mist S5 03-23-24]], the group has explored [[Smears-burrow]] with [[Jordan Leabrook]] and discovered that some force is raiding towns on firsts-day. They have moved back to [[Saddle-Port]] and reached there on weeks-end. They will have the full duration of weeks-end to prepare for the raid.
+As of [[Mist S5 3-23-24]], the group has explored [[Smears-burrow]] with [[Jordan Leabrook]] and discovered that some force is raiding towns on firsts-day. They have moved back to [[Saddle-Port]] and reached there on weeks-end. They will have the full duration of weeks-end to prepare for the raid.
 
-As of [[Mist S5 03-23-24]], the group did not follow up with the poor merchant to find the sunken ship named "Stan-ta Ray." From the session, it was alluded to having sunk outside the sea cave that was discovered. The ship has dark yellow paint and 'a name with two words, the first hyphenated.' (to distinguish between [[Reggie Brown]]'s ship "The Blueberry" from [[Smears-burrow]] and "Stan-ta Ray.")
+As of [[Mist S5 3-23-24]], the group did not follow up with the poor merchant to find the sunken ship named "Stan-ta Ray." From the session, it was alluded to having sunk outside the sea cave that was discovered. The ship has dark yellow paint and 'a name with two words, the first hyphenated.' (to distinguish between [[Reggie Brown]]'s ship "The Blueberry" from [[Smears-burrow]] and "Stan-ta Ray.")
 
-As of [[Mist S5 03-23-24]], the group found the sea cave that was a staging point for the raiding parties. There was one guard who was killed by [[Slug Stoll]]. They found that the cave was lived in by 30 people (Sahuaguin) and they found a rusted trident that has not been inspected. It will have the initials RB on it. They found a dead body, identified as having died in a struggle but not an identity. (really [[Reggie Brown]]'s body)
+As of [[Mist S5 3-23-24]], the group found the sea cave that was a staging point for the raiding parties. There was one guard who was killed by [[Slug Stoll]]. They found that the cave was lived in by 30 people (Sahuaguin) and they found a rusted trident that has not been inspected. It will have the initials RB on it. They found a dead body, identified as having died in a struggle but not an identity. (really [[Reggie Brown]]'s body)
 ___
 ## 1. Town's Guard in the Tavern:
 Walking through town you hear murmurings of people being taken or having gone missing from towns up the coast from [[Saddle-Port]]. 

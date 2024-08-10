@@ -23,7 +23,7 @@ General session idea was a mass combat with prep. Lots of NPCs that were control
     - The prep mattering was good
 
 **My takeaway:** Don't give players NPCs to play. Unless leading phalanxes of troops in open warfare, it feels terrible. A player character, run by the DM, that exceeds the power of the group diminishes their enjoyment from being powerful themselves. *Make a weak DMPC* that is there for flavor and don't use them as an excuse to RP with yourself. *Use them to play off player characters to lead them into roleplay* to make them look good. As for combat, less but more powerful enemies is superior to more weaker enemies because group lacks AoE for now. Really need to figure out interacting with stuff in combat; need more options to do for free. 
-## From [[Mist S10 07-27-2024]]
+## From [[Mist S10 7-27-2024]]
 Roleplay is good:
 - just enjoying the idea that you can talk to people
 - different persons
@@ -92,6 +92,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Implement 6-level exhaustion system with 2x EL penalty to d20 rolls and 5x EL penalty in feet to movement. Exhaustion after being downed in combat and coming back. Applies to initiative but not death saves. 
 	- [ ] Maybe add an adrenaline system onto this 
 - [ ] flesh out inspiration system to give inspiration more. give for never going down in combat, landing a lot of crits, doing 3/4 a monsters hp solo or something, exceptional social interaction, solving a riddle, finding a clue, etc... 
+- [ ] When meeting [[Karak-Ulgurath]], they hear a layered voice of [[Ignel Valis]] (as Silvan Gile) speaking through it saying, bow to my old pet underlings or something. 
 # 3. Item/Ability Ideas
 - [ ] glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
 - [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 
@@ -104,6 +105,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Try making a creature that is based on the old UA class of Mystic
 - [ ] Dragon who's breath attack curses magic items (wisdom save for magic item) and causes chaos
 - [ ] Enemy that copies the next attack that it gets hit by and empowers it. Call it a mimic or something. 
+- [ ] Enemy that hunts using purely scent and hearing without vision, describe as blind and kind of spazzy and jerky with movement. Hook horror kind of things
 # 4. Awards/Items per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls
@@ -113,4 +115,4 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 6. Group - [Earring of Message](http://dnd5e.wikidot.com/wondrous-items:earring-of-message), uses [message](https://roll20.net/compendium/dnd5e/Message#content) (range 120 ft) originally modified, but I think as RAW is fine. Message allows them to talk back so: Talk to target, get response back = 1 charge
 7. [[Deion Deus]] -  [Blood Spear](http://dnd5e.wikidot.com/wondrous-items:blood-spear) 
 8. [[Kelswin Lovejoy]] - tattoo receipt for the tattoo parlor 
-9. Group gold count as of [[Mist S11 08-24-2024]]: around ~400 each
+9. Group gold count as of [[Mist S11 7-24-2024]]: around ~400 each
