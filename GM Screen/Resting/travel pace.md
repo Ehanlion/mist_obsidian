@@ -19,4 +19,4 @@ Travel pace determines the speed at which a group can move through a large world
 -  Per Day: 32 miles.
 -  Disadvantages: -5 penalty to passive perceptions scores. Easier to track. Refer to [[setting a tracking DC]]. Travelling fast should give -5 to the tracking DC. 
 
-One day of travel is considered 8 hours. If a group wishes to push past this, they can choose to do so. However, the following day they will suffer the potential effects of [[exhaustion]]. The DC should be set according to the terrain and additional time travelled. Refer to the additional rules I added to the exhaustion page. 
+One day of travel is considered 8 hours. If a group wishes to push past this, they can choose to do so. However, the following day they will suffer the potential effects of [[exhaustion (depreciated)]]. The DC should be set according to the terrain and additional time travelled. Refer to the additional rules I added to the exhaustion page. 

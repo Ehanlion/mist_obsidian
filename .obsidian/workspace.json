@@ -4,69 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "bc27fa2067432eb8",
+        "id": "7b7a31ddfb3e2a20",
         "type": "tabs",
-        "dimension": 22.17453505007153,
+        "dimension": 50.16233766233766,
         "children": [
-          {
-            "id": "b23d6224d287cc64",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e6c5fb2f1d5383fa",
-        "type": "tabs",
-        "dimension": 77.82546494992847,
-        "children": [
-          {
-            "id": "244aaff5af8e925b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Screen/Ethan's Useful Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2edc07d3f2ab96b3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6d6a08569b54d35d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "f98d55487bc374ed",
             "type": "leaf",
@@ -105,7 +46,57 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
+      },
+      {
+        "id": "e6c5fb2f1d5383fa",
+        "type": "tabs",
+        "dimension": 49.83766233766234,
+        "children": [
+          {
+            "id": "244aaff5af8e925b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Screen/Ethan's Useful Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2edc07d3f2ab96b3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6d6a08569b54d35d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +148,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7849bcfd86125e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b23d6224d287cc64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
               }
             }
           }
@@ -181,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
               }
             }
           }
@@ -243,33 +250,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e876663ceef1cf68",
+  "active": "6d6a08569b54d35d",
   "lastOpenFiles": [
-    "Session Notes/Mist Sessions/Mist Sessions.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "Session Notes/Mist Sessions/Mist S11 7-24-2024.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
     "1. Missions/Smaller Quests/Mist Side Quests.md",
-    "_Templates/How to build a location - Matt Mercer.md",
-    "Session Notes/Mist Sessions/Mist S12 8-9-24.md",
-    "Session Notes/Mist Sessions/Mist S2 1-20-24.md",
-    "Session Notes/Mist Sessions/Mist S1 12-29-23.md",
-    "Session Notes/Mist Sessions/Mist S3 2-10-24.md",
-    "Session Notes/Mist Sessions/Mist S4 2-15-24.md",
-    "Session Notes/Mist Sessions/Mist S5 3-23-24.md",
-    "Session Notes/Mist Sessions/Mist S6 3-29-24.md",
-    "Session Notes/Mist Sessions/Mist S7 7-7-24.md",
-    "Session Notes/Mist Sessions/Mist S8 7-12-24.md",
-    "Session Notes/Mist Sessions/Mist S9 7-19-24.md",
-    "Session Notes/Mist Sessions/Mist S10 7-27-2024.md",
-    "0. The North-West Highlands/The North-West Highlands.md",
+    "GM Screen/Heroic Inspiration/Heroic Inspiration.md",
+    "GM Screen/Exhaustion/exhaustion (depreciated).md",
+    "GM Screen/Exhaustion/exhaustion.md",
+    "GM Screen/Heroic Inspiration",
+    "0. The North-West Highlands/NPCs/Crab Time/Karak-Ulgurath.md",
+    "GM Screen/Conditions/vulnerable.md",
+    "GM Screen/Exhaustion",
+    "0. The South-East Coast/NPCs/Silvan Gile.md",
+    "0. The South-East Coast/Towns, Cities/Hope Town/Hope Town Faction Breakdown (Player Copy).md",
+    "0. The South-East Coast/Towns, Cities/Hope Town/Hope Town.md",
+    "0. The South-East Coast/Towns, Cities/Hope Town/Hope Town Faction Breakdown (GM Copy, Secrets).md",
+    "0. The South-East Coast/NPCs/The Black Guard.md",
+    "0. The South-East Coast/Features/The Coast of Promise.md",
+    "0. The South-East Coast/NPCs/The Cutthroat Authority.md",
+    "0. The South-East Coast/Features/The Cutthroat Coast.md",
+    "0. The South-East Coast/NPCs/Baroness Von Azarov.md",
+    "0. The South-East Coast/Towns, Cities/Hope Town/The Great Market.md",
+    "0. The South-East Coast/Towns, Cities/Hope Town/The Bay of Trade.md",
+    "0. The South-East Coast/NPCs/Tergal the Fierce.md",
     "GM Screen/Ethan's Useful Links.md",
-    "0. The North-West Highlands/Towns, Cities/Anchorpoint Fisheries.md",
-    "0. The North-West Highlands/Towns, Cities/Herringshold.md",
-    "0. The North-West Highlands/Towns, Cities/North West Town Ordering.md",
-    "0. The North-West Highlands/Towns, Cities/Saddle-Port.md",
-    "0. The North-West Highlands/Towns, Cities/Schooner's End.md",
-    "0. The North-West Highlands/Towns, Cities/Smears-burrow.md"
+    "0. The North-West Highlands/Features/The High Forests.md",
+    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
+    "Session Notes/Mist Sessions/Mist S11 7-24-2024.md",
+    "_Templates/How to build a location - Matt Mercer.md",
+    "Session Notes/Mist Sessions/Mist S12 8-9-24.md"
   ]
 }

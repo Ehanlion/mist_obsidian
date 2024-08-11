@@ -89,16 +89,17 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Add surfing mini quest idea
 - [ ] Work on [[Vivian Lovejoy]]'s journal that [[Kelswin Lovejoy]] found and is reading.
 - [ ] A cave of ice with frozen bodies in the walls, frozen in combat poses. an ancient white dragon prowls the cave and hunts. It protects a secret entrance to something important. 
-- [ ] Implement 6-level exhaustion system with 2x EL penalty to d20 rolls and 5x EL penalty in feet to movement. Exhaustion after being downed in combat and coming back. Applies to initiative but not death saves. 
+- [x] Implement 6-level exhaustion system with 2x EL penalty to d20 rolls and 5x EL penalty in feet to movement. Exhaustion after being downed in combat and coming back. Applies to initiative but not death saves. 
 	- [ ] Maybe add an adrenaline system onto this 
-- [ ] flesh out inspiration system to give inspiration more. give for never going down in combat, landing a lot of crits, doing 3/4 a monsters hp solo or something, exceptional social interaction, solving a riddle, finding a clue, etc... 
-- [ ] When meeting [[Karak-Ulgurath]], they hear a layered voice of [[Ignel Valis]] (as Silvan Gile) speaking through it saying, bow to my old pet underlings or something. 
-- [ ] Write document for highlighting factions and groups in [[Hope Town]] and the pirate legions like [[Fedorov's Legion]], [[The Dead-Tide Reapers]], and [[The Blue Coat Brigade]]. 
+- [x] flesh out inspiration system to give inspiration more. give for never going down in combat, landing a lot of crits, doing 3/4 a monsters hp solo or something, exceptional social interaction, solving a riddle, finding a clue, etc... 
+- [x] When meeting [[Karak-Ulgurath]], they hear a layered voice of [[Ignel Valis]] (as Silvan Gile) speaking through it saying, bow to my old pet underlings or something. 
+- [x] Write document for highlighting factions and groups in [[Hope Town]] and the pirate legions like [[Fedorov's Legion]], [[The Dead-Tide Reapers]], and [[The Blue Coat Brigade]]. 
+	- [x] Write a GM copy as well with more info
 - [ ] Add funeral even in [[Gullhook]] honoring [[Dmitri Mironov]] after being killed. Called an honored friend of [[Tennyson Heralds]]. Second poster talking about [[Alsolace]] needing gold strength to fight [[Erstorndin]] who's agent was a wraith of the night ([[Wake]])
 # 3. Item/Ability Ideas
 - [ ] glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
 - [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 
-- [ ] Prep tattoos for offering at Ink 
+- [x] Prep tattoos for offering at Ink 
 - [ ] Lance weapon that charges in a straight line?
 - [ ] Ability allowing re-roll of entire damage roll. If you roll lower than before you take the damage instead. Call it like "curse fated strike" or some BS 
 # 3. Fight Ideas
@@ -120,3 +121,4 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 9. Group gold count as of [[Mist S11 7-24-2024]]: around ~400 each
 10. [[Slug Stoll]] - [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) (remember +3 to every check/save )
 11. [[Kelswin Lovejoy]] - also gets a [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) (remember +3 to every check/save) (<50 on d100 to determine)
+12. [[Kelswin Lovejoy]] - [Masquerade Tattoo](http://dnd5e.wikidot.com/wondrous-items:masquerade-tattoo), turns into a dagger to re-apply if no attunement 

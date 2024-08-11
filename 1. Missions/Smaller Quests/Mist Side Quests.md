@@ -5,7 +5,7 @@ Description: List of Side Quests
 I want to keep this *very* well organized because it will track mini and even big side quest ideas throughout the entirety of campaign. This section will breakdown a good metric for organizing these mission, how to address them once run, an indicator of which session the mission was run during, and outcomes. 
 
 ---
-###### Quest Hook Name
+##### Quest Hook Name
 - [ ] Check to indicated if the quest has been completed
 - **Session first used in:**
 - **Location used in:**
@@ -65,7 +65,7 @@ I want to keep this *very* well organized because it will track mini and even bi
 > It needs to be *very apparent* that a large quest demands a full party to journey on it; from a simple posting that says "four required for task X," to "large crew needed to audition for task Y," or simply "this quest is very dangerous, take your friends or you will die."
 > 
 # Side Quest List
-###### Exploring the Sahuaguin-Infested Salvage Yards- **UNUSED**
+##### Exploring the Sahuaguin-Infested Salvage Yards - **UNUSED**
 - [ ] Check to indicated if the quest has been completed
 - **Session first used in:**
 - **Location used in:** [[Gullhook]], specifically the Salvage Yards 
@@ -115,3 +115,20 @@ To accept this quest, first report to the Guild-Master in the Guildhall to get a
 		- Blade master has small painting of family, in background is a roiling green sea with kelp floating on it. Alludes to clue from [[Mission, Follow the Raiders, Part 2]] and the line "Churning Green Ocean Waves"
 		- Gideon's Forest Charter Mystery Book
 		- Potential Threat list from [[Gullhook]]
+##### A Funeral for an Enemy - **UNUSED**
+- [ ] Check to indicated if the quest has been completed
+- **Session first used in:**
+- **Location used in:** [[Gullhook]], specifically the Temple Glade
+> [!NOTE] Quest Hook
+> In the heart of town, a prominent notice catches the eye, detailing an upcoming grand funeral to honor the memory of a 'dear friend of [[Tennyson Heralds]],' the esteemed [[Dmitri Mironov]]. The ceremony, dedicated to the golden god [[Alsolace]], will take place in the sacred [[Temple Glade]] at sundown tomorrow. [[Dmitri Mironov]] is depicted as a figure of immense importance within the temple, a pillar of the religious community, tragically cut down by a fearsome entity known as the "Wraith of the Night." This malevolent being, described as a shifting, shadowy figure armed with scything steel blades, is said to serve the mysterious dark god [[Erstorndin]]. According to the details, [[Tennyson Heralds]] warns that the "Wraith of the Night" can only be vanquished by the golden power of [[Alsolace]]. To this end, he urges the faithful to make gold donations at [[Alsolace]]'s shrine in [[Temple Glade]], so that the god might be empowered to defeat this dark threat.
+>
+> The posting invites all who wish to pay their respects to [[Dmitri Mironov]], a revered member of [[The Followers of Alsolace]], the guardians of [[Temple Glade]] and its sacred rites. Attendees are asked to don the traditional white and gold hooded robes as a sign of reverence and solidarity with the holy practices of the temple.
+- **Quest Description and Information:**
+	- This quest involved *the following people:*
+		1. [[Tennyson Heralds]] - Lead religious figure in [[Gullhook]]
+			1. Preaches power of fake golden god, [[Alsolace]]
+			2. Denounces fake attacks and aggression from fake god [[Erstorndin]]
+		2. [[The Followers of Alsolace]] - Followers of [[Tennyson Heralds]] and [[Alsolace]]
+		3. [[Dmitri Mironov]] - bruiser from [[Fedorov's Legion]] - *NOW DEAD*
+		4. [[Igor Larionov]] - lead bruiser from [[Fedorov's Legion]] 
+

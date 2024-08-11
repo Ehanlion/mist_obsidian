@@ -48,6 +48,7 @@ These are the trade streams that the Legion controls.
 2. Magical Items, Armor, and Weapons
 3. Gems, Jewels, and Mining Resources
 4. Alcohol and Spirits
+5. Slavery and forced labor
 
 [[The Dead-Tide Reapers]]:
 These are the trade streams that the Reapers control:
