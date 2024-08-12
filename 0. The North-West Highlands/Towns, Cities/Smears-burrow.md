@@ -151,5 +151,5 @@ Smears-burrow has lost 3 individuals:
 3. Gurdath Fallonswallow (firbolg), a well liked and boisterous miner
 4. [[Reggie Brown]] (human), a fisherman who, while missing, is not exactly a vanishing.
 # Related Missions:
-1. [[Mission, Welcome to Mist]]: A part of a hook from this mission could directly take players to Smears-burrow looking for clues related to [[The Vanishings in the North-West]]. 
+1. [[Quest to Begin Mist]]: A part of a hook from this mission could directly take players to Smears-burrow looking for clues related to [[The Vanishings in the North-West]]. 
 	-  The clues that they could find are listed in the mission. 

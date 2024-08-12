@@ -1,5 +1,4 @@
-Category: Mechanics
-Subsection: Magic
+#playerability 
 # Description:
 In places of extreme magic sometimes the redaction of a spell with a counterspell results in a surge of magic. If the GM decides that an area is one of outstanding magical influence, then it is appropriate to involve counterspell surges with casting in the area.
 # Mechanics:

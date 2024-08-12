@@ -1,5 +1,5 @@
 Campaign: [[Mist Sessions]]
-Prior: [[Mission, Follow the Raiders, Part 1]]
+Prior: [[Quest of the Riddle and Sea Caves]]
 #mission
 # Important Docs for this Session
 1. [[Gullhook]] - for town stuff

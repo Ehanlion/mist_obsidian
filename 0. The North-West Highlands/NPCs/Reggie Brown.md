@@ -9,4 +9,4 @@ He captains a single fishing vessel by the names of *The Blueberry*. It is a pet
 # Man Missing:
 Reggie has recently gone missing from [[Smears-burrow]]. He was last reported leaving on his fishing boat and sailing along the coast to fish in the shallows. Importantly, it is known that he is NOT missing from a raid that happened at [[Smears-burrow]] because he went missing BEFORE the raid that happened. 
 
-More details about where his body can be found are contained with the 'Sad fisherman' hook of [[Mission, Welcome to Mist]]. 
+More details about where his body can be found are contained with the 'Sad fisherman' hook of [[Quest to Begin Mist]]. 

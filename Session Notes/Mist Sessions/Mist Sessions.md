@@ -67,44 +67,51 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 
 - [ ] Hunter's guild in [[Gullhook]] ties to [[The Green Order]] in [[The Twilight Woods]]
 - [ ] Flesh out quest to clear the salvage yard in [[Gullhook]]
-- [x] Chugga's bar tournament w/ [[Ball Knockers]] **Run Already, [[Gullhook]]**
+- [x] Chugga's bar tournament w/ [[Ball Knockers]] **Run Already**
 - [ ] Work on Livy from [[Livy's Livestock (Slave House)]] & tie to [[The Forest Freaks]]
-- [ ] [[Puck]] takes [[Deion Deus]]'s Hands with super poison dagger
-	- [ ] [[Puck]] seduced by [[Garrick Blackthorn]], [[Deion Deus]] framed in [[Puck]]'s mind as a weakling and a coward for not killing those kids
-	- [ ] [[Puck]] stands over [[Deion Deus]]: "I could finish you, but I won't. Then it's not on my shoulders that I killed ya, you're just weak. Just like Garrick told me."
-	- [ ] [[Puck]] lures [[Deion Deus]] to back room being friendly, then does this. Chop of hand with [[Deion Deus]]'s own hand-axe.
+	- [ ] Make Livy a Hag and add a Haven Coven and a windmill as a joke alluding to Curse of Strahd. The windmill is for LOLs but the Hags are legit.  
+- [x] [[Puck]] takes [[Deion Deus]]'s Hands with super poison dagger **Run Already**
+	- [x] [[Puck]] seduced by [[Garrick Blackthorn]], [[Deion Deus]] framed in [[Puck]]'s mind as a weakling and a coward for not killing those kids, 
+	- [x] [[Puck]] stands over [[Deion Deus]]: "I could finish you, but I won't. Then it's not on my shoulders that I killed ya, you're just weak. Just like Garrick told me." 
+	- [x] [[Puck]] lures [[Deion Deus]] to back room being friendly, then does this. Chop of hand with [[Deion Deus]]'s own hand-axe. 
 - [ ] Super long way off but have affair between [[Livy Revals]] and [[Fedorov Barovick VII]] be a weapon for stripping [[Fedorov Barovick VII]] of his right to rule [[Fedorov's Legion]]. Add something to [[Fedorov's Legion]] to make their affair and their child from it a method to invalidate his rule. 
 	- [ ] flesh out rules for this
 	- [ ] flesh out child that they had
 - [ ] Start seeding ideas for a war on [[The South-East Coast]] between [[Fedorov's Legion]] and [[The Blue Coat Brigade]]
 - [ ] Get a new sheet of NPC names and races table for quick reference
 - [ ] Integrate quests in mission doc more neatly and divide by region in Gullhook. 
-- [ ] Figure out moonrat's enemy for mission in Chugga's. 
+- [x] Figure out moonrat's enemy for mission in Chugga's.  **Ran Tavern, was fun**
 - [x] Draw map of [[Gullhook]], **Finished Drawing, paper note**
 - [ ] Draw map of the [[The High Forests]] 
 - [ ] Update and re-format player data sheets for [[Wake]] [[Deion Deus]] [[Slug Stoll]] and [[Kelswin Lovejoy]]
-- [ ] I referenced the author to a book on smithing in [[Gullhook]] named McAllister. Place him in Briar's Forge. Have him have clues about the vanishings and ideas about the forest and weapons. 
-- [ ] Enemy who they fight, the enemy runs or the party runs, and then they fight again later e.g. a recurring enemy that they know about. 
+- [x] I referenced the author to a book on smithing in [[Gullhook]] named McAllister. Place him in Briar's Forge. Have him have clues about the vanishings and ideas about the forest and weapons.  **Ran for Slug Already**
 - [ ] Build an order known as the "Exultant"
+	- [ ] Use this as the order to J's second character for [[Gandoras City]] and the order of clerical workers who follow [[The Everlight]]
 - [ ] Add surfing mini quest idea
 - [ ] Work on [[Vivian Lovejoy]]'s journal that [[Kelswin Lovejoy]] found and is reading.
 - [ ] A cave of ice with frozen bodies in the walls, frozen in combat poses. an ancient white dragon prowls the cave and hunts. It protects a secret entrance to something important. 
-- [x] Implement 6-level exhaustion system with 2x EL penalty to d20 rolls and 5x EL penalty in feet to movement. Exhaustion after being downed in combat and coming back. Applies to initiative but not death saves. 
+- [x] Implement 6-level exhaustion system with 2x EL penalty to d20 rolls and 5x EL penalty in feet to movement. Exhaustion after being downed in combat and coming back. Applies to initiative but not death saves.  **Added prototype**
 	- [ ] Maybe add an adrenaline system onto this 
-- [x] flesh out inspiration system to give inspiration more. give for never going down in combat, landing a lot of crits, doing 3/4 a monsters hp solo or something, exceptional social interaction, solving a riddle, finding a clue, etc... 
-- [x] When meeting [[Karak-Ulgurath]], they hear a layered voice of [[Ignel Valis]] (as Silvan Gile) speaking through it saying, bow to my old pet underlings or something. 
-- [x] Write document for highlighting factions and groups in [[Hope Town]] and the pirate legions like [[Fedorov's Legion]], [[The Dead-Tide Reapers]], and [[The Blue Coat Brigade]]. 
+- [x] flesh out inspiration system to give inspiration more. give for never going down in combat, landing a lot of crits, doing 3/4 a monsters hp solo or something, exceptional social interaction, solving a riddle, finding a clue, etc...  **Added prototype**
+- [x] When meeting [[Karak-Ulgurath]], they hear a layered voice of [[Ignel Valis]] (as Silvan Gile) speaking through it saying, bow to my old pet underlings or something.  **Added to note.**
+- [x] Write document for highlighting factions and groups in [[Hope Town]] and the pirate legions like [[Fedorov's Legion]], [[The Dead-Tide Reapers]], and [[The Blue Coat Brigade]].  **Written and shared with Wake Already**
 	- [x] Write a GM copy as well with more info
 - [ ] Add funeral even in [[Gullhook]] honoring [[Dmitri Mironov]] after being killed. Called an honored friend of [[Tennyson Heralds]]. Second poster talking about [[Alsolace]] needing gold strength to fight [[Erstorndin]] who's agent was a wraith of the night ([[Wake]])
-- [ ] Talk with Ashley and create Character sheet for character
-	- [ ] Race, class, ability score rolls, roll hit points
-	- [ ] Find a good magic item and give some gold to start with
+- [x] Talk with Ashley and create Character sheet for character
+	- [x] Race, class, ability score rolls, roll hit points
+	- [x] Find a good magic item and give some gold to start with
+- [ ] Figure out what to put in [[Valyra Lastname]]'s Infernal puzzle box
+- [x] Work on ways to get into green order via either Being a Druid/Ranger, born into order, or if underage offered asylum and then kicked out of the order later if they don't embrace their principles.  **Added to note on the Order**
+- [ ] Add a puzzle that is just a standard Caesar's cipher and the shift amount is uncovered somewhere within the room. Maybe the number can be found by examining paintings of spells, and each painting corresponds to a different spell of a different element. Looking closer, GM describes the spell and players have to figure which spell it is. Then to find the clue its like FIRE + FIRE - ICE + AIR - EARTH and that corresponds to the levels of the spell being combined. 
+- [ ] Add an element of [[The Aether-Veil Projector]] that is a ticking clock. In some amount of time it will shut off, [[The Shrouds of the Frost-Bound Wardens]] will dissipate and Mist will reunite with the world outside. [[The Divine Barrier]] will fall. however, it will expose the island to [[The Scintillating Order]] who are told by [[The Many]] to seek the destruction of Mist. It can only be repowered with all of the [[Shards]] reassembled and reunited. People like [[Silvan Gile]] work to get some [[Shards]] for their own devices and seek to use them for greedy purposes in their own rituals to prevent this occurrence. 
 # 3. Item/Ability Ideas
 - [ ] glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
 - [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 
-- [x] Prep tattoos for offering at Ink 
+- [x] Prep tattoos for offering at Ink  **Kelswin acquired tattoo**
 - [ ] Lance weapon that charges in a straight line?
-- [ ] Ability allowing re-roll of entire damage roll. If you roll lower than before you take the damage instead. Call it like "curse fated strike" or some BS 
+- [ ] Ability allowing re-roll of entire damage roll. If you roll lower than before you take the damage instead. Call it like "curse fated strike" or some BS
+- [x] Build the Weapon, called a Reaver Blade, that [[Puck]] used against [[Deion Deus]] **Created and done**
+- [ ] Rewrite [[The Whisperer's Curse]] to be better
 # 3. Fight Ideas
 - [ ] Enemy that is anchored to an object through magical means. They get dragged towards the object if not within a certain radius. 
 - [ ] Some lair effect that causes chains to drag a player within melee range of a powerful enemy. It is blocked if you can keep something within line of sight of you and the creature to stop the chain dragging you. 
@@ -112,7 +119,11 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Dragon who's breath attack curses magic items (wisdom save for magic item) and causes chaos
 - [ ] Enemy that copies the next attack that it gets hit by and empowers it. Call it a mimic or something. 
 - [ ] Enemy that hunts using purely scent and hearing without vision, describe as blind and kind of spazzy and jerky with movement. Hook horror kind of things
-# 4. Awards/Items per Character
+- [ ] Enemy who they fight, the enemy runs or the party runs, and then they fight again later e.g. a recurring enemy that they know about. 
+- [ ] Not really a fight, but an important figure whom they are searching for in a complex. They find their study room. The party enters. On the desk is the note yet to be sealed, still open to read. Write the note on paper for the players. "Dear X and X, This is so and so. Don't be alarmed. I know the group is coming to search this complex. We have nothing to worry about. One of our own is still undercover within the Ranks, all as we planned. See you soon. from - so and so. "
+# 4. Folder Maintenance 
+- [ ] Organize all folders better? Figure out way to do this please god
+# 5. Awards/Items per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls
 3. [[Kelswin Lovejoy]] - [Cloak of Energy Absorption](https://www.5esrd.com/database/magicitem/cloak-of-energy-absorption/)
@@ -125,3 +136,6 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 10. [[Slug Stoll]] - [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) (remember +3 to every check/save )
 11. [[Kelswin Lovejoy]] - also gets a [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) (remember +3 to every check/save) (<50 on d100 to determine)
 12. [[Kelswin Lovejoy]] - [Masquerade Tattoo](http://dnd5e.wikidot.com/wondrous-items:masquerade-tattoo), turns into a dagger to re-apply if no attunement 
+13. [[Valyra Lastname]] - [Infernal Puzzle Box](https://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box), fiery motifs, something secret to add later
+14. [[Valyra Lastname]] - [Clockwork Amulet](https://dnd5e.wikidot.com/wondrous-items:clockwork-amulet), allows reroll of 1d20 per day, flavor to apply some fiery effect to whatever it is used for
+15. [[Valyra Lastname]] - [Cloak of Many Fashions](https://dnd5e.wikidot.com/wondrous-items:cloak-of-many-fashions), cloak that can change colors 

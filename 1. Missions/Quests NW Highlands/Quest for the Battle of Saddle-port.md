@@ -1,10 +1,10 @@
 Campaign: [[Mist Sessions]]
-Prior Session: [[Mission, Defend Saddle-Port, Part 1]]
+Prior Session: [[Quest to Defend Saddle-port]]
 
 > Note: I am going to try a new approach to writing a Mission. This time, instead of fully writing everything out, I am going to leave a lot of openings for improv and instead focus on highlighting general structure, some names of important things, and some key events I want to happen. 
 
 # Recap from Last Time
-In [[Mission, Defend Saddle-Port, Part 1]], the party essentially rallied the townsfolk in an effort to ready the town of [[Saddle-Port]] for a defense against raiders from [[Karak-Ulgurath]] (don't know this creature is behind it) and against [[The Vanishings in the North-West]]. The session ended with combat started, and [[Wake]] delivering an epic strike with the aid of the spell Sky-strike and delivering three lumberjacks into combat as well. [[Kelswin Lovejoy]] was atop the library, perched up there with the giant mounted ballista, and used feather fall to levitate the lumberjacks down. [[Deion Deus]] and [[Slug Stoll]] were inside the Drunken Wyvern tavern with Herbert/Alice and [[Vivian Lovejoy]] ready to defend against intruders. 
+In [[Quest to Defend Saddle-port]], the party essentially rallied the townsfolk in an effort to ready the town of [[Saddle-Port]] for a defense against raiders from [[Karak-Ulgurath]] (don't know this creature is behind it) and against [[The Vanishings in the North-West]]. The session ended with combat started, and [[Wake]] delivering an epic strike with the aid of the spell Sky-strike and delivering three lumberjacks into combat as well. [[Kelswin Lovejoy]] was atop the library, perched up there with the giant mounted ballista, and used feather fall to levitate the lumberjacks down. [[Deion Deus]] and [[Slug Stoll]] were inside the Drunken Wyvern tavern with Herbert/Alice and [[Vivian Lovejoy]] ready to defend against intruders. 
 ### Setting the Stage:
 The weather is a **violent thunderstorm** with lightning nearby, strong winds, and sheet rain affecting vision. This makes **talking** and **seeing** difficult. 
 

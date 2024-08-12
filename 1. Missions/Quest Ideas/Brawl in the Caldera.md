@@ -2,7 +2,7 @@
 An intense battle that takes place on stone ruins floating on top of a lake of lava inside the crater of a volcano, maybe inside [[The Commotal Mines]] or the basin of [[The Commotal Caldera]]; both would be good settings for this. This battle would be unique in that it would use a heat system due to the intense nature of the fight.
 # Introducing the Heat Meter:
 Since this fight takes place in such close proximity to lava, it is only natural that players begin to experience fatigue from the intense heat. Having **fire resistance** or **a natural acclimation to a hot environment** increases the duration between negative effects induced by the heat. If a player has **immunity to fire damage**, they completely subvert the effects of the intense heat.
-#### The Heat Meter:
+## The Heat Meter:
 During combat each player has a heat meter. This is a measure of how many heat points a player can endure before they are forced to make a constitution saving throw versus a level of exhaustion. 
 
 A player gains a heat point for every action, bonus action, reaction, or movement (beyond your base movement) that your character uses during a round. Additionally, a player always incurs a heat point at the start of their turn.

@@ -59,5 +59,5 @@ Once up the cliff face, boats can slide along wooden rails on the cliff's top, a
 # Events
 Eventually, a raid will occur on the village as described in [[The Vanishings in the North-West]]. They will target [[Vivian Lovejoy]] because she is a librarian.
 # Related Missions:
-1. [[Mission, Welcome to Mist]]: this is the location where the adventure begins.
+1. [[Quest to Begin Mist]]: this is the location where the adventure begins.
 2. Sail for the Big Fish: this is the mission given to [[Deion Deus]] by Clement and Yvon to embark with them and sail to catch a great monster on the high seas, probably a couple giant squids.  

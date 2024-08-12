@@ -4,78 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7a31ddfb3e2a20",
-        "type": "tabs",
-        "dimension": 52.468007312614255,
-        "children": [
-          {
-            "id": "f98d55487bc374ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c28972f0a362da3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Features/The High Forests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bb9a4aa0584da8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e876663ceef1cf68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99. Player Data/Ashley Character Ideas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32c36b9d426dde7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Screen/The Potions Index/Potions with Poisoner's Kit.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 47.53199268738574,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -98,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Missions/Smaller Quests/Mist Side Quests.md",
+                "file": "1. Missions/Mist Side Quests.md",
                 "mode": "source",
                 "source": false
               },
@@ -118,21 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "56241694dc3ae4d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +62,6 @@
       {
         "id": "a38923bc55b5fc73",
         "type": "tabs",
-        "dimension": 53.36927223719677,
         "children": [
           {
             "id": "c463d6e74c344419",
@@ -185,24 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Player Data/Ashley Character Ideas.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "35aaaee33da6700d",
-        "type": "tabs",
-        "dimension": 46.63072776280323,
-        "children": [
-          {
-            "id": "b23d6224d287cc64",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "99. Player Data/Ashley Character Ideas.md"
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
               }
             }
           }
@@ -210,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.50260543823242
+    "width": 355.5026054382324
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -226,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Player Data/Ashley Character Ideas.md",
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Player Data/Ashley Character Ideas.md",
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -266,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Player Data/Ashley Character Ideas.md"
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
               }
             }
           }
@@ -288,35 +188,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e876663ceef1cf68",
+  "active": "6d6a08569b54d35d",
   "lastOpenFiles": [
-    "99. Player Data/Test New Character.md",
-    "GM Screen/The Potions Index/Potions with Poisoner's Kit.md",
-    "README.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "99. Player Data/Ashley Character Ideas.md",
-    "GM Screen/Spells/Wild Magic Table (Sorcerer).md",
+    "-1. Items & Abilities/Weapons/Reaver Blade.md",
+    "-1. Items & Abilities/Weapons/Cavarra Weapons.md",
+    "-1. Items & Abilities/Weapons/Red-Moon Blade.md",
     "0. The North-East Forests/Features/The Green Order/The Green Order.md",
-    "0. The South-East Mountains/Features/The Under-Mountain Pass/The Under-Mountain Pass.md",
-    "0. The South-East Mountains/Features/The Under-Mountain Pass/The Delegation of Amethyst.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "1. Missions/Smaller Quests/Mist Side Quests.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "0. The North-West Highlands/NPCs/Gideon Southmellow.md",
-    "0. The South-East Coast/Towns, Cities/Hope Town/Hope Town Faction Breakdown (Player Copy).md",
-    "0. The South-East Coast/Towns, Cities/Hope Town/Hope Town Faction Breakdown (GM Copy, Secrets).md",
-    "GM Screen/Heroic Inspiration/Heroic Inspiration.md",
-    "GM Screen/Exhaustion/exhaustion (depreciated).md",
+    "-1. Items & Abilities/General Items/The Rune of Opening.md",
+    "0. The North-West Highlands/Features/The Obelisk Field.md",
+    "0. The North-East Forests/Features/The Twilight Woods.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "0. The North-East Forests/Features/The Providing Orchard.md",
+    "0. The North-East Forests/Features/The Lake of Constellations.md",
+    "0. The North-East Forests/Features/Mount Starlight.md",
+    "99. Player Data/-1. To My Players/Inheritance Will for this Vault.md",
+    "-1. Items & Abilities/Vehicles & Ships",
+    "-1. Items & Abilities/General Items",
+    "-1. Items & Abilities/Weapons",
+    "99. Player Data/JP/J's Poisoner Character.md",
+    "-1. Items & Abilities/Ethan's Player Mechanics/Completed/Turtle Stance.md",
+    "-1. Items & Abilities/Ethan's Player Mechanics/Completed/Scry Life.md",
+    "-1. Items & Abilities/Ethan's Player Mechanics/Completed/Counterspell Surge.md",
+    "-1. Items & Abilities/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
+    "-1. Items & Abilities/Ethan's Player Mechanics/Curses/The Curse of the Lost Star.md",
+    "-1. Items & Abilities/Ethan's Player Mechanics/Curses/The Whisperer's Curse.md",
+    "99. Player Data/Ashley T",
+    "99. Player Data/Chris P",
+    "99. Player Data/Ryan J",
+    "99. Player Data/Sean M",
+    "99. Player Data/JP",
+    "1. Missions/Quest Ideas/Blinded Dungeon Crawl.md",
+    "99. Player Data/-1. To My Players",
     "GM Screen/Exhaustion/exhaustion.md",
-    "GM Screen/Heroic Inspiration",
-    "0. The North-West Highlands/NPCs/Crab Time/Karak-Ulgurath.md",
-    "GM Screen/Conditions/vulnerable.md",
-    "GM Screen/Exhaustion",
-    "0. The South-East Coast/NPCs/Silvan Gile.md",
-    "0. The South-East Coast/Towns, Cities/Hope Town/Hope Town.md",
-    "0. The South-East Coast/NPCs/The Black Guard.md",
-    "0. The South-East Coast/Features/The Coast of Promise.md",
-    "0. The South-East Coast/NPCs/The Cutthroat Authority.md",
-    "0. The South-East Coast/Features/The Cutthroat Coast.md"
+    "GM Screen/-1. EXPERIMENTAL",
+    "1. Missions/Quest Ideas/A Trip to Remember (Inception).md",
+    "_Archived/Tomb of Annihilation/NPCs/Acererak.md",
+    "_Archived/Tomb of Annihilation/NPCs/Atropal.md",
+    "_Archived/Tomb of Annihilation/NPCs/Hew Hackinstone.md",
+    "_Archived/Tomb of Annihilation/Final fight for ToA.md"
   ]
 }

@@ -1,3 +1,4 @@
+#playerability
 This is a fighting stance that can be taught to the players. It requires proficiency with a shield, medium or heavy armor, and martial weapons.
 
 >  A blurb about the stance:
@@ -7,8 +8,7 @@ This is a fighting stance that can be taught to the players. It requires profici
 The following is a list of players who know this stance and their skill level with it. It is NOT common, but there are people who would've learned it. It is originally something taught within [[The Green Order]] but the knowledge has spread. 
 - [[Master Willow Thick-Trunk]], Master.
 - [[Garrick Blackthorn]], Master.
-
-### Ability Description
+# Ability Description
 You enter a defensive stance, using your prowess with powerful melee attacks to defend against attacks. You stand your ground behind shield and sword to use your agility and strength to push back against powerful attacks. 
 
 	Transfer martial attacks to defense. If you have attacks that you can make, you can instead use them in defense whilst in this stance. Note that you can only use unused attacks that can be made as part of your attack action for this ability.
@@ -17,9 +17,9 @@ You enter a defensive stance, using your prowess with powerful melee attacks to 
 
 	You also gain advantage against effects that would displace you while this ability is active. 
 
-#### Learning the abilities:
+## Learning the abilities:
 If you learn this stance, you cannot easily use it. It takes battle and combat as well as training to truly hone your ability. You start as a novice with this stance, and can progress to learned, and finally to master.
 
 As a novice, the damage you roll against oncoming attacks is halved (as if the attacker was resistant). As a learned, the damage rolled is not modifier. As a master, you add your character level to the damage rolled, increasing your effectiveness. 
-### Ability Usages:
+## Ability Usages:
 You can use this stance as a bonus action, a number of times equal to your proficiency bonus. This effect lasts until the start of your next turn. 

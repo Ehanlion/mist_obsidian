@@ -1,5 +1,5 @@
 Campaign: [[Mist Sessions]]
-Prior: [[Mission, Defend Saddle-Port, Part 2]]
+Prior: [[Quest for the Battle of Saddle-port]]
 # General Overview
 The party attempted to defend [[Saddle-Port]] and failed. 3 Miners and [[Vivian Lovejoy]] were captured, [[Deion Deus]] made a devilish deal with [[Yugo Stolid]], and the group narrowly escaped death. The group organized repair efforts in [[Saddle-Port]], namely the assignment of young wood workers to teaching the fishermen woodcraft (badly made ships are now in progress), and then left to travel up the coast to [[Smears-burrow]] and eventually [[Gullhook]]. [[Kelswin Lovejoy]] recovered map fragments from the library fire and a local fishermen shed light on 5 sea caves dotting the coast between [[Smears-burrow]] and [[Saddle-Port]]. The group planned to head to [[Smears-burrow]] and then check out the sea cave. They were provided a small raft by the council of [[Smears-burrow]] and are beginning to sail towards the caves.
 # Mission Objectives:

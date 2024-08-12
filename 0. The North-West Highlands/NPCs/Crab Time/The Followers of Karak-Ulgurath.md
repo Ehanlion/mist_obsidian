@@ -8,4 +8,4 @@ All followers of [[Karak-Ulgurath]] are mutated in some form or another. They mi
 # Location:
 - Compound:
 	- A large underground structure made long ago by [[The Many]]. They do now know about the origins but [[Ignel Valis]] (Silvan Gile) has some idea. 
-	- It has two entrances, locked by a riddle detailed within [[Mission, Follow the Raiders, Part 1]]. One is in [[The Bay of Kelp]] and one is in [[The High Forests]], specifically the Widow-maker's stands. 
+	- It has two entrances, locked by a riddle detailed within [[Quest of the Riddle and Sea Caves]]. One is in [[The Bay of Kelp]] and one is in [[The High Forests]], specifically the Widow-maker's stands. 

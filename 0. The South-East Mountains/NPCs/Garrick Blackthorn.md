@@ -18,7 +18,7 @@ Garrick was never good aligned. Don't make that mistake. He has been, and will a
 # Character Locations:
 He is always found at the stronghold of [[The Iron-fist Marauders]], lovingly called [[The Bastion of Blood]]. He sometimes patrols [[The Blood-Stone Pass]] with his elite guard in an effort to instill fear and order to the pass. 
 # Character Missions:
-- [[Mission, De-throne Garrick]] This is the mission relating to [[Deion Deus]] and his desire to 'save' the [[The Iron-fist Marauders]] from [[Garrick Blackthorn]]'s abusive and tyrannical rule. 
+- [[Quest to De-throne Garrick]] This is the mission relating to [[Deion Deus]] and his desire to 'save' the [[The Iron-fist Marauders]] from [[Garrick Blackthorn]]'s abusive and tyrannical rule. 
 
 # Boss Abilities:
 Garrick is a powerful enemy, not one to be trifled with. His vast power lets him dominate in combat.

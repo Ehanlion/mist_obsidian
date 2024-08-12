@@ -1,5 +1,5 @@
 Campaign: [[Mist Sessions]]
-Prior Mission: [[Mission, Welcome to Mist]]
+Prior Mission: [[Quest to Begin Mist]]
 # Mission Overview:
 An onslaught on the town of [[Saddle-Port]], a small fishing village along [[The North-West Highlands]], is imminent according to party intelligence. The group must take time and decide how the will approach this situation: fight, flee, defend, or do something unpredictable. 
 #### Timing:
