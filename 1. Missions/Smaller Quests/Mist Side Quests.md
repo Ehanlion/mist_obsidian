@@ -79,7 +79,7 @@ To accept this quest, first report to the Guild-Master in the Guildhall to get a
 	- Offering 100 gp per head of killed sea creature
 	- Bonus gold if you find Gideon's forest charter book about mysteries and the unexplored in "The Hidden Forest ([[The High Forests]])"
 - **Quest Description and Information:**
-	- *Gideon:* Gideon is a portly, larger man with a husky voice. He has a small office (decorated with old memorabilia and mystery-hunting info and postings) and home that occupies the remains of an old ship - his old ship - called fog scythe.
+	- *Gideon Southmellow:* Gideon is a portly, larger man with a husky voice. He has a small office (decorated with old memorabilia and mystery-hunting info and postings) and home that occupies the remains of an old ship - his old ship - called fog scythe.
 		- Gideon was a pirate captain
 		- Gideon led "Mist Plunges," sailing missions into the Mist (to little success)
 		- Gideon's ship was badly injured and scuttled in [[Gullhook]] after a storm. He took over The Salvage Yards as a result. 

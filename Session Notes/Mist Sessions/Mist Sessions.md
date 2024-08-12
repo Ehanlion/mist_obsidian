@@ -96,6 +96,9 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [x] Write document for highlighting factions and groups in [[Hope Town]] and the pirate legions like [[Fedorov's Legion]], [[The Dead-Tide Reapers]], and [[The Blue Coat Brigade]]. 
 	- [x] Write a GM copy as well with more info
 - [ ] Add funeral even in [[Gullhook]] honoring [[Dmitri Mironov]] after being killed. Called an honored friend of [[Tennyson Heralds]]. Second poster talking about [[Alsolace]] needing gold strength to fight [[Erstorndin]] who's agent was a wraith of the night ([[Wake]])
+- [ ] Talk with Ashley and create Character sheet for character
+	- [ ] Race, class, ability score rolls, roll hit points
+	- [ ] Find a good magic item and give some gold to start with
 # 3. Item/Ability Ideas
 - [ ] glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
 - [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 

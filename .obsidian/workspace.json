@@ -6,7 +6,7 @@
       {
         "id": "7b7a31ddfb3e2a20",
         "type": "tabs",
-        "dimension": 50.162337662337656,
+        "dimension": 52.468007312614255,
         "children": [
           {
             "id": "f98d55487bc374ed",
@@ -33,25 +33,49 @@
             }
           },
           {
-            "id": "e876663ceef1cf68",
+            "id": "6bb9a4aa0584da8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e876663ceef1cf68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99. Player Data/Ashley Character Ideas.md",
+                "mode": "source",
                 "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32c36b9d426dde7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Screen/The Potions Index/Potions with Poisoner's Kit.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 49.837662337662344,
+        "dimension": 47.53199268738574,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -94,9 +118,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "56241694dc3ae4d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,6 +144,7 @@
       {
         "id": "a38923bc55b5fc73",
         "type": "tabs",
+        "dimension": 53.36927223719677,
         "children": [
           {
             "id": "c463d6e74c344419",
@@ -148,15 +185,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "99. Player Data/Ashley Character Ideas.md"
               }
             }
           }
         ]
       },
       {
-        "id": "7849bcfd86125e86",
+        "id": "35aaaee33da6700d",
         "type": "tabs",
+        "dimension": 46.63072776280323,
         "children": [
           {
             "id": "b23d6224d287cc64",
@@ -164,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "99. Player Data/Ashley Character Ideas.md"
               }
             }
           }
@@ -172,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.50260543823242
+    "width": 252.50260543823242
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -188,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "99. Player Data/Ashley Character Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "99. Player Data/Ashley Character Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "99. Player Data/Ashley Character Ideas.md"
               }
             }
           }
@@ -250,13 +288,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6a08569b54d35d",
+  "active": "e876663ceef1cf68",
   "lastOpenFiles": [
+    "99. Player Data/Test New Character.md",
+    "GM Screen/The Potions Index/Potions with Poisoner's Kit.md",
+    "README.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "99. Player Data/Ashley Character Ideas.md",
+    "GM Screen/Spells/Wild Magic Table (Sorcerer).md",
+    "0. The North-East Forests/Features/The Green Order/The Green Order.md",
+    "0. The South-East Mountains/Features/The Under-Mountain Pass/The Under-Mountain Pass.md",
+    "0. The South-East Mountains/Features/The Under-Mountain Pass/The Delegation of Amethyst.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "1. Missions/Smaller Quests/Mist Side Quests.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "0. The North-West Highlands/NPCs/Gideon Southmellow.md",
     "0. The South-East Coast/Towns, Cities/Hope Town/Hope Town Faction Breakdown (Player Copy).md",
     "0. The South-East Coast/Towns, Cities/Hope Town/Hope Town Faction Breakdown (GM Copy, Secrets).md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "1. Missions/Smaller Quests/Mist Side Quests.md",
     "GM Screen/Heroic Inspiration/Heroic Inspiration.md",
     "GM Screen/Exhaustion/exhaustion (depreciated).md",
     "GM Screen/Exhaustion/exhaustion.md",
@@ -269,16 +317,6 @@
     "0. The South-East Coast/NPCs/The Black Guard.md",
     "0. The South-East Coast/Features/The Coast of Promise.md",
     "0. The South-East Coast/NPCs/The Cutthroat Authority.md",
-    "0. The South-East Coast/Features/The Cutthroat Coast.md",
-    "0. The South-East Coast/NPCs/Baroness Von Azarov.md",
-    "0. The South-East Coast/Towns, Cities/Hope Town/The Great Market.md",
-    "0. The South-East Coast/Towns, Cities/Hope Town/The Bay of Trade.md",
-    "0. The South-East Coast/NPCs/Tergal the Fierce.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
-    "1. Missions/Mission Phase 1/Mission, Follow the Raiders, Part 2.md",
-    "Session Notes/Mist Sessions/Mist S11 7-24-2024.md",
-    "_Templates/How to build a location - Matt Mercer.md",
-    "Session Notes/Mist Sessions/Mist S12 8-9-24.md"
+    "0. The South-East Coast/Features/The Cutthroat Coast.md"
   ]
 }
