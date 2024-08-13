@@ -123,6 +123,9 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Not really a fight, but an important figure whom they are searching for in a complex. They find their study room. The party enters. On the desk is the note yet to be sealed, still open to read. Write the note on paper for the players. "Dear X and X, This is so and so. Don't be alarmed. I know the group is coming to search this complex. We have nothing to worry about. One of our own is still undercover within the Ranks, all as we planned. See you soon. from - so and so. "
 # 4. Folder Maintenance 
 - [ ] Organize all folders better? Figure out way to do this please god
+- [ ] Come up with new name for island, use the note as a general index for the island. 
+- [ ] re-build each region note as an index, as if it were the start of the chapter
+- [ ] LONG TERM - assimilate methods from this link [reddit mega post on obsidian for D&D](https://www.reddit.com/r/worldbuilding/comments/v9uorp/obsidianmd_the_perfect_free_campaign_manager/)
 # 5. Awards/Items per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls

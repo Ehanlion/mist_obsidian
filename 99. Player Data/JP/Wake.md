@@ -56,3 +56,4 @@ Wake could be used by [[Ignel Valis]] ([[Silvan Gile]]) as a power source for an
 ### Desires for future session
 1. A mission that's longer winded, forced to use short rests
 2. long dungeon requiring tactical usage of rest and resources
+# Wake Version Two

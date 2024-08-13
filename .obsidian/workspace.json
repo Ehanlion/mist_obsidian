@@ -48,9 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1f9bd4a48ece825f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md"
               }
             }
           }
@@ -110,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5026054382324
+    "width": 300.5026054382324
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md"
               }
             }
           }
@@ -188,43 +200,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6a08569b54d35d",
+  "active": "1f9bd4a48ece825f",
   "lastOpenFiles": [
-    "-1. Items & Abilities/Weapons/Reaver Blade.md",
-    "-1. Items & Abilities/Weapons/Cavarra Weapons.md",
-    "-1. Items & Abilities/Weapons/Red-Moon Blade.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+    "GM Screen/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
+    "GM Screen/Ethan's Player Mechanics/Unfinished/Kinetic Divergence.md",
+    "99. Player Data/JP/Wake.md",
+    "-1. Global/Great Features/The Aether-Veil Projector.md",
+    "-1. Global/Great Features/Archaic Storm Conduits.md",
+    "-1. Global/Great Features/Amides.md",
+    "0. The North-West Highlands/The North-West Highlands.md",
+    "99. Player Data/JP/Will Poisoner.md",
+    "-1. Items & Things/Weapons/Reaver Blade.md",
+    "-1. Items & Things/Weapons/Cavarra Weapons.md",
+    "-1. Items & Things/Weapons/Red-Moon Blade.md",
     "0. The North-East Forests/Features/The Green Order/The Green Order.md",
-    "-1. Items & Abilities/General Items/The Rune of Opening.md",
+    "-1. Items & Things/General Items/The Rune of Opening.md",
     "0. The North-West Highlands/Features/The Obelisk Field.md",
     "0. The North-East Forests/Features/The Twilight Woods.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
     "0. The North-East Forests/Features/The Providing Orchard.md",
     "0. The North-East Forests/Features/The Lake of Constellations.md",
     "0. The North-East Forests/Features/Mount Starlight.md",
     "99. Player Data/-1. To My Players/Inheritance Will for this Vault.md",
-    "-1. Items & Abilities/Vehicles & Ships",
-    "-1. Items & Abilities/General Items",
-    "-1. Items & Abilities/Weapons",
-    "99. Player Data/JP/J's Poisoner Character.md",
-    "-1. Items & Abilities/Ethan's Player Mechanics/Completed/Turtle Stance.md",
-    "-1. Items & Abilities/Ethan's Player Mechanics/Completed/Scry Life.md",
-    "-1. Items & Abilities/Ethan's Player Mechanics/Completed/Counterspell Surge.md",
-    "-1. Items & Abilities/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
-    "-1. Items & Abilities/Ethan's Player Mechanics/Curses/The Curse of the Lost Star.md",
-    "-1. Items & Abilities/Ethan's Player Mechanics/Curses/The Whisperer's Curse.md",
+    "-1. Items & Things/Vehicles & Ships",
+    "-1. Items & Things/General Items",
+    "-1. Items & Things/Weapons",
+    "GM Screen/Ethan's Player Mechanics/Completed/Turtle Stance.md",
+    "GM Screen/Ethan's Player Mechanics/Completed/Scry Life.md",
+    "GM Screen/Ethan's Player Mechanics/Completed/Counterspell Surge.md",
+    "GM Screen/Ethan's Player Mechanics/Curses/The Curse of the Lost Star.md",
+    "GM Screen/Ethan's Player Mechanics/Curses/The Whisperer's Curse.md",
     "99. Player Data/Ashley T",
     "99. Player Data/Chris P",
     "99. Player Data/Ryan J",
     "99. Player Data/Sean M",
     "99. Player Data/JP",
-    "1. Missions/Quest Ideas/Blinded Dungeon Crawl.md",
     "99. Player Data/-1. To My Players",
-    "GM Screen/Exhaustion/exhaustion.md",
-    "GM Screen/-1. EXPERIMENTAL",
-    "1. Missions/Quest Ideas/A Trip to Remember (Inception).md",
-    "_Archived/Tomb of Annihilation/NPCs/Acererak.md",
-    "_Archived/Tomb of Annihilation/NPCs/Atropal.md",
-    "_Archived/Tomb of Annihilation/NPCs/Hew Hackinstone.md",
-    "_Archived/Tomb of Annihilation/Final fight for ToA.md"
+    "GM Screen/-1. EXPERIMENTAL"
   ]
 }

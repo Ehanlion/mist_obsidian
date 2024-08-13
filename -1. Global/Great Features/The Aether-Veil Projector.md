@@ -6,7 +6,6 @@ The veil projects as layers of mist. There are increasingly colder, denser, and 
 This phenomenon is known to the local people of Mist as [[The Shrouds of the Frost-Bound Wardens]]. 
 
 If you manage to sail through the incredible cold and the [[Frost-Bound Wardens]], you actually emerge on the opposite side of the island from where you entered. 
-
 # How it works:
 The Aether-veil Projector required multiple, massive components to get it functioning: a control mechanism and a power source.
 
@@ -17,3 +16,5 @@ It can also be used to modify spells, and spell energy itself. It can imbue scho
 
 **The Power Source:**
 The Aether-Veil Projector required massive amounts of [[Stormphrax]] to be fully powered. [[The Many]] spent years manipulating lightning strikes with [[Archaic Storm Conduits]], quarrying the resulting lighting spires, and extracting [[Stormphrax]]. 
+## A Finite Lifespan
+The projector has a finite limit in the length of time it can project for before needed to be repowered. Soon, at a time that would be good narratively for a story here, the project can begin to falter. When this happens, after a set amount of time, the projector will fail, [[The Shrouds of the Frost-Bound Wardens]] will fall as a consequence
