@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "768afbd32f525fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99. Player Data/Ashley T/Valyra Malzan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md"
+                "file": "99. Player Data/Ashley T/Valyra Malzan.md"
               }
             }
           }
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+                "file": "99. Player Data/Ashley T/Valyra Malzan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+                "file": "99. Player Data/Ashley T/Valyra Malzan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md"
+                "file": "99. Player Data/Ashley T/Valyra Malzan.md"
               }
             }
           }
@@ -200,10 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f9bd4a48ece825f",
+  "active": "768afbd32f525fc2",
   "lastOpenFiles": [
-    "Session Notes/Mist Sessions/Mist Sessions.md",
     "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
     "GM Screen/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
     "GM Screen/Ethan's Player Mechanics/Unfinished/Kinetic Divergence.md",
     "99. Player Data/JP/Wake.md",

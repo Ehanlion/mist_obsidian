@@ -100,7 +100,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [x] Talk with Ashley and create Character sheet for character
 	- [x] Race, class, ability score rolls, roll hit points
 	- [x] Find a good magic item and give some gold to start with
-- [ ] Figure out what to put in [[Valyra Lastname]]'s Infernal puzzle box
+- [ ] Figure out what to put in [[Valyra Malzan]]'s Infernal puzzle box
 - [x] Work on ways to get into green order via either Being a Druid/Ranger, born into order, or if underage offered asylum and then kicked out of the order later if they don't embrace their principles.  **Added to note on the Order**
 - [ ] Add a puzzle that is just a standard Caesar's cipher and the shift amount is uncovered somewhere within the room. Maybe the number can be found by examining paintings of spells, and each painting corresponds to a different spell of a different element. Looking closer, GM describes the spell and players have to figure which spell it is. Then to find the clue its like FIRE + FIRE - ICE + AIR - EARTH and that corresponds to the levels of the spell being combined. 
 - [ ] Add an element of [[The Aether-Veil Projector]] that is a ticking clock. In some amount of time it will shut off, [[The Shrouds of the Frost-Bound Wardens]] will dissipate and Mist will reunite with the world outside. [[The Divine Barrier]] will fall. however, it will expose the island to [[The Scintillating Order]] who are told by [[The Many]] to seek the destruction of Mist. It can only be repowered with all of the [[Shards]] reassembled and reunited. People like [[Silvan Gile]] work to get some [[Shards]] for their own devices and seek to use them for greedy purposes in their own rituals to prevent this occurrence. 
@@ -139,6 +139,6 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 10. [[Slug Stoll]] - [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) (remember +3 to every check/save )
 11. [[Kelswin Lovejoy]] - also gets a [Stone of Ill Luck](http://dnd5e.wikidot.com/wondrous-items:stone-of-ill-luck) (remember +3 to every check/save) (<50 on d100 to determine)
 12. [[Kelswin Lovejoy]] - [Masquerade Tattoo](http://dnd5e.wikidot.com/wondrous-items:masquerade-tattoo), turns into a dagger to re-apply if no attunement 
-13. [[Valyra Lastname]] - [Infernal Puzzle Box](https://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box), fiery motifs, something secret to add later
-14. [[Valyra Lastname]] - [Clockwork Amulet](https://dnd5e.wikidot.com/wondrous-items:clockwork-amulet), allows reroll of 1d20 per day, flavor to apply some fiery effect to whatever it is used for
-15. [[Valyra Lastname]] - [Cloak of Many Fashions](https://dnd5e.wikidot.com/wondrous-items:cloak-of-many-fashions), cloak that can change colors 
+13. [[Valyra Malzan]] - [Infernal Puzzle Box](https://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box), fiery motifs, something secret to add later
+14. [[Valyra Malzan]] - [Clockwork Amulet](https://dnd5e.wikidot.com/wondrous-items:clockwork-amulet), allows reroll of 1d20 per day, flavor to apply some fiery effect to whatever it is used for
+15. [[Valyra Malzan]] - [Cloak of Many Fashions](https://dnd5e.wikidot.com/wondrous-items:cloak-of-many-fashions), cloak that can change colors 
