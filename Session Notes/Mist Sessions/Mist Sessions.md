@@ -104,6 +104,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [x] Work on ways to get into green order via either Being a Druid/Ranger, born into order, or if underage offered asylum and then kicked out of the order later if they don't embrace their principles.  **Added to note on the Order**
 - [ ] Add a puzzle that is just a standard Caesar's cipher and the shift amount is uncovered somewhere within the room. Maybe the number can be found by examining paintings of spells, and each painting corresponds to a different spell of a different element. Looking closer, GM describes the spell and players have to figure which spell it is. Then to find the clue its like FIRE + FIRE - ICE + AIR - EARTH and that corresponds to the levels of the spell being combined. 
 - [ ] Add an element of [[The Aether-Veil Projector]] that is a ticking clock. In some amount of time it will shut off, [[The Shrouds of the Frost-Bound Wardens]] will dissipate and Mist will reunite with the world outside. [[The Divine Barrier]] will fall. however, it will expose the island to [[The Scintillating Order]] who are told by [[The Many]] to seek the destruction of Mist. It can only be repowered with all of the [[Shards]] reassembled and reunited. People like [[Silvan Gile]] work to get some [[Shards]] for their own devices and seek to use them for greedy purposes in their own rituals to prevent this occurrence. 
+- [ ] Incredibly hard puzzle room with requirement for magic, contained in an orb that players can be pulled into it
 # 3. Item/Ability Ideas
 - [ ] glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
 - [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 
@@ -126,6 +127,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Come up with new name for island, use the note as a general index for the island. 
 - [ ] re-build each region note as an index, as if it were the start of the chapter
 - [ ] LONG TERM - assimilate methods from this link [reddit mega post on obsidian for D&D](https://www.reddit.com/r/worldbuilding/comments/v9uorp/obsidianmd_the_perfect_free_campaign_manager/)
+- [ ] Checkout Murph's from D20's podcast not another dungeons and dragons podcast to see how he does fights and alternative interactive things. 
 # 5. Awards/Items per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls

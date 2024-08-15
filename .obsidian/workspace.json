@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Player Data/Ashley T/Valyra Malzan.md"
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Player Data/Ashley T/Valyra Malzan.md",
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Player Data/Ashley T/Valyra Malzan.md",
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Player Data/Ashley T/Valyra Malzan.md"
+                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
               }
             }
           }
@@ -212,8 +212,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "768afbd32f525fc2",
+  "active": "6d6a08569b54d35d",
   "lastOpenFiles": [
+    "99. Player Data/Ashley T/Valyra Malzan.md",
     "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
     "GM Screen/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
@@ -242,7 +243,6 @@
     "GM Screen/Ethan's Player Mechanics/Completed/Scry Life.md",
     "GM Screen/Ethan's Player Mechanics/Completed/Counterspell Surge.md",
     "GM Screen/Ethan's Player Mechanics/Curses/The Curse of the Lost Star.md",
-    "GM Screen/Ethan's Player Mechanics/Curses/The Whisperer's Curse.md",
     "99. Player Data/Ashley T",
     "99. Player Data/Chris P",
     "99. Player Data/Ryan J",
