@@ -55,26 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "768afbd32f525fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,11 +114,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -212,12 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "768afbd32f525fc2",
+  "active": "1f9bd4a48ece825f",
   "lastOpenFiles": [
+    "1. Missions/Mist Side Quests.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
     "99. Player Data/JP/Wake Tiraus.md",
     "99. Player Data/Ashley T/Valyra Malzan.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
     "GM Screen/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
     "GM Screen/Ethan's Player Mechanics/Unfinished/Kinetic Divergence.md",
     "-1. Global/Great Features/The Aether-Veil Projector.md",
@@ -241,8 +232,6 @@
     "-1. Items & Things/Weapons",
     "GM Screen/Ethan's Player Mechanics/Completed/Turtle Stance.md",
     "GM Screen/Ethan's Player Mechanics/Completed/Scry Life.md",
-    "GM Screen/Ethan's Player Mechanics/Completed/Counterspell Surge.md",
-    "GM Screen/Ethan's Player Mechanics/Curses/The Curse of the Lost Star.md",
     "99. Player Data/Ashley T",
     "99. Player Data/Chris P",
     "99. Player Data/Ryan J",

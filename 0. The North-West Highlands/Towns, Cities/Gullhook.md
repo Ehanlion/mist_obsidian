@@ -89,11 +89,78 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 ### Briar's Forge:
 > Briar's Forge is the go-to destination for finely crafted weapons and armor, where the clang of hammers rings out day and night. The forge is run by the legendary blacksmith Briar, known for his skill in imbuing steel with mystical energies.
 ### The Salvage Yards:
-> The Salvage Yards are a sprawling expanse where the remnants of shipwrecks and lost cargo are brought to be dismantled or repurposed. Treasure hunters and inventors scour the yards, searching for valuable artifacts and rare materials. Creatures lurk in the darkness.
 
-**Missions:**
-- Clear the yards: A evil creature runs amok attacking those who have paid to scavenge. 
-- Find the Sahuaguin: Some Sahuaguin are hiding in the yards. They are in cohorts with [[Tennyson Heralds]] at the Temple Glade, as well as [[Dmitri Mironov]] and [[Igor Larionov]]. 
+> [!NOTE] Salvage Yard's Description
+> The Salvage Yards are a chaotic sprawl of twisted metal, rotting wood, and forgotten treasures, stretching as far as the eye can see. This labyrinth of shipwrecks and lost cargo is a dangerous place where the detritus of the sea meets the ingenuity of scavengers. Towering piles of rusted chains, broken masts, and waterlogged crates create narrow pathways that wind through the wreckage, while makeshift cranes and ancient, creaking contraptions groan under the weight of their burdens. Treasure hunters and inventors pick through the debris, searching for valuable artifacts and rare materials amidst the clutter.
+>
+But danger lurks in every shadow. The yards are infested with creatures drawn to the remnants of old magic and the stench of decay. Lurking in the darkness are things that should not be, their eyes gleaming with hunger. The very ground beneath your feet is treacherous, with hidden pitfalls and unstable piles of wreckage threatening to collapse at the slightest provocation. Yet, within this chaotic and perilous landscape, there is potential—old traps that can be triggered, forgotten contraptions that can be reactivated, and treasures that, if found, could turn the tide of any battle. The Salvage Yards are a place where both opportunity and danger lie in wait, and only the quick-witted and brave will emerge unscathed.
+#### Salvage Yard Descriptions and Features
+##### Large Yard Features
+Here’s a list of small places and elements to highlight in the Salvage Yards:
+
+- **The Rusted Crane**: A towering, ancient crane, barely operational, with a massive hook that swings unpredictably in the wind. The gears grind loudly, and it creaks ominously as it shifts under its own weight. A well-timed push could send its hook crashing into an enemy or bring down a pile of debris.
+- **The Cargo Graveyard**: A section of the yards filled with old, rotting crates and barrels, some of which contain valuable but unstable alchemical substances. A stray spark could set off a chain reaction of explosions, creating chaos and destruction.
+- **The Scrap Piles**: Heaps of twisted metal and broken wood, stacked haphazardly and ready to collapse. Moving through these piles is risky, as they could fall and trap anyone underneath, but they also provide cover or a means to ambush unsuspecting foes.
+- **The Old Ship’s Belly**: The partially intact hull of a massive ship, its interior a dark, damp maze of corridors and rooms. Within, old treasures and dangerous creatures await, with the potential to set traps or spring surprises on enemies.
+- **The Mechanic’s Alcove**: A small, hidden workshop nestled within the wreckage, where an old inventor once tinkered with strange contraptions. Many of these devices still function, though they are unpredictable and could be turned into makeshift weapons or distractions.
+- **The Kraken’s Bones**: The skeletal remains of a massive sea creature, draped across a section of the yard. The bones are sharp and jagged, and the area is eerily quiet, as if the creature’s spirit still lingers. Moving through here could provoke the restless undead or offer a place to set a deadly ambush.
+- **The Deep Pit**: A large, open pit filled with the remains of countless ships, with jagged debris jutting out at odd angles. Falling into the pit would be dangerous, but it could also be used to lure enemies to their doom.
+- **The Enchanted Anchor**: A massive, barnacle-encrusted anchor that pulses faintly with residual magic. Touching it could have unpredictable effects—summoning a ghostly crew, activating a powerful spell, or releasing a dangerous entity.
+- **The Hidden Cache**: A secret stash of old weapons and gear, buried deep within a pile of rubble. Finding it could provide a significant advantage in combat, but it’s well-hidden and difficult to access without disturbing the surrounding debris.
+- **The Cursed Figurehead**: The carved figurehead of a long-lost ship, rumored to be cursed. It radiates a malevolent energy that can drive creatures to madness or cause hallucinations, making it a dangerous yet potentially useful tool if controlled. If communicated with, it can even turn into a Wyvern, friendly to the creature that released it. 
+
+These elements can add depth and dynamism to the combat, providing opportunities for creativity and strategy as players interact with the chaotic and dangerous environment of the Salvage Yards.
+##### General Yard Hazards and Environment 
+Here’s a list of general environmental elements to quickly refer to when describing the Salvage Yards as a group navigates through:
+
+1. **Mounds of Frayed Ropes**: Massive piles of thick, sea-soaked ropes, now frayed and tangled. They twist like serpents on the ground, creating treacherous paths where a misstep could lead to a nasty fall.
+2. **Barnacle-Crusted Hulls**: The skeletal remains of old ships, their hulls encrusted with barnacles and seaweed, jutting out at odd angles like the ribs of some long-dead leviathan. *Barnacle Beast?*
+3. **Broken Masts**: Tall, splintered masts lie scattered across the yards, some still adorned with tattered, salt-stained sails that flutter weakly in the breeze.
+4. **Pools of Stagnant Water**: Large, brackish pools of stagnant water collected in the lower parts of the yard, their surfaces thick with algae and the occasional ripple hinting at something lurking beneath. *Algae Beast?*
+5. **Piles of Rusted Chains**: Massive, rusted chains coiled in large heaps, their links corroded and brittle, but still heavy and potentially dangerous if disturbed. *Rust Chain Golem?*
+6. **Crates of Rotting Goods**: Stacks of old crates filled with the remains of long-spoiled cargo. The wood is dark and soft, and the stench of rot hangs heavily in the air.
+7. **Slick, Moss-Covered Rocks**: Large rocks, slick with moss and seawater, making footing treacherous as they’re scattered among the debris.
+8. **Wrecked Rowboats**: Small rowboats overturned and smashed, their wooden frames broken and splintered. Some are half-buried under the weight of larger debris.
+9. **Foul-Smelling Driftwood**: Gnarled pieces of driftwood scattered about, some charred as if burned, others stained dark with the remnants of old sea battles.
+10. **Collapsed Casks**: Shattered casks, their contents long spilled, creating slick, slippery areas on the ground. The lingering scent of fermented ale or brine still clings to the air around them.
+11. **Tangled Nets**: Old fishing nets tangled and torn, draped over piles of debris or hanging from broken masts. They sway eerily in the wind, catching on anything that brushes against them.
+12. **Corroded Anchors**: Large, corroded anchors half-buried in the muck, their flukes sharp and jagged, ready to trip up the unwary. *Anchor Lobster?*
+13. **Beached Buoys**: Weather-beaten buoys scattered across the yards, their paint faded and bells long silenced. Some are cracked open, revealing the rusting innards within.
+14. **Scattered Bones**: The bleached, broken bones of sea creatures—some small and some disturbingly large—litter the ground, half-hidden by the wreckage.
+15. **Rusted Gears and Cogs**: Discarded pieces of old machinery, rusted and half-buried in the dirt, hinting at the mechanical wonders that once powered great ships.
+16. **Worn, Faded Flags**: Tattered flags from long-forgotten ships, their colors faded and edges frayed, hang limply from makeshift poles or lie crumpled on the ground.
+17. **Creaking Planks**: Loose wooden planks underfoot that creak ominously with every step, threatening to give way and send an unsuspecting explorer tumbling into the darkness below.
+18. **Seaweed-Covered Debris**: Thick tendrils of seaweed draped over broken beams and crates, still damp and slick, clinging to anything it touches. *Swarm of Annoying things?*
+19. **Old, Broken Lanterns**: Rusty, oil-less lanterns hang from bent posts or lie smashed on the ground, their glass panes shattered, and frames bent out of shape.
+20. **Wind-Worn Figureheads**: The figureheads of old ships, worn smooth by wind and time, stand eerily in the yards—some with faces still recognizable, others eroded into ghostly shapes.
+
+These descriptions can be used to create a vivid, immersive environment, making the Salvage Yards feel alive with history, danger, and the remnants of past lives.
+#### Scrapyard Creatures
+##### Bullshit Made-up Creatures
+These are a list of creatures I just kind of made up cause they sounded cool; check them off if they are used, then create an official stat block for them.
+
+- [ ]  **Rustmonger Crabs**: Large, crab-like creatures that feed on metal, leaving behind trails of rust. Their pincers can crush through armor, and they’re attracted to anything shiny.
+- [ ]  **Salvage Sprites**: Mischievous, tiny fey creatures that live within the debris. They delight in causing trouble, rearranging items, and setting traps for unsuspecting adventurers.
+- [ ]  **Scrap Golems**: Animated piles of junk and shipwreck pieces that have gained a semblance of life. These creatures are clumsy but powerful, swinging makeshift limbs made of broken beams and rusted chains.
+- [ ]  **Wrecklings**: Small, gremlin-like creatures that thrive in the shadows, scavenging for metal and wood to build their nests. They’re quick, nimble, and have a penchant for stealing tools and weapons.
+- [ ]  **Barnacle Hounds**: Canine-shaped creatures with tough, barnacle-covered hides. They hunt in packs and are known for their relentless pursuit of prey, often cornering their victims in tight spaces.
+- [ ]  **Flotsam Fiends**: Amorphous, ooze-like creatures that blend into piles of debris. They lie in wait, attacking anything that disturbs their hiding spots with corrosive tendrils.
+- [ ]  **Creaking Terrors**: Ghostly apparitions formed from the spirits of drowned sailors, bound to the wreckage that now serves as their eternal prison. They manifest as eerie, shifting shadows that emit unsettling creaks and groans.
+- [ ]  **Razorwing Gulls**: Aggressive seabirds with razor-sharp beaks and claws, known for dive-bombing intruders and picking at exposed flesh.
+- [ ]  **Wrecker Beetles**: Giant beetles with powerful mandibles capable of cutting through wood and metal. They burrow through debris, creating unstable tunnels and nests within the wreckage.
+- [ ]  **Scuttleweavers**: Large, spider-like creatures that weave webs between piles of junk. Their webs are sticky and nearly invisible, trapping anything that stumbles into them.
+##### Traditional 5th Edition D&D Creatures:
+- [ ]  **Mimics**: Shapeshifting creatures that disguise themselves as inanimate objects, waiting for the perfect moment to attack.
+- [ ]  **Ghouls**: Undead scavengers drawn to the decaying flesh of long-dead sailors, lurking in the shadows to ambush the living.
+- [ ]  **Goblins**: Small, sneaky creatures that thrive in the chaotic environment of the Salvage Yards, often forming gangs that raid and scavenge.
+- [ ]  **Kobolds**: Cunning, reptilian humanoids who build traps and hideouts within the wreckage, defending their territory fiercely.
+- [ ]  **Oozes**: Amorphous creatures like Gray Oozes or Ochre Jellies, seeping through cracks and crevices, dissolving anything organic in their path.
+- [ ]  **Sahuagin**: Evil aquatic humanoids who may use the yards as a base of operations for raids, hiding in flooded sections and ambushing intruders.
+- [ ]  **Carrion Crawlers**: Large, insectoid creatures that feast on decaying matter, often found in the darkest, most foul-smelling parts of the yards.
+- [ ]  **Shadows**: Malevolent, undead entities that drain the strength of the living, lurking in the darkest corners and crevices.
+- [ ]  **Grimlocks**: Blind, subterranean creatures that rely on their keen senses of hearing and smell to navigate and hunt within the maze-like Salvage Yards.
+- [ ]  **Harpies**: Winged, human-bird hybrids that lure prey with their enchanting songs, nesting high up in the wreckage and swooping down on unsuspecting victims.
+#### Old Contraptions and Inventions
 
 ## Commerce
 | Store Name                | Owner                                | Goods                           |

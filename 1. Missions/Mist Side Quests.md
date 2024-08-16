@@ -118,10 +118,13 @@ To accept this quest, first report to the Guild-Master in the Guildhall to get a
 			- make sure to highlight that one of the Sahuaguin spied on group in the tavern they visited and at night in the room that they stayed in
 			- They stole Gideon's charter of mysteries 
 			- They know of clued path back to compound but never reveal willingly or if forced, do so cryptically while laughing 
+	- *The OTHER Interlopers - Monsters*
+		- Sahuaguin are main threats, but other threats exist that will fight anyone.
 	- *Important Items*
 		- Blade master has small painting of family, in background is a roiling green sea with kelp floating on it. Alludes to clue from [[Quest to Chase the Raiders]] and the line "Churning Green Ocean Waves"
 		- Gideon's Forest Charter Mystery Book
 		- Potential Threat list from [[Gullhook]]
+
 #### A Funeral for an Enemy - **UNUSED** - `UNFINISHED`
 - [ ] Check to indicated if the quest has been completed
 - **Session first used in:**
@@ -180,3 +183,67 @@ The table falls quiet for a moment, the weight of the challenge settling in. "Th
 				- [[The Port of Last Call]] - Town far to the North and West in [[The Distant Sea]], last point of civilization before reaching the confluence of the Northern and Western walls of mist, apart of [[The Shrouds of the Frost-Bound Wardens]]. 
 				- [[The Town of Frost-Haven]] - Town on multiple, rocky, perilously-tall islands slightly south of [[Warden-Hunter's Hideout]]. 
 				- [[Warden-Hunter's Hideout]] - Town on a large island near the [[The Shrouds of the Frost-Bound Wardens]] towards the north of [[The Distant Sea]]
+
+## Fishy Business in the Salvage Yards
+### Location and Setup
+**Session First Used In:** ???
+**Location Used In:** [[Gullhook]], specifically Gideon's Salvage Yards
+*Suggested Location Ideas:* A scrapyard or somewhere than is urban and chaotic.
+### Rewards
+**Important Quest Items:**
+- Blade master has small painting of family, in background is a roiling green sea with kelp floating on it. Alludes to clue from [[Quest to Chase the Raiders]] and the line "Churning Green Ocean Waves"
+- Gideon's Forest Charter Mystery Book
+- Potential Threat list from [[Gullhook]]
+
+**Reward Items:**
+- Offering 100 gp per head of killed sea creature
+- Bonus gold if you find Gideon's forest charter book about mysteries and the unexplored in "The Hidden Forest ([[The High Forests]])"**
+	- Gideon will offer them a chance to read the book, despite it being deeply personal
+	- He will also just offer them gold as thanks, the party can choose. 
+	- If they read the book, just ad lib about something secret-y and spooky from their current party mission
+### Description
+> [!NOTE] Quest Hook
+> A sinister threat has emerged within the Gullhook Salvage Yards. Townsfolk have reported sightings of strange, fish-like individuals lurking among the wreckage of old ships. These mysterious intruders have been causing unease and fear, and their intentions remain unknown.
+>
+A reward of 100 gold pieces per head is offered to any brave soul or band of adventurers willing to investigate and eliminate these lurking threats. Be warned: these creatures are dangerous and elusive, using the maze of the salvage yard to their advantage. Previous attempts to root them out have ended in tragedy, with several crews meeting a grim fate. Their shifty and cunning nature makes them formidable opponents.
+>
+To accept this quest, first report to the Guild-Master in the Guildhall to get a contract, then report to Foreman Gideon Rusthand at the Salvage Yards for more details and guidance. Your courage and skill are needed to ensure the safety of Gullhook and put an end to this mysterious menace.
+
+### The Sahuaguin Enemy
+#### Details About the Enemy
+The Sahuagin Interlopers are cunning and ruthless, employing a variety of deadly traps to protect their hideout and eliminate any intruders. Their tactics reflect their underwater origins, but they've adapted remarkably well to the labyrinthine environment of the Salvage Yards. They are spies in the town, gathering information about raider targets, potential threats, and groups hot on their trail. 
+#### Creatures to Use
+**The Sahuaguin Interloper Party:**
+- 1x blade master (use saltmarsh)
+- 1x priestess (use saltmarsh)
+- 5x Sahuaguin brutes (use monster manual)
+
+The blade master leads the charge into combat, the brutes work the traps around combat, and the priestess casts spells and heals from afar. Make sure they only kite and dodge attacks until they are in a good position, in area they have fortified and know well. 
+#### Traps and Tactics
+**Tactics:** The Sahuagin Interlopers are well-coordinated, using the chaotic environment of the Salvage Yards to their advantage. They rely on hit-and-run tactics, using their traps to weaken and disorient intruders before moving in for the kill. The Blade Master, a seasoned warrior, leads the charge, directing the brutes in strategic strikes. Meanwhile, the Priestess uses her dark magic to curse and confuse their enemies from afar. 
+
+**Hiding Spots are Key:** The Sahuagin make use of the many hiding spots within the yards, attacking from unexpected angles and retreating into the shadows when faced with strong resistance. They communicate using guttural clicks and whistles, almost inaudible to human ears, ensuring that they can coordinate their attacks without revealing their positions.
+
+**Kiting and Group Attack:** They will attack a group, but will seek to lure them away and into an area that they trapped and prepared before hand to defend. They know that an attack is likely, so this makes sense. 
+
+**Traps:**
+1. **Nets and Tripwires**: The Sahuagin have strategically placed nearly invisible nets woven from seaweed and sturdy fibers across narrow pathways. These nets are rigged to tripwires, which, when triggered, cause the net to spring up and entangle unsuspecting adventurers. The nets are coated in a slick, oily substance that makes escape difficult and leaves those trapped vulnerable to attacks.    
+2. **Oil Flasks and Fire Traps**: Hidden among the debris are flasks of oil carefully placed to spill when disturbed. Tripwires are attached to these flasks, and when triggered, the oil spreads quickly across the ground. The Sahuagin have set up torches and flint traps that can ignite the oil, creating a sudden blaze. They may also use fire arrows or flaming crossbow bolts to ignite the oil remotely, cutting off escape routes or forcing their enemies into more dangerous areas.    
+3. **Poisoned Crossbows and Tripwire Triggers**: Crossbows are hidden within piles of wreckage, aimed at choke points and passageways. These crossbows are rigged to tripwires, and when triggered, they fire bolts laced with paralytic poison. The poison is fast-acting, designed to slow down or incapacitate intruders, making them easy prey for the Sahuagin.    
+4. **Fall Traps**: The Sahuagin have set up false floors and weak planks across key areas of the Salvage Yards. These areas are rigged to collapse under weight, dropping intruders into pits filled with jagged metal, splintered wood, or even waiting Sahuagin brutes. The traps are often disguised with a thin layer of debris, making them difficult to spot until it's too late.    
+5. **Swinging Wreckage**: Using their strength and knowledge of the yards, the Sahuagin have rigged massive chunks of wreckage—like old ship masts or anchors—on ropes and pulleys. These are set to swing down from above when a tripwire is triggered, crushing anything in their path. The Sahuagin may also release these traps manually from hidden vantage points, timing their attacks to cause maximum damage.
+#### Sahuaguin Hideout
+**Location**: The Sahuagin hideout is cleverly concealed within the deepest, most treacherous part of the Salvage Yards, known as the "Wrecked Maw." This area is a tangled mess of ship hulls, rusted chains, and broken masts, creating a natural maze of debris. The entrance to the hideout is hidden beneath a large, barnacle-encrusted anchor that appears to be just another piece of forgotten wreckage.
+**Entrance**: To access the hideout, the Sahuagin lift the anchor—using a pulley system they've rigged—and slip through a narrow opening beneath it. The entrance leads into a submerged tunnel that extends into the heart of their lair. This tunnel is filled with seawater, providing the Sahuagin with a strategic advantage as they can move through it quickly while most intruders will struggle to navigate or even breathe in the confined space.
+**Main Chamber**: The main chamber of the hideout is an open area within the belly of an ancient shipwreck. The walls are lined with stolen treasures and trinkets, trophies of the Sahuagin’s past raids. A large pool of seawater dominates the center, providing the Sahuagin with a means of escape if needed. The Blade Master’s quarters are located here, along with a small shrine to their dark god, where the Priestess performs her rituals.
+**Ambush Points**: Around the main chamber, the Sahuagin have set up several ambush points, including elevated perches made from stacked crates and debris, where brutes can rain down attacks from above. These perches also serve as lookouts, giving the Sahuagin an early warning system against intruders.
+**Escape Routes**: The hideout features multiple escape routes, including narrow tunnels leading out to various points in the Salvage Yards. These tunnels are well hidden and can be collapsed in an emergency, sealing off the Sahuagin's retreat and trapping any pursuers.
+**Defensive Measures**: The entrance to the hideout is heavily guarded by traps and sentries. The Sahuagin have also trained several of the Salvage Yard’s native creatures—such as the Rustmonger Crabs and Scuttleweavers—to patrol the area, adding another layer of defense against intruders.
+
+This hideout serves as a well-fortified base for the Sahuagin, allowing them to spy on the town while remaining hidden and protected by the chaos of the Salvage Yards.
+#### Double Dealing
+The Sahuaguin do not work alone. For information and capturing additional slaves, the Sahuaguin provide [[Tennyson Heralds]] and [[The Followers of Karak-Ulgurath]] with gold and precious goods that they have stole from town. They have short meetings with [[Tennyson Heralds]] while Temple Guards stand watch and lookout over the Salvage Yards. If the guards are asked about the nature of the meeting, or what they are doing in the yards, they simply say they were looking to go for a nice stroll. 
+
+This could also be a good place to introduce [[Ignel Valis]], a target of [[Wake Tiraus]]. He could show up to explore the wreckage to meet with the Sahuaguin or as a part of [[Tennyson Heralds]] group since he works with them, as a correspondent from [[Fedorov's Legion]]. 
+
+**Capturing Children:** Since the group works with [[Tennyson Heralds]], they target vulnerable children to capture in town, specifically ones of parents that seem a little too eager to explore [[The High Forests]]. These children are taken to the Temple Glade in [[Gullhook]] and then given, as per an agreement with [[Fedorov's Legion]], to [[Livy's Livestock (Slave House)]] to be brainwashed and transported to [[The South-East Coast]] via [[The Blood-Stone Pass]]. 
