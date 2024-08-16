@@ -67,14 +67,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Player Data/Ashley T/Valyra Malzan.md",
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md",
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist Sessions.md"
+                "file": "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md"
               }
             }
           }
@@ -212,14 +212,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6a08569b54d35d",
+  "active": "768afbd32f525fc2",
   "lastOpenFiles": [
+    "99. Player Data/JP/Wake Tiraus.md",
     "99. Player Data/Ashley T/Valyra Malzan.md",
-    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
+    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
     "GM Screen/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
     "GM Screen/Ethan's Player Mechanics/Unfinished/Kinetic Divergence.md",
-    "99. Player Data/JP/Wake.md",
     "-1. Global/Great Features/The Aether-Veil Projector.md",
     "-1. Global/Great Features/Archaic Storm Conduits.md",
     "-1. Global/Great Features/Amides.md",

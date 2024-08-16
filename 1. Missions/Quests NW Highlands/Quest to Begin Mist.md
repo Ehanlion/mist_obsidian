@@ -8,7 +8,7 @@ The adventure begins in [[The North-West Highlands]], in the village of [[Saddle
 | - | - |
 | [[Kelswin Lovejoy]] | Starts in his hometown of [[Saddle-Port]], in the library that he lives in with his mother. |
 | [[Deion Deus]] | Was the muscle for a trade mission that was heading down into [[Gandoras City]]. He spent the night in [[Saddle-Port]] since his caravan will carry on with a different hired hand from the next village. |
-| [[Wake]] | She is travelling up here hunting a two members of [[Fedorov's Legion]] who killed multiple key people within [[The Blue Coat Brigade]]. Wake does not know their names but a general description of 'one short and one bulky, both with tattoos.' The men are [[Dmitri Mironov]] and [[Igor Larionov]].  |
+| [[Wake Tiraus]] | She is travelling up here hunting a two members of [[Fedorov's Legion]] who killed multiple key people within [[The Blue Coat Brigade]]. Wake does not know their names but a general description of 'one short and one bulky, both with tattoos.' The men are [[Dmitri Mironov]] and [[Igor Larionov]].  |
 | [[Slug Stoll]] | He is currently peddling his dagger wears and is waiting for his merchant ship to make its way back to [[Saddle-Port]]. The ship will not be back for another two weeks though, so Slug is settle in the town at a visitors cottage near the tavern. |
 # Hooks
 | Person | Quest Hook |

@@ -57,3 +57,7 @@ Wake could be used by [[Ignel Valis]] ([[Silvan Gile]]) as a power source for an
 1. A mission that's longer winded, forced to use short rests
 2. long dungeon requiring tactical usage of rest and resources
 # Wake Version Two
+
+> [!NOTE] Character Description
+> In case visual character design appeals to any of u she’ll be a mix of sea elf and Tiefling, one horn on the left side of her head sprouting up from the forehead area kind of like a rhino horn, and on the right side a broken stump of a horn. Greyish/blue skin, with yellow and blue swirling eyes with an iris like a cat. Navy blue hair that lightens slightly as it reaches down, Japanese wolf cut. Her mask (same as before) hangs from her horn when it isn't being fully worn. Still a variety of silver piercings across her face, specifically nose ring, with spider bites and brow piercing on the left side of her face, and just a lot on her ears. Wears a loose fitting hooded tunic that's unbuttoned, and a chest wrapped up with a gauze binding. Sandals on feet and loose, ragged pants. Carries the wave cutter blade in the left hand, and a small flamberge bladed dagger in the right
+

@@ -125,7 +125,7 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 - *Slightly more powerful items* (101 to 500 gp)
 	- [x]  [Blood Spear](http://dnd5e.wikidot.com/wondrous-items:blood-spear) - gain temp hp on kill **Given to [[Deion Deus]]**
 	- [ ]  [Deck of Wonder](http://dnd5e.wikidot.com/wondrous-items:deck-of-wonder) - less op variant of deck of many things
-	- [x]  [Deck of Miscellany](http://dnd5e.wikidot.com/wondrous-items:deck-of-miscellany) - deck of many things but no effect and all random items **Given to [[Wake]]**
+	- [x]  [Deck of Miscellany](http://dnd5e.wikidot.com/wondrous-items:deck-of-miscellany) - deck of many things but no effect and all random items **Given to [[Wake Tiraus]]**
 	- [ ]  [Infernal Puzzle Box](http://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box) - troll item could be funny to hide something op in it
 	- [ ]  [Wind Fan](http://dnd5e.wikidot.com/wondrous-items:wind-fan) - blows wind, chance of breaking kind of cool
 	- [ ]  [Wand of Secrets](http://dnd5e.wikidot.com/wondrous-items:wand-of-secrets) - find secret doors for free
@@ -147,7 +147,7 @@ The guards are friendly to the townsfolk, but make no mistake, they will impriso
 **Arnov:**
 [[Arnov Vasilov]] is the owner of The Other Way. He specializes in sourcing magic items from far off lands. His stocks are dwindling but his spirits are high. He has connections to [[Yugo Stolid]] as well as the gambling den they speak of, far off in [[The Dark Woods]]. 
 
-*Something for [[Wake]]*:
+*Something for [[Wake Tiraus]]*:
 He was once apart of [[Fedorov's Legion]] before he escaped. Friendly to those who oppose them and knows about [[Dmitri Mironov]] and [[Igor Larionov]]. "I would never forget the looks of people that worked for [[Fedorov's Legion]], always have a look of madness and cruelty in their eyes." He has seen two men, [[Dmitri Mironov]] and [[Igor Larionov]] (not that he knows them by name), around the town very recently. Like the same day the group enters the shop. 
 
 **Things Arnov can do for people:**

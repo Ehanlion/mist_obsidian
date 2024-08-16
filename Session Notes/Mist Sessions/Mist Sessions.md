@@ -83,7 +83,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [x] Figure out moonrat's enemy for mission in Chugga's.  **Ran Tavern, was fun**
 - [x] Draw map of [[Gullhook]], **Finished Drawing, paper note**
 - [ ] Draw map of the [[The High Forests]] 
-- [ ] Update and re-format player data sheets for [[Wake]] [[Deion Deus]] [[Slug Stoll]] and [[Kelswin Lovejoy]]
+- [ ] Update and re-format player data sheets for [[Wake Tiraus]] [[Deion Deus]] [[Slug Stoll]] and [[Kelswin Lovejoy]]
 - [x] I referenced the author to a book on smithing in [[Gullhook]] named McAllister. Place him in Briar's Forge. Have him have clues about the vanishings and ideas about the forest and weapons.  **Ran for Slug Already**
 - [ ] Build an order known as the "Exultant"
 	- [ ] Use this as the order to J's second character for [[Gandoras City]] and the order of clerical workers who follow [[The Everlight]]
@@ -96,7 +96,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [x] When meeting [[Karak-Ulgurath]], they hear a layered voice of [[Ignel Valis]] (as Silvan Gile) speaking through it saying, bow to my old pet underlings or something.  **Added to note.**
 - [x] Write document for highlighting factions and groups in [[Hope Town]] and the pirate legions like [[Fedorov's Legion]], [[The Dead-Tide Reapers]], and [[The Blue Coat Brigade]].  **Written and shared with Wake Already**
 	- [x] Write a GM copy as well with more info
-- [ ] Add funeral even in [[Gullhook]] honoring [[Dmitri Mironov]] after being killed. Called an honored friend of [[Tennyson Heralds]]. Second poster talking about [[Alsolace]] needing gold strength to fight [[Erstorndin]] who's agent was a wraith of the night ([[Wake]])
+- [ ] Add funeral even in [[Gullhook]] honoring [[Dmitri Mironov]] after being killed. Called an honored friend of [[Tennyson Heralds]]. Second poster talking about [[Alsolace]] needing gold strength to fight [[Erstorndin]] who's agent was a wraith of the night ([[Wake Tiraus]])
 - [x] Talk with Ashley and create Character sheet for character
 	- [x] Race, class, ability score rolls, roll hit points
 	- [x] Find a good magic item and give some gold to start with
@@ -132,8 +132,8 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls
 3. [[Kelswin Lovejoy]] - [Cloak of Energy Absorption](https://www.5esrd.com/database/magicitem/cloak-of-energy-absorption/)
-4. [[Wake]] - learns how to form wave cutter blade 
-5. [[Wake]] - [Deck of Miscellany](http://dnd5e.wikidot.com/wondrous-items:deck-of-miscellany)
+4. [[Wake Tiraus]] - learns how to form wave cutter blade 
+5. [[Wake Tiraus]] - [Deck of Miscellany](http://dnd5e.wikidot.com/wondrous-items:deck-of-miscellany)
 6. Group - [Earring of Message](http://dnd5e.wikidot.com/wondrous-items:earring-of-message), uses [message](https://roll20.net/compendium/dnd5e/Message#content) (range 120 ft) originally modified, but I think as RAW is fine. Message allows them to talk back so: Talk to target, get response back = 1 charge
 7. [[Deion Deus]] -  [Blood Spear](http://dnd5e.wikidot.com/wondrous-items:blood-spear) 
 8. [[Kelswin Lovejoy]] - tattoo receipt for the tattoo parlor 
