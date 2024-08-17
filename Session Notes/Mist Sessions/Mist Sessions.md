@@ -107,6 +107,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Incredibly hard puzzle room with requirement for magic, contained in an orb that players can be pulled into it
 - [ ] Add someone for [[Wake Tiraus]] that is apart of [[Fedorov's Legion]] that enters into combat to try and kill [[Wake Tiraus]] for killing [[Dmitri Mironov]] and [[Igor Larionov]]. They must allude to the notion that they have spies inside [[The Blue Coat Brigade]] and know [[Wake Tiraus]]'s true name! 
 	- [ ] Even add an element of using dominate monster or something to control a party member and RP it as this member of [[Fedorov's Legion]]'s thanking them for their spying and insider information. Prolly target [[Deion Deus]] because [[Fedorov's Legion]] and [[The Iron-fist Marauders]] get along well.
+- [ ] A crazy area of the forest that has shifting properties. If you casts spells, etc.. random funny things happen to your personality and appearance. 
 # 3. Item/Ability Ideas
 - [ ] glass blade, increased crit chance and damage but on a 5 or lower on a d20, after an attack, the blade shatters in a 10 ft radius, dex save dc 15 versus 3d8 damage
 - [ ] Item called "Scream Blade" that does less damage, but doubles the save required to hold concentration on a spell and deals more damage to spell casters. 
@@ -125,12 +126,15 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [ ] Enemy who they fight, the enemy runs or the party runs, and then they fight again later e.g. a recurring enemy that they know about. 
 - [ ] Not really a fight, but an important figure whom they are searching for in a complex. They find their study room. The party enters. On the desk is the note yet to be sealed, still open to read. Write the note on paper for the players. "Dear X and X, This is so and so. Don't be alarmed. I know the group is coming to search this complex. We have nothing to worry about. One of our own is still undercover within the Ranks, all as we planned. See you soon. from - so and so. "
 - [ ] Enemy that cannot be killed but is slow and constantly hunts the group. Need way to make sure they right it, recognize it is super deadly and that they have to run from it. 
+- [ ] Cyclops that when you gaze into its eye it makes you fall in love with one of your party members causing you to do anything to woo them. 
 # 4. Folder Maintenance 
 - [ ] Organize all folders better? Figure out way to do this please god
 - [ ] Come up with new name for island, use the note as a general index for the island. 
 - [ ] re-build each region note as an index, as if it were the start of the chapter
 - [ ] LONG TERM - assimilate methods from this link [reddit mega post on obsidian for D&D](https://www.reddit.com/r/worldbuilding/comments/v9uorp/obsidianmd_the_perfect_free_campaign_manager/)
 - [ ] Checkout Murph's from D20's podcast not another dungeons and dragons podcast to see how he does fights and alternative interactive things. 
+- [ ] Write [[Mist S5 3-23-24]] recap into journal
+- [ ] Write [[Mist S12 8-9-24]] from journal
 # 5. Awards/Items per Character
 1. [[Deion Deus]] - [[Boon of the Commonfolk]]
 2. [[Kelswin Lovejoy]] - Wild Magic Pearls

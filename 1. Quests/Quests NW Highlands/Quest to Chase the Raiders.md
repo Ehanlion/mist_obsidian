@@ -26,7 +26,7 @@ They will take either the boat or a cart up. Probably sink the boat right as the
 	- Widow-Maker's Stands - Deathly quiet, direct foil to Untamed Verdant in every possible way
 - **Sahuaguin**: Messy, smells like the sea and rotting fish, crude and barbaric. Guttural throat noises, war cries, and fear tactics in battle
 
-# The Clues I made:
+# The Clues I made
 **The opening blurb to the riddle is as follows:**
 Travel the hidden journey, 
 prayers to lost divinities,
@@ -45,15 +45,15 @@ keyed entry of two is found.
 | [[The Spider Queen]]        | The opulent, alluring woman     | Evil      |
 | [[The Bay of Kelp]]         | The churning, green ocean waves | Neutral   |
 
-## What to look for and where they lead:
+## What to look for and where they lead
 These clues **do not have to be explored in order**.
 However, the order listed on the riddle **does matter**.
 The players **must** find all 9 locations, discover the runes on each, and assign each location the correct alignment. 
-### Finding the Runes:
+### Finding the Runes
 The party will find runes at each clue location. These runes are in *deep speech*, the ancient language of [[The Many]]. The party does not need to understand what the runes say. *The runes are one of the two passcodes to entering the complex.* 
 
 Passcode: V A L E N T I N O (spelled in 16 character cypher I created). 
-### Assigning the Alignments:
+### Assigning the Alignments
 The party will also need to understand the alignment of each location. This is more obscure. The alignment of the deities is straight forwards but the alignment of the locations is more up-in-the-air. *The alignments are the second of two passcodes to enter the complex.* 
 
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
@@ -63,8 +63,6 @@ The party will also need to understand the alignment of each location. This is m
 | x   |     |     |     |     |     | x   |     |     |
 
 At the bottom of input is Gold Dragon (lawful good) and the top has a Black Dragon (Chaotic Evil). The black dragon is actually [[Agnedelo the Plague-Bringer]], friend of [[Valentino]]. The gold dragon is [[Kragclaw, The Golden Beast]], a normal gold dragon of ancient lore. They won't know this but it is fun to allude to. 
-# Understanding regions in [[The High Forests]]
-![[The High Forests]]
 # NEXT STEPS: Post-Start and Smears-burrow
 Realistically, I expect the players to venture to [[Gullhook]] first. A lot of the elements of the riddle are only understandable if they start to learn more about the pantheon. This requires them to speak to locals and [[Gullhook]] is close to [[The High Forests]].
 ## Key Things to understand
@@ -86,44 +84,6 @@ Okay Gullhook is pretty expansive so ad-lib with stuff there and make it canon l
 - Many vacancies for jobs/skilled labor, many lost during fights
 - General wariness of outsiders, guards at gates check for barnacles growths upon entry
 - [[Gullhook]] had between 1-2 thousand residents and they lost around a hundred or so. 
-
-**Cool hooks or ideas to seed in town:**
-- Glimpses of Sahuaguin to high passive perception, tracking leads back to salvage yard. Some Sahuaguin are spying on the town. 
-- Tax collector needs help with labor to go collect taxes, except everyone who is getting taxes collected should be getting a break from them since they lost loved one in the raids
-	- make this discoverable be like "oh I already paid, I thought I was getting a break"
-	- Have them work with crooked guards? 
-- Igor and Dmitri were here, Dmitri went off to visit Livy's Livestock. Igor is in town still. Hear about this from a random tavern, maybe Chugga's or the brothel, love makes its way. 
-	- This would be for Wake specifically, if they ask around have people refer them to bars or brothel or something idk
-	- Arnov has seen them the day he is asked about it
-	- They are actually in temple glade with Tennyson
-- Monsters hunters needed in the Guildhall, group can choose to abandon their quest and go monster hunting instead.
-	- Crews are here from island towns of:
-		- [[The Port of Last Call]] - further east than other island towns
-		- [[The Town of Frost-Haven]] - icy, cold town surrounded with icebergs far north
-		- [[Warden-Hunter's Hideout]] - right near [[The Shrouds of the Frost-Bound Wardens]]
-- Deion can meet some old friends from [[Gandoras City]] at the Trading Post, since this is where the caravans pass through. Caravans have been having a rough time, the one currently in town is the last one since [[Gandoras City]] and the Trade Guild are shutting them down due to violence. 
-	- good lead in for tales of happenings in widow makers stands or charmer royalties
-	- Maybe have them recount sighting of Sahuaguin, which they thought was weird. 
-- Rock-tenders need help levitating a ship, good chance for Kelswin to learn magic but not magic? \
-	- Pitch this like a rock tender job opening is available
-	- willing to train but must show magic ability
-- Ship repair for a damaged pirate ship that sailed into town. Needs someone to help repair hull
-	- Great way to learn about seas and  danged
-	- Lots of knowledge about shrouds mist oceans etc.
-- Help "Fishermen" (actually pirates) unload their "catch" (expensive, illicit goods) into town
-	- Discrete, good face mission
-	- Need to get goods off ship and smuggle them to a seller in town willing to pay mule fee
-- The Other Way and [[Arnov Vasilov]] can help with the Mind Rock and some info about that. He can tell tales about the South east coast? Maybe allude to [[Ignel Valis]] as Sylvan Gile here? Just say like, oh powerful magic, knew a wizard from the coast who did that, name was Sylvan, Sylvan Gile or something.
-	- good way to seed that SG is after powerful artifacts since maybe Arnov helped him?
-	- DO NOT include a connection to NW because that would be leading towards SG = IV 
-- People going missing in town, specifically those who have already lost loved ones. Connected to [[Tennyson Heralds]] and [[The Followers of Alsolace]] who are abducting people and sending them to [[Livy's Livestock (Slave House)]]. This connect to [[Dmitri Mironov]], who is gone from [[Gullhook]] because he is taking some abductees to [[Livy's Livestock (Slave House)]] and [[Igor Larionov]] who is helping but is hiding out in [[Gullhook]]. 
-	- [[Igor Larionov]] and [[Dmitri Mironov]] are helping because the slaves get shipped back to [[Fedorov's Legion]] or to [[The Sunken Caverns]] for [[The Followers of Karak-Ulgurath]], as per [[Fedorov Barovick VII]] orders. 
-- Potion maker from Dozy Brewer's needs help getting ingredients from market 
-	- hunt for specific alchemic ingredients and acquire them to get paid out
-	- Also a change to learn bout potion brewing. 
-	- Learn to use an alchemists, herbalists, or whatever kit or something 
-- Brute and enforcer of private hand needed for sparring practice
-	- Basically someone goes to be an expert dueler's target dummy?
 ## Side Quests to do and Where They Are:
 I am going to break these up by district in [[Gullhook]] and then label them by location in the district.
 **Important:** *Every side quest* should include *at least one* bit of info to advance the plot. The side quest will list this.
@@ -142,12 +102,9 @@ The most important part about side quest is to make sure to give clues to them s
 | [[The Spider Queen]]        | The opulent, alluring woman     | Evil      |
 | [[The Bay of Kelp]]         | The churning, green ocean waves | Neutral   |
 This is the table. Have people talk about the gods or the locations w.r.t the names of these clues. 
-### Industry District Quests:
-### Commerce District Quests:
-### Entertainment District Quests:
-## Running Chugga's:
+## Running Chugga's
 Chugga's is best described as absolute, unquestionable chaos so make sure to run it that way. Legit if you think of anything funny, say that it's happening in the background. Refer to [[Gullhook]] document in the *Chugga's* section for some side quest ideas. 
-### Kill Deion:
+### Kill Deion
 Don't actually kill him obviously, but  do put him close to death. Make sure if he goes down to [[Puck]], that the other players notice someone running with a hand in a bag, and blood on his clothes. Make sure the players notice Deion going with [[Puck]] at first too.
 
 Plan:
@@ -173,7 +130,7 @@ Introduce a member of the Green Order in [[Elder Thistleton]], He goes by Bristl
 - He has been sent by order, needs to talk to the Hunter's guild. The group are far separated but still get along so so 
 - Rumor of something brewing on the coast saw him needing to talk to some old allies 
 	- Reference to [[Fedorov's Legion]] getting ready to take over [[The Blue Coat Brigade]]. [[The Dead-Tide Reapers]] are not involved but will help [[Fedorov's Legion]] or [[The Blue Coat Brigade]] depending on offers. 
-## Running Temple Glade:
+## Running Temple Glade
 These are events that are just happening in the background in [[Gullhook]] to be aware of.
 Makes sure to allude to them, especially the Sahuaguin.
 ### The Cult of Alsolace

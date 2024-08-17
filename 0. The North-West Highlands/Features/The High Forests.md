@@ -1,46 +1,30 @@
 Regional Location: [[The North-West Highlands]]
 Subsection: Near [[Gullhook]], surrounding [[The Echoing Grotto]]
-# Description:
+# Description
 A clustering of diverse, wind swept forests atop the [[The North-West Highlands]]. They surround the [[The Echoing Grotto]]. These forests are divided into 5 semi-equal sections. Folk lore has it that the forest was created by 5 gods, some of [[The Prime Deities]] and some of [[The Betrayer Gods]]. 
 
 Of course, this rumor is false. But it was made true, in part, by the people of [[The North-West Highlands]] *believing* that it was true. The forest has 5 sections. They assigned, in belief, 5 gods to it and through generations wrote the folk tale about it.
-# The 5 sections:
-**To illustrate:** Divide the forest into a rough circle. Each region occupies 1/5th of the pie. Each region is relatively equal in size. Below are each region and a short description. From most westerly and then rotating towards north, we go: *TWMS*, *TGOF*, *TUV*, *TSG*, *TCR*. So evil-ish ones border [[The Bay of Kelp]] and [[The Harmonious Sea]] while the more good ones face inland and more towards the towns. The North-West Byway wraps east around the east side of [[The Echoing Grotto]] instead of going through The Charmed Royalties or The Widow-Maker's Grove. The Byway enters from north in The Glades of Fate and exits south from The Serenity Groves before making its way towards [[Trawlrock]]. 
+# The 5 sections
+**To illustrate:** Divide the forest into a rough circle. Each region occupies 1/5th of the pie. Each region is relatively equal in size. Below are each region and a short description. From most westerly and then rotating towards north, we go: *The Widow Maker's Stands*, *The Glades of Fate*, *The Untamed Verdant*, *The Serenity Groves*, *The Charmed Royalties*. 
+
+- **West to North West**: [[The Widow-maker's Stands]]
+- **North West to North**: [[The Glades of Fate]]
+- **North to South East**: [[The Untamed Verdant]]
+- **South East to South**: [[The Serenity Groves]]
+- **South to West**: [[The Charmed Royalties]]
+
+So evil-ish ones border [[The Bay of Kelp]] and [[The Harmonious Sea]] while the more good ones face inland and more towards the towns. The North-West Byway wraps east around the east side of [[The Echoing Grotto]] instead of going through The Charmed Royalties or The Widow-Maker's Grove. The Byway enters from north in The Glades of Fate and exits south from The Serenity Groves before making its way towards [[Trawlrock]]. 
 ### The Untamed Verdant
-> The forest associated with [[The Wildmother]]. A lush, vibrant section of the forest. It teems with flora and fauna; a general aura of unpredictable life and charm imbues this area with a sense of hope and wildness. 
-
-**Creatures:**
- - generic creatures of the forest. Only under rare circumstance do other creature venture here. So this region is very safe.
+![[The Untamed Verdant]]
 ### The Serenity Groves
-> The forest associated with [[The Knowing Mentor]]. The trees here are large oaks and willows, their branches graceful and elegant. Wind whispers through the branches and it is said that meditating in these forests can bring helpful or healing visions.
-
-**Creatures:**
-- Moon striders
-- Elk and deer
-- Silver Wolves
+![[The Serenity Groves]]
 ### The Glades of Fate
-> The forest associated with [[The Matron of Ravens]]. These forests are quite and calm. Petrified trees mix with tall, slender pines. The creatures here move with reverence and it is commonplace to see a raven, watching you as you meander through the forest. Stay long enough and you will see visions of your future. 
-
-**Creatures:**
-- Ravens
-- [Young Silver Dragon](https://www.dndbeyond.com/monsters/17075-young-silver-dragon) - Her name is Sanatoria Starlight, sister to [[Sylvia Starlight]]. She is actually an arch druid that true polymorphed into a silver dragon to explore the worlds. 
+![[The Glades of Fate]]
 ### The Charmed Royalties
-> The forest associated with [[The Spider Queen]]. Beware the subtle whispers, kind compliments, and invoking whispers in your ears - for these forests run rampant with conniving, telepathic spiders. Large rocks spread out the thick, tall trees here. Dense webs connect trees to trees, scattering the sunlight that peeks through. Many a great warrior have gone missing in these woods, and for good reason. It is said that at its heart, these woods protect a powerful secret and that a great evil runs amuck amidst the trees. 
-
-**The Forest Has Eyes:**
-The more you walk in this forest the more that you seem to be watched. The Stone Spider golem can see through the eyes of any spider in the forest and it stalks you. 
-
-**Creatures:**
-- Sahuaguin patrol this region of the forest since it is the most westerly. 
-- [Phase Spiders](https://dr-eigenvalue.github.io/bestiary/creature/phase-spider) - Depict them *trying* to phase shift but failing because of the planar disconnect.
-- [Stone Statue Spider](https://dr-eigenvalue.github.io/bestiary/creature/prism-spider) - Re-skin prism spider as statue spider. Needs to be baited onto pedestal. 
+![[The Charmed Royalties]]
 ### The Widow-maker's Stands
-> The forest associated with [[The Whispered One]]. Do not go here. No one would dare enter this forest. Death awaits any who walk through the dark thickets here. Heavy mist sits stagnant in the trees here, the sun fears to shine, and adventurers go mad, or if their lucky, they find death here. An adventurer once went in to seek an artifact of resurrection; he never returned. 
-
-**Creatures:**
-- Sahuaguin patrol this region of the forest since it is the most westerly. 
-- Since this region is the closest to [[The Bay of Kelp]], it is the area where the Sahuaguin are most potent. 
-# Hidden Shrines to the Gods:
+![[The Widow-maker's Stands]]
+# Hidden Shrines to the Gods
 ## [[The Wildmother]]
 > A statue of a kneeling women, shrouded in green forest moss stands amidst a placid clearing. Her stone body is covered head to toe with decadent, green mottled moss. Her hand, placed against the ground, sprouts luscious flowers of bright petals and fragrant smells. She seems to be smiling. Around the clearing you see deer, stags, foxes, and animals pawing close to the fringes of the area. Some approach performing various rituals at the statue's base before returning to the forest. 
 
@@ -57,7 +41,7 @@ The following is a table of animals, the actions they do, and the reward a playe
 | Bear   | Moves an increddibly heavy rock nearby in the glade. | Strong and leading     | Gain reaction: heroic swap. As a reaction, swap places with someone within 10 feet as you drag them out of the way. Can perform a number of times equal to proficiency bonus. | Limited to number of uses equal to half proficiency bonus rounded down                        |
 A creature can only gain these blessings once per year. However, once the blessings fade after a week, lesser but permanent effects still stay. 
 ## [[The Knowing Mentor]]
-> A masked woman stands erect and tall, the back of her statue fused with the thick branch of a towering willow tree. A small stream trickles around the base of the statue as the willow branches lazily hang and scrape the top of the waters. The statue is simple and mostly featureless, wearing a simple gray moss robe draping down from her shoulders. 
+> A masked woman stands erect and tall, the back of her statue fused with the thick branch of a towering willow tree. A small stream trickles around the base of the statue as the willow branches lazily hang and scrape the top of the waters. The statue is simple and mostly featureless, wearing a simple gray moss robe draping down from her shoulders. The women holds a stone tome that is open.
 
 **Knowledge is Power:**
 Whispering voices urge a creature to approach the shrine, stating the following:
@@ -103,10 +87,16 @@ This area is shrouded in magic mist. To walk to the shrine, you must *have only 
 **Looting the corpses:**
 It is terrible luck to loot the corpses. If you do, gain [[The Whisperer's Curse]] (will force a DC 16 Charisma saving throw, read note for more info). 
 
-# Hidden Legendary Attractions:
+# Hidden Legendary Attractions
 These forests are rumored to conceal powerful, unnatural attractions that draw the eye of those in desperate need of help or those down on their luck. 
-
 ## [[The Revitalizing Spring]]
 ![[The Revitalizing Spring]]
 ## [[The Wishing Pond]]
 ![[The Wishing Pond]]
+# Forest Groups
+## Bandits and Corsairs
+### [[The Forest Freaks]]
+![[The Forest Freaks]]
+## Tribes of Creatures
+### [[The Gooey Goblins]]
+![[The Gooey Goblins]]

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Missions/Mist Side Quests.md",
+                "file": "1. Quests/Mist Side Quests.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,7 +50,27 @@
             }
           },
           {
-            "id": "1f9bd4a48ece825f",
+            "id": "fbaea23111113738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "99f20ee2bcf59ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a574986b47a7a668",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,9 +80,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49952cbfd981035d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/Features/The High Forests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc8366b6b47c9cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/NPCs/The Gooey Goblins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62379eb5aa365c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/NPCs/Alsolace Cult/The Followers of Alsolace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md"
               }
             }
           }
@@ -139,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md"
               }
             }
           }
@@ -201,37 +257,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f9bd4a48ece825f",
+  "active": "fbaea23111113738",
   "lastOpenFiles": [
-    "1. Missions/Mist Side Quests.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "0. The North-West Highlands/Features/The High Forests.md",
+    "0. The North-West Highlands/Features/The High Forest/The Wishing Pond.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+    "1. Quests/Mist Side Quests.md",
+    "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "0. The North-West Highlands/NPCs/Alsolace Cult/Tennyson Heralds.md",
+    "0. The North-West Highlands/NPCs/Alsolace Cult/The Followers of Alsolace.md",
+    "0. The North-West Highlands/NPCs/The Gooey Goblins.md",
+    "1. Quests/Quests NW Highlands/Quest to Chase the Raiders.md",
+    "1. Quests/Quests NW Highlands/Quest to Defend Saddle-port.md",
+    "Session Notes/Mist Sessions/Mist S12 8-9-24.md",
+    "-1. Global/Pantheon of Mist/Shrines to the Pantheon.md",
+    "GM Screen/Combat Actions/ready.md",
+    "-1. Global/Pantheon of Mist/The Prime Deities.md",
+    "0. The North-West Highlands/Features/The High Forest/The Untamed Verdant.md",
+    "0. The North-West Highlands/Features/The High Forest/The Glades of Fate.md",
+    "0. The North-West Highlands/Features/The High Forest/The Serenity Groves.md",
+    "0. The North-West Highlands/Features/The High Forest/The Charmed Royalties.md",
+    "0. The North-West Highlands/Features/The High Forest/The Widow-maker's Stands.md",
+    "Tennyson.md",
+    "99. Player Data/Ashley T/Valyra Malzan.md",
     "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
     "99. Player Data/JP/Wake Tiraus.md",
-    "99. Player Data/Ashley T/Valyra Malzan.md",
     "GM Screen/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
     "GM Screen/Ethan's Player Mechanics/Unfinished/Kinetic Divergence.md",
-    "-1. Global/Great Features/The Aether-Veil Projector.md",
-    "-1. Global/Great Features/Archaic Storm Conduits.md",
-    "-1. Global/Great Features/Amides.md",
-    "0. The North-West Highlands/The North-West Highlands.md",
-    "99. Player Data/JP/Will Poisoner.md",
-    "-1. Items & Things/Weapons/Reaver Blade.md",
-    "-1. Items & Things/Weapons/Cavarra Weapons.md",
-    "-1. Items & Things/Weapons/Red-Moon Blade.md",
-    "0. The North-East Forests/Features/The Green Order/The Green Order.md",
-    "-1. Items & Things/General Items/The Rune of Opening.md",
-    "0. The North-West Highlands/Features/The Obelisk Field.md",
-    "0. The North-East Forests/Features/The Twilight Woods.md",
-    "0. The North-East Forests/Features/The Providing Orchard.md",
-    "0. The North-East Forests/Features/The Lake of Constellations.md",
-    "0. The North-East Forests/Features/Mount Starlight.md",
-    "99. Player Data/-1. To My Players/Inheritance Will for this Vault.md",
     "-1. Items & Things/Vehicles & Ships",
     "-1. Items & Things/General Items",
     "-1. Items & Things/Weapons",
-    "GM Screen/Ethan's Player Mechanics/Completed/Turtle Stance.md",
-    "GM Screen/Ethan's Player Mechanics/Completed/Scry Life.md",
     "99. Player Data/Ashley T",
     "99. Player Data/Chris P",
     "99. Player Data/Ryan J",

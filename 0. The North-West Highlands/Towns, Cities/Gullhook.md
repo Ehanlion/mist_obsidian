@@ -1,7 +1,7 @@
 Regional location: [[The North-West Highlands]] 
 Subsection: between [[Smears-burrow]] and [[Anchorpoint Fisheries]]
 #town #northwest
-# Description:
+# Town Description
 Gullhook stands one of the largest towns along [[The North-West Highlands]], trailing only to [[Anchorpoint Fisheries]] and [[Trawlrock]]. The town is expansive, with hundreds of buildings, a bustling downtown, and some thousands of residents - far more than the hundred or so of [[Saddle-Port]]. The town is split into districts: **industry**, **commerce**, **living**, and **entertainment**. If you want something, [[Gullhook]] probably has it. 
 
 > [!NOTE] Read to set the Stage:
@@ -108,6 +108,7 @@ Here’s a list of small places and elements to highlight in the Salvage Yards:
 - **The Enchanted Anchor**: A massive, barnacle-encrusted anchor that pulses faintly with residual magic. Touching it could have unpredictable effects—summoning a ghostly crew, activating a powerful spell, or releasing a dangerous entity.
 - **The Hidden Cache**: A secret stash of old weapons and gear, buried deep within a pile of rubble. Finding it could provide a significant advantage in combat, but it’s well-hidden and difficult to access without disturbing the surrounding debris.
 - **The Cursed Figurehead**: The carved figurehead of a long-lost ship, rumored to be cursed. It radiates a malevolent energy that can drive creatures to madness or cause hallucinations, making it a dangerous yet potentially useful tool if controlled. If communicated with, it can even turn into a Wyvern, friendly to the creature that released it. 
+- **Wrecked Maw**: The central, deepest, and most treacherous part of the yards. It is a pit filled with old ships piled on top of each other that goes down quite far. It is perilously and chaotic with pit aberrations and wraiths haunting the depths. 
 
 These elements can add depth and dynamism to the combat, providing opportunities for creativity and strategy as players interact with the chaotic and dangerous environment of the Salvage Yards.
 ##### General Yard Hazards and Environment 
@@ -389,26 +390,99 @@ You need to RP during games and reveal wacky characters, use a random name and r
 - A big event is the antigravity dance in which couples fly through the air to music played by a floating band. 
 ### Love Makes its Way:
 >A stylish brothel house with fine dining, finer partners, and swanky prices. Not for the average joe but a splurge of cash will get you far here. Just don't cross Alan, he'll kill you.
-
 #### Hookers have info:
 Since hooker or workers get to see some pretty diverse clients, they have access to a lot of information. They will divulge it for a fee of course. Or a favor depending on the worker. 
 ### Starlight Archives:
 >A once beautiful white building with elegant stained glass windows is now a half burnt shell, the fantastic windows shattered and destroyed. The building closed the the public.
 ### The Temple Glade:
->In the midst of the town, slightly away from the rest of the buildings likes a grove of trees and bushes. In the midst sits a small clustering of religious buildings: stone heat domes, long preaching halls, and small shrines.
 
+> [!NOTE] Description of Temple Glade
+> Temple Glade lies in stark contrast to the bustling village of Gullhook, separated by rugged, rocky terrain that creates a natural barrier between the sacred site and the rest of the world. This serene sanctuary is located at the heart of a vast, mirror-like lake, its waters calm and reflective, yet teeming with hidden dangers. Beneath the placid surface, crocodiles and other ancient, lurking creatures patrol the depths, serving as both guardians and reminders of the untamed power that surrounds the glade.
+>
+The glade itself is dominated by a single island at the center of the lake, where the majestic Temple of Alsolace stands. This radiant structure, with its white marble walls and golden accents, gleams brightly under the sun, a beacon of divine light in an otherwise remote and secluded landscape. The temple is accessible only by three ancient rope bridges, each stretching across the water from different points along the rocky shore. These bridges, swaying gently with each step, serve as the sole connection between the glade and the outside world, making every visit a deliberate and introspective journey.
+>
+Encircling the temple on the island’s edge are numerous shrines dedicated to both the Prime Deities and the Betrayer Gods. Each shrine is a reflection of the deity it honors—some are imposing and shadowed, draped in dark cloth and lit by flickering candles, while others are bright and welcoming, adorned with vibrant flowers and offerings left by the faithful. Banners bearing the sunburst symbol of Alsolace, the Golden God, flutter in the breeze, their golden threads catching the light and casting shimmering patterns on the lake’s surface.
+>
+The temple keepers, cloaked in pristine white hooded robes, move silently about their duties, maintaining the sanctity of the temple and the shrines with a quiet, reverent efficiency. Their faces remain hidden within the deep folds of their hoods, adding to the aura of mystery and sacredness that pervades the glade. These keepers are a constant presence, their calm and measured actions underscoring the peaceful yet powerful atmosphere of the glade.
+>
+Temple Glade is a place of profound reflection and worship, where the devout come to seek guidance and offer prayers in the presence of the gods. The journey across the rope bridges, over the predator-filled waters, serves as a symbolic passage from the mundane world into the divine, marking this as a place where the sacred and the natural world intersect in a delicate balance.
+>
 The entire area is surrounded by water, kind of like a ring that you cross via a bridge. There are decadent trees lazily gracing the waters and guards and holy members standing on each of the bridges. There are three bridges, North, East, and West, and no South bridge because it is said that to go South is to go backwards in your life. 
-#### Holy Grounds:
+
+#### Areas of the Glade
+##### The Sunken Sanctuary 
+Beneath the tranquil surface of the lake, hidden away from the prying eyes of [[Tennyson Heralds]] and [[The Followers of Alsolace]], lies the **Sunken Sanctuary**. Accessible only by diving down to a concealed underwater entrance near the temple's stone foundation, the sanctuary is a relic of the temple's original purpose—a place of true worship and connection to the gods before the deception of Alsolace took root.
+
+**Description:** The sanctuary is an air-filled cavern, its walls adorned with ancient mosaics that depict the worship of the Prime Deities and Betrayer Gods. The mosaics are partially defaced, with symbols of Alsolace crudely overlaid, a testament to the deliberate erasure of the temple’s true history. The centerpiece of the room is a grand altar made of sunstone, its surface etched with ancient runes that still pulse with a soft, golden light. The air here is thick with a sense of loss, but also with the faint, lingering presence of the gods who were once honored in this sacred space.
+
+**Interactions:**
+
+- **Activating the Altar**: If the players examine the sunstone altar and manage to decipher the runes (perhaps requiring a successful Religion or Arcana check), they can activate a latent divine power. The altar can grant a brief glimpse of the past, showing the players visions of the temple before [[Tennyson Heralds]]'s corruption. They may see the true gods worshipped here, the rituals performed, and even the moment when [[Tennyson Heralds]] first set his plan into motion.
+- **Cleansing the Mosaics**: The players might attempt to cleanse the defaced mosaics, either by magical or mundane means. If successful, they will reveal the true symbols of the original deities, weakening [[Tennyson Heralds]]'s hold over the glade. This could also trigger a surge of divine energy, healing the party or granting them a boon for their efforts to restore the temple’s honor.
+- **Confronting the Spirits**: Disturbing the sanctuary may awaken the spirits of the ancient priests, who have been bound here since [[Tennyson Heralds]]'s betrayal. These spirits could either aid the players, offering guidance and knowledge, or they might test the players’ resolve, challenging them to prove their worthiness.
+##### The Mirror of Reflections
+Tucked away behind a rocky outcrop on the far side of the island lies the **Mirror of Reflections**—a secluded alcove where a shallow pool of crystal-clear water rests, undisturbed by the chaos of the outside world.
+
+**Description:** The pool’s surface is impossibly smooth, reflecting the sky and surrounding rocks with perfect clarity. However, this is no ordinary reflection. The water is enchanted, and those who gaze into it see more than just their physical appearance—they see their true selves, their deepest desires, fears, and even the lies they live by. For [[Tennyson Heralds]] or any of [[The Followers of Alsolace]], the pool shows them the deceitful figures they’ve become, shattering any illusion of righteousness.
+
+**Interactions:**
+
+- **Revealing the Truth**: If a player gazes into the pool, they may see a vision of the truth behind [[Tennyson Heralds]] and his fabricated deity. This could provide them with crucial information about the false god’s creation, including the methods [[Tennyson Heralds]] used to convince the townsfolk and how to potentially undo the deception.
+- **Breaking the Illusion**: A character who is deeply connected to [[The Followers of Alsolace]] may experience a crisis of faith when confronted by their reflection in the pool. This could lead to a roleplaying moment where they question their beliefs, possibly even defecting from the followers if persuaded by the party.
+- **Unlocking Hidden Potential**: The Mirror might also reveal a hidden strength or potential within a character, granting them a temporary boost to their abilities or inspiring them with newfound purpose. This could manifest as a temporary increase in Wisdom or Charisma, or perhaps a one-time divine intervention in a moment of need.
+- **A False Aura:** The pool actually reflects and shows hideous or beautiful auras depending on what someone is hiding. The auras appear as a shimmering silhouette around a creature's reflection and the stronger the related emotion, the more vibrant the color that appears. A creature can see the colors around any other creature who is at all visible in the pool's surface. 
+	- *Black* for a dark, hidden truth
+	- *Crimson* for a lying, deceitful, or murderous creature
+	- *Orange* for a vengeful or resentful creature
+	- *Royal Blue* for a a creature of pure heart, innocent soul, or honorable desire
+	- *Amber* for a creature who's troubled, lost, or hopeful 
+
+##### The Shrine of Lost Light
+Behind the main temple, nestled within a narrow rock crevice, lies the **Shrine of Lost Light**—a small, somber place dedicated to those who have strayed from their faith, now overshadowed by the false god [[Alsolace]].
+
+**Description:** The shrine is dimly lit by a single, ever-burning candle, its flame flickering weakly in the darkness. The walls are covered in carvings of names, some fresh and others centuries old, of those who once sought redemption here. At the base of the candle, offerings of old coins, dried flowers, and trinkets lay scattered, a sparse collection compared to the wealth hoarded by [[Tennyson Heralds]] and his followers.
+
+**Interactions:**
+
+- **Restoring the Light**: If the players manage to reignite the shrine’s power—perhaps by offering something of great personal value or performing a sacred rite—they can restore the candle’s flame to its former brilliance. This act could dispel some of the corrupt influence of [[Tennyson Heralds]] , weakening [[The Followers of Alsolace]] and causing the white-hooded temple keepers to falter in their devotion.
+- **Communing with the Forgotten**: The shrine may serve as a conduit to the souls of those who sought redemption here before [[Tennyson Heralds]] ’s takeover. The players could attempt to communicate with these lost souls, gaining valuable insights into the temple’s history or learning of hidden weaknesses in [[Tennyson Heralds]] ’s plans.
+- **A Beacon of Hope**: Restoring the shrine might have broader implications, such as spreading a subtle but pervasive sense of hope throughout Gullhook. The townsfolk, once blindly devoted to [[Alsolace]], might begin to question their faith, providing the players with an opportunity to rally support against [[Tennyson Heralds]] .
+##### The Celestial Observatory 
+High above the temple, carved into the rocky cliffs behind the glade, lies the **Celestial Observatory**—a forgotten relic of the temple’s true purpose, now largely ignored by [[The Followers of Alsolace]].
+
+**Description:** The observatory is an open platform with no roof, offering an unobstructed view of the night sky. Ancient star maps are etched into the stone floor, showing the movements of celestial bodies and the paths of the true gods. Around the edges of the platform, several bronze telescopes, now tarnished and neglected, point toward the heavens. The air here feels different, charged with the residual energy of countless prayers and rituals once conducted under the stars.
+
+**Interactions:**
+
+- **Revealing the Deception**: If the players study the star maps or use the telescopes, they may discover hidden messages left by the original priests. These messages could include warnings about [[Tennyson Heralds]]'s arrival, or even a prophecy detailing how to dismantle the false god’s influence over the temple. This knowledge could be pivotal in turning the tide against [[The Followers of Alsolace]].
+- **Unlocking Celestial Power**: By performing a long-forgotten ritual under the stars, the players might tap into the lingering divine energy of the observatory. This could grant them a temporary boon, such as enhanced vision, insight, or a protective aura that shields them from the influence of [[Tennyson Heralds]] and his followers.
+- **Calling Down the Stars**: If the players manage to reactivate the observatory’s ancient mechanisms, they could summon a celestial event—a meteor shower, an eclipse, or a convergence of stars—that might have a profound impact on the temple and its followers. This event could cause a mass revelation among [[The Followers of Alsolace]], revealing the truth about [[Tennyson Heralds]]'s deception and causing unrest or outright rebellion within the cult.
+
+These enhanced descriptions provide players with rich, interactive elements within Temple Glade, each offering a deeper connection to the true history of the place while also presenting opportunities to challenge or undermine the influence of [[Tennyson Heralds]] and [[The Followers of Alsolace]].
+#### Rules of the Holy Grounds
 No matter what strife comes between citizens of [[Gullhook]], there is a sacred rule at the Temple Glade: No violence on the presences what so ever. There are guards that affiliate with the Temple Glade and they strictly prohibit violence and will imprison anyone that starts a fight. 
-#### A Place of Healing:
-There are shine to all [[The Prime Deities]] here as well as shrine to some of [[The Betrayer Gods]], (namely [[The Spider Queen]] and [[The Whispered One]], the patrons of The Charmed Royalties and The Widow-maker's Stands from [[The High Forests]]). In the glen are weak healing shrines, many meditation rooms, heating chambers, steam saunas, and stuff like that. 
 
-**Tennyson is violent:**\
-[[Tennyson Heralds]] is violent and abducts and drugs people. Despite his good notoriety in the town and his *generous* contributions to the town guard, he would still be subject to the same laws of the town as anyone else. 
-#### Tennyson and the Followers of Alsolace
+**Subverting this:** [[The Followers of Alsolace]] have bribed some guards with a share of the proceeds from the exploits of the followers. In return these guards will follow [[The Followers of Alsolace]] when they jump ship and leave the town. These guards will turn a blind eye to violence caused by [[The Followers of Alsolace]] but will attempt to arrest any creature resisting or doing violent acts of their own. A guard can be *recognized as a bribed guard* if they *speak positively about [[Alsolace]] and loves working at the glade*. A guard that has *not been bribed* *frowns on [[Alsolace]]* and wishes to be *reassigned back to another part of town*.
+
+**Tennyson is violent:** [[Tennyson Heralds]] is violent and abducts and drugs people. Despite his good notoriety in the town and his *generous* contributions to the town guard, he would still be subject to the same laws of the town as anyone else, unless confronted by the Guards whom he bribed. If brought up to an honest guard, showing them proof it is likely that they would help and gather a force to oust [[Tennyson Heralds]]
+#### Shrine to the Gods
+
+> [!NOTE] Shrines Description
+> In the heart of Temple Glade lies the Sacred Circle, a serene and reverent space dedicated to the worship of both the Prime Deities and the Betrayer Gods. Each shrine, meticulously crafted, reflects the unique nature and domain of the deity it honors, creating a powerful atmosphere of divine presence.
+>
+Surrounding the shrines are additional facilities designed to enhance spiritual and physical well-being. Healing hot springs, naturally heated by geothermal forces beneath the island, bubble up in secluded pools. These springs are known for their restorative properties, soothing aches and wounds, and providing a tranquil space for contemplation.
+>
+Adjacent to the springs, steam rooms carved into the rocky terrain offer a space for purification and renewal. The warm, humid air is infused with herbs, helping to cleanse both body and spirit, leaving visitors refreshed and revitalized.
+>
+For those seeking deeper meditation, there are several meditation rooms scattered throughout the glade. These rooms are simple yet elegant, adorned with symbols of the gods and designed to be quiet sanctuaries where visitors can connect with the divine, reflect on their journey, or seek guidance.
+>
+Each element within the Sacred Circle—the shrines, the hot springs, the steam rooms, and the meditation chambers—contributes to an atmosphere of deep peace and spiritual resonance. Visitors leave the Sacred Circle not just physically restored, but spiritually uplifted, their souls touched by the divine presence that permeates the glade.
+
+
+![[Shrines to the Pantheon]]
+#### The Temple's Workers
 The workers of temple glade actually are [[The Followers of Alsolace]], led by [[Tennyson Heralds]]. He is a mad preacher who "hails from the hidden forests ([[The High Forests]] and also total BS)." He uses smooth words, reassurance, and firm preaching to rally those who surround him.
-
-**Special Development for Temple Glade:**
+##### A Sinister Connection
 The following actually works really closely with [[Livy's Livestock (Slave House)]] and abducts people from town and sends them over to the slave house. They have been targeting grieving people from the recent raids. They bring them into private rooms to pray, drug them, and then cart them over. They are working closely with [[Dmitri Mironov]] and [[Igor Larionov]] who are helping with this. 
 # How they Fish:
 > Large rune-rocks dot the coast here. They swirl with vibrant magical energy as mages, rock-tenders they are called, stand to invoke them on wooden scaffolding. A coordinator stands by the cliff on a raised wooden platform issuing signals to the rock-tenders. Ships float up the cliff, wrapped in an arcane embrace as the mages set them down upon wooden berthing docks, arranged in neat rows near the cliff. Cargo and fishing catches levitate out of hulls and nets and are set down in neat sorting piles nearby. 
@@ -421,7 +495,7 @@ When invoked, they make heavy objects very light and can levitate them. Rock-ten
 
 They can also be used to levitate moving creature, so the town guard uses them in emergency to detain criminals if they are in the area. 
 
-### SECRET: The Rocks of the Many?
+### Secret: The Rocks of the Many?
 They are actually a small project of [[The Many]], mostly a gag idea but expanded on later to help quarry places which eventually created the sea caves of [[Shimmer Mist Lagoon]], [[The Echoing Grotto]], and [[The Sunken Caverns]]. 
 # Special Interactive Events:
 These are events that are not listed as bad effects, like at the beginning of the document. 
