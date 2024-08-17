@@ -4,23 +4,13 @@ Description: List of Side Quests
 # Formatting Side Quests
 I want to keep this *very* well organized because it will track mini and even big side quest ideas throughout the entirety of campaign. This section will breakdown a good metric for organizing these mission, how to address them once run, an indicator of which session the mission was run during, and outcomes. 
 
----
-#### Quest Blueprint 
-- [ ] Check to indicated if the quest has been completed
-- **Session first used in:**
-- **Location used in:**
-> [!NOTE] Quest Hook
-> Write a hook *to read* to introduce the quest here.
-- Secondary Quest Hook alternative:
-> [!NOTE] Quest Hook
-> Write a hook *to read* to introduce the quest here.
-
-- **Rewards:**
-	- Include reward information here
-	- Include clues/world info/plot stuff here
-- **Quest Description and Information:**
-	- *Use Italics for each subsection in here:*
----
+## Template for Side Quest
+### Location and Setup
+**Session First Used In:** 
+**Location Used In:** 
+*Suggested Location Ideas:* 
+### Rewards
+### Description
 # Storage for Side Quest Ideas
 ### Old List from  [[Quest to Chase the Raiders]]
 **Cool hooks or ideas to seed in town:**
@@ -72,76 +62,6 @@ I want to keep this *very* well organized because it will track mini and even bi
 > It needs to be *very apparent* that a large quest demands a full party to journey on it; from a simple posting that says "four required for task X," to "large crew needed to audition for task Y," or simply "this quest is very dangerous, take your friends or you will die."
 > 
 # Side Quest List
-#### Fishy Business in the Salvage Yards - **UNUSED** - `UNFINISHED`
-- [ ] Check to indicated if the quest has been completed
-- **Session first used in:**
-- **Location used in:** [[Gullhook]], specifically the Salvage Yards 
-> [!NOTE] Quest Hook
-> A sinister threat has emerged within the Gullhook Salvage Yards. Townsfolk have reported sightings of strange, fish-like individuals lurking among the wreckage of old ships. These mysterious intruders have been causing unease and fear, and their intentions remain unknown.
->
-A reward of 100 gold pieces per head is offered to any brave soul or band of adventurers willing to investigate and eliminate these lurking threats. Be warned: these creatures are dangerous and elusive, using the maze of the salvage yard to their advantage. Previous attempts to root them out have ended in tragedy, with several crews meeting a grim fate. Their shifty and cunning nature makes them formidable opponents.
->
-To accept this quest, first report to the Guild-Master in the Guildhall to get a contract, then report to Foreman Gideon Rusthand at the Salvage Yards for more details and guidance. Your courage and skill are needed to ensure the safety of Gullhook and put an end to this mysterious menace.
-- **Rewards:**
-	- Offering 100 gp per head of killed sea creature
-	- Bonus gold if you find Gideon's forest charter book about mysteries and the unexplored in "The Hidden Forest ([[The High Forests]])"
-- **Quest Description and Information:**
-	- *Gideon Southmellow:* Gideon is a portly, larger man with a husky voice. He has a small office (decorated with old memorabilia and mystery-hunting info and postings) and home that occupies the remains of an old ship - his old ship - called fog scythe.
-		- Gideon was a pirate captain
-		- Gideon led "Mist Plunges," sailing missions into the Mist (to little success)
-		- Gideon's ship was badly injured and scuttled in [[Gullhook]] after a storm. He took over The Salvage Yards as a result. 
-		- Gideon is a kook: he loves mysteries and the unknown, but has a bad memory. He has a book called his charter book about mysteries of the Hidden Forests
-			- It contains info about the lore of the [[The Revitalizing Spring]] and [[The Wishing Pond]]
-			- It contains reference to "shrines of the 5 founding gods" meaning [[The Wildmother]], [[The Knowing Mentor]], [[The Matron of Ravens]], [[The Spider Queen]], and [[The Whispered One]].
-		- Gideon is forgetful and a little batty
-		- Gideon is VERY paranoid now with the interlopers on his property 
-		- Gideon is injured, was attacked while walking the yards at night "by something that squidges and squelches around" He tried to run away, got trapped in a net, and his charter of mysteries was taken from him then. 
-	- *The Salvage Yards:*
-		- Extremely chaotic
-		- huge height differences between wreckage
-		- Scattered remains of massive, derelict ships mixed with neat scaffolding for workers to harvest resources. 
-		- Collapse masts, old sails draped from ship to ship, hanging gantries, old ballista, shattered crates and storage areas. 
-		- Snaking walkways carve paths between ships and they are overrun with thick sea grass that grows tall and wavy 
-	- *The Interlopers - Sahuaguin*
-		- Interloper enemy breakdown: 
-			- 1x blade master (use saltmarsh)
-			- 1x priestess (use saltmarsh)
-			- 5x Sahuaguin brutes (use monster manual)
-		- Interloper Tactics:
-			- Set traps: nets, tripwire, oil flasks and fire, crossbows with poison and tripwire triggers, fall traps, swinging wreckage. Triggers off pressure plates, tripwires, or manually from someone watching them
-			- Hide during day, and then go out at night to steal and recon and protect salvage yards
-			- Are working alongside [[Tennyson Heralds]] and [[The Followers of Alsolace]] given instructions from [[Karak-Ulgurath]]. 
-			- They abduct children for [[Tennyson Heralds]] (who gives them to [[Livy's Livestock (Slave House)]]), search for strong obedient workers to abduct, and steal and cause chaos. 
-			- When they attack they attack from cover and use the wreckage to hide and evade.
-		- What they know:
-			- Interlopers have notes about potential targets and threats in town
-			- make sure to highlight that one of the Sahuaguin spied on group in the tavern they visited and at night in the room that they stayed in
-			- They stole Gideon's charter of mysteries 
-			- They know of clued path back to compound but never reveal willingly or if forced, do so cryptically while laughing 
-	- *The OTHER Interlopers - Monsters*
-		- Sahuaguin are main threats, but other threats exist that will fight anyone.
-	- *Important Items*
-		- Blade master has small painting of family, in background is a roiling green sea with kelp floating on it. Alludes to clue from [[Quest to Chase the Raiders]] and the line "Churning Green Ocean Waves"
-		- Gideon's Forest Charter Mystery Book
-		- Potential Threat list from [[Gullhook]]
-
-#### A Funeral for an Enemy - **UNUSED** - `UNFINISHED`
-- [ ] Check to indicated if the quest has been completed
-- **Session first used in:**
-- **Location used in:** [[Gullhook]], specifically the Temple Glade
-> [!NOTE] Quest Hook
-> In the heart of town, a prominent notice catches the eye, detailing an upcoming grand funeral to honor the memory of a 'dear friend of [[Tennyson Heralds]],' the esteemed [[Dmitri Mironov]]. The ceremony, dedicated to the golden god [[Alsolace]], will take place in the sacred [[Temple Glade]] at sundown tomorrow. [[Dmitri Mironov]] is depicted as a figure of immense importance within the temple, a pillar of the religious community, tragically cut down by a fearsome entity known as the "Wraith of the Night." This malevolent being, described as a shifting, shadowy figure armed with scything steel blades, is said to serve the mysterious dark god [[Erstorndin]]. According to the details, [[Tennyson Heralds]] warns that the "Wraith of the Night" can only be vanquished by the golden power of [[Alsolace]]. To this end, he urges the faithful to make gold donations at [[Alsolace]]'s shrine in [[Temple Glade]], so that the god might be empowered to defeat this dark threat.
->
-> The posting invites all who wish to pay their respects to [[Dmitri Mironov]], a revered member of [[The Followers of Alsolace]], the guardians of [[Temple Glade]] and its sacred rites. Attendees are asked to don the traditional white and gold hooded robes as a sign of reverence and solidarity with the holy practices of the temple.
-
-- **Quest Description and Information:**
-	- This quest involved *the following people:*
-		1. [[Tennyson Heralds]] - Lead religious figure in [[Gullhook]]
-			1. Preaches power of fake golden god, [[Alsolace]]
-			2. Denounces fake attacks and aggression from fake god [[Erstorndin]]
-		2. [[The Followers of Alsolace]] - Followers of [[Tennyson Heralds]] and [[Alsolace]]
-		3. [[Dmitri Mironov]] - bruiser from [[Fedorov's Legion]] - *NOW DEAD*
-		4. [[Igor Larionov]] - lead bruiser from [[Fedorov's Legion]] 
 #### To Hunt a Baby Kraken - **UNUSED** - `UNFINISHED`
 - [ ] Check to indicated if the quest has been completed
 - **Session first used in:**
@@ -202,6 +122,21 @@ The table falls quiet for a moment, the weight of the challenge settling in. "Th
 	- Gideon will offer them a chance to read the book, despite it being deeply personal
 	- He will also just offer them gold as thanks, the party can choose. 
 	- If they read the book, just ad lib about something secret-y and spooky from their current party mission
+### Quick Running
+1. Use the *Traps and Tactics* section for in-yard ambushes
+2. Use the *Sahuaguin Hideout* section for entering the hideout
+3. Use *Double Dealing* to add [[The Followers of Alsolace]] into the mix
+4. Reference *Creatures to Use* for combat stat blocks
+5. Gideon's Book of Mysteries is in *Sahuaguin Hideout*
+
+**Item Locations:**
+1. Gideon's book is in the Sahuagin's lair. They collect things that could help others find them. 
+
+Start by letting the group explore the Salvage Yards.
+Seed the idea that they see Sahuaguin hiding and dashing around.
+Make the traps well telegraphed to high perception creatures.
+Seed the idea that they see some of [[The Followers of Alsolace]] sneaking into the Yards
+Work from here, building to an encounter.
 ### Description
 > [!NOTE] Quest Hook
 > A sinister threat has emerged within the Gullhook Salvage Yards. Townsfolk have reported sightings of strange, fish-like individuals lurking among the wreckage of old ships. These mysterious intruders have been causing unease and fear, and their intentions remain unknown.
@@ -209,6 +144,7 @@ The table falls quiet for a moment, the weight of the challenge settling in. "Th
 A reward of 100 gold pieces per head is offered to any brave soul or band of adventurers willing to investigate and eliminate these lurking threats. Be warned: these creatures are dangerous and elusive, using the maze of the salvage yard to their advantage. Previous attempts to root them out have ended in tragedy, with several crews meeting a grim fate. Their shifty and cunning nature makes them formidable opponents.
 >
 To accept this quest, first report to the Guild-Master in the Guildhall to get a contract, then report to Foreman Gideon Rusthand at the Salvage Yards for more details and guidance. Your courage and skill are needed to ensure the safety of Gullhook and put an end to this mysterious menace.
+
 ### Gideon Southmellow
 Gideon assigned the group the quest. He can be found at the entrance to the Salvage Yards. 
 #### Who is Gideon
@@ -225,14 +161,6 @@ Gideon assigned the group the quest. He can be found at the entrance to the Salv
 ### The Sahuaguin Enemy
 #### Details About the Enemy
 The Sahuagin Interlopers are cunning and ruthless, employing a variety of deadly traps to protect their hideout and eliminate any intruders. Their tactics reflect their underwater origins, but they've adapted remarkably well to the labyrinthine environment of the Salvage Yards. They are spies in the town, gathering information about raider targets, potential threats, and groups hot on their trail. 
-#### Quick Running
-1. Use the *Traps and Tactics* section for in-yard ambushes
-2. Use the *Sahuaguin Hideout* section for entering the hideout
-3. Use *Double Dealing* to add [[The Followers of Alsolace]] into the mix
-4. Reference *Creatures to Use* for combat stat blocks
-
-**Item Locations:**
-1. Gideon's book is in the Sahuagin's lair. They collect things that could help others find them. 
 #### Creatures to Use
 **The Sahuaguin Interloper Party:**
 - 1x blade master (use saltmarsh)
@@ -276,5 +204,54 @@ This could also be a good place to introduce [[Igor Larionov]], a target of [[Wa
 
 ## A Funeral for an Enemy
 ### Location and Setup
+**Session First Used In:** ???
+**Location Used In:** [[Gullhook]], specifically Temple Glade
+*Suggested Location Ideas:* Temple Glade in [[Gullhook]]
 ### Rewards
+1. **Information and Allies:**  
+    Players who successfully expose [[Tennyson Heralds]] may gain valuable information about [[Fedorov's Legion]] and its operations. They might also earn the gratitude and support of those who were deceived by [[Tennyson Heralds]], gaining new allies in the region.
+2. **Treasure:**  
+    If the players uncover hidden caches of gold intended as tribute to [[Alsolace]], they could claim these riches for themselves. Additionally, they may find rare religious artifacts within Temple Glade, some of which could hold genuine power despite the false nature of [[Alsolace]].
+3. **Divine Favor:**  
+    Depending on how the players handle the situation, they might earn the favor of one of the true gods, who see the restoration of their worship as a righteous act. This could manifest as divine blessings, boons, or even a powerful relic.
+### Quick Running
+1. 
 ### Description
+> [!NOTE] Quest Hook
+> In the heart of town, a prominent notice catches the eye, detailing an upcoming grand funeral to honor the memory of a 'dear friend of [[Tennyson Heralds]],' the esteemed [[Dmitri Mironov]]. The ceremony, dedicated to the golden god [[Alsolace]], will take place in the sacred Temple Glade at sundown tomorrow. [[Dmitri Mironov]] is depicted as a figure of immense importance within the temple, a pillar of the religious community, tragically cut down by a fearsome entity known as the "Wraith of the Night." This malevolent being, described as a shifting, shadowy figure armed with scything steel blades, is said to serve the mysterious dark god [[Erstorndin]]. According to the details, [[Tennyson Heralds]] warns that the "Wraith of the Night" can only be vanquished by the golden power of [[Alsolace]]. To this end, he urges the faithful to make gold donations at [[Alsolace]]'s shrine in Temple Glade, so that the god might be empowered to defeat this dark threat.
+>
+> The posting invites all who wish to pay their respects to [[Dmitri Mironov]], a revered member of [[The Followers of Alsolace]], the guardians of Temple Glade and its sacred rites. Attendees are asked to don the traditional white and gold hooded robes as a sign of reverence and solidarity with the holy practices of the temple.
+
+### Possible Objectives
+1. **Attend the Funeral (Optional):**  
+    The group can choose to attend the funeral in Temple Glade to gather more information and observe the proceedings. They must don the traditional white and gold hooded robes to blend in and avoid drawing suspicion. During the ceremony, they can listen to [[Tennyson Heralds]]’s speech, observe the reactions of the townsfolk, and possibly spot any irregularities or signs of further deception.    
+2. **Investigate [[Tennyson Heralds]]’s Plan:**  
+    Knowing that [[Tennyson Heralds]] is up to no good, the group can investigate his true motives. This might involve discreetly speaking to townsfolk who have been hurt by the increasing demands for gold offerings, searching [[Tennyson Heralds]]’s private quarters in the temple for incriminating evidence, or tracking the flow of gold to see if it is being funneled elsewhere—likely towards their dark dealings with [[Livy's Livestock (Slave House)]].
+3. **Confront [[Tennyson Heralds]]:** If the group uncovers enough evidence or decides that they have seen enough, they can confront [[Tennyson Heralds]] either during or after the funeral. They may choose to expose his deception to the assembled crowd, revealing the truth about [[Alsolace]] and the fabricated threats posed by [[Erstorndin]]. This confrontation could lead to a dramatic showdown, either verbally or physically, depending on how [[Tennyson Heralds]] and his followers react.
+4. **Disrupt the Ceremony (Optional):** If the group believes that the funeral is merely a cover for more of [[Tennyson Heralds]]’s schemes, they might choose to disrupt the ceremony itself. This could involve sabotaging the shrine of [[Alsolace]], secretly turning the crowd against [[Tennyson Heralds]], or even revealing the truth about [[Dmitri Mironov]]'s death. They might find unexpected allies among the attendees who have also begun to doubt the cult’s teachings.
+5. **Expose [[Tennyson Heralds]]’s Deception:**  
+    The ultimate goal is to expose [[Tennyson Heralds]] and [[The Followers of Alsolace]] as frauds, bringing the truth to light and putting an end to their schemes. This might involve publicizing the truth in [[Gullhook]], rallying the townsfolk against [[Tennyson Heralds]], or turning key followers of [[Alsolace]] against him. The group may also choose to expose the dark connections between the cult and [[Fedorov's Legion]], as well as their involvement in the slave trade with [[Livy's Livestock (Slave House)]]
+### Possible Outcomes
+1. **Successful Exposure:**  
+    If the group successfully exposes [[Tennyson Heralds]] and [[Alsolace]] as frauds, [[The Followers of Alsolace]] will be thrown into disarray. The townsfolk of [[Gullhook]] might rise against [[Tennyson Heralds]], leading to his downfall or escape. Temple Glade could return to its original purpose as a place of worship for the true gods, or it could fall into ruin as the faith of the people crumbles. The exposure of the slave trade might lead to further conflicts with [[Fedorov's Legion]] and [[Livy's Livestock (Slave House)]].    
+2. **Failed Confrontation:**  
+    If the group is unable to gather enough evidence or is outmatched by [[Tennyson Heralds]] and his followers, they may be forced to flee or fight their way out of Temple Glade. [[Tennyson Heralds]] could use this opportunity to solidify his power, painting the group as enemies of the faith and further manipulating the people of [[Gullhook]]. This failure might strengthen [[Fedorov's Legion]]'s influence in the region and solidify the slave trade operation.    
+3. **Silent Sabotage:**  
+    The group may choose to undermine [[Tennyson Heralds]]'s power subtly, without directly confronting him during the funeral. They might spread doubt among his followers, disrupt the ceremony in small but significant ways, or secretly turn the townsfolk against him. This approach could lead to a slower, more drawn-out conflict, but it could ultimately weaken [[Tennyson Heralds]]'s control over the region and potentially expose the cult’s criminal activities.
+### The Funeral Itself
+
+> [!NOTE] The Funeral Description
+> As twilight descends upon Gullhook, the sacred grounds of Temple Glade are transformed into a grand stage for one of the most elaborate ceremonies the town has ever seen. A vast crowd gathers in the quadrangle, a wide, open space at the heart of the glade, surrounded by the imposing natural beauty of the rocky cliffs and the calm waters of the lake. The air is thick with a mix of incense and the murmurs of the assembled townsfolk, all eyes fixed on the centerpiece of the ceremony: a towering statue of [[Alsolace]], the golden god.
+>
+The statue, which dominates the glade, is a sight to behold. Appearing to be made of pure gold, it gleams brilliantly in the fading light of the day, casting long shadows across the crowd. Its radiant surface reflects the last rays of the setting sun, creating an almost divine halo around it. The townspeople believe this statue to be the ultimate symbol of their faith, a testament to the power of their god and the protection he offers against the encroaching darkness.
+>
+The funeral procession, led by [[Tennyson Heralds]] and flanked by [[The Followers of Alsolace]], moves solemnly through the quadrangle towards the statue. The crowd is dressed in white and gold robes, the traditional garb for such ceremonies, their faces a mix of grief and reverence as they watch the proceedings unfold. The atmosphere is one of heavy solemnity, the quiet only broken by the soft music played by hidden musicians and the occasional toll of a distant bell.
+### Sinister things in the Glade
+#### Statue to Alsolace
+**The Statue:**  In reality, the statue is nothing more than a wooden structure, hastily covered in cheap gold foil to deceive the faithful and maintain the illusion of [[Alsolace]]’s power. 
+#### The Children are Missing
+**The Ceremony is a Cover:** Beneath the surface of this carefully orchestrated ceremony, however, lies a dark and insidious purpose. Unbeknownst to the gathered townsfolk, children attending the ceremony are being quietly abducted by [[The Followers of Alsolace]], taken to hidden passages within Temple Glade where they will be spirited away to [[Livy's Livestock (Slave House)]]. As [[Tennyson Heralds]] delivers his impassioned speech, the true horror of the event goes unnoticed, cloaked in the false light of [[Alsolace]]’s supposed benevolence.
+#### Devotees Diving in the Crocodile Infested Lake
+You can see Devotees down from the temple glade by the edge of the lake feeding the crocodiles. You see another devotee drying off and another one clambering out of the lake, a shining golden key around her neck. 
+#### Dmitri Lives
+A creature actually sees [[Dmitri Mironov]] and [[Igor Larionov]] standing together talking *while the funeral is going on.* Let [[Wake Tiraus]] see this 100% because it would be a good plot point for her character.
