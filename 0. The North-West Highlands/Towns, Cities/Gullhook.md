@@ -140,12 +140,12 @@ These descriptions can be used to create a vivid, immersive environment, making 
 ##### Bullshit Made-up Creatures
 These are a list of creatures I just kind of made up cause they sounded cool; check them off if they are used, then create an official stat block for them.
 
-- [ ]  **Rustmonger Crabs**: Large, crab-like creatures that feed on metal, leaving behind trails of rust. Their pincers can crush through armor, and they’re attracted to anything shiny.
-- [ ]  **Salvage Sprites**: Mischievous, tiny fey creatures that live within the debris. They delight in causing trouble, rearranging items, and setting traps for unsuspecting adventurers.
+- [x]  **Rustmonger Crabs**: Large, crab-like creatures that feed on metal, leaving behind trails of rust. Their pincers can crush through armor, and they’re attracted to anything shiny.
+- [x]  **Salvage Sprites**: Mischievous, tiny fey creatures that live within the debris. They delight in causing trouble, rearranging items, and setting traps for unsuspecting adventurers.
 - [ ]  **Scrap Golems**: Animated piles of junk and shipwreck pieces that have gained a semblance of life. These creatures are clumsy but powerful, swinging makeshift limbs made of broken beams and rusted chains.
-- [ ]  **Wrecklings**: Small, gremlin-like creatures that thrive in the shadows, scavenging for metal and wood to build their nests. They’re quick, nimble, and have a penchant for stealing tools and weapons.
+- [x]  **Wrecklings**: Small, gremlin-like creatures that thrive in the shadows, scavenging for metal and wood to build their nests. They’re quick, nimble, and have a penchant for stealing tools and weapons. They use the same rules as Kenku for communications.  
 - [ ]  **Barnacle Hounds**: Canine-shaped creatures with tough, barnacle-covered hides. They hunt in packs and are known for their relentless pursuit of prey, often cornering their victims in tight spaces.
-- [ ]  **Flotsam Fiends**: Amorphous, ooze-like creatures that blend into piles of debris. They lie in wait, attacking anything that disturbs their hiding spots with corrosive tendrils.
+- [x]  **Flotsam Fiends**: Amorphous, ooze-like creatures that blend into piles of debris. They lie in wait, attacking anything that disturbs their hiding spots with corrosive tendrils.
 - [ ]  **Creaking Terrors**: Ghostly apparitions formed from the spirits of drowned sailors, bound to the wreckage that now serves as their eternal prison. They manifest as eerie, shifting shadows that emit unsettling creaks and groans.
 - [ ]  **Razorwing Gulls**: Aggressive seabirds with razor-sharp beaks and claws, known for dive-bombing intruders and picking at exposed flesh.
 - [ ]  **Wrecker Beetles**: Giant beetles with powerful mandibles capable of cutting through wood and metal. They burrow through debris, creating unstable tunnels and nests within the wreckage.

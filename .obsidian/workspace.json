@@ -6,6 +6,7 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
+        "dimension": 46.36098981077147,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -22,20 +23,6 @@
             }
           },
           {
-            "id": "2edc07d3f2ab96b3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Quests/Mist Side Quests.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "6d6a08569b54d35d",
             "type": "leaf",
             "pinned": true,
@@ -43,7 +30,21 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Mist Sessions/Mist Sessions.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2edc07d3f2ab96b3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Quests/Mist Side Quests.md",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -56,18 +57,19 @@
               "type": "markdown",
               "state": {
                 "file": "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "99f20ee2bcf59ded",
         "type": "tabs",
+        "dimension": 53.63901018922853,
         "children": [
           {
             "id": "a574986b47a7a668",
@@ -76,31 +78,43 @@
               "type": "markdown",
               "state": {
                 "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6188141c13155e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The North-West Highlands/NPCs/His Majesty.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc8366b6b47c9cc6",
+            "id": "8f14fbe2f7101f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/The Gooey Goblins.md",
+                "file": "0. The North-West Highlands/Features/The High Forests.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "62379eb5aa365c83",
+            "id": "43dcdd6fee01add8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The North-West Highlands/NPCs/Alsolace Cult/The Followers of Alsolace.md",
-                "mode": "source",
+                "file": "GM Screen/spells/Wild Magic Table (Sorcerer).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -157,16 +171,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Quests/Mist Side Quests.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5026054382324
+    "width": 259.00621795654297
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -182,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Quests/Mist Side Quests.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Quests/Mist Side Quests.md",
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Quests/Mist Side Quests.md"
+                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
               }
             }
           }
@@ -244,18 +257,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e8d91e3b1b901c2",
+  "active": "a574986b47a7a668",
   "lastOpenFiles": [
-    "0. The North-West Highlands/NPCs/Alsolace Cult/The Followers of Alsolace.md",
     "1. Quests/Mist Side Quests.md",
+    "0. The North-West Highlands/NPCs/His Majesty.md",
     "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "Temple Glade.md",
-    "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
     "0. The North-West Highlands/Features/The High Forests.md",
-    "0. The North-West Highlands/Features/The High Forest/The Wishing Pond.md",
+    "GM Screen/spells/Wild Magic Table (Sorcerer).md",
+    "README.md",
+    "0. The North-West Highlands/NPCs/Crab Time/The Followers of Karak-Ulgurath.md",
+    "0. The North-West Highlands/NPCs/Alsolace Cult/The Followers of Alsolace.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
-    "0. The North-West Highlands/NPCs/Alsolace Cult/Tennyson Heralds.md",
+    "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
     "0. The North-West Highlands/NPCs/The Gooey Goblins.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "Temple Glade.md",
+    "0. The North-West Highlands/Features/The High Forest/The Wishing Pond.md",
+    "0. The North-West Highlands/NPCs/Alsolace Cult/Tennyson Heralds.md",
     "1. Quests/Quests NW Highlands/Quest to Chase the Raiders.md",
     "1. Quests/Quests NW Highlands/Quest to Defend Saddle-port.md",
     "Session Notes/Mist Sessions/Mist S12 8-9-24.md",
@@ -267,11 +285,6 @@
     "0. The North-West Highlands/Features/The High Forest/The Serenity Groves.md",
     "0. The North-West Highlands/Features/The High Forest/The Charmed Royalties.md",
     "0. The North-West Highlands/Features/The High Forest/The Widow-maker's Stands.md",
-    "Tennyson.md",
-    "99. Player Data/Ashley T/Valyra Malzan.md",
-    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
-    "99. Player Data/JP/Wake Tiraus.md",
-    "GM Screen/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md",
     "-1. Items & Things/Vehicles & Ships",
     "-1. Items & Things/General Items",
     "-1. Items & Things/Weapons",
