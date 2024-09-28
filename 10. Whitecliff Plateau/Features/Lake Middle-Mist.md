@@ -1,0 +1,4 @@
+Regional Location: [[The Discordant Plains]] and [[The Whitecliff Plateau]]
+Subsection: At the drain of [[The Wild River]] and the source of [[The Tamed River]]. 
+
+You notice a small rise in the landscape, made from stone; it looks like a long, wide hill. As you climb it, you notice the obsidian fragments buried in parts of the rock. As you crest the stone rises, the lake hoves into view, its surface glittering and sparkling, nestled into the center of this area. It surface sits far below the lip of the stone rises, which you now notice are in roughly a circular shape. There are path ways down to the lake and you can notice jetties poking out from black sand beaches.

@@ -65,19 +65,19 @@ Price magic items in a way where items that are going to be very appealing to th
 # 2. Character/Mission Ideas
 Any Idea that is checked off and ~~strike through~~ has been implemented already. This is just to track ideas to add:
 
-- [ ] Hunter's guild in [[Gullhook]] ties to [[The Green Order]] in [[The Twilight Woods]]
+- [ ] Hunter's guild in [[Gullhook]] ties to [[The Green Order]] in [[The Starwoods]]
 - [ ] Flesh out quest to clear the salvage yard in [[Gullhook]]
 - [x] Chugga's bar tournament w/ [[Ball Knockers]] **Run Already**
-- [ ] Work on Livy from [[Livy's Livestock (Slave House)]] & tie to [[The Forest Freaks]]
+- [ ] Work on Livy from [[Livy's Livestock]] & tie to [[The Forest Freaks]]
 	- [ ] Make Livy a Hag and add a Haven Coven and a windmill as a joke alluding to Curse of Strahd. The windmill is for LOLs but the Hags are legit.  
-- [x] [[Puck]] takes [[Deion Deus]]'s Hands with super poison dagger **Run Already**
-	- [x] [[Puck]] seduced by [[Garrick Blackthorn]], [[Deion Deus]] framed in [[Puck]]'s mind as a weakling and a coward for not killing those kids, 
-	- [x] [[Puck]] stands over [[Deion Deus]]: "I could finish you, but I won't. Then it's not on my shoulders that I killed ya, you're just weak. Just like Garrick told me." 
-	- [x] [[Puck]] lures [[Deion Deus]] to back room being friendly, then does this. Chop of hand with [[Deion Deus]]'s own hand-axe. 
+- [x] [[Puck Galewind]] takes [[Deion Deus]]'s Hands with super poison dagger **Run Already**
+	- [x] [[Puck Galewind]] seduced by [[Garrick Blackthorn]], [[Deion Deus]] framed in [[Puck Galewind]]'s mind as a weakling and a coward for not killing those kids, 
+	- [x] [[Puck Galewind]] stands over [[Deion Deus]]: "I could finish you, but I won't. Then it's not on my shoulders that I killed ya, you're just weak. Just like Garrick told me." 
+	- [x] [[Puck Galewind]] lures [[Deion Deus]] to back room being friendly, then does this. Chop of hand with [[Deion Deus]]'s own hand-axe. 
 - [ ] Super long way off but have affair between [[Livy Revals]] and [[Fedorov Barovick VII]] be a weapon for stripping [[Fedorov Barovick VII]] of his right to rule [[Fedorov's Legion]]. Add something to [[Fedorov's Legion]] to make their affair and their child from it a method to invalidate his rule. 
 	- [ ] flesh out rules for this
 	- [ ] flesh out child that they had
-- [ ] Start seeding ideas for a war on [[The South-East Coast]] between [[Fedorov's Legion]] and [[The Blue Coat Brigade]]
+- [ ] Start seeding ideas for a war on [[The Stormlocked Frontier]] between [[Fedorov's Legion]] and [[The Blue Coat Brigade]]
 - [ ] Get a new sheet of NPC names and races table for quick reference
 - [ ] Integrate quests in mission doc more neatly and divide by region in Gullhook. 
 - [x] Figure out moonrat's enemy for mission in Chugga's.  **Ran Tavern, was fun**
@@ -114,7 +114,7 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 - [x] Prep tattoos for offering at Ink  **Kelswin acquired tattoo**
 - [ ] Lance weapon that charges in a straight line?
 - [ ] Ability allowing re-roll of entire damage roll. If you roll lower than before you take the damage instead. Call it like "curse fated strike" or some BS
-- [x] Build the Weapon, called a Reaver Blade, that [[Puck]] used against [[Deion Deus]] **Created and done**
+- [x] Build the Weapon, called a Reaver Blade, that [[Puck Galewind]] used against [[Deion Deus]] **Created and done**
 - [ ] Rewrite [[The Whisperer's Curse]] to be better
 # 3. Fight Ideas
 - [ ] Enemy that is anchored to an object through magical means. They get dragged towards the object if not within a certain radius. 

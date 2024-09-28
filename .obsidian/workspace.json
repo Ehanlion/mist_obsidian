@@ -6,7 +6,6 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 46.36098981077147,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -43,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Quests/Mist Side Quests.md",
+                "file": "98. Quests/Mist Side Quests.md",
                 "mode": "preview",
                 "source": false
               },
@@ -51,75 +50,19 @@
             }
           },
           {
-            "id": "fbaea23111113738",
+            "id": "1af7065844b0c2fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
-                "mode": "preview",
-                "backlinks": false,
+                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "99f20ee2bcf59ded",
-        "type": "tabs",
-        "dimension": 53.63901018922853,
-        "children": [
-          {
-            "id": "a574986b47a7a668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6188141c13155e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/NPCs/His Majesty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f14fbe2f7101f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. The North-West Highlands/Features/The High Forests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43dcdd6fee01add8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Screen/spells/Wild Magic Table (Sorcerer).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,21 +86,6 @@
             }
           },
           {
-            "id": "471eaa71a75ed05c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "d11886068bd903bc",
             "type": "leaf",
             "state": {
@@ -171,7 +99,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md"
+              }
+            }
+          },
+          {
+            "id": "471eaa71a75ed05c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -179,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.00621795654297
+    "width": 309.5026054382324
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -195,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md",
+                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -235,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. The North-West Highlands/Towns, Cities/Gullhook.md"
+                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md"
               }
             }
           }
@@ -257,43 +200,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a574986b47a7a668",
+  "active": "1af7065844b0c2fa",
   "lastOpenFiles": [
-    "1. Quests/Mist Side Quests.md",
-    "0. The North-West Highlands/NPCs/His Majesty.md",
-    "0. The North-West Highlands/Towns, Cities/Gullhook.md",
-    "0. The North-West Highlands/Features/The High Forests.md",
-    "GM Screen/spells/Wild Magic Table (Sorcerer).md",
-    "README.md",
-    "0. The North-West Highlands/NPCs/Crab Time/The Followers of Karak-Ulgurath.md",
-    "0. The North-West Highlands/NPCs/Alsolace Cult/The Followers of Alsolace.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "1. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
-    "0. The North-West Highlands/NPCs/The Gooey Goblins.md",
+    "GM Screen/Ethan's Player Mechanics/Completed/Counterspell Surge.md",
+    "_Monsters/Frost Bound Warden Stat Block.png",
+    "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
+    "0. Creatures/Frost-Bound Wardens.md",
+    "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
     "GM Screen/Ethan's Useful Links.md",
-    "Temple Glade.md",
-    "0. The North-West Highlands/Features/The High Forest/The Wishing Pond.md",
-    "0. The North-West Highlands/NPCs/Alsolace Cult/Tennyson Heralds.md",
-    "1. Quests/Quests NW Highlands/Quest to Chase the Raiders.md",
-    "1. Quests/Quests NW Highlands/Quest to Defend Saddle-port.md",
-    "Session Notes/Mist Sessions/Mist S12 8-9-24.md",
-    "-1. Global/Pantheon of Mist/Shrines to the Pantheon.md",
-    "GM Screen/Combat Actions/ready.md",
-    "-1. Global/Pantheon of Mist/The Prime Deities.md",
-    "0. The North-West Highlands/Features/The High Forest/The Untamed Verdant.md",
-    "0. The North-West Highlands/Features/The High Forest/The Glades of Fate.md",
-    "0. The North-West Highlands/Features/The High Forest/The Serenity Groves.md",
-    "0. The North-West Highlands/Features/The High Forest/The Charmed Royalties.md",
-    "0. The North-West Highlands/Features/The High Forest/The Widow-maker's Stands.md",
-    "-1. Items & Things/Vehicles & Ships",
-    "-1. Items & Things/General Items",
-    "-1. Items & Things/Weapons",
-    "99. Player Data/Ashley T",
-    "99. Player Data/Chris P",
-    "99. Player Data/Ryan J",
-    "99. Player Data/Sean M",
-    "99. Player Data/JP",
-    "99. Player Data/-1. To My Players",
-    "GM Screen/-1. EXPERIMENTAL"
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "98. Quests/Mist Side Quests.md",
+    "_Archived/Tomb of Annihilation/NPCs/Acererak.md",
+    "_Archived/Tomb of Annihilation/NPCs/Hew Hackinstone.md",
+    "_Archived/Tomb of Annihilation/NPCs/Atropal.md",
+    "_Archived/Tomb of Annihilation/Potions Quick Reference.md",
+    "_Archived/Tomb of Annihilation/Final fight for ToA.md",
+    "_Assets/Temple to the Returned Lord.png",
+    "_Assets/The blinded dungeon.png",
+    "_Assets/The Quaint and Rustic II Tavern.png",
+    "_Assets/Twilight woods 1.png",
+    "_Assets/Twilight woods and plains border.png",
+    "_Assets/blood-red glister.png",
+    "_Assets/dark woods 1.png",
+    "_Assets/Deep woods and twilight woods border.png",
+    "GM Screen/Conditions/death saving throw.md",
+    "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md",
+    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
+    "0. Items & Things/General Items/Mutated Barnacle Growths.md",
+    "99. Player Data/_Briefing_Notes",
+    "0. Items & Things/General Items/Master Mind Rock.md",
+    "0. Items & Things/General Items/Mind Rock.md",
+    "0. Items & Things/General Items/Mistway Compass.md",
+    "0. Items & Things/General Items/Soul Siphon Ring.md",
+    "0. Items & Things/General Items/Weavebreaker Ring.md",
+    "_Trimmings/The Rune of Opening.md",
+    "_Trimmings/Stormphrax.md",
+    "0. Items & Things/General Items/Ice-Rocks.md",
+    "10. Whitecliff Plateau/North West Town Ordering.md",
+    "10. Whitecliff Plateau/Town-Islands/Warden-Hunter's Hideout.md",
+    "10. Whitecliff Plateau/Gandoras City/Organizations",
+    "_Trimmings",
+    "40. Meridian Cleave",
+    "71. Scorchsand Wastes",
+    "20. Greenheart Wldrnss/The Wildwoods",
+    "0. Greenreach/The",
+    "20. Greenheart Wldrnss/The Starwoods",
+    "20. Greenheart Wldrnss/The Umbrawood",
+    "0. Items & Things/Vehicles & Ships"
   ]
 }

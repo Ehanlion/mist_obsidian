@@ -13,11 +13,11 @@
 **Proficiency:** +4 (level 10)
 **Ability checks:** perception +5, athletics +9
 #### Abilities
-| Ability | Description | Uses |
-| - | - | - |
-| Reckless Attack | Hew can make his attacks reckless, giving him advantage and attacks made against him for the rest of his turn advantage. | 4 / LR |
-| Dwarven Armor | Bonus Action, Hew can activate the armor to gain resistance to **piercing, slashing, bludgeoning, and fire** damage | 1 / LR |
-| Dwarf | Resistance to poison damage | - |
+| Ability         | Description                                                                                                              | Uses   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------ | ------ |
+| Reckless Attack | Hew can make his attacks reckless, giving him advantage and attacks made against him for the rest of his turn advantage. | -      |
+| Dwarven Armor   | Bonus Action, Hew can activate the armor to gain resistance to **piercing, slashing, bludgeoning, and fire** damage      | 1 / LR |
+| Dwarf           | Resistance to poison damage                                                                                              | -      |
 
 #### Attacks:
 | Attack | Range | To-Hit | Damage |

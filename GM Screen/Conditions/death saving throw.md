@@ -5,4 +5,4 @@ Rules Index: [[D&D Game Mechanics]]
 	-  If the result is less than 10, they fail a death save.
 	-  If the result is 10 or more, the succeed a death save.
 	-  If the results is a natural 1, they fail two death saves.
-	-  If the result is a natural 20, they regain consciousness, and are at one hit point. 
+	-  If the result is a natural 20, they regain consciousness, and are at one hit point.

@@ -7,7 +7,7 @@ Revered amidst the tribe as all brawn no brains.
 He ENJOYED the tribe while he was in it.
 - Maybe he has a peer or mentor in the tribe that he still reveres as being friendly.
 - Deion has a friend in the marauders. He would've been a mischievous person, friendly with Deion because he was funny and they were the same age. 
-	- This friends name is [[Puck]] 
+	- This friends name is [[Puck Galewind]] 
 	- ETHAN -> ADD STUFF FOR THIS FRIEND
 	- Maybe make them a higher up, aligned with the tribe leaders. 
 	- He needs to encounter Deion maybe on a recruiting mission and he needs to be friendly, but his company needs to be distinctly dislikable and evil like the marauder's leader. 
@@ -21,7 +21,7 @@ Deion stepped in to stop a tribe member from attacking, caused harm to a tribe m
 - This could be a fun thing to tie into another character. Maybe another character's parent was in that caravan that Deion saved. 
 Wake up moment, rose colored lenses to the tribes misdeeds. 
 
-Follows the caravan to the large city at the bottom edge of [[The North-West Highlands]]. 
+Follows the caravan to the large city at the bottom edge of [[The Whitecliff Plateau]]. 
 Fights as seasoned gladiator in the city for money. Personal champion of some noble to help pay living expenses.  
 
 Wants to comeback and remove members of [[The Iron-fist Marauders]] from power because of their misdeeds. 
@@ -34,6 +34,6 @@ Deion is 25, 9 years older since his incident that caused him to leave.
 Bandit tribe. Each one has a marking. EVERY one has a marking. People fear the marking and it is ubiquitous and well known. 
 
 #### Added during play:
-- Deion has a small room in [[Gandoras City]]. It is in the trades district, specifically the area controlling the convoys to supply [[The North-West Highlands]]. This small room has 800 gp he has saved in it and Deion has the sole key. 
+- Deion has a small room in [[Gandoras City]]. It is in the trades district, specifically the area controlling the convoys to supply [[The Whitecliff Plateau]]. This small room has 800 gp he has saved in it and Deion has the sole key. 
 - Bears the mark of [[Markings of the Blood-Stone Pass]] on his wrist. 
 - Deion is lawful; in [[Smears-burrow]] when Gaston Long-Line was executed for poaching another fisher's lobster crates, Deion did not try and stop this harsh punishment. 

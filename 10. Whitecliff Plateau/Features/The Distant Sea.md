@@ -1,0 +1,4 @@
+Regional Location: [[The Whitecliff Plateau]]
+Subsection:
+# Description:
+The Distant Sea is the **Northern-Most** sea in the lands of mist. It lies to the north of both [[The Whitecliff Plateau]] and [[The Greenheart Wilderness]]. It is cold and cool; its waves rough and frosty. Ice forms on ships if you sail to far from the cliffs and many a ship have sunk braving it fearsome waters. The fish are massive and expensive in these waters, making it appealing -- and deadly; the sea-creatures are massive, legendary even. The waters are prowled by great spiny sea serpents, Kraken-offspring, and all sorts of colorful monstrosities. 

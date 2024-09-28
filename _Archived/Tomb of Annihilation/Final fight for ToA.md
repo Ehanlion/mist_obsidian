@@ -120,7 +120,6 @@ Mazur - [Risen Reaver](https://dr-eigenvalue.github.io/bestiary/creature/risen-r
 [[Hew Hackinstone]] (internal link)
 #### The bridges come down:
 At some point describe how the lava begins to consume the bridges and they begin to fall apart. Jumping to the middle is now harder. 
-
 #### Battle Plan 2:
 I can count on Acererak, Atropal being alive here.
 Azon, Mazur, Ras-nsi may all be dead.

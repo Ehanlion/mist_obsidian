@@ -1,1 +1,0 @@
-This note tracks the revisions of the map of mist. A lot of stuff in this vault is going to be AI-generated, because its easy to describe small locations like that. However, as a learning exercise, the *map* of Mist is going to be hand drawn. Not sure of a style yet, but we will get there. 

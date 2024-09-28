@@ -1,0 +1,4 @@
+Regional Location: [[The Greenheart Wilderness]]
+Subsection: Between [[The Wildwoods]] and [[The Wild River]], north of [[The Discordant Plains]]. 
+
+The Bog Beast swamps are an area of flood-land, where water from the rapids of [[The Wild River]] give way to a great expanse of flooded land. Buried trees lie only partially emergent above the water level. A layer of water slowly flows over the swamp, more quickly at the southern edges and much slower towards the northern ends. This gives a sense of alive-ness to the southern verges but an overly rankness and staleness to the northern parts. The creatures that inhabit the swamp reflect this. 

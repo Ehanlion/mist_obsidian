@@ -1,0 +1,2 @@
+# Regional Description
+[[The Stormlocked Frontier]] is a land locked behind the towering stone bastions of [[The Chromatic Fangs]]. Its lands are strife with calamity and chaos. Small baronies rules the southlands here while the three great pirate factions of [[Fedorov's Legion]], [[The Dead-Tide Reapers]], and [[The Blue Coat Brigade]] hold tidings over [[Hope Town]] in the north. The lands are divided along the banks of [[River Havarra]] and [[Halcyoron's Marshes]]. 

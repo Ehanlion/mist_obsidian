@@ -2,7 +2,7 @@
 Kelswin Lovejoy is an 18 year old Satyr.
 Kelswin does not know his real parents, and was instead adopted by his step-mother [[Vivian Lovejoy]], who he treats as his complete mother because of his deep bond with her. 
 
-[[Vivian Lovejoy]] is a librarian in a small town in [[The North-West Highlands]].
+[[Vivian Lovejoy]] is a librarian in a small town in [[The Whitecliff Plateau]].
 Kelswin was dropped off at the doorstep to the library as a mere infant and never knew who his parents were.
 
 [[Vivian Lovejoy]] knows some minor magic and she taught Kelswin from a young age.

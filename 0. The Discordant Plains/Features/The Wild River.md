@@ -1,6 +1,0 @@
-Regional Location: [[The Discordant Plains]] and [[The North-East Forests]]
-Subsection: Southern border of [[The Deep Woods]] and northern border to [[The Discordant Plains]]. 
-
-The wild river splits the island of mist down the center, separating the whisperings of [[The Discordant Plains]] from the burgeoning growths of [[The Deep Woods]], on the south of [[The North-East Forests]]. 
-# Description:
-The Wild River lives up to its name -- it's wild. In parts its fearsome flow rages over submerged stones, creating dangerous and perilous rapids. In other parts, the river widens and amidst the river grass, fish make their homes. In some parts the river is merely a few feet deep and hundreds of feet wide. In others, it rushes rapidly through channels just 20 feet wide but that gouge hundreds deep. 

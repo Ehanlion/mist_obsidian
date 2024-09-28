@@ -24,11 +24,12 @@ This is adventure. This is Mist.
 Mist is Ethan's creation for a dungeons and dragons campaign. It is NOT complete; what project ever is? It should feel magical and compelling. I hope to evoke my player's emotions and senses with every description I give. The cool salty breezes of the cliffsides or the hot winds of the desert, the granules of sand ripping small cuts across your exposed skin. Maybe the cold peaks of the mountains, your numb ears can hear the baying of a winter wolf far in the distance. It needs to feel alive. And it will be vibrant, in every description I narrate. - Ethan
 # Index and Locations
 The island is divided, roughly, into 4 quadrants, bisected by the North, East, South, and West directions. Each harbors it own climate, locations, peoples, and mysteries. This is an index of each of them and their attractions:
-## [[The North-West Highlands]]
-## [[The North-East Forests]]
-## [[The Discordant Plains]]
-## [[The South-East Mountains]]
-## [[The South-East Coast]]
-## [[The South-West Arid Expanse]]
 
-(Link to [[D&D Game Mechanics]]).
+1. [[The Whitecliff Plateau]]
+2. [[The Greenheart Wilderness]]
+3. [[The Discordant Plains]]
+4. [[The Meridian Cleave]]
+5. [[The Chromatic Fangs]]
+6. [[The Stormlocked Frontier]]
+7. [[The Fractured Coast]]
+8. [[The Scorchsand Wastes]]

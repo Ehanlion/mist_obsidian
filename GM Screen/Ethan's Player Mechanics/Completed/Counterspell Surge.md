@@ -5,5 +5,7 @@ In places of extreme magic sometimes the redaction of a spell with a counterspel
 **Basic Mechanics:**
 If a spell is successfully counterspelled, it causes a wild magic surge centered on both the caster and the counterspeller (so two surges). Both creatures rolls on the sorcerer wild magic table and the effects instantly occur. 
 
+Could also just be a mid-point between the casters of counterspell and if no one there, roll a d20 and higher gets the effect ???
+
 **Extreme Mechanics:** 
 In the extreme variant of the rule, the basic mechanics persist but then on top of that, whenever a spell of third level or higher is cast, it also causes a wild magic surge centered on the caster. 

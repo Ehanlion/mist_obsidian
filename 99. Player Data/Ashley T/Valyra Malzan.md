@@ -29,8 +29,8 @@ Likes the forest
 	- Levistus Tiefling, offers bargains to those who face an inescapable doom
 	- Devil's Bargains
 - Ethan's Add on:
-	- There a place, a casino or hideaway or a den of Devils, and it's locked away, in secret, deep within [[The Dark Woods]]. 
-	- [[The Dark Woods]] are within, and to far east part of [[The Deep Woods]] 
+	- There a place, a casino or hideaway or a den of Devils, and it's locked away, in secret, deep within [[The Umbrawood]]. 
+	- [[The Umbrawood]] are within, and to far east part of [[The Wildwoods]] 
 	- The place with a lot of [[Yugo Stolid]]'s friends? That's this place in the forests. 
 - **So working on this:**
 	- Ashley will work on the inescapable doom part
@@ -38,7 +38,7 @@ Likes the forest
 		- Wounded in forests on mission from [[The Green Order]], stumbled upon the den of the Devils and forced to make a deal to salvage life?
 		- Powers before or after talking to devils? Before = needed skill to be in [[The Green Order]] but the deal with the Devil's almost corrupted your powers causing you to turn unstable and volatile with magic. 
 	- But The Devil's Hideaway, will be a key moment where Ashley's character makes a deal with one of the higher up devils in the Hideaway. 
-	- After making the deal with The Devil tries to go back and be part of order normally, but tragedy strikes! During a mission, a wild magic surge kills, against her will, two of her companions outright. The order realized the nature of the magic, and as such resents her for choosing a path they see as corrupt. They exile her, and on pain death may she set foot in [[The Twilight Woods]] again. 
+	- After making the deal with The Devil tries to go back and be part of order normally, but tragedy strikes! During a mission, a wild magic surge kills, against her will, two of her companions outright. The order realized the nature of the magic, and as such resents her for choosing a path they see as corrupt. They exile her, and on pain death may she set foot in [[The Starwoods]] again. 
 	- Character outcast [[The Green Order]], never to be allowed back in again ([[The Green Order]] hates the Devils ... )
 	- Also means, in [[Gullhook]], you DO NOT get along with the Hunter's Guild because they are directly attached to the [[The Green Order]]. 
 	- Need a reason to be up in [[Gullhook]]
