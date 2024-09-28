@@ -29,7 +29,7 @@ She wants to be a good hero since her reputation has made people wary of her.
 She wants to defy her notoriety of being 'a Living Disaster' and a sort of enigma and rise as a savior and hero of the beaches; to truly live up to her name of "The King of the Beach"
 
 Wake's relationships:
-- A hero of [[The Storm Lord]].
+- A hero of [[The Stormlord]]
 - Walked into the sea amidst [[The Calamitous Typhoon]].
 - Lived along [[The Stormlocked Frontier]]. 
 - Friendly towards [[Pavel Hard]] and [[The Blue Coat Brigade]], a pirate faction in [[Hope Town]], the largest town along [[The Stormlocked Frontier]].

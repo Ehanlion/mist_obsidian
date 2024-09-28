@@ -7,5 +7,5 @@
 ![[The Harmonious Sea]]
 ### [[The Sea of Contention]]
 ![[The Sea of Contention]]
-### [[The Warm Ocean]]
-![[The Warm Ocean]]
+### [[The Ocean of Fire]]
+![[The Ocean of Fire]]

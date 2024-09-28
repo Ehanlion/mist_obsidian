@@ -6,7 +6,7 @@ E.g. a ship enters the shroud from the north of the islands and manage to miracu
 # Getting past the Wardens:
 The [[Frost-Bound Wardens]] are fearsome, gigantic titans. They are not to be trifled with. Even a party of max level characters would stand no chance against these beings. 
 # Locations of the shrouds:
-The shrouds is NOT centered on the center point of the island of Mist but rather it is centered on [[The Whitecliff Plateau]]. For this reason, the borders of the shroud are a lot closer to both [[The Stormlocked Frontier]] and [[The Fractured Coast]]. This, combined with the natural occurrence of [[The Eastern Razor Peaks]] and [[The Southern Razor Peaks]] makes [[The Chromatic Fangs]] the only way to travel to [[The Stormlocked Frontier]]. 
+The shrouds is NOT centered on the center point of the island of Mist but rather it is centered on [[The Whitecliff Plateau]]. For this reason, the borders of the shroud are a lot closer to both [[The Stormlocked Frontier]] and [[The Fractured Coast]]. This, combined with the natural occurrence of [[The Frozen Razor Fangs]] and [[The Infernal Razor Fangs]] makes [[The Chromatic Fangs]] the only way to travel to [[The Stormlocked Frontier]]. 
 
 # Revising the Layers of the Mist
 ### Layer 1: Cold Mist

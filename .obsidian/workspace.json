@@ -6,6 +6,7 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
+        "dimension": 57.32807215332581,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -60,9 +61,76 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88d9dc868ce2fa2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7a990a84bedf04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99. Player Data/Ashley T/Valyra Malzan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "54b7313456457097",
+        "type": "tabs",
+        "dimension": 42.67192784667419,
+        "children": [
+          {
+            "id": "9cc0ea7213bb5d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60. Stormlocked Frontier/Hope Town/Hope Town Faction Breakdown (Player Copy).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8ea9d3b84b2fac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Whitecliff Plateau/Gandoras City/Organizations/The Blackwood Ring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5193acfff6f1ff2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Whitecliff Plateau/North West Town Ordering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,26 +268,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c463d6e74c344419",
+  "active": "1af7065844b0c2fa",
   "lastOpenFiles": [
-    "_Monsters/Frost Bound Warden Stat Block.png",
+    "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md",
     "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
+    "99. Player Data/Ashley T/Valyra Malzan.md",
+    "20. Greenheart Wldrnss/The Umbrawood/The Lostfall Sanctum.md",
+    "20. Greenheart Wldrnss/The Umbrawood/The Umbral Cabal.md",
+    "0. Creatures/Kilvuzeth.md",
+    "99. Player Data/Morgan/Wake Tiraus.md",
+    "60. Stormlocked Frontier/Hope Town/Hope Town Faction Breakdown (Player Copy).md",
+    "60. Stormlocked Frontier/Features/The Frozen Razor Fangs.md",
+    "60. Stormlocked Frontier/Features/The Infernal Razor Fangs.md",
+    "70. Fractured Coast/Features/The Ocean of Fire.md",
+    "0. Global/Great Features/The Seas of Mist.md",
+    "50. Chromatic Fangs/Features/Gar Imladris Crossing/Gar Imladris Crossing.md",
+    "50. Chromatic Fangs/Features/Dum Kazad Khalad Throngul/Dum Kazad Khalad Throngul.md",
+    "50. Chromatic Fangs/Features/Gar Imladris Crossing/The Syndicate of Ice.md",
+    "50. Chromatic Fangs/The Scorvorian Peaks.md",
+    "10. Whitecliff Plateau/North West Town Ordering.md",
+    "10. Whitecliff Plateau/Gandoras City/Organizations/The Blackwood Ring.md",
+    "10. Whitecliff Plateau/Gandoras City/Organizations/The Weaver's Ring.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "_Monsters/Frost Bound Warden Stat Block.png",
     "98. Quests/Mist Side Quests.md",
     "10. Whitecliff Plateau/Towns, Cities/Gullhook.md",
     "98. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
     "GM Screen/Ethan's Player Mechanics/Completed/Counterspell Surge.md",
     "10. Whitecliff Plateau/Gandoras City/Organizations/The Ring of Wealth.md",
     "0. Global/Great Features/The Shrouds of the Frost-Bound Wardens.md",
-    "10. Whitecliff Plateau/Gandoras City/NPCs/King Hyranthara.md",
     "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
-    "0. Creatures/Frost-Bound Wardens.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "_Archived/Tomb of Annihilation/NPCs/Acererak.md",
-    "_Archived/Tomb of Annihilation/NPCs/Hew Hackinstone.md",
-    "_Archived/Tomb of Annihilation/NPCs/Atropal.md",
-    "_Archived/Tomb of Annihilation/Potions Quick Reference.md",
-    "_Archived/Tomb of Annihilation/Final fight for ToA.md",
     "_Assets/Temple to the Returned Lord.png",
     "_Assets/The blinded dungeon.png",
     "_Assets/The Quaint and Rustic II Tavern.png",
@@ -228,16 +306,7 @@
     "_Assets/blood-red glister.png",
     "_Assets/dark woods 1.png",
     "_Assets/Deep woods and twilight woods border.png",
-    "GM Screen/Conditions/death saving throw.md",
-    "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md",
-    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Reword.md",
-    "0. Items & Things/General Items/Mutated Barnacle Growths.md",
     "99. Player Data/_Briefing_Notes",
-    "0. Items & Things/General Items/Master Mind Rock.md",
-    "0. Items & Things/General Items/Mind Rock.md",
-    "0. Items & Things/General Items/Mistway Compass.md",
-    "0. Items & Things/General Items/Soul Siphon Ring.md",
-    "0. Items & Things/General Items/Weavebreaker Ring.md",
     "10. Whitecliff Plateau/Gandoras City/Organizations",
     "_Trimmings",
     "40. Meridian Cleave",

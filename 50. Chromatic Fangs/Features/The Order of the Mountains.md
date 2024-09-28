@@ -9,7 +9,7 @@ The Mountains of [[The Chromatic Fangs]] vary in size, altitude, weather, and di
 4. **Hard**: These mountain(s) claim the lives of even the most seasoned mountain climbers. 
 5. **Extreme:** You will not make it, no matter the experience.
 #### The Mountains in Order (South to North):
-1. [[The Southern Razor Peaks]]
+1. [[The Infernal Razor Fangs]]
 	- Difficulty: Impassable
 2. [[The Commotal Caldera]]
 	- Difficulty: Low
@@ -31,5 +31,5 @@ The Mountains of [[The Chromatic Fangs]] vary in size, altitude, weather, and di
 3. [[The Peak of Gold]]
 	- Difficulty: Medium
 	- Group: [[The Chromatic Delegation]]
-1. [[The Eastern Razor Peaks]]
+1. [[The Frozen Razor Fangs]]
 	- Difficulty: Impassable
