@@ -6,7 +6,7 @@ Dmitri is a broad, hefty orc, too stout for his own race. He does not speak much
 [[Dmitri Mironov]] is headed to [[The Sunken Caverns]] in [[The Whitecliff Plateau]]. He has travelled far across the island with the companionship of [[Igor Larionov]]. 
 
 **Slave Trader:**
-He is also helping [[Tennyson Heralds]] and [[The Followers of Alsolace]] with a slave ring, centered around [[Livy's Livestock]].
+He is also helping [[Tennyson Heralds]] and [[The Following of Alsolace]] with a slave ring, centered around [[Livy's Livestock]].
 # Mission for [[Fedorov Barovick VII]]:
 Dmitri, alongside [[Igor Larionov]], has been tasked with checking upon [[Karak-Ulgurath]] and seeing if the efforts of the massive crustacean have yielded results yet. He is currently in [[The Whitecliff Plateau]]. The mission of [[Karak-Ulgurath]] is detailed in [[The Vanishings in the North-West]]. 
 

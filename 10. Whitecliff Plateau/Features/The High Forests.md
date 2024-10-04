@@ -1,6 +1,6 @@
 Regional Location: [[The Whitecliff Plateau]]
 Subsection: Near [[Gullhook]], surrounding [[The Echoing Grotto]]
-# Description
+# Description 
 A clustering of diverse, wind swept forests atop the [[The Whitecliff Plateau]]. They surround the [[The Echoing Grotto]]. These forests are divided into 5 semi-equal sections. Folk lore has it that the forest was created by 5 gods, some of [[The Prime Deities]] and some of [[The Betrayer Gods]]. 
 
 Of course, this rumor is false. But it was made true, in part, by the people of [[The Whitecliff Plateau]] *believing* that it was true. The forest has 5 sections. They assigned, in belief, 5 gods to it and through generations wrote the folk tale about it.

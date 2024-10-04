@@ -1,5 +1,5 @@
 Regional Locations: [[The Whitecliff Plateau]]
-Subsection: Lead Minister of [[The Followers of Alsolace]]
+Subsection: Lead Minister of [[The Following of Alsolace]]
 # Description
 A well built, but larger gentlemen with the powerful voice of a seasoned orator. 
 # Characteristics

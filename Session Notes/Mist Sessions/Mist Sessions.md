@@ -151,3 +151,4 @@ Any Idea that is checked off and ~~strike through~~ has been implemented already
 13. [[Valyra Malzan]] - [Infernal Puzzle Box](https://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box), fiery motifs, something secret to add later
 14. [[Valyra Malzan]] - [Clockwork Amulet](https://dnd5e.wikidot.com/wondrous-items:clockwork-amulet), allows reroll of 1d20 per day, flavor to apply some fiery effect to whatever it is used for
 15. [[Valyra Malzan]] - [Cloak of Many Fashions](https://dnd5e.wikidot.com/wondrous-items:cloak-of-many-fashions), cloak that can change colors 
+16. [[Deion Deus]] - [Armor of Fungal Spores](https://dnd5e.wikidot.com/wondrous-items:armor-of-fungal-spores) armor that can poison people in radius 

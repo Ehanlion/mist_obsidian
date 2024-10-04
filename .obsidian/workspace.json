@@ -6,7 +6,6 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
-        "dimension": 57.32807215332581,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -30,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Mist Sessions/Mist Sessions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -51,36 +50,24 @@
             }
           },
           {
-            "id": "1af7065844b0c2fa",
+            "id": "0890b5ba8bbef43a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
+                "file": "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88d9dc868ce2fa2d",
+            "id": "3f837675d4f1b14f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7a990a84bedf04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99. Player Data/Ashley T/Valyra Malzan.md",
+                "file": "10. Whitecliff Plateau/Towns, Cities/Gullhook/Gullhook.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,49 +75,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "54b7313456457097",
-        "type": "tabs",
-        "dimension": 42.67192784667419,
-        "children": [
-          {
-            "id": "9cc0ea7213bb5d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "60. Stormlocked Frontier/Hope Town/Hope Town Faction Breakdown (Player Copy).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8ea9d3b84b2fac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Whitecliff Plateau/Gandoras City/Organizations/The Blackwood Ring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5193acfff6f1ff2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Whitecliff Plateau/North West Town Ordering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md"
+                "file": "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md"
               }
             }
           },
@@ -186,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -206,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
+                "file": "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
+                "file": "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md"
+                "file": "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md"
               }
             }
           }
@@ -268,10 +213,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1af7065844b0c2fa",
+  "active": "0890b5ba8bbef43a",
   "lastOpenFiles": [
-    "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md",
+    "10. Whitecliff Plateau/Towns, Cities/Gullhook/Gullhook.md",
+    "98. Quests/Mist Side Quests.md",
+    "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "10. Whitecliff Plateau/NPCs/Crab Time/Dmitri Mironov.md",
+    "10. Whitecliff Plateau/NPCs/Alsolace Cult/The Following of Alsolace.md",
+    "0. Items & Things/General Items/Mind Rock.md",
+    "10. Whitecliff Plateau/Towns, Cities/Gullhook",
+    "10. Whitecliff Plateau/Features/The High Forests.md",
+    "GM Screen/Ethan's Useful Links.md",
     "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
+    "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md",
     "99. Player Data/Ashley T/Valyra Malzan.md",
     "20. Greenheart Wldrnss/The Umbrawood/The Lostfall Sanctum.md",
     "20. Greenheart Wldrnss/The Umbrawood/The Umbral Cabal.md",
@@ -287,16 +242,7 @@
     "50. Chromatic Fangs/Features/Gar Imladris Crossing/The Syndicate of Ice.md",
     "50. Chromatic Fangs/The Scorvorian Peaks.md",
     "10. Whitecliff Plateau/North West Town Ordering.md",
-    "10. Whitecliff Plateau/Gandoras City/Organizations/The Blackwood Ring.md",
-    "10. Whitecliff Plateau/Gandoras City/Organizations/The Weaver's Ring.md",
-    "GM Screen/Ethan's Useful Links.md",
     "_Monsters/Frost Bound Warden Stat Block.png",
-    "98. Quests/Mist Side Quests.md",
-    "10. Whitecliff Plateau/Towns, Cities/Gullhook.md",
-    "98. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md",
-    "GM Screen/Ethan's Player Mechanics/Completed/Counterspell Surge.md",
-    "10. Whitecliff Plateau/Gandoras City/Organizations/The Ring of Wealth.md",
-    "0. Global/Great Features/The Shrouds of the Frost-Bound Wardens.md",
     "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
     "_Assets/Temple to the Returned Lord.png",
     "_Assets/The blinded dungeon.png",
@@ -314,7 +260,6 @@
     "20. Greenheart Wldrnss/The Wildwoods",
     "0. Greenreach/The",
     "20. Greenheart Wldrnss/The Starwoods",
-    "20. Greenheart Wldrnss/The Umbrawood",
-    "0. Items & Things/Vehicles & Ships"
+    "20. Greenheart Wldrnss/The Umbrawood"
   ]
 }
