@@ -130,12 +130,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5026054382324
+    "width": 200
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -215,9 +214,12 @@
   },
   "active": "0890b5ba8bbef43a",
   "lastOpenFiles": [
+    "0. Creatures/Bazemore, The Earth-Shaker.md",
+    "0. Creatures/Agnedelo the Plague-Bringer.md",
+    "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md",
+    "0. Creatures/Kilvuzeth.md",
     "10. Whitecliff Plateau/Towns, Cities/Gullhook/Gullhook.md",
     "98. Quests/Mist Side Quests.md",
-    "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
     "10. Whitecliff Plateau/NPCs/Crab Time/Dmitri Mironov.md",
     "10. Whitecliff Plateau/NPCs/Alsolace Cult/The Following of Alsolace.md",
@@ -230,7 +232,6 @@
     "99. Player Data/Ashley T/Valyra Malzan.md",
     "20. Greenheart Wldrnss/The Umbrawood/The Lostfall Sanctum.md",
     "20. Greenheart Wldrnss/The Umbrawood/The Umbral Cabal.md",
-    "0. Creatures/Kilvuzeth.md",
     "99. Player Data/Morgan/Wake Tiraus.md",
     "60. Stormlocked Frontier/Hope Town/Hope Town Faction Breakdown (Player Copy).md",
     "60. Stormlocked Frontier/Features/The Frozen Razor Fangs.md",
@@ -240,8 +241,6 @@
     "50. Chromatic Fangs/Features/Gar Imladris Crossing/Gar Imladris Crossing.md",
     "50. Chromatic Fangs/Features/Dum Kazad Khalad Throngul/Dum Kazad Khalad Throngul.md",
     "50. Chromatic Fangs/Features/Gar Imladris Crossing/The Syndicate of Ice.md",
-    "50. Chromatic Fangs/The Scorvorian Peaks.md",
-    "10. Whitecliff Plateau/North West Town Ordering.md",
     "_Monsters/Frost Bound Warden Stat Block.png",
     "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
     "_Assets/Temple to the Returned Lord.png",

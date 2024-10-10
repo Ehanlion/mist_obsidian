@@ -26,3 +26,38 @@ The island is covered with rocks, ancient stone paths, and large trees. The path
 [[Temple Glade]] used to be under stewardship of a benevolent and loving order of monks who tended to all of both [[The Prime Deities]] and [[The Betrayer Gods]]. Their dedication resulted in shrines to each of these gods surrounding the temple. These have since fallen into disrepair and ruin after [[The Following of Alsolace]] supplanted the once-kind monks for their more aggressive campaign for [[Alsolace]]. Nevertheless the statutes remain. 
 
 ![[Shrines to the Pantheon]]
+# The Temple Residence
+The old monks, and now [[Tennyson Heralds]] and [[The Following of Alsolace]], live in the alcove  that make up the middle part of the island. There are healing domes, rooms, and prayer chambers. There are also preaching rooms for sermons.
+
+Rooms to highlight:
+- [[Tennyson Heralds]]'s rooms
+- An old prayer chamber now is office for [[Dmitri Mironov]] and liaisons of [[Fedorov's Legion]]. 
+- Bathing pools and bath house are living spaces for Sahuaguin. 
+- Healing Domes are captive chambers for children and abductees. 
+# Special Temple Areas
+## Sunken Sanctuary 
+
+> [!NOTE] Description
+> The Sanctuary is broken into two main areas: the ruins of the above ground Sanctuary entrance, and the below ground entrance, accessible only via the lake waters. Visually, the above group entrance is a simple, large, circular temple with no roof and four standing pillars. The center is a large broken mosaic of the Prime Deities, covered with insignia of Alsolace. This area is close to the lake's edge.
+
+> [!NOTE] Description of underground area
+> The underground area is a vast hall of worship. It holds ancient mosaics of the early days of Mist. These are being covered up. There is also a large altar to the Dawnfather that is being covered with emblems of Alsolace. The surface is inscribed with runes of power. The space glows faintly from the walls. 
+
+The above ground entrance is flooded and caved in. To get to the lower sanctuary requires swimming down in the lake of crocodiles to a hidden entrance dug from stone. It is rough and quickly made and a golden key opens a golden lock on the door. 
+### The Sun Altar
+The Altar is attributed to [[The Dawnfather]]. It has ancient runes on it that can be invoked to empower a creature. The statues also allows glimpses into the past, before [[Tennyson Heralds]] took over [[Temple Glade]]. 
+
+If cleansed of the tainting of [[Alsolace]] it can bestow a latent gift to a creature. 
+### Mosaics 
+These mosaics show the following:
+- A city being founded - [[Gandoras City]]'s founding
+- A king being crowned - The first King, [[Faustus]] of the Many, being crowned to [[The Seat of Stone]]. 
+- A pass being carved through mountains - [[Dum Kazad Khalad Throngul]]. 
+- A great dark dragon in front of a dying forest - [[Agnedelo the Plague-Bringer]] in [[The Umbrawood]] before it was created.
+## Pools of Reflections
+## Shrine to Lost Light
+## The Celestial Observatory 
+# Secret Exit
+The Temple has a secret exit that is hidden deep within the **Sunken Sanctuary.** To access it, you must swim down in the lake of crocodiles to the stone gate, now locked by a golden lock, unlocked with a golden key. 
+
+The exit links directly to [[Livy's Livestock]] on the edge of [[The Untamed Verdant]]. [[Livy's Livestock]] exports the abducted children and gold to [[Fedorov's Legion]] via [[The Bloodstone Pass]]. This exit is an old passage, far before [[Tennyson Heralds]]. There are newer minecart tracks laid down in it. 
