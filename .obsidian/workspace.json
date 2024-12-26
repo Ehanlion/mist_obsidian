@@ -56,17 +56,17 @@
             }
           },
           {
-            "id": "41a2adba0b6a6732",
+            "id": "d4384142e3d8bebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/-1. Sailing System/Introduction to Ethan's Sailing System.md",
-                "mode": "source",
+                "file": "GM Screen/-1. EXPERIMENTAL/Organization to Create a World Setting Book.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Ethan's Sailing System"
+              "title": "Organization to Create a World Setting Book"
             }
           }
         ],
@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5026054382324
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Mist Sessions/Mist S11 7-24-2024.md",
+                "file": "GM Screen/-1. EXPERIMENTAL/Organization to Create a World Setting Book.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mist S11 7-24-2024"
+              "title": "Outgoing links from Organization to Create a World Setting Book"
             }
           },
           {
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,36 +223,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41a2adba0b6a6732",
+  "active": "d4384142e3d8bebb",
   "lastOpenFiles": [
-    "GM Screen/Ethan's Useful Links.md",
-    "GM Screen/-1. Sailing System/Introduction to Ethan's Sailing System.md",
-    "GM Screen/-1. Sailing System",
-    "Session Notes/Mist Sessions/Mist S11 7-24-2024.md",
-    "Session Notes/Mist Sessions/Mist S10 7-27-2024.md",
-    "Session Notes/Mist Sessions/Mist S12 8-9-24.md",
-    "10. Whitecliff Plateau/North West Town Ordering.md",
-    "10. Whitecliff Plateau/Features/The High Forests.md",
-    "98. Quests/Mist Side Quests.md",
-    "10. Whitecliff Plateau/Towns, Cities/Gullhook/Gullhook.md",
-    "98. Quests/Mist Campaign Framework.md",
-    "10. Whitecliff Plateau/Towns, Cities/Gullhook/Temple Glade.md",
-    "0. Creatures/Bazemore, The Earth-Shaker.md",
-    "0. Creatures/Agnedelo the Plague-Bringer.md",
-    "0. Creatures/Kilvuzeth.md",
+    "71. Scorchsand Wastes/The Scorchsand Wastes.md",
+    "71. Scorchsand Wastes/Dangers of the Wastes/Crossing Events/Sand Tremor Shark Attack.md",
+    "71. Scorchsand Wastes/Dangers of the Wastes/Creatures of the Wastes.md",
+    "71. Scorchsand Wastes/Dangers of the Wastes/Dangers of the Wastes.md",
+    "71. Scorchsand Wastes/Dangers of the Wastes/Tables/Minor Wastes Table.md",
+    "71. Scorchsand Wastes/Dangers of the Wastes/Tables/Major Wastes Table.md",
+    "71. Scorchsand Wastes/Dangers of the Wastes/Tables",
+    "71. Scorchsand Wastes/Dangers of the Wastes/Crossing Events",
+    "71. Scorchsand Wastes/Dangers of the Wastes",
+    "GM Screen/-1. EXPERIMENTAL/Organization to Create a World Setting Book.md",
+    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Rework.md",
     "Session Notes/Mist Sessions/Mist Sessions.md",
-    "10. Whitecliff Plateau/NPCs/Crab Time/Dmitri Mironov.md",
-    "10. Whitecliff Plateau/NPCs/Alsolace Cult/The Following of Alsolace.md",
+    "98. Quests/Mist Side Quests.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "10. Whitecliff Plateau/Features/The Startup Compound of The Many.md",
+    "GM Screen/-1. EXPERIMENTAL/Ethan's D&D Mass Warfare System.md",
+    "GM Screen/-1. Sailing System/Introduction to Ethan's Sailing System.md",
+    "GM Screen/-1. Total Warfare System/Introduction to Sieges.md",
+    "10. Whitecliff Plateau/Features/The High Forest/The High Forests.md",
+    "10. Whitecliff Plateau/Features/The High Forest/The Widow-maker's Stands.md",
+    "0. Global/Great Features/The Console.md",
+    "0. Global/Great Features/The Aether-Veil Projector.md",
+    "0. Global/Great Features/Archaic Storm Conduits.md",
+    "0. Global/Great Features/Where the Oceans Lead.md",
+    "0. Global/Great Features/The Shrouds of the Frost-Bound Wardens.md",
+    "0. Global/Great Features/The Mist Codex.md",
+    "0. Global/NPCs, Creatures/The Many/The Many.md",
+    "0. Items & Things/General Items/The Tent of Many Things.md",
     "0. Items & Things/General Items/Mind Rock.md",
+    "GM Screen/-1. Total Warfare System",
+    "GM Screen/-1. Sailing System",
     "10. Whitecliff Plateau/Towns, Cities/Gullhook",
-    "99. Player Data/_Briefing_Notes/9-27-24 Generic Brief.md",
-    "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md",
-    "99. Player Data/Ashley T/Valyra Malzan.md",
-    "20. Greenheart Wldrnss/The Umbrawood/The Lostfall Sanctum.md",
-    "20. Greenheart Wldrnss/The Umbrawood/The Umbral Cabal.md",
-    "99. Player Data/Morgan/Wake Tiraus.md",
-    "60. Stormlocked Frontier/Hope Town/Hope Town Faction Breakdown (Player Copy).md",
-    "60. Stormlocked Frontier/Features/The Frozen Razor Fangs.md",
     "_Monsters/Frost Bound Warden Stat Block.png",
     "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
     "_Assets/Temple to the Returned Lord.png",
@@ -267,10 +270,6 @@
     "99. Player Data/_Briefing_Notes",
     "10. Whitecliff Plateau/Gandoras City/Organizations",
     "_Trimmings",
-    "40. Meridian Cleave",
-    "71. Scorchsand Wastes",
-    "20. Greenheart Wldrnss/The Wildwoods",
-    "0. Greenreach/The",
-    "20. Greenheart Wldrnss/The Starwoods"
+    "40. Meridian Cleave"
   ]
 }

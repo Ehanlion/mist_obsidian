@@ -23,6 +23,19 @@ Hello! My name is Ethan Owen and this is my system for **Sailing the High Seas.*
 **Sinking**: Once a ship's health is reduced below 0, it sinks. A ship sinks in a given number of rounds. This can be slowed or accelerated by external factors, but it always has a baseline.
 **Control Methods**: A ship must be controlled by a captain who issues ordered to his lesser. Those lesser execute the order, but the captain must steer or delegate his helmsman to 
 # Crewing a Ship
+## Key Terms
+**Captain**: Leader of the ship. Companies directly appoint captains while pirates democratically elect theirs. Crew relies on captain for all final orders. Captains orchestrates combat directives. 
+**Helmsmen**: *Optional*. Steers the ship and mans the helm. Captains consults navigator and gives turn order or directly gives turn order in heat of combat. *If not taken, assumed by captain.*
+**Navigator**: *Optional*. Consults star charts, navigation tools, and magic to guide a ship on its passage. Advises captain on course headings. *If not take, assumed by captain.*
+**First Mate**: Carries our orders on the captains behalf. Second in command. An order given by a first mate is to be taken as an order from the captain unless the captains overrides with their own order. 
+**Cook**: Responsible for preparing the food for the ship. Communes with quarter-master to use ships chest to buy food and stock the pantries.
+**Quarter-Master**: Oversees cargo transactions, shipping manifests, and trade orders. Third in command. Manages crew's pay and loot distributions. Oversees the hold and keeps the hold clear of vermin. 
+**Sail-Tenders**: *Optional*. If a ship has sails, it needs Sail-tenders. Responsible for manning the sails. Must raise/lower/change sails when given orders by the captain.
+**Gunner**: *Optional*. If a ship has large weapons, it needs gunners. Gunners operate cannons, trebuchets, crossbows, or other mounted weapons. 
+**Lookout**: Generally a creature with high perception, this position mans the crow's nest on the ship. Responsible to relaying sightings to captain/first mate/navigator for action. 
+**Oarsmen**: *Optional*. If a ship has oars, it needs oarsmen. Oarsmen row the ship when it's not under sail power, namely in ports and rivers. 
+**Engineer**: *Optional*. An engineer is optional, but recommended. The engineer repairs the ship on journeys and in ports, they oversee large-scale repairs done to ship.
+**Grunt**: Generic crewmates of a ship. If a role is not assigned, by default a crew member is a grunt.
 # Building Your Ship
 # Embracing Weather Systems
 # Deep Sea Encounters
