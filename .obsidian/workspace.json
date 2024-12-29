@@ -16,6 +16,7 @@
               "state": {
                 "file": "GM Screen/Ethan's Useful Links.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true,
@@ -56,17 +57,17 @@
             }
           },
           {
-            "id": "d4384142e3d8bebb",
+            "id": "895e4937f043a590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Organization to Create a World Setting Book.md",
-                "mode": "preview",
+                "file": "Daily Notes/2024-12-29.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organization to Create a World Setting Book"
+              "title": "2024-12-29"
             }
           }
         ],
@@ -173,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Screen/-1. EXPERIMENTAL/Organization to Create a World Setting Book.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "Daily Notes/2024-12-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Organization to Create a World Setting Book"
+              "title": "Outgoing links from 2024-12-29"
             }
           },
           {
@@ -220,43 +221,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d4384142e3d8bebb",
+  "active": "895e4937f043a590",
   "lastOpenFiles": [
-    "71. Scorchsand Wastes/The Scorchsand Wastes.md",
-    "71. Scorchsand Wastes/Dangers of the Wastes/Crossing Events/Sand Tremor Shark Attack.md",
-    "71. Scorchsand Wastes/Dangers of the Wastes/Creatures of the Wastes.md",
-    "71. Scorchsand Wastes/Dangers of the Wastes/Dangers of the Wastes.md",
-    "71. Scorchsand Wastes/Dangers of the Wastes/Tables/Minor Wastes Table.md",
-    "71. Scorchsand Wastes/Dangers of the Wastes/Tables/Major Wastes Table.md",
+    "0. The Many/Histories of the Many/The Final Day of The Many.md",
+    "Daily Notes/2024-12-29.md",
+    "0. Global/Pantheon of Mist/How Divine Magic Works.md",
+    "0. Global/Pantheon of Mist/Shrines to the Pantheon.md",
+    "0. The Many/Architecture/Archaic Storm Conduits.md",
+    "_Archived/The Obelisk Field.md",
+    "0. Global/Language in Mist.md",
+    "0. The Many/Architecture/The Mist Codex.md",
+    "0. The Many/Architecture/The Divine Barrier.md",
+    "0. The Many/Architecture/The Console.md",
+    "0. The Many/Architecture/The Aetherveil Projector.md",
+    "0. The Many/Members/Relationships of the Many.md",
+    "0. The Many/Members/DeAngelo.md",
+    "0. The Many/Members/Faustus.md",
+    "0. The Many/Members/Bernhard.md",
+    "0. Items & Things/Weapons/Cavarra Weapons.md",
+    "Daily Notes/2024-12-28.md",
+    "0. Books/The Greatest of the Great.md",
+    "0. Global/Mist.md",
+    "98. Quests/Quest Ideas/Moral Dilemma with Deities Puzzles.md",
+    "0. The Many/In Mist Today",
+    "0. The Many/Architecture",
+    "0. The Many/Histories of the Many",
+    "0. The Many/Members",
+    "0. The Many",
+    "98. Quests/Quest Ideas/Inception Hallucination.md",
+    "98. Quests/Mist Side Quests.md",
+    "Session Notes/Mist Sessions/Mist Sessions.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "Daily Notes/2024-12-26.md",
+    "_Templates/daily_journal_template.md",
+    "0. Creatures/Dragons",
+    "0. Creatures/Glisters",
+    "Daily Notes",
     "71. Scorchsand Wastes/Dangers of the Wastes/Tables",
     "71. Scorchsand Wastes/Dangers of the Wastes/Crossing Events",
-    "71. Scorchsand Wastes/Dangers of the Wastes",
-    "GM Screen/-1. EXPERIMENTAL/Organization to Create a World Setting Book.md",
-    "GM Screen/-1. EXPERIMENTAL/Warlock 5e Spell Rework.md",
-    "Session Notes/Mist Sessions/Mist Sessions.md",
-    "98. Quests/Mist Side Quests.md",
-    "GM Screen/Ethan's Useful Links.md",
-    "10. Whitecliff Plateau/Features/The Startup Compound of The Many.md",
-    "GM Screen/-1. EXPERIMENTAL/Ethan's D&D Mass Warfare System.md",
-    "GM Screen/-1. Sailing System/Introduction to Ethan's Sailing System.md",
-    "GM Screen/-1. Total Warfare System/Introduction to Sieges.md",
-    "10. Whitecliff Plateau/Features/The High Forest/The High Forests.md",
-    "10. Whitecliff Plateau/Features/The High Forest/The Widow-maker's Stands.md",
-    "0. Global/Great Features/The Console.md",
-    "0. Global/Great Features/The Aether-Veil Projector.md",
-    "0. Global/Great Features/Archaic Storm Conduits.md",
-    "0. Global/Great Features/Where the Oceans Lead.md",
-    "0. Global/Great Features/The Shrouds of the Frost-Bound Wardens.md",
-    "0. Global/Great Features/The Mist Codex.md",
-    "0. Global/NPCs, Creatures/The Many/The Many.md",
-    "0. Items & Things/General Items/The Tent of Many Things.md",
-    "0. Items & Things/General Items/Mind Rock.md",
-    "GM Screen/-1. Total Warfare System",
-    "GM Screen/-1. Sailing System",
-    "10. Whitecliff Plateau/Towns, Cities/Gullhook",
     "_Monsters/Frost Bound Warden Stat Block.png",
     "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
     "_Assets/Temple to the Returned Lord.png",
@@ -266,10 +272,6 @@
     "_Assets/Twilight woods and plains border.png",
     "_Assets/blood-red glister.png",
     "_Assets/dark woods 1.png",
-    "_Assets/Deep woods and twilight woods border.png",
-    "99. Player Data/_Briefing_Notes",
-    "10. Whitecliff Plateau/Gandoras City/Organizations",
-    "_Trimmings",
-    "40. Meridian Cleave"
+    "_Assets/Deep woods and twilight woods border.png"
   ]
 }

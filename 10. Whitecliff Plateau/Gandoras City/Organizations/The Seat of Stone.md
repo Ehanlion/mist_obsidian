@@ -1,7 +1,7 @@
 Regional Location: [[The Whitecliff Plateau]]
 Subsection: The ruling organization of [[Gandoras City]].
 # True Nature
-The seat of stone, alongside [[The Blackwood Ring]] are actually remanent of [[The Final Day of The Many]]. When [[Faustus]] used modify memory through [[The Aether-Veil Projector]], he wiped the minds of all on the island, including himself. The original King of The Seat of Stone was actually [[Faustus]] and [[The Blackwood Ring]] (really the members of [[The Scintillating Order]] who attacked [[The Many]]) were his close advisors. The group, headed by [[Faustus]] and forgetting of their bitter hatred, created [[Gandoras City]] as a strong point on the islands thousands of years ago. 
+The seat of stone, alongside [[The Blackwood Ring]] are actually remanent of [[The Final Day of The Many]]. When [[Faustus]] used modify memory through [[The Aetherveil Projector]], he wiped the minds of all on the island, including himself. The original King of The Seat of Stone was actually [[Faustus]] and [[The Blackwood Ring]] (really the members of [[The Scintillating Order]] who attacked [[The Many]]) were his close advisors. The group, headed by [[Faustus]] and forgetting of their bitter hatred, created [[Gandoras City]] as a strong point on the islands thousands of years ago. 
 
 Descendant Kings and Queens who sit on the Seat of Stone, ruling [[Gandoras City]], are actually direct descendant of [[Faustus]], the leader of [[The Many]]. 
 

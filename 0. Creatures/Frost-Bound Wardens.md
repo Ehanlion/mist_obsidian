@@ -1,7 +1,7 @@
 Regional Location: The Seas of Mist
 Subsection: Wander deep within [[The Shrouds of the Frost-Bound Wardens]]
 # True Nature:
-The true nature of the Wardens are that they are constructs, powered by [[The Aether-Veil Projector]] and can be shutdown via [[The Mist Codex]]. They are a feature that is enabled within [[The Mist Codex]] to provide a layer of defense. 
+The true nature of the Wardens are that they are constructs, powered by [[The Aetherveil Projector]] and can be shutdown via [[The Mist Codex]]. They are a feature that is enabled within [[The Mist Codex]] to provide a layer of defense. 
 # Description:
 Massive sentinels the sizes of buildings. Their arms the sizes of ships. Their glowing, blue icy eyes, like giant pools of water. Their arms, as they move in the seas, create giant whirlpools and eddies and miniature waterfalls form from their stone crevices. Ice clings to every part of their bodies. They move with a lethargic and deliberate movements 
 ### Revision
@@ -9,6 +9,13 @@ Massive sentinels the sizes of buildings. Their arms the sizes of ships. Their g
 - Their upper body is made from rocks, held together with swirling storms,, mist, and water
 - Their lower body is a swirling mass of rocks, with two vaguely leg-ish legs.
 - Their lower body is surrounded by a massive water funnel. 
+
+### Newer Revision
+ - Fuck all that, easy does it -> they are just water elementals
+ - They are made of ice and water and rise from the sea
+ - But they can also meld back with the sea and hide as a pack of icebergs
+ - when they take form, the rise out of the water, the ice bergs cracking and fracturing to comprise its form, held together with enchanted water
+ - **Update stat block to have new abilities:** *Hidden in Plain Sight* (the warden can hide in plain sight as an iceberg field), *Meld Into Form* (the creature spends an action and creates its form by drawing up water and icebergs into its forming body)
 # Living in the Shroud:
 The Wardens only live in [[The Shrouds of the Frost-Bound Wardens]]. They do not venture out for any reason. Myth has it that they feed on the mists itself, regenerating it constantly. They mark the end of the worlds in Mist. It is said that, while dangerous, the Wardens are there to stop one from sailing off the edge of the world into the abyss of nothing. 
 # Getting past the FBW:

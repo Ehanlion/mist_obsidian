@@ -14,7 +14,7 @@ The members of The Many:
 8. [[Valentino]] (third programmer)
 9. A hierarchy was not formed until **after** The Many escaped the clutches of [[The Scintillating Order]] and killed the queen. 
 # Where did they come from?
-The Many originate from [[The Runewilds]]. They are lands that now, with [[The Shrouds of the Frost-Bound Wardens]] protecting Mist and [[The Aether-Veil Projector]] sealing Mist off onto its own demi-plane, that are unreachable by any means. If Mist were ever to be brought back to the Prime Material plane, it would reside thousands of miles from [[The Runewilds]].
+The Many originate from [[The Runewilds]]. They are lands that now, with [[The Shrouds of the Frost-Bound Wardens]] protecting Mist and [[The Aetherveil Projector]] sealing Mist off onto its own demi-plane, that are unreachable by any means. If Mist were ever to be brought back to the Prime Material plane, it would reside thousands of miles from [[The Runewilds]].
 
 [[The Runewilds]] were actually very similar in resources to Mist. Special and rare things findable within Mist are also findable within [[The Runewilds]]. Since both Mist and [[The Runewilds]] were once part of the same plane of the Prime Material, the same flora and fauna as well as creatures are present in both Mist now and [[The Runewilds]]. 
 # Why did they come to Mist
@@ -27,4 +27,4 @@ It is beyond important to note that the citizens of Mist do not understand that 
 The following locations were created by [[The Many]] in the time between first landing on the island and [[The Final Day of The Many]]. 
 1. [[The Obelisk Field]]: A field of obelisks now located in the sea off the coast of [[The Whitecliff Plateau]].
 2. [[The Solemn Flutes]]: A series of odd stone rings located in [[The Discordant Plains]]. Originally created as just a passion project and to echo a lovely sound across [[The Discordant Plains]]. 
-3. [[The Aether-Veil Projector]] and [[The Mist Codex]] housed in ancient stone bunker submerged under the water level along the west coast of [[The Harmonious Sea]] and [[The Whitecliff Plateau]]
+3. [[The Aetherveil Projector]] and [[The Mist Codex]] housed in ancient stone bunker submerged under the water level along the west coast of [[The Harmonious Sea]] and [[The Whitecliff Plateau]]

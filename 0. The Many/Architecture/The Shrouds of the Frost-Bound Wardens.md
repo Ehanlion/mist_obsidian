@@ -1,5 +1,5 @@
 # Description:
-The shrouds are the barriers on the Mist-side of the field projected by the [[The Aether-Veil Projector]]. They stop any ship from making it through them. If a ship sails close to them, the temperature drops to icy levels. Sailing further, you could encounter titanic abominations of the sea; frosty creatures knows as [[Frost-Bound Wardens]]. If a ship can sail through this, the veil will transport them to the other side of the island.
+The shrouds are the barriers on the Mist-side of the field projected by the [[The Aetherveil Projector]]. They stop any ship from making it through them. If a ship sails close to them, the temperature drops to icy levels. Sailing further, you could encounter titanic abominations of the sea; frosty creatures knows as [[Frost-Bound Wardens]]. If a ship can sail through this, the veil will transport them to the other side of the island.
 
 E.g. a ship enters the shroud from the north of the islands and manage to miraculously sail through the freezing waters. They sail out of the shrouds into the waters at the south of the island. 
 
