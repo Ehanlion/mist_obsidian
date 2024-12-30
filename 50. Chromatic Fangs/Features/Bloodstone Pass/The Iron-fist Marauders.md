@@ -7,4 +7,4 @@ The marauders are sneaky about how they offer protection. Groups can offer as mu
 It is quick to assume that this method is barbaric and would drive customers away from using [[The Bloodstone Pass]] but this is not true. [[Gar Imladris Crossing]] has weather so treacherous that in bad season, almost half of all those who travel it die. In decent weather, it's still dangerous. 
 
 #### A barbaric branding:
-All members of the iron-fist marauders are tattooed with [[Markings of the Blood-Stone Pass]]. 
+All members of the iron-fist marauders are tattooed with [[Tattoo of the Iron-Fist Marauders]]. 

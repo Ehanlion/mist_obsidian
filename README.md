@@ -1,5 +1,4 @@
 # Welcome to Mist
-
 > [!NOTE] Ethan's Welcome to Mist
 > As you stand atop the towering white cliffs of the northwest headlands, the cool ocean breeze whips through your hair, carrying with it the sharp scent of salt and the distant cry of seabirds. The tall sea grass around you dances in the wind, whispering secrets of the deep, as the vast expanse of the ocean stretches out before you. In the far distance, where the sky meets the sea, you can just make out the massive, shifting cliffs of Mist, their forms elusive and ever-changing under the veil of fog that clings to the horizon.
 >
@@ -23,13 +22,13 @@ This is adventure. This is Mist.
 # A Blurb From the Author
 Mist is Ethan's creation for a dungeons and dragons campaign. It is NOT complete; what project ever is? It should feel magical and compelling. I hope to evoke my player's emotions and senses with every description I give. The cool salty breezes of the cliffsides or the hot winds of the desert, the granules of sand ripping small cuts across your exposed skin. Maybe the cold peaks of the mountains, your numb ears can hear the baying of a winter wolf far in the distance. It needs to feel alive. And it will be vibrant, in every description I narrate. - Ethan
 # Index and Locations
-The island is divided, roughly, into 4 quadrants, bisected by the North, East, South, and West directions. Each harbors it own climate, locations, peoples, and mysteries. This is an index of each of them and their attractions:
+The island is divided, roughly, into 4 quadrants, bisected by the North, East, South, and West meridians. Each harbors it own climate, locations, peoples, and mysteries. Each is headed by its own order, if any at all. Each is beautiful and deadly in their own ways. This is an index of each of them and their attractions:
 
-1. [[The Whitecliff Plateau]]
-2. [[The Greenheart Wilderness]]
-3. [[The Discordant Plains]]
-4. [[The Meridian Cleave]]
-5. [[The Chromatic Fangs]]
-6. [[The Stormlocked Frontier]]
-7. [[The Fractured Coast]]
-8. [[The Scorchsand Wastes]]
+1. [[The Whitecliff Plateau]]: A placid high steppe bordering the seas, towering over the waters below on tall white cliffs
+2. [[The Greenheart Wilderness]]: A deep throng of a forest and jungle, hosting the most diverse and strange wildlife and creatures on the island
+3. [[The Discordant Plains]]: A desolate and dangerous region of plains plagued with abnormalities, centered around an ancient and strange stone circle,
+4. [[The Meridian Cleave]]: A massive chasm that splits the island along its center, filled with raging and choppy sea water
+5. [[The Chromatic Fangs]]: Vast peaks that isolate the south-east, only passable by one of three treacherous crossings, they are tall and deadly 
+6. [[The Stormlocked Frontier]]: A chaotic rabblerousing coast filled with once-criminals, pirates, and corsairs, at odds with brutal orders along the coast 
+7. [[The Fractured Coast]]: A strong, dictatorship, eastern-ish monocracy that rules the few stone outcroppings outside the wastes 
+8. [[The Scorchsand Wastes]]: Brutal deserts rife with the most dangerous monsters in Mist, but necessary to cross to supply the Fracture Coast by brave crossers

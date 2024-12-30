@@ -19,16 +19,16 @@ I have the following puzzle pieces that I think will work well together
 - During their time in [[Mist]], [[Mansfield]] and [[Sprague]] fell in love quickly and were planning to get engaged
 - Their wedding would have fallen just after the final battle for [[Mist]] in which everyone's minds were erased 
 - They never got to live out their wedding
-- Each one of them died with their vows being their last known words, captured by each of their [[Shards]]
+- Each one of them died with their vows being their last known words, captured by each of their [[Shard]]
 ## 3. [[Bernhard]] and [[Valentino]] (dating)
 - Because of the close proximity on [[Mist]] and the high stress, [[Bernhard]] and [[Valentino]] often took on objectives together
 - As such they spent much time in each other's company which led to them falling in love with each other
 - By the time of the final battle, they had only been dating for a couple months 
-- [[Bernhard]]'s [[Shards]] captured final thoughts of a first date
-- [[Valentino]]'s [[Shards]] captured final thoughts of a family with [[Bernhard]]
+- [[Bernhard]]'s [[Shard]] captured final thoughts of a first date
+- [[Valentino]]'s [[Shard]] captured final thoughts of a family with [[Bernhard]]
 ## 4. [[DeAngelo]] and [[Cleophas]] (unrealized lovers)
 - [[DeAngelo]] and [[Cleophas]] were the least closely exposed to each other's company on [[Mist]] since their objectives never really overlapped 
 - However they were friends and messaged each other with disappearing paper notes and sending stones 
 - They both were falling in love with each other, but before their could express this, the final battle arrived 
 - Before their minds were wiped, both had written notes of love unknown to each other and died with them in their hands
-- Both of their [[Shards]] captured frantic writing of a love confession, and acceptance in their final minutes 
+- Both of their [[Shard]] captured frantic writing of a love confession, and acceptance in their final minutes 

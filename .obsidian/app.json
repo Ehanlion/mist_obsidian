@@ -4,5 +4,8 @@
   "livePreview": true,
   "readableLineLength": false,
   "showInlineTitle": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "strictLineBreaks": false
 }

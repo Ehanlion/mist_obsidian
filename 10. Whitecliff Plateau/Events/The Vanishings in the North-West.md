@@ -12,7 +12,7 @@ Small vanishings up and along the coast. One or two people here or there from to
 2. Historians
 3. Supply Caravans from the Trade Guild from [[Gandoras City]]
 
-[[Karak-Ulgurath]], the crustacean overlord, needs miners because the area they are mining in is unstable and collapses very easily. Miners, enslaved by the crab, are needed for their expertise which is taken from them after being dominated by the crab. The crab has plenty of raw labor but needs expertise to mine efficiently. As for the librarians, the crab is learning about the powers of the [[Shards]] that it is seeking, but this is primarily because it is forced to by [[Ignel Valis]]. [[Ignel Valis]] has commanded the crab to learn about the [[Shards]] and so it has selected librarians to try and learn from. 
+[[Karak-Ulgurath]], the crustacean overlord, needs miners because the area they are mining in is unstable and collapses very easily. Miners, enslaved by the crab, are needed for their expertise which is taken from them after being dominated by the crab. The crab has plenty of raw labor but needs expertise to mine efficiently. As for the librarians, the crab is learning about the powers of the [[Shard]] that it is seeking, but this is primarily because it is forced to by [[Ignel Valis]]. [[Ignel Valis]] has commanded the crab to learn about the [[Shard]] and so it has selected librarians to try and learn from. 
 #### People by Town:
 1. [[Saddle-Port]]: 
 	1. [[Vivian Lovejoy]] (librarian)
@@ -82,8 +82,8 @@ The only way to cure the enslaved people is to have the wielder of the [[Mind Ro
 
 If the [[Mind Rock]] that is bound to [[Karak-Ulgurath]] is simply destroyed, the people will be free, yes, but they will suffer permanent madness, uncurable by anything short of high level healing. 
 #### Why is the Crab Needed?
-[[Karak-Ulgurath]] is being used as essentially a giant crustacean controlling a mining operation, deep within [[The Sunken Caverns]]. It is searching for one of the [[Shards]]. [[Ignel Valis]] already knows about the [[Shards]] since he has one, Key 2 -- a small glowing blue key, and he wants another. He, nor [[Fedorov Barovick VII]], know the true nature of the Shards. 
+[[Karak-Ulgurath]] is being used as essentially a giant crustacean controlling a mining operation, deep within [[The Sunken Caverns]]. It is searching for one of the [[Shard]]. [[Ignel Valis]] already knows about the [[Shard]] since he has one, Key 2 -- a small glowing blue key, and he wants another. He, nor [[Fedorov Barovick VII]], know the true nature of the Shards. 
 
 If [[Ignel Valis]] or [[Fedorov Barovick VII]] were spotted leaving to visit [[The Whitecliff Plateau]], [[Tergal the Fierce]] and [[Pavel Hard]] (leaders of the other pirate factions) would be suspicious. As a result, [[Fedorov Barovick VII]] has sent two of his cronies, [[Igor Larionov]] and [[Dmitri Mironov]] to murder members of [[The Blue Coat Brigade]], then 'escape' to [[The Whitecliff Plateau]]. This gives them a cover story.
 
-in reality, [[Igor Larionov]] and [[Dmitri Mironov]] are checking in on [[Karak-Ulgurath]] and they hope to see results from its mining, in the form of one of the [[Shards]]. Of course, they have no idea what the [[Shards]] are, and have simply been told they are finding 'something magical and powerful for the bosses.'
+in reality, [[Igor Larionov]] and [[Dmitri Mironov]] are checking in on [[Karak-Ulgurath]] and they hope to see results from its mining, in the form of one of the [[Shard]]. Of course, they have no idea what the [[Shard]] are, and have simply been told they are finding 'something magical and powerful for the bosses.'

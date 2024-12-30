@@ -1,5 +1,5 @@
 # Description:
-The Mist Codex is a 'computer,' essentially an archaic control console, that accepts the [[Shards]] (keys) of Mist as control inputs to control the [[The Aetherveil Projector]]. All of the [[Shards]] are required to allow the codex to function. 
+The Mist Codex is a 'computer,' essentially an archaic control console, that accepts the [[Shard]] (keys) of Mist as control inputs to control the [[The Aetherveil Projector]]. All of the [[Shard]] are required to allow the codex to function. 
 # Activating the Codex:
 # Controls for the Codex:
 There are multiple different control interfaces for how the codex can be used. There exists and interface for planar-interactions, [[The Shrouds of the Frost-Bound Wardens]], [[Frost-Bound Wardens]], and arcanum.
@@ -40,7 +40,7 @@ Listings of the Planes: [Overview of the Planes](https://roll20.net/compendium/d
 		8. Acheron
 6. Demi-planes
 
-Each part of the tree has its own runic interface that, when all of the 8 [[Shards]] are inserted into the Mist Codex, can be toggled on or off. If the rune is toggled 'on' that means it is blocking that plane.
+Each part of the tree has its own runic interface that, when all of the 8 [[Shard]] are inserted into the Mist Codex, can be toggled on or off. If the rune is toggled 'on' that means it is blocking that plane.
 #### Divine Interactions: 2
 The [[The Aetherveil Projector]] is able to block the presence of any non-mortal creature from setting their foot on the island of Mist. It is also able to block all non-mortal communication to the island as well, but [[The Many]] were religious so they chose to allow the communication so that they could pray and be answered by their gods. [[The Many]] had members who prayed to both [[The Prime Deities]] and [[The Betrayer Gods]], since [[The Many]] were an enlightened bunch and could see through the deceptions of the deities. 
 

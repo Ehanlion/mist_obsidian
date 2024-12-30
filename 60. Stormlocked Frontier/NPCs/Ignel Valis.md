@@ -20,7 +20,7 @@ He assumed a new identity as [[Silvan Gile]] and went to join the pirates; to fe
 -  Ignel is shorter than expected, only 5'5". His build is lithe and athletic with nondescript but strong muscles.
 -  Staff of the Magi, [Boots of Golden Luck](https://www.5esrd.com/database/magicitem/boots-of-golden-luck/)
 -  [Cloak of Eyes](https://www.5esrd.com/database/magicitem/cloak-of-eyes/) Ignel wears a weird cloak what appear to be bloody eyes on it; it is certainly unnerving. 
-- One of the [[Shards]], specifically Key 1
+- One of the [[Shard]], specifically Key 1
 #### Items:
 1. [Boots of Golden Luck](https://www.5esrd.com/database/magicitem/boots-of-golden-luck/) worn by [[Ignel Valis]]
 2. [Cloak of the Magi](https://roll20.net/compendium/dnd5e/Robe%20of%20the%20Archmagi#content)worn by [[Ignel Valis]]

@@ -1,6 +1,16 @@
+#todo
+
 Regional location: [[The Chromatic Fangs]]
-Subsection: Located deep within [[Slumbering Mount]]
-# Description:
-The Labyrinth of Stone is an ancient labyrinth that snakes deep underneath [[Slumbering Mount]]. It is prowled by [[The Followers of Grumbar]] who eternally search for the soul of [[Grumbar]]. They believe that the soul of [[Grumbar]] rests deep within the Labyrinth; their lore and myth carved into the walls of the entry of the labyrinth says that one day the soul of [[Grumbar]] will be found and the followers will be enlightened by the return of [[Grumbar]].
+Subsection: Located under [[The Frigid Crucible]]
+
+**QNS**
+- [[The Labyrinth of Stone]] is located under the mountains
+- it connects [[The Bloodstone Pass]] and [[Gar Imladris Crossing]] and [[Dum Kazad Khalad Throngul]] via a long network of tunnels in the mountains
+- it is impossible to navigate consistently 
+- the paths changes,
+- the labyrinth is filled with magical darkness, strange illusions, clouds of mind controlling spores, the list goes on
+- if it sucks to encounter and is spooky, this has it 
+- monsters live here that hunt without eye sight and rely on the other sense, most use tremor sense and detect vibrations in the ground
+
 
  

@@ -20,8 +20,7 @@ While the Keys are powerful artifacts, they were originally keys made by [[The M
 | Key 7                | ???                                                                         | ???                                                                               | ???                                                                                                                                                                                                                   | ???                                                                                                                                                  |
 | Key 8                | ???                                                                         | ???                                                                               | ???                                                                                                                                                                                                                   | ???                                                                                                                                                  |
 
-Each one of [[The Many]] was responsible for creation on of the Keys. Below the creators are listed in order with the number beside the member's name corresponding to the key number in the above table.
-
+Each one of [[The Many]] was responsible for creating one of the Keys. Below the creators are listed in order with the number beside the member's name corresponding to the key number in the above table.
 #### The Magic Powering the Keys:
 Each Key give off signatures form major schools of magic including: 
 1. Abjuration
@@ -31,7 +30,6 @@ Each Key give off signatures form major schools of magic including:
 5. Illusion 
 
 When keys are held by someone, they relive the memories stored within the key. Based on the memory it is appropriate to assign some save or spell that happens in the course of the flashback that must be endured to continue learning from the memory. It should be brutal and harsh. 
-
 #### Thresholds and Memories:
 For each of the keys, have a 'threshold' within the memory that requires endurance, cunning, intelligence, or might to overcome within the memory. It should be like a challenge or puzzle and each memory needs the correct choice or selection to unlock the last, most important elements of the memory. In these last potions are the most revealing and powerful elements of the memory. 
 

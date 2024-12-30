@@ -49,7 +49,7 @@ Kelswin knows:
 	- She was separate from 'the main villain' which hurt the overall adventure.
 	- Enemies should ties into other enemies to keep the search and anticipation going between massive combats.
 #### Added during play
-- While in [[Smears-burrow]], Kelswin helped a Green Grung historian named Ralverth with searching archives for information on the Grung's Great Magic Grung Rock (secretly one of the [[Shards]]). Kelswin touched it for just a brief second but saw scenes of a maelstrom brewing, the conch echoing, and a voice shouting something amidst the storm. 
+- While in [[Smears-burrow]], Kelswin helped a Green Grung historian named Ralverth with searching archives for information on the Grung's Great Magic Grung Rock (secretly one of the [[Shard]]). Kelswin touched it for just a brief second but saw scenes of a maelstrom brewing, the conch echoing, and a voice shouting something amidst the storm. 
 #### Any changes Chris wants seen?
 - [x] There is no direction ahead, need firmer guide to where the party should be directing energy 
 - [x] A mission that firmly leads somewhere. 

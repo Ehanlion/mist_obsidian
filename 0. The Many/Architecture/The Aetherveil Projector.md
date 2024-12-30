@@ -1,5 +1,5 @@
 # Description:
-A massive device created by [[The Many]] and controlled by the [[Shards]] (keys). It is a magical generator that projects a screen of mist to hide the island of Mist. 
+A massive device created by [[The Many]] and controlled by the [[Shard]] (keys). It is a magical generator that projects a screen of mist to hide the island of Mist. 
 # The layers of the veil:
 The veil projects as layers of mist. There are increasingly colder, denser, and darker layers of the veil that are encountered the further one tries to sail into the veil. In the coldest layers live [[Frost-Bound Wardens]]. 
 
@@ -10,7 +10,7 @@ If you manage to sail through the incredible cold and the [[Frost-Bound Wardens]
 The Aether-veil Projector required multiple, massive components to get it functioning: a control mechanism and a power source.
 
 **The Controls:**
-The Aether-Veil Projector is controlled by [[The Mist Codex]], a computer-like interface that requires all 8 of the [[Shards]] (called keys by [[The Many]]) to be controllable. The interface allows users, once all 8 [[Shards]] have been placed into their sockets, to modify the behavior of the projector, in turn, modifying the behavior of [[The Shrouds of the Frost-Bound Wardens]]. It also has the power to modify the number of [[Frost-Bound Wardens]] and their behavior. 
+The Aether-Veil Projector is controlled by [[The Mist Codex]], a computer-like interface that requires all 8 of the [[Shard]] (called keys by [[The Many]]) to be controllable. The interface allows users, once all 8 [[Shard]] have been placed into their sockets, to modify the behavior of the projector, in turn, modifying the behavior of [[The Shrouds of the Frost-Bound Wardens]]. It also has the power to modify the number of [[Frost-Bound Wardens]] and their behavior. 
 
 It can also be used to modify spells, and spell energy itself. It can imbue schools of magic with untold power and even block entire schools of magic from having their spells cast. 
 
