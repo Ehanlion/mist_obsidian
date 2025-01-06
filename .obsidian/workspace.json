@@ -57,21 +57,35 @@
             }
           },
           {
+            "id": "ce6eb687ce42b10e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025-01-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-04"
+            }
+          },
+          {
             "id": "b5ca36344840bd30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Greenheart Wldrnss/The Wildwoods/The Wildwoods.md",
+                "file": "Daily Notes/2025-01-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Wildwoods"
+              "title": "2025-01-05"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,10 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Whitecliff Plateau/Features/The Sea Caves/The Sea Caves of the Plateau.md"
+                "file": "Daily Notes/2025-01-02.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Sea Caves of the Plateau"
+              "title": "Outline of 2025-01-02"
             }
           },
           {
@@ -148,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5026054382324
+    "width": 284.5026054382324
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -183,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Greenheart Wldrnss/The Wildwoods/The Wildwoods.md",
+                "file": "Daily Notes/2025-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Wildwoods"
+              "title": "Outgoing links from 2025-01-05"
             }
           },
           {
@@ -231,24 +245,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "b5ca36344840bd30",
   "lastOpenFiles": [
+    "Daily Notes/2025-01-04.md",
+    "Daily Notes/2025-01-05.md",
+    "98. Quests/Mist Side Quests.md",
+    "0. The Many/Members/Valentino.md",
+    "0. The Many/The Many.md",
+    "0. Items & Things/Weapons/Shard.md",
+    "0. The Many/Histories of the Many/The Final Day of The Many.md",
+    "0. The Many/Histories of the Many/The Runewilds.md",
+    "0. The Many/Members/Relationships of the Many.md",
+    "Daily Notes/2025-01-03.md",
+    "20. Greenheart Wldrnss/The Umbrawood/The Umbral Cabal.md",
+    "Daily Notes/2025-01-02.md",
+    "0. Beastiary/Test Beastiary Creatures.md",
+    "0. Beastiary",
+    "Daily Notes/2025-01-01.md",
+    "20. Greenheart Wldrnss/The Wildwoods/The Wildwoods.md",
     "20. Greenheart Wldrnss/The Wildwoods/The Verdant Groves.md",
     "20. Greenheart Wldrnss/The Wildwoods/The Providing Orchard.md",
-    "20. Greenheart Wldrnss/The Wildwoods/The Wildwoods.md",
     "20. Greenheart Wldrnss/Towns, Cities/Feller's Nook.md",
     "20. Greenheart Wldrnss/Towns, Cities/Dark Hunters Lodge.md",
     "20. Greenheart Wldrnss/The Greenheart Wilderness.md",
@@ -259,23 +289,9 @@
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/Advisement",
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/The Nexus Feeders.md",
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/The Luminary Regent.md",
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/The Fungal Nexus.md",
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities/Luminark.md",
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Mycoria.md",
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities/Bellaveil.md",
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities/Capthorn.md",
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria",
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/The Great Sporewilds.md",
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities",
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria",
-    "Daily Notes/Daily Notes.md",
-    "Daily Notes/2024-12-26.md",
-    "Daily Notes/2024-12-28.md",
-    "Daily Notes/2024-12-29.md",
-    "Daily Notes/2024-12-30.md",
-    "98. Quests/Mist Side Quests.md",
-    "10. Whitecliff Plateau/Features/The Sea Caves/The Sea Caves of the Plateau.md",
-    "50. Chromatic Fangs/The Scorvorian Peaks.md",
     "_Monsters/Frost Bound Warden Stat Block.png",
     "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
     "0. Mist Chapter 2",
@@ -283,7 +299,6 @@
     "0. The Many/In Mist Today",
     "0. The Many/Architecture",
     "0. The Many/Histories of the Many",
-    "0. The Many/Members",
     "_Assets/Temple to the Returned Lord.png",
     "_Assets/The blinded dungeon.png",
     "_Assets/The Quaint and Rustic II Tavern.png",

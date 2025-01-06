@@ -26,6 +26,7 @@ I have the following puzzle pieces that I think will work well together
 - By the time of the final battle, they had only been dating for a couple months 
 - [[Bernhard]]'s [[Shard]] captured final thoughts of a first date
 - [[Valentino]]'s [[Shard]] captured final thoughts of a family with [[Bernhard]]
+- Both of their [[Shard]]s were rings and both were meant to be used in their wedding. When both are worn by creatures, they interact with each other. 
 ## 4. [[DeAngelo]] and [[Cleophas]] (unrealized lovers)
 - [[DeAngelo]] and [[Cleophas]] were the least closely exposed to each other's company on [[Mist]] since their objectives never really overlapped 
 - However they were friends and messaged each other with disappearing paper notes and sending stones 
