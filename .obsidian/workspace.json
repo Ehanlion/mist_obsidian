@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Items & Things/Coral Lance.md",
+                "file": "Daily Notes/2025-01-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coral Lance"
+              "title": "2025-01-10"
             }
           }
         ],
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Items & Things/Coral Lance.md",
+                "file": "Daily Notes/2025-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coral Lance"
+              "title": "Outgoing links from 2025-01-10"
             }
           },
           {
@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,8 +262,11 @@
   },
   "active": "b5ca36344840bd30",
   "lastOpenFiles": [
-    "Daily Notes/2025-01-09.md",
+    "Daily Notes/2025-01-04.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "Daily Notes/2025-01-10.md",
     "0. Items & Things/Coral Lance.md",
+    "Daily Notes/2025-01-09.md",
     "0. Items & Things/The Tome of Blood Sacrifice.md",
     "0. Items & Things/Magebreaker Gauntlets.md",
     "0. Items & Things/Tapestry of Deafening.md",
@@ -274,7 +278,6 @@
     "0. Items & Things/Weapons/Shard.md",
     "Daily Notes/2025-01-06.md",
     "Daily Notes/2025-01-05.md",
-    "Daily Notes/2025-01-04.md",
     "98. Quests/Mist Side Quests.md",
     "0. The Many/Members/Valentino.md",
     "0. The Many/The Many.md",
@@ -286,8 +289,6 @@
     "Daily Notes/2025-01-02.md",
     "0. Beastiary/Test Beastiary Creatures.md",
     "0. Beastiary",
-    "Daily Notes/2025-01-01.md",
-    "20. Greenheart Wldrnss/The Wildwoods/The Wildwoods.md",
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/Advisement",
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria",
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities",
