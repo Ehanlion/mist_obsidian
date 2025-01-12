@@ -8,4 +8,5 @@ Subsection: Item installed in many pirates here, mainly [[Fedorov's Legion]]
 - Some [[Gilded Pirate Dentures]] are just a magical spell focus, while others have rarer traits, like innate spellcasting, a pirate accent, or even a consciousness in the actual dentures themselves that loves to talk to you. 
 
 **Stats:**
-- 
+
+**Description.** The [[Gilded Pirate Dentures]] 
