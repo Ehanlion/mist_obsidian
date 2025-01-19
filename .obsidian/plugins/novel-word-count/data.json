@@ -197,6 +197,31 @@
         "nonWhitespaceCharacterCount": 86
       }
     },
+    "_Templates/daily_journal_template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 38,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1735452785319,
+      "modifiedDate": 1735452815655,
+      "sizeInBytes": 43,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 43,
+        "nonWhitespaceCharacterCount": 38
+      }
+    },
     "_Templates/How to build a location - Matt Mercer.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -245,31 +270,6 @@
         "wordCount": 237,
         "characterCount": 1622,
         "nonWhitespaceCharacterCount": 1124
-      }
-    },
-    "_Templates/daily_journal_template.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 43,
-      "nonWhitespaceCharacterCount": 38,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735452785319,
-      "modifiedDate": 1735452815655,
-      "sizeInBytes": 43,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 43,
-        "nonWhitespaceCharacterCount": 38
       }
     },
     "_Monsters/ignel valis.monster": {
@@ -547,31 +547,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "_Assets/The deep woods 1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1704954520485,
-      "modifiedDate": 1704954520486,
-      "sizeInBytes": 2642866,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "_Assets/The blinded dungeon.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -589,6 +564,31 @@
       "createdDate": 1705469102074,
       "modifiedDate": 1705469102075,
       "sizeInBytes": 1866024,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_Assets/The deep woods 1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1704954520485,
+      "modifiedDate": 1704954520486,
+      "sizeInBytes": 2642866,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -672,31 +672,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "_Assets/Macro view of deep woods and dark woods.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1704954520479,
-      "modifiedDate": 1704954520480,
-      "sizeInBytes": 1856251,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "_Assets/Mist CONSOLE Room.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -714,6 +689,31 @@
       "createdDate": 1706656769610,
       "modifiedDate": 1706656769611,
       "sizeInBytes": 323846,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_Assets/Macro view of deep woods and dark woods.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1704954520479,
+      "modifiedDate": 1704954520480,
+      "sizeInBytes": 1856251,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1122,31 +1122,6 @@
         "nonWhitespaceCharacterCount": 14026
       }
     },
-    "Session Notes/Mist Sessions/Mist S8 7-12-24.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1274,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.246666666666667,
-      "characterCount": 7496,
-      "nonWhitespaceCharacterCount": 6001,
-      "readingTimeInMinutes": 4.807547169811321,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1721103540727,
-      "modifiedDate": 1723243229284,
-      "sizeInBytes": 7496,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.246666666666667,
-        "wordCount": 1274,
-        "characterCount": 7496,
-        "nonWhitespaceCharacterCount": 6001
-      }
-    },
     "Session Notes/Mist Sessions/Mist S9 7-19-24.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1170,6 +1145,31 @@
         "wordCount": 1669,
         "characterCount": 10004,
         "nonWhitespaceCharacterCount": 7848
+      }
+    },
+    "Session Notes/Mist Sessions/Mist S8 7-12-24.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1274,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.246666666666667,
+      "characterCount": 7496,
+      "nonWhitespaceCharacterCount": 6001,
+      "readingTimeInMinutes": 4.807547169811321,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1721103540727,
+      "modifiedDate": 1723243229284,
+      "sizeInBytes": 7496,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.246666666666667,
+        "wordCount": 1274,
+        "characterCount": 7496,
+        "nonWhitespaceCharacterCount": 6001
       }
     },
     "Session Notes/Mist Sessions/Mist S7 7-7-24.md": {
@@ -1247,31 +1247,6 @@
         "nonWhitespaceCharacterCount": 3734
       }
     },
-    "Session Notes/Mist Sessions/Mist S3 2-10-24.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1043,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.4766666666666666,
-      "characterCount": 6011,
-      "nonWhitespaceCharacterCount": 4877,
-      "readingTimeInMinutes": 3.9358490566037734,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1707640606728,
-      "modifiedDate": 1723243214700,
-      "sizeInBytes": 6011,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.4766666666666666,
-        "wordCount": 1043,
-        "characterCount": 6011,
-        "nonWhitespaceCharacterCount": 4877
-      }
-    },
     "Session Notes/Mist Sessions/Mist S4 2-15-24.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1295,6 +1270,31 @@
         "wordCount": 790,
         "characterCount": 4501,
         "nonWhitespaceCharacterCount": 3637
+      }
+    },
+    "Session Notes/Mist Sessions/Mist S3 2-10-24.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1043,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.4766666666666666,
+      "characterCount": 6011,
+      "nonWhitespaceCharacterCount": 4877,
+      "readingTimeInMinutes": 3.9358490566037734,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1707640606728,
+      "modifiedDate": 1723243214700,
+      "sizeInBytes": 6011,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.4766666666666666,
+        "wordCount": 1043,
+        "characterCount": 6011,
+        "nonWhitespaceCharacterCount": 4877
       }
     },
     "Session Notes/Mist Sessions/Mist S2 1-20-24.md": {
@@ -1420,6 +1420,31 @@
         "wordCount": 92,
         "characterCount": 554,
         "nonWhitespaceCharacterCount": 462
+      }
+    },
+    "README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1278,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.26,
+      "characterCount": 7507,
+      "nonWhitespaceCharacterCount": 6211,
+      "readingTimeInMinutes": 4.8226415094339625,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699917826223,
+      "modifiedDate": 1735504156357,
+      "sizeInBytes": 7509,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.26,
+        "wordCount": 1278,
+        "characterCount": 7507,
+        "nonWhitespaceCharacterCount": 6211
       }
     },
     "GM Screen/Underwater/moving underwater.md": {
@@ -1947,31 +1972,6 @@
         "nonWhitespaceCharacterCount": 471
       }
     },
-    "GM Screen/Objects and Damage/damage by level and severity.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 110,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.36666666666666664,
-      "characterCount": 664,
-      "nonWhitespaceCharacterCount": 526,
-      "readingTimeInMinutes": 0.41509433962264153,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699050018756,
-      "modifiedDate": 1706423245755,
-      "sizeInBytes": 664,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.36666666666666664,
-        "wordCount": 110,
-        "characterCount": 664,
-        "nonWhitespaceCharacterCount": 526
-      }
-    },
     "GM Screen/Objects and Damage/object armor class.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1995,6 +1995,31 @@
         "wordCount": 80,
         "characterCount": 480,
         "nonWhitespaceCharacterCount": 397
+      }
+    },
+    "GM Screen/Objects and Damage/damage by level and severity.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 110,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 664,
+      "nonWhitespaceCharacterCount": 526,
+      "readingTimeInMinutes": 0.41509433962264153,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699050018756,
+      "modifiedDate": 1706423245755,
+      "sizeInBytes": 664,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.36666666666666664,
+        "wordCount": 110,
+        "characterCount": 664,
+        "nonWhitespaceCharacterCount": 526
       }
     },
     "GM Screen/Objects and Damage/combat interactable list.md": {
@@ -2397,31 +2422,6 @@
         "nonWhitespaceCharacterCount": 2051
       }
     },
-    "GM Screen/Ethan's Player Mechanics/Completed/Counterspell Surge.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 152,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5066666666666667,
-      "characterCount": 910,
-      "nonWhitespaceCharacterCount": 750,
-      "readingTimeInMinutes": 0.5735849056603773,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520450,
-      "modifiedDate": 1727506107792,
-      "sizeInBytes": 910,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5066666666666667,
-        "wordCount": 152,
-        "characterCount": 910,
-        "nonWhitespaceCharacterCount": 750
-      }
-    },
     "GM Screen/Ethan's Player Mechanics/Completed/Scry Life.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2445,6 +2445,31 @@
         "wordCount": 32,
         "characterCount": 198,
         "nonWhitespaceCharacterCount": 166
+      }
+    },
+    "GM Screen/Ethan's Player Mechanics/Completed/Counterspell Surge.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 152,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5066666666666667,
+      "characterCount": 910,
+      "nonWhitespaceCharacterCount": 750,
+      "readingTimeInMinutes": 0.5735849056603773,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520450,
+      "modifiedDate": 1727506107792,
+      "sizeInBytes": 910,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5066666666666667,
+        "wordCount": 152,
+        "characterCount": 910,
+        "nonWhitespaceCharacterCount": 750
       }
     },
     "GM Screen/Ethan's Player Mechanics/Completed/Blood-Fueled Casting.md": {
@@ -2551,25 +2576,25 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 144,
+      "wordCount": 97,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.48,
-      "characterCount": 803,
-      "nonWhitespaceCharacterCount": 647,
-      "readingTimeInMinutes": 0.5433962264150943,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 560,
+      "nonWhitespaceCharacterCount": 455,
+      "readingTimeInMinutes": 0.3660377358490566,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704954520444,
-      "modifiedDate": 1722666263878,
-      "sizeInBytes": 803,
+      "modifiedDate": 1737236976021,
+      "sizeInBytes": 560,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.48,
-        "wordCount": 144,
-        "characterCount": 803,
-        "nonWhitespaceCharacterCount": 647
+        "pageCount": 0.3233333333333333,
+        "wordCount": 97,
+        "characterCount": 560,
+        "nonWhitespaceCharacterCount": 455
       }
     },
     "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md": {
@@ -2601,24 +2626,24 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 300,
+      "wordCount": 249,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1,
-      "characterCount": 1631,
-      "nonWhitespaceCharacterCount": 1288,
-      "readingTimeInMinutes": 1.1320754716981132,
-      "linkCount": 0,
+      "pageCount": 0.83,
+      "characterCount": 1447,
+      "nonWhitespaceCharacterCount": 1169,
+      "readingTimeInMinutes": 0.939622641509434,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704954520443,
-      "modifiedDate": 1704954520443,
-      "sizeInBytes": 1631,
+      "modifiedDate": 1737249700935,
+      "sizeInBytes": 1447,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1,
         "wordCount": 300,
-        "characterCount": 1631,
+        "characterCount": 1616,
         "nonWhitespaceCharacterCount": 1288
       }
     },
@@ -2647,6 +2672,31 @@
         "nonWhitespaceCharacterCount": 672
       }
     },
+    "GM Screen/Ethan's Creatures.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 99,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33,
+      "characterCount": 702,
+      "nonWhitespaceCharacterCount": 598,
+      "readingTimeInMinutes": 0.37358490566037733,
+      "linkCount": 3,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1706750360415,
+      "modifiedDate": 1721885671646,
+      "sizeInBytes": 702,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.33,
+        "wordCount": 99,
+        "characterCount": 702,
+        "nonWhitespaceCharacterCount": 598
+      }
+    },
     "GM Screen/Ethan's Boons/Boon of the Stalwart.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2672,31 +2722,6 @@
         "nonWhitespaceCharacterCount": 193
       }
     },
-    "GM Screen/Ethan's Boons/Boon of the Leader.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 31,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 192,
-      "nonWhitespaceCharacterCount": 158,
-      "readingTimeInMinutes": 0.1169811320754717,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1720941801477,
-      "modifiedDate": 1720941801477,
-      "sizeInBytes": 192,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10333333333333333,
-        "wordCount": 31,
-        "characterCount": 192,
-        "nonWhitespaceCharacterCount": 158
-      }
-    },
     "GM Screen/Ethan's Boons/Boon of the Inspiring.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2720,6 +2745,31 @@
         "wordCount": 26,
         "characterCount": 172,
         "nonWhitespaceCharacterCount": 145
+      }
+    },
+    "GM Screen/Ethan's Boons/Boon of the Leader.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 192,
+      "nonWhitespaceCharacterCount": 158,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1720941801477,
+      "modifiedDate": 1720941801477,
+      "sizeInBytes": 192,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.10333333333333333,
+        "wordCount": 31,
+        "characterCount": 192,
+        "nonWhitespaceCharacterCount": 158
       }
     },
     "GM Screen/Ethan's Boons/Boon of the Helper.md": {
@@ -2772,29 +2822,29 @@
         "nonWhitespaceCharacterCount": 153
       }
     },
-    "GM Screen/Ethan's Creatures.md": {
+    "GM Screen/DCs/skills and associated abilities.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 99,
+      "wordCount": 176,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.33,
-      "characterCount": 702,
-      "nonWhitespaceCharacterCount": 598,
-      "readingTimeInMinutes": 0.37358490566037733,
-      "linkCount": 3,
-      "embedCount": 2,
+      "pageCount": 0.5866666666666667,
+      "characterCount": 1241,
+      "nonWhitespaceCharacterCount": 1027,
+      "readingTimeInMinutes": 0.6641509433962264,
+      "linkCount": 1,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1706750360415,
-      "modifiedDate": 1721885671646,
-      "sizeInBytes": 702,
+      "createdDate": 1704954520442,
+      "modifiedDate": 1706423745122,
+      "sizeInBytes": 1241,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.33,
-        "wordCount": 99,
-        "characterCount": 702,
-        "nonWhitespaceCharacterCount": 598
+        "pageCount": 0.5866666666666667,
+        "wordCount": 176,
+        "characterCount": 1241,
+        "nonWhitespaceCharacterCount": 1027
       }
     },
     "GM Screen/DCs/setting a tracking DC.md": {
@@ -2820,31 +2870,6 @@
         "wordCount": 246,
         "characterCount": 1493,
         "nonWhitespaceCharacterCount": 1194
-      }
-    },
-    "GM Screen/DCs/skills and associated abilities.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 176,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5866666666666667,
-      "characterCount": 1241,
-      "nonWhitespaceCharacterCount": 1027,
-      "readingTimeInMinutes": 0.6641509433962264,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520442,
-      "modifiedDate": 1706423745122,
-      "sizeInBytes": 1241,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5866666666666667,
-        "wordCount": 176,
-        "characterCount": 1241,
-        "nonWhitespaceCharacterCount": 1027
       }
     },
     "GM Screen/DCs/setting a DC.md": {
@@ -2922,6 +2947,81 @@
         "nonWhitespaceCharacterCount": 49777
       }
     },
+    "GM Screen/Cover/total cover.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 149,
+      "nonWhitespaceCharacterCount": 123,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699050394165,
+      "modifiedDate": 1706423720069,
+      "sizeInBytes": 149,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06666666666666667,
+        "wordCount": 20,
+        "characterCount": 149,
+        "nonWhitespaceCharacterCount": 123
+      }
+    },
+    "GM Screen/Cover/three-quarters cover.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 33,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11,
+      "characterCount": 223,
+      "nonWhitespaceCharacterCount": 186,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699050401585,
+      "modifiedDate": 1706423719134,
+      "sizeInBytes": 223,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11,
+        "wordCount": 33,
+        "characterCount": 223,
+        "nonWhitespaceCharacterCount": 186
+      }
+    },
+    "GM Screen/Cover/half cover.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 34,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 227,
+      "nonWhitespaceCharacterCount": 189,
+      "readingTimeInMinutes": 0.12830188679245283,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699050394165,
+      "modifiedDate": 1706423716227,
+      "sizeInBytes": 227,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11333333333333333,
+        "wordCount": 34,
+        "characterCount": 227,
+        "nonWhitespaceCharacterCount": 189
+      }
+    },
     "GM Screen/Conditions/vulnerable.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2945,31 +3045,6 @@
         "wordCount": 24,
         "characterCount": 174,
         "nonWhitespaceCharacterCount": 145
-      }
-    },
-    "GM Screen/Conditions/restrained.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 81,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27,
-      "characterCount": 554,
-      "nonWhitespaceCharacterCount": 459,
-      "readingTimeInMinutes": 0.30566037735849055,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699049460258,
-      "modifiedDate": 1706423541197,
-      "sizeInBytes": 554,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.27,
-        "wordCount": 81,
-        "characterCount": 554,
-        "nonWhitespaceCharacterCount": 459
       }
     },
     "GM Screen/Conditions/unconscious.md": {
@@ -2997,31 +3072,6 @@
         "nonWhitespaceCharacterCount": 416
       }
     },
-    "GM Screen/Conditions/stable.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 50,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.16666666666666666,
-      "characterCount": 308,
-      "nonWhitespaceCharacterCount": 252,
-      "readingTimeInMinutes": 0.18867924528301888,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699056867580,
-      "modifiedDate": 1706423618266,
-      "sizeInBytes": 308,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.16666666666666666,
-        "wordCount": 50,
-        "characterCount": 308,
-        "nonWhitespaceCharacterCount": 252
-      }
-    },
     "GM Screen/Conditions/stunned.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3045,6 +3095,31 @@
         "wordCount": 29,
         "characterCount": 233,
         "nonWhitespaceCharacterCount": 196
+      }
+    },
+    "GM Screen/Conditions/stable.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 50,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 308,
+      "nonWhitespaceCharacterCount": 252,
+      "readingTimeInMinutes": 0.18867924528301888,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699056867580,
+      "modifiedDate": 1706423618266,
+      "sizeInBytes": 308,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16666666666666666,
+        "wordCount": 50,
+        "characterCount": 308,
+        "nonWhitespaceCharacterCount": 252
       }
     },
     "GM Screen/Conditions/resistance.md": {
@@ -3072,29 +3147,29 @@
         "nonWhitespaceCharacterCount": 295
       }
     },
-    "GM Screen/Conditions/prone.md": {
+    "GM Screen/Conditions/restrained.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 98,
+      "wordCount": 81,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.32666666666666666,
-      "characterCount": 605,
-      "nonWhitespaceCharacterCount": 491,
-      "readingTimeInMinutes": 0.36981132075471695,
+      "pageCount": 0.27,
+      "characterCount": 554,
+      "nonWhitespaceCharacterCount": 459,
+      "readingTimeInMinutes": 0.30566037735849055,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1699049425394,
-      "modifiedDate": 1706423530110,
-      "sizeInBytes": 605,
+      "createdDate": 1699049460258,
+      "modifiedDate": 1706423541197,
+      "sizeInBytes": 554,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.32666666666666666,
-        "wordCount": 98,
-        "characterCount": 605,
-        "nonWhitespaceCharacterCount": 491
+        "pageCount": 0.27,
+        "wordCount": 81,
+        "characterCount": 554,
+        "nonWhitespaceCharacterCount": 459
       }
     },
     "GM Screen/Conditions/poisoned.md": {
@@ -3122,29 +3197,29 @@
         "nonWhitespaceCharacterCount": 114
       }
     },
-    "GM Screen/Conditions/invisible.md": {
+    "GM Screen/Conditions/prone.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 87,
+      "wordCount": 98,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.29,
-      "characterCount": 565,
-      "nonWhitespaceCharacterCount": 469,
-      "readingTimeInMinutes": 0.3283018867924528,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 605,
+      "nonWhitespaceCharacterCount": 491,
+      "readingTimeInMinutes": 0.36981132075471695,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699049425394,
-      "modifiedDate": 1706423522685,
-      "sizeInBytes": 565,
+      "modifiedDate": 1706423530110,
+      "sizeInBytes": 605,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.29,
-        "wordCount": 87,
-        "characterCount": 565,
-        "nonWhitespaceCharacterCount": 469
+        "pageCount": 0.32666666666666666,
+        "wordCount": 98,
+        "characterCount": 605,
+        "nonWhitespaceCharacterCount": 491
       }
     },
     "GM Screen/Conditions/petrified.md": {
@@ -3172,6 +3247,31 @@
         "nonWhitespaceCharacterCount": 772
       }
     },
+    "GM Screen/Conditions/incapacitated.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 205,
+      "nonWhitespaceCharacterCount": 172,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699049429690,
+      "modifiedDate": 1706423521402,
+      "sizeInBytes": 205,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 205,
+        "nonWhitespaceCharacterCount": 172
+      }
+    },
     "GM Screen/Conditions/paralyzed.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3195,6 +3295,31 @@
         "wordCount": 57,
         "characterCount": 445,
         "nonWhitespaceCharacterCount": 385
+      }
+    },
+    "GM Screen/Conditions/invisible.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 87,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29,
+      "characterCount": 565,
+      "nonWhitespaceCharacterCount": 469,
+      "readingTimeInMinutes": 0.3283018867924528,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699049425394,
+      "modifiedDate": 1706423522685,
+      "sizeInBytes": 565,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29,
+        "wordCount": 87,
+        "characterCount": 565,
+        "nonWhitespaceCharacterCount": 469
       }
     },
     "GM Screen/Conditions/grappled.md": {
@@ -3222,79 +3347,29 @@
         "nonWhitespaceCharacterCount": 327
       }
     },
-    "GM Screen/Conditions/incapacitated.md": {
+    "GM Screen/Conditions/deafened.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 27,
+      "wordCount": 45,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 205,
-      "nonWhitespaceCharacterCount": 172,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699049429690,
-      "modifiedDate": 1706423521402,
-      "sizeInBytes": 205,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09,
-        "wordCount": 27,
-        "characterCount": 205,
-        "nonWhitespaceCharacterCount": 172
-      }
-    },
-    "GM Screen/Conditions/frightened.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 90,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3,
-      "characterCount": 563,
-      "nonWhitespaceCharacterCount": 463,
-      "readingTimeInMinutes": 0.33962264150943394,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699049389410,
-      "modifiedDate": 1706423518388,
-      "sizeInBytes": 563,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3,
-        "wordCount": 90,
-        "characterCount": 563,
-        "nonWhitespaceCharacterCount": 463
-      }
-    },
-    "GM Screen/Conditions/death saving throw.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 88,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.29333333333333333,
-      "characterCount": 504,
-      "nonWhitespaceCharacterCount": 399,
-      "readingTimeInMinutes": 0.3320754716981132,
+      "pageCount": 0.15,
+      "characterCount": 299,
+      "nonWhitespaceCharacterCount": 251,
+      "readingTimeInMinutes": 0.16981132075471697,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1699056719611,
-      "modifiedDate": 1727505229685,
-      "sizeInBytes": 504,
+      "createdDate": 1699049145416,
+      "modifiedDate": 1706423438549,
+      "sizeInBytes": 299,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.29333333333333333,
-        "wordCount": 88,
-        "characterCount": 504,
-        "nonWhitespaceCharacterCount": 399
+        "pageCount": 0.15,
+        "wordCount": 45,
+        "characterCount": 299,
+        "nonWhitespaceCharacterCount": 251
       }
     },
     "GM Screen/Conditions/disadvantage.md": {
@@ -3322,29 +3397,54 @@
         "nonWhitespaceCharacterCount": 217
       }
     },
-    "GM Screen/Conditions/deafened.md": {
+    "GM Screen/Conditions/death saving throw.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 45,
+      "wordCount": 88,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.15,
-      "characterCount": 299,
-      "nonWhitespaceCharacterCount": 251,
-      "readingTimeInMinutes": 0.16981132075471697,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 504,
+      "nonWhitespaceCharacterCount": 399,
+      "readingTimeInMinutes": 0.3320754716981132,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1699049145416,
-      "modifiedDate": 1706423438549,
-      "sizeInBytes": 299,
+      "createdDate": 1699056719611,
+      "modifiedDate": 1727505229685,
+      "sizeInBytes": 504,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.15,
-        "wordCount": 45,
-        "characterCount": 299,
-        "nonWhitespaceCharacterCount": 251
+        "pageCount": 0.29333333333333333,
+        "wordCount": 88,
+        "characterCount": 504,
+        "nonWhitespaceCharacterCount": 399
+      }
+    },
+    "GM Screen/Conditions/frightened.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 563,
+      "nonWhitespaceCharacterCount": 463,
+      "readingTimeInMinutes": 0.33962264150943394,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699049389410,
+      "modifiedDate": 1706423518388,
+      "sizeInBytes": 563,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3,
+        "wordCount": 90,
+        "characterCount": 563,
+        "nonWhitespaceCharacterCount": 463
       }
     },
     "GM Screen/Conditions/charmed.md": {
@@ -3422,81 +3522,6 @@
         "nonWhitespaceCharacterCount": 193
       }
     },
-    "GM Screen/Cover/three-quarters cover.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 33,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11,
-      "characterCount": 223,
-      "nonWhitespaceCharacterCount": 186,
-      "readingTimeInMinutes": 0.12452830188679245,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699050401585,
-      "modifiedDate": 1706423719134,
-      "sizeInBytes": 223,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11,
-        "wordCount": 33,
-        "characterCount": 223,
-        "nonWhitespaceCharacterCount": 186
-      }
-    },
-    "GM Screen/Cover/total cover.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 149,
-      "nonWhitespaceCharacterCount": 123,
-      "readingTimeInMinutes": 0.07547169811320754,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699050394165,
-      "modifiedDate": 1706423720069,
-      "sizeInBytes": 149,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06666666666666667,
-        "wordCount": 20,
-        "characterCount": 149,
-        "nonWhitespaceCharacterCount": 123
-      }
-    },
-    "GM Screen/Cover/half cover.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 34,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 227,
-      "nonWhitespaceCharacterCount": 189,
-      "readingTimeInMinutes": 0.12830188679245283,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699050394165,
-      "modifiedDate": 1706423716227,
-      "sizeInBytes": 227,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11333333333333333,
-        "wordCount": 34,
-        "characterCount": 227,
-        "nonWhitespaceCharacterCount": 189
-      }
-    },
     "GM Screen/Combat Actions/what a turn looks like.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3522,31 +3547,6 @@
         "nonWhitespaceCharacterCount": 806
       }
     },
-    "GM Screen/Combat Actions/taking fall damage.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 87,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.29,
-      "characterCount": 470,
-      "nonWhitespaceCharacterCount": 381,
-      "readingTimeInMinutes": 0.3283018867924528,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1706420680634,
-      "modifiedDate": 1706423703598,
-      "sizeInBytes": 470,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.29,
-        "wordCount": 87,
-        "characterCount": 470,
-        "nonWhitespaceCharacterCount": 381
-      }
-    },
     "GM Screen/Combat Actions/use an object.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3570,6 +3570,31 @@
         "wordCount": 15,
         "characterCount": 106,
         "nonWhitespaceCharacterCount": 90
+      }
+    },
+    "GM Screen/Combat Actions/taking fall damage.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 87,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29,
+      "characterCount": 470,
+      "nonWhitespaceCharacterCount": 381,
+      "readingTimeInMinutes": 0.3283018867924528,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706420680634,
+      "modifiedDate": 1706423703598,
+      "sizeInBytes": 470,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29,
+        "wordCount": 87,
+        "characterCount": 470,
+        "nonWhitespaceCharacterCount": 381
       }
     },
     "GM Screen/Combat Actions/suffocating.md": {
@@ -3672,31 +3697,6 @@
         "nonWhitespaceCharacterCount": 701
       }
     },
-    "GM Screen/Combat Actions/high jump.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 198,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.66,
-      "characterCount": 1103,
-      "nonWhitespaceCharacterCount": 892,
-      "readingTimeInMinutes": 0.7471698113207547,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699053629798,
-      "modifiedDate": 1706423688749,
-      "sizeInBytes": 1103,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.66,
-        "wordCount": 198,
-        "characterCount": 1103,
-        "nonWhitespaceCharacterCount": 892
-      }
-    },
     "GM Screen/Combat Actions/hide.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3720,6 +3720,31 @@
         "wordCount": 28,
         "characterCount": 180,
         "nonWhitespaceCharacterCount": 152
+      }
+    },
+    "GM Screen/Combat Actions/high jump.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 198,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.66,
+      "characterCount": 1103,
+      "nonWhitespaceCharacterCount": 892,
+      "readingTimeInMinutes": 0.7471698113207547,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699053629798,
+      "modifiedDate": 1706423688749,
+      "sizeInBytes": 1103,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.66,
+        "wordCount": 198,
+        "characterCount": 1103,
+        "nonWhitespaceCharacterCount": 892
       }
     },
     "GM Screen/Combat Actions/help.md": {
@@ -3772,6 +3797,31 @@
         "nonWhitespaceCharacterCount": 800
       }
     },
+    "GM Screen/Combat Actions/dodge.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 61,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 417,
+      "nonWhitespaceCharacterCount": 350,
+      "readingTimeInMinutes": 0.23018867924528302,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699053553747,
+      "modifiedDate": 1706423656398,
+      "sizeInBytes": 417,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.20333333333333334,
+        "wordCount": 61,
+        "characterCount": 417,
+        "nonWhitespaceCharacterCount": 350
+      }
+    },
     "GM Screen/Combat Actions/extended jumps.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3797,29 +3847,29 @@
         "nonWhitespaceCharacterCount": 458
       }
     },
-    "GM Screen/Combat Actions/dodge.md": {
+    "GM Screen/Combat Actions/cast a spell.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 61,
+      "wordCount": 33,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.20333333333333334,
-      "characterCount": 417,
-      "nonWhitespaceCharacterCount": 350,
-      "readingTimeInMinutes": 0.23018867924528302,
-      "linkCount": 8,
+      "pageCount": 0.11,
+      "characterCount": 184,
+      "nonWhitespaceCharacterCount": 150,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699053553747,
-      "modifiedDate": 1706423656398,
-      "sizeInBytes": 417,
+      "modifiedDate": 1706423635682,
+      "sizeInBytes": 184,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.20333333333333334,
-        "wordCount": 61,
-        "characterCount": 417,
-        "nonWhitespaceCharacterCount": 350
+        "pageCount": 0.11,
+        "wordCount": 33,
+        "characterCount": 184,
+        "nonWhitespaceCharacterCount": 150
       }
     },
     "GM Screen/Combat Actions/dash.md": {
@@ -3895,31 +3945,6 @@
         "wordCount": 134,
         "characterCount": 861,
         "nonWhitespaceCharacterCount": 708
-      }
-    },
-    "GM Screen/Combat Actions/cast a spell.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 33,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11,
-      "characterCount": 184,
-      "nonWhitespaceCharacterCount": 150,
-      "readingTimeInMinutes": 0.12452830188679245,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699053553747,
-      "modifiedDate": 1706423635682,
-      "sizeInBytes": 184,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11,
-        "wordCount": 33,
-        "characterCount": 184,
-        "nonWhitespaceCharacterCount": 150
       }
     },
     "GM Screen/Combat Actions/attack.md": {
@@ -4072,31 +4097,6 @@
         "nonWhitespaceCharacterCount": 1797
       }
     },
-    "GM Screen/-1. EXPERIMENTAL/Free Action System.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 757,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5233333333333334,
-      "characterCount": 4697,
-      "nonWhitespaceCharacterCount": 3890,
-      "readingTimeInMinutes": 2.8566037735849057,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520453,
-      "modifiedDate": 1706424109120,
-      "sizeInBytes": 4697,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5233333333333334,
-        "wordCount": 757,
-        "characterCount": 4697,
-        "nonWhitespaceCharacterCount": 3890
-      }
-    },
     "GM Screen/-1. EXPERIMENTAL/Expanded Death Saves.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4120,6 +4120,31 @@
         "wordCount": 123,
         "characterCount": 693,
         "nonWhitespaceCharacterCount": 567
+      }
+    },
+    "GM Screen/-1. EXPERIMENTAL/Free Action System.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 757,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5233333333333334,
+      "characterCount": 4697,
+      "nonWhitespaceCharacterCount": 3890,
+      "readingTimeInMinutes": 2.8566037735849057,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520453,
+      "modifiedDate": 1706424109120,
+      "sizeInBytes": 4697,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.5233333333333334,
+        "wordCount": 757,
+        "characterCount": 4697,
+        "nonWhitespaceCharacterCount": 3890
       }
     },
     "GM Screen/-1. EXPERIMENTAL/Ethan's D&D Mass Warfare System.md": {
@@ -4147,56 +4172,6 @@
         "nonWhitespaceCharacterCount": 8944
       }
     },
-    "README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1278,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.26,
-      "characterCount": 7507,
-      "nonWhitespaceCharacterCount": 6211,
-      "readingTimeInMinutes": 4.8226415094339625,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699917826223,
-      "modifiedDate": 1735504156357,
-      "sizeInBytes": 7509,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.26,
-        "wordCount": 1278,
-        "characterCount": 7507,
-        "nonWhitespaceCharacterCount": 6211
-      }
-    },
-    "Daily Notes/2025-01-11.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 204,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.68,
-      "characterCount": 1061,
-      "nonWhitespaceCharacterCount": 841,
-      "readingTimeInMinutes": 0.769811320754717,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736640810637,
-      "modifiedDate": 1736643336252,
-      "sizeInBytes": 1061,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.68,
-        "wordCount": 204,
-        "characterCount": 1061,
-        "nonWhitespaceCharacterCount": 841
-      }
-    },
     "Daily Notes/Daily Notes.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4220,6 +4195,31 @@
         "wordCount": 144,
         "characterCount": 771,
         "nonWhitespaceCharacterCount": 626
+      }
+    },
+    "Daily Notes/2025-01-15.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 38,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736993546039,
+      "modifiedDate": 1736993546047,
+      "sizeInBytes": 43,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 43,
+        "nonWhitespaceCharacterCount": 38
       }
     },
     "Daily Notes/2025-01-14.md": {
@@ -4247,6 +4247,31 @@
         "nonWhitespaceCharacterCount": 494
       }
     },
+    "Daily Notes/2025-01-18.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 38,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737236477938,
+      "modifiedDate": 1737236477948,
+      "sizeInBytes": 43,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 43,
+        "nonWhitespaceCharacterCount": 38
+      }
+    },
     "Daily Notes/2025-01-12.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4270,6 +4295,31 @@
         "wordCount": 85,
         "characterCount": 486,
         "nonWhitespaceCharacterCount": 394
+      }
+    },
+    "Daily Notes/2025-01-11.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 204,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.68,
+      "characterCount": 1061,
+      "nonWhitespaceCharacterCount": 841,
+      "readingTimeInMinutes": 0.769811320754717,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736640810637,
+      "modifiedDate": 1736643336252,
+      "sizeInBytes": 1061,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.68,
+        "wordCount": 204,
+        "characterCount": 1061,
+        "nonWhitespaceCharacterCount": 841
       }
     },
     "Daily Notes/2025-01-10.md": {
@@ -4345,31 +4395,6 @@
         "wordCount": 5,
         "characterCount": 43,
         "nonWhitespaceCharacterCount": 38
-      }
-    },
-    "Daily Notes/2025-01-02.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 135,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.45,
-      "characterCount": 801,
-      "nonWhitespaceCharacterCount": 644,
-      "readingTimeInMinutes": 0.5094339622641509,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735854604685,
-      "modifiedDate": 1735858210515,
-      "sizeInBytes": 801,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.45,
-        "wordCount": 135,
-        "characterCount": 801,
-        "nonWhitespaceCharacterCount": 644
       }
     },
     "Daily Notes/2025-01-05.md": {
@@ -4472,6 +4497,31 @@
         "nonWhitespaceCharacterCount": 1866
       }
     },
+    "Daily Notes/2025-01-02.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 135,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45,
+      "characterCount": 801,
+      "nonWhitespaceCharacterCount": 644,
+      "readingTimeInMinutes": 0.5094339622641509,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1735854604685,
+      "modifiedDate": 1735858210515,
+      "sizeInBytes": 801,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.45,
+        "wordCount": 135,
+        "characterCount": 801,
+        "nonWhitespaceCharacterCount": 644
+      }
+    },
     "Daily Notes/2024-12-31.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4495,56 +4545,6 @@
         "wordCount": 262,
         "characterCount": 1488,
         "nonWhitespaceCharacterCount": 1186
-      }
-    },
-    "Daily Notes/2024-12-30.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 66,
-      "nonWhitespaceCharacterCount": 57,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735600027371,
-      "modifiedDate": 1735675291488,
-      "sizeInBytes": 66,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 66,
-        "nonWhitespaceCharacterCount": 57
-      }
-    },
-    "Daily Notes/2024-12-29.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 565,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.8833333333333333,
-      "characterCount": 3052,
-      "nonWhitespaceCharacterCount": 2433,
-      "readingTimeInMinutes": 2.1320754716981134,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735459971205,
-      "modifiedDate": 1735546152973,
-      "sizeInBytes": 3052,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.8833333333333333,
-        "wordCount": 565,
-        "characterCount": 3052,
-        "nonWhitespaceCharacterCount": 2433
       }
     },
     "Daily Notes/2024-12-28.md": {
@@ -4572,6 +4572,31 @@
         "nonWhitespaceCharacterCount": 805
       }
     },
+    "Daily Notes/2024-12-30.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 66,
+      "nonWhitespaceCharacterCount": 57,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1735600027371,
+      "modifiedDate": 1735675291488,
+      "sizeInBytes": 66,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 66,
+        "nonWhitespaceCharacterCount": 57
+      }
+    },
     "Daily Notes/2024-12-26.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4597,79 +4622,29 @@
         "nonWhitespaceCharacterCount": 550
       }
     },
-    "99. Brainstorming/Naming the Regions.md": {
+    "Daily Notes/2024-12-29.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 308,
+      "wordCount": 565,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0266666666666666,
-      "characterCount": 2311,
-      "nonWhitespaceCharacterCount": 1917,
-      "readingTimeInMinutes": 1.1622641509433962,
-      "linkCount": 0,
+      "pageCount": 1.8833333333333333,
+      "characterCount": 3052,
+      "nonWhitespaceCharacterCount": 2433,
+      "readingTimeInMinutes": 2.1320754716981134,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1727417194451,
-      "modifiedDate": 1727485936248,
-      "sizeInBytes": 2311,
+      "createdDate": 1735459971205,
+      "modifiedDate": 1735546152973,
+      "sizeInBytes": 3052,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.0266666666666666,
-        "wordCount": 308,
-        "characterCount": 2311,
-        "nonWhitespaceCharacterCount": 1917
-      }
-    },
-    "99. Brainstorming/Creative Challenges/Creation challenge from Tik-Tok.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 244,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8133333333333334,
-      "characterCount": 1444,
-      "nonWhitespaceCharacterCount": 1190,
-      "readingTimeInMinutes": 0.9207547169811321,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1702675416028,
-      "modifiedDate": 1702676147614,
-      "sizeInBytes": 1444,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8133333333333334,
-        "wordCount": 244,
-        "characterCount": 1444,
-        "nonWhitespaceCharacterCount": 1190
-      }
-    },
-    "99. Brainstorming/Character Building/Ideas for character's backstories.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 321,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.07,
-      "characterCount": 1730,
-      "nonWhitespaceCharacterCount": 1397,
-      "readingTimeInMinutes": 1.211320754716981,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1702674479894,
-      "modifiedDate": 1702674884628,
-      "sizeInBytes": 1730,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.07,
-        "wordCount": 321,
-        "characterCount": 1730,
-        "nonWhitespaceCharacterCount": 1397
+        "pageCount": 1.8833333333333333,
+        "wordCount": 565,
+        "characterCount": 3052,
+        "nonWhitespaceCharacterCount": 2433
       }
     },
     "99. Player Data/_Inheritance/Inheritance Will for this Vault.md": {
@@ -4872,6 +4847,31 @@
         "nonWhitespaceCharacterCount": 12121
       }
     },
+    "98. Quests/Mist Side Quests.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5356,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 17.85333333333333,
+      "characterCount": 33757,
+      "nonWhitespaceCharacterCount": 27687,
+      "readingTimeInMinutes": 20.211320754716983,
+      "linkCount": 139,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1722844703258,
+      "modifiedDate": 1728544075249,
+      "sizeInBytes": 33823,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 17.85333333333333,
+        "wordCount": 5356,
+        "characterCount": 33757,
+        "nonWhitespaceCharacterCount": 27687
+      }
+    },
     "98. Quests/Quests NW Highlands/Quest to Explore Gullhook and Beyond.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4920,6 +4920,31 @@
         "wordCount": 1299,
         "characterCount": 8162,
         "nonWhitespaceCharacterCount": 6747
+      }
+    },
+    "98. Quests/Quests NW Highlands/Quest for the Battle of Saddle-port.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1246,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.153333333333333,
+      "characterCount": 13709,
+      "nonWhitespaceCharacterCount": 8494,
+      "readingTimeInMinutes": 4.7018867924528305,
+      "linkCount": 68,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1719986344049,
+      "modifiedDate": 1727500268362,
+      "sizeInBytes": 13709,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.153333333333333,
+        "wordCount": 1246,
+        "characterCount": 13709,
+        "nonWhitespaceCharacterCount": 8494
       }
     },
     "98. Quests/Quests NW Highlands/Quest to Chase the Raiders.md": {
@@ -4997,31 +5022,6 @@
         "nonWhitespaceCharacterCount": 5083
       }
     },
-    "98. Quests/Quests NW Highlands/Quest for the Battle of Saddle-port.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1246,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.153333333333333,
-      "characterCount": 13709,
-      "nonWhitespaceCharacterCount": 8494,
-      "readingTimeInMinutes": 4.7018867924528305,
-      "linkCount": 68,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1719986344049,
-      "modifiedDate": 1727500268362,
-      "sizeInBytes": 13709,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.153333333333333,
-        "wordCount": 1246,
-        "characterCount": 13709,
-        "nonWhitespaceCharacterCount": 8494
-      }
-    },
     "98. Quests/Quest Ideas/The Mirrored Doorway Puzzle.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5095,6 +5095,31 @@
         "wordCount": 2371,
         "characterCount": 14593,
         "nonWhitespaceCharacterCount": 11986
+      }
+    },
+    "98. Quests/Quest Ideas/Moral Dilemma with Deities Puzzles.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 751,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5033333333333334,
+      "characterCount": 4132,
+      "nonWhitespaceCharacterCount": 3345,
+      "readingTimeInMinutes": 2.8339622641509434,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1722283794457,
+      "modifiedDate": 1722286688181,
+      "sizeInBytes": 4132,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.5033333333333334,
+        "wordCount": 751,
+        "characterCount": 4132,
+        "nonWhitespaceCharacterCount": 3345
       }
     },
     "98. Quests/Quest Ideas/Quest to De-throne Garrick.md": {
@@ -5172,31 +5197,6 @@
         "nonWhitespaceCharacterCount": 1521
       }
     },
-    "98. Quests/Quest Ideas/Moral Dilemma with Deities Puzzles.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 751,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5033333333333334,
-      "characterCount": 4132,
-      "nonWhitespaceCharacterCount": 3345,
-      "readingTimeInMinutes": 2.8339622641509434,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1722283794457,
-      "modifiedDate": 1722286688181,
-      "sizeInBytes": 4132,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5033333333333334,
-        "wordCount": 751,
-        "characterCount": 4132,
-        "nonWhitespaceCharacterCount": 3345
-      }
-    },
     "98. Quests/Quest Ideas/Inception Hallucination.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5272,31 +5272,6 @@
         "nonWhitespaceCharacterCount": 5024
       }
     },
-    "98. Quests/Mist Side Quests.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5356,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 17.85333333333333,
-      "characterCount": 33757,
-      "nonWhitespaceCharacterCount": 27687,
-      "readingTimeInMinutes": 20.211320754716983,
-      "linkCount": 139,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1722844703258,
-      "modifiedDate": 1728544075249,
-      "sizeInBytes": 33823,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 17.85333333333333,
-        "wordCount": 5356,
-        "characterCount": 33757,
-        "nonWhitespaceCharacterCount": 27687
-      }
-    },
     "98. Quests/Mist Campaign Framework.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5322,29 +5297,29 @@
         "nonWhitespaceCharacterCount": 176
       }
     },
-    "71. Scorchsand Wastes/The Scorchsand Wastes.md": {
+    "71. Scorchsand Wastes/Dangers of the Wastes/Crossing Events/Sand Tremor Shark Attack.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 64,
+      "wordCount": 149,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 380,
-      "nonWhitespaceCharacterCount": 315,
-      "readingTimeInMinutes": 0.24150943396226415,
-      "linkCount": 1,
+      "pageCount": 0.49666666666666665,
+      "characterCount": 887,
+      "nonWhitespaceCharacterCount": 730,
+      "readingTimeInMinutes": 0.5622641509433962,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1706822974679,
-      "modifiedDate": 1727498271407,
-      "sizeInBytes": 380,
+      "createdDate": 1735190528744,
+      "modifiedDate": 1735190861460,
+      "sizeInBytes": 887,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.21333333333333335,
-        "wordCount": 64,
-        "characterCount": 380,
-        "nonWhitespaceCharacterCount": 315
+        "pageCount": 0.49666666666666665,
+        "wordCount": 149,
+        "characterCount": 887,
+        "nonWhitespaceCharacterCount": 730
       }
     },
     "71. Scorchsand Wastes/Dangers of the Wastes/Tables/Minor Wastes Table.md": {
@@ -5422,31 +5397,6 @@
         "nonWhitespaceCharacterCount": 40
       }
     },
-    "71. Scorchsand Wastes/Dangers of the Wastes/Crossing Events/Sand Tremor Shark Attack.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 149,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.49666666666666665,
-      "characterCount": 887,
-      "nonWhitespaceCharacterCount": 730,
-      "readingTimeInMinutes": 0.5622641509433962,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735190528744,
-      "modifiedDate": 1735190861460,
-      "sizeInBytes": 887,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.49666666666666665,
-        "wordCount": 149,
-        "characterCount": 887,
-        "nonWhitespaceCharacterCount": 730
-      }
-    },
     "71. Scorchsand Wastes/Dangers of the Wastes/Creatures of the Wastes.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5472,29 +5422,104 @@
         "nonWhitespaceCharacterCount": 3627
       }
     },
-    "70. Fractured Coast/Towns, Cities/Sonderton.md": {
+    "71. Scorchsand Wastes/The Scorchsand Wastes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 7,
+      "wordCount": 64,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 60,
-      "nonWhitespaceCharacterCount": 53,
-      "readingTimeInMinutes": 0.026415094339622643,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 380,
+      "nonWhitespaceCharacterCount": 315,
+      "readingTimeInMinutes": 0.24150943396226415,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704954520431,
-      "modifiedDate": 1727497231274,
-      "sizeInBytes": 60,
+      "createdDate": 1706822974679,
+      "modifiedDate": 1727498271407,
+      "sizeInBytes": 380,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 60,
-        "nonWhitespaceCharacterCount": 53
+        "pageCount": 0.21333333333333335,
+        "wordCount": 64,
+        "characterCount": 380,
+        "nonWhitespaceCharacterCount": 315
+      }
+    },
+    "99. Brainstorming/Naming the Regions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 308,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0266666666666666,
+      "characterCount": 2311,
+      "nonWhitespaceCharacterCount": 1917,
+      "readingTimeInMinutes": 1.1622641509433962,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1727417194451,
+      "modifiedDate": 1727485936248,
+      "sizeInBytes": 2311,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0266666666666666,
+        "wordCount": 308,
+        "characterCount": 2311,
+        "nonWhitespaceCharacterCount": 1917
+      }
+    },
+    "99. Brainstorming/Creative Challenges/Creation challenge from Tik-Tok.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 244,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8133333333333334,
+      "characterCount": 1444,
+      "nonWhitespaceCharacterCount": 1190,
+      "readingTimeInMinutes": 0.9207547169811321,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1702675416028,
+      "modifiedDate": 1702676147614,
+      "sizeInBytes": 1444,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8133333333333334,
+        "wordCount": 244,
+        "characterCount": 1444,
+        "nonWhitespaceCharacterCount": 1190
+      }
+    },
+    "99. Brainstorming/Character Building/Ideas for character's backstories.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 321,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.07,
+      "characterCount": 1730,
+      "nonWhitespaceCharacterCount": 1397,
+      "readingTimeInMinutes": 1.211320754716981,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1702674479894,
+      "modifiedDate": 1702674884628,
+      "sizeInBytes": 1730,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.07,
+        "wordCount": 321,
+        "characterCount": 1730,
+        "nonWhitespaceCharacterCount": 1397
       }
     },
     "70. Fractured Coast/Towns, Cities/Syrah'kzha.md": {
@@ -5520,6 +5545,31 @@
         "wordCount": 6,
         "characterCount": 59,
         "nonWhitespaceCharacterCount": 49
+      }
+    },
+    "70. Fractured Coast/Towns, Cities/Sonderton.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 60,
+      "nonWhitespaceCharacterCount": 53,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520431,
+      "modifiedDate": 1727497231274,
+      "sizeInBytes": 60,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 60,
+        "nonWhitespaceCharacterCount": 53
       }
     },
     "70. Fractured Coast/Towns, Cities/Sepnonemnet.md": {
@@ -5797,31 +5847,6 @@
         "nonWhitespaceCharacterCount": 358
       }
     },
-    "60. Stormlocked Frontier/The Stormlocked Frontier.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 70,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.23333333333333334,
-      "characterCount": 473,
-      "nonWhitespaceCharacterCount": 402,
-      "readingTimeInMinutes": 0.2641509433962264,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1701135646390,
-      "modifiedDate": 1727499827978,
-      "sizeInBytes": 473,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.23333333333333334,
-        "wordCount": 70,
-        "characterCount": 473,
-        "nonWhitespaceCharacterCount": 402
-      }
-    },
     "60. Stormlocked Frontier/Towns, Cities/Waves-watch.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5922,31 +5947,6 @@
         "nonWhitespaceCharacterCount": 54
       }
     },
-    "60. Stormlocked Frontier/Towns, Cities/Puffer Hamlet.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 60,
-      "nonWhitespaceCharacterCount": 54,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520416,
-      "modifiedDate": 1727497276743,
-      "sizeInBytes": 60,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 60,
-        "nonWhitespaceCharacterCount": 54
-      }
-    },
     "60. Stormlocked Frontier/Towns, Cities/Shingle-berg.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5963,6 +5963,31 @@
       "aliases": null,
       "createdDate": 1704954520417,
       "modifiedDate": 1727497276751,
+      "sizeInBytes": 60,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 60,
+        "nonWhitespaceCharacterCount": 54
+      }
+    },
+    "60. Stormlocked Frontier/Towns, Cities/Puffer Hamlet.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 60,
+      "nonWhitespaceCharacterCount": 54,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520416,
+      "modifiedDate": 1727497276743,
       "sizeInBytes": 60,
       "sessionStart": {
         "noteCount": 1,
@@ -5997,6 +6022,31 @@
         "nonWhitespaceCharacterCount": 54
       }
     },
+    "60. Stormlocked Frontier/The Stormlocked Frontier.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 70,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 473,
+      "nonWhitespaceCharacterCount": 402,
+      "readingTimeInMinutes": 0.2641509433962264,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1701135646390,
+      "modifiedDate": 1727499827978,
+      "sizeInBytes": 473,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23333333333333334,
+        "wordCount": 70,
+        "characterCount": 473,
+        "nonWhitespaceCharacterCount": 402
+      }
+    },
     "60. Stormlocked Frontier/The Sea of Contention.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6020,6 +6070,56 @@
         "wordCount": 6,
         "characterCount": 60,
         "nonWhitespaceCharacterCount": 54
+      }
+    },
+    "60. Stormlocked Frontier/The Obsidian Coast.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 193,
+      "nonWhitespaceCharacterCount": 168,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520405,
+      "modifiedDate": 1727562126239,
+      "sizeInBytes": 193,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 193,
+        "nonWhitespaceCharacterCount": 168
+      }
+    },
+    "60. Stormlocked Frontier/The Coast of Promise.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 152,
+      "nonWhitespaceCharacterCount": 132,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520405,
+      "modifiedDate": 1727562139222,
+      "sizeInBytes": 152,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06666666666666667,
+        "wordCount": 20,
+        "characterCount": 152,
+        "nonWhitespaceCharacterCount": 132
       }
     },
     "60. Stormlocked Frontier/NPCs/The Cutthroat Authority.md": {
@@ -6297,56 +6397,6 @@
         "nonWhitespaceCharacterCount": 111
       }
     },
-    "60. Stormlocked Frontier/The Obsidian Coast.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 193,
-      "nonWhitespaceCharacterCount": 168,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520405,
-      "modifiedDate": 1727562126239,
-      "sizeInBytes": 193,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 193,
-        "nonWhitespaceCharacterCount": 168
-      }
-    },
-    "60. Stormlocked Frontier/The Coast of Promise.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 152,
-      "nonWhitespaceCharacterCount": 132,
-      "readingTimeInMinutes": 0.07547169811320754,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520405,
-      "modifiedDate": 1727562139222,
-      "sizeInBytes": 152,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06666666666666667,
-        "wordCount": 20,
-        "characterCount": 152,
-        "nonWhitespaceCharacterCount": 132
-      }
-    },
     "60. Stormlocked Frontier/Hope Town/The Pirate Fighting League.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6370,31 +6420,6 @@
         "wordCount": 630,
         "characterCount": 3579,
         "nonWhitespaceCharacterCount": 2905
-      }
-    },
-    "60. Stormlocked Frontier/Hope Town/The Great Market.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 256,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8533333333333334,
-      "characterCount": 1476,
-      "nonWhitespaceCharacterCount": 1215,
-      "readingTimeInMinutes": 0.9660377358490566,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520415,
-      "modifiedDate": 1706422170669,
-      "sizeInBytes": 1476,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8533333333333334,
-        "wordCount": 256,
-        "characterCount": 1476,
-        "nonWhitespaceCharacterCount": 1215
       }
     },
     "60. Stormlocked Frontier/Hope Town/The Green Stacks.md": {
@@ -6422,6 +6447,31 @@
         "nonWhitespaceCharacterCount": 1027
       }
     },
+    "60. Stormlocked Frontier/Hope Town/The Great Market.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 256,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8533333333333334,
+      "characterCount": 1476,
+      "nonWhitespaceCharacterCount": 1215,
+      "readingTimeInMinutes": 0.9660377358490566,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520415,
+      "modifiedDate": 1706422170669,
+      "sizeInBytes": 1476,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8533333333333334,
+        "wordCount": 256,
+        "characterCount": 1476,
+        "nonWhitespaceCharacterCount": 1215
+      }
+    },
     "60. Stormlocked Frontier/Hope Town/The Bay of Trade.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6445,6 +6495,31 @@
         "wordCount": 37,
         "characterCount": 174,
         "nonWhitespaceCharacterCount": 137
+      }
+    },
+    "60. Stormlocked Frontier/Hope Town/Hugo's Arena.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 456,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.52,
+      "characterCount": 2575,
+      "nonWhitespaceCharacterCount": 2108,
+      "readingTimeInMinutes": 1.7207547169811321,
+      "linkCount": 2,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1704954520412,
+      "modifiedDate": 1706422173958,
+      "sizeInBytes": 2575,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.52,
+        "wordCount": 456,
+        "characterCount": 2575,
+        "nonWhitespaceCharacterCount": 2108
       }
     },
     "60. Stormlocked Frontier/Hope Town/Pirate Factions/The Dead-Tide Reapers.md": {
@@ -6545,31 +6620,6 @@
         "wordCount": 1245,
         "characterCount": 8089,
         "nonWhitespaceCharacterCount": 6746
-      }
-    },
-    "60. Stormlocked Frontier/Hope Town/Hugo's Arena.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 456,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.52,
-      "characterCount": 2575,
-      "nonWhitespaceCharacterCount": 2108,
-      "readingTimeInMinutes": 1.7207547169811321,
-      "linkCount": 2,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1704954520412,
-      "modifiedDate": 1706422173958,
-      "sizeInBytes": 2575,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.52,
-        "wordCount": 456,
-        "characterCount": 2575,
-        "nonWhitespaceCharacterCount": 2108
       }
     },
     "60. Stormlocked Frontier/Hope Town/Hope Town Faction Breakdown (Player Copy).md": {
@@ -6722,31 +6772,6 @@
         "nonWhitespaceCharacterCount": 148
       }
     },
-    "60. Stormlocked Frontier/Features/Halcyoron's Marshes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 151,
-      "nonWhitespaceCharacterCount": 131,
-      "readingTimeInMinutes": 0.07924528301886792,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520403,
-      "modifiedDate": 1727497464627,
-      "sizeInBytes": 151,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07,
-        "wordCount": 21,
-        "characterCount": 151,
-        "nonWhitespaceCharacterCount": 131
-      }
-    },
     "60. Stormlocked Frontier/Features/River Havarra.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6795,6 +6820,31 @@
         "wordCount": 23,
         "characterCount": 171,
         "nonWhitespaceCharacterCount": 149
+      }
+    },
+    "60. Stormlocked Frontier/Features/Halcyoron's Marshes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 151,
+      "nonWhitespaceCharacterCount": 131,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520403,
+      "modifiedDate": 1727497464627,
+      "sizeInBytes": 151,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07,
+        "wordCount": 21,
+        "characterCount": 151,
+        "nonWhitespaceCharacterCount": 131
       }
     },
     "60. Stormlocked Frontier/Events/The Rising of the Cutthroat Authority.md": {
@@ -6897,6 +6947,31 @@
         "nonWhitespaceCharacterCount": 587
       }
     },
+    "50. Chromatic Fangs/The Chromatic Fangs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 144,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.48,
+      "characterCount": 959,
+      "nonWhitespaceCharacterCount": 791,
+      "readingTimeInMinutes": 0.5433962264150943,
+      "linkCount": 14,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1701057573320,
+      "modifiedDate": 1735549239548,
+      "sizeInBytes": 959,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.48,
+        "wordCount": 144,
+        "characterCount": 959,
+        "nonWhitespaceCharacterCount": 791
+      }
+    },
     "50. Chromatic Fangs/NPCs/Puck Galewind.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6945,31 +7020,6 @@
         "wordCount": 674,
         "characterCount": 4221,
         "nonWhitespaceCharacterCount": 3477
-      }
-    },
-    "50. Chromatic Fangs/The Chromatic Fangs.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 144,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.48,
-      "characterCount": 959,
-      "nonWhitespaceCharacterCount": 791,
-      "readingTimeInMinutes": 0.5433962264150943,
-      "linkCount": 14,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1701057573320,
-      "modifiedDate": 1735549239548,
-      "sizeInBytes": 959,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.48,
-        "wordCount": 144,
-        "characterCount": 959,
-        "nonWhitespaceCharacterCount": 791
       }
     },
     "50. Chromatic Fangs/Features/The Sunlost Aphelion.md": {
@@ -7222,31 +7272,6 @@
         "nonWhitespaceCharacterCount": 912
       }
     },
-    "50. Chromatic Fangs/Features/Bloodstone Pass/The Bloodstone Pass.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 68,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.22666666666666666,
-      "characterCount": 459,
-      "nonWhitespaceCharacterCount": 390,
-      "readingTimeInMinutes": 0.25660377358490566,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520419,
-      "modifiedDate": 1727553522799,
-      "sizeInBytes": 459,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.22666666666666666,
-        "wordCount": 68,
-        "characterCount": 459,
-        "nonWhitespaceCharacterCount": 390
-      }
-    },
     "50. Chromatic Fangs/Features/Bloodstone Pass/The Iron-fist Marauders.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7270,6 +7295,31 @@
         "wordCount": 166,
         "characterCount": 1048,
         "nonWhitespaceCharacterCount": 866
+      }
+    },
+    "50. Chromatic Fangs/Features/Bloodstone Pass/The Bloodstone Pass.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 68,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 459,
+      "nonWhitespaceCharacterCount": 390,
+      "readingTimeInMinutes": 0.25660377358490566,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520419,
+      "modifiedDate": 1727553522799,
+      "sizeInBytes": 459,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.22666666666666666,
+        "wordCount": 68,
+        "characterCount": 459,
+        "nonWhitespaceCharacterCount": 390
       }
     },
     "50. Chromatic Fangs/Features/Bloodstone Pass/The Bastion of Blood.md": {
@@ -7347,29 +7397,204 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "20. Greenheart Wldrnss/Towns, Cities/Dark Hunters Lodge.md": {
+    "30. Discordant Plains/Towns, Cities/Sand-Shelf Heights.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 73,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.24333333333333335,
-      "characterCount": 479,
-      "nonWhitespaceCharacterCount": 396,
-      "readingTimeInMinutes": 0.27547169811320754,
+      "pageCount": 0.05,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 87,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520382,
+      "modifiedDate": 1706822974667,
+      "sizeInBytes": 103,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 103,
+        "nonWhitespaceCharacterCount": 87
+      }
+    },
+    "30. Discordant Plains/The Discordant Plains.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520381,
+      "modifiedDate": 1704954520381,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "30. Discordant Plains/Features/The Wild River.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 126,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42,
+      "characterCount": 808,
+      "nonWhitespaceCharacterCount": 677,
+      "readingTimeInMinutes": 0.47547169811320755,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706822974665,
+      "modifiedDate": 1727500268366,
+      "sizeInBytes": 808,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.42,
+        "wordCount": 126,
+        "characterCount": 808,
+        "nonWhitespaceCharacterCount": 677
+      }
+    },
+    "30. Discordant Plains/Features/The Vast Sand Shelf.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 173,
+      "nonWhitespaceCharacterCount": 150,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520381,
+      "modifiedDate": 1727500195762,
+      "sizeInBytes": 173,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07,
+        "wordCount": 21,
+        "characterCount": 173,
+        "nonWhitespaceCharacterCount": 150
+      }
+    },
+    "30. Discordant Plains/Features/The Tamed River.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 166,
+      "nonWhitespaceCharacterCount": 145,
+      "readingTimeInMinutes": 0.07547169811320754,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704954520390,
-      "modifiedDate": 1735676242051,
-      "sizeInBytes": 479,
+      "createdDate": 1704954520381,
+      "modifiedDate": 1727500189598,
+      "sizeInBytes": 166,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.24333333333333335,
-        "wordCount": 73,
-        "characterCount": 479,
-        "nonWhitespaceCharacterCount": 396
+        "pageCount": 0.06666666666666667,
+        "wordCount": 20,
+        "characterCount": 166,
+        "nonWhitespaceCharacterCount": 145
+      }
+    },
+    "30. Discordant Plains/Features/The Dried Viaduct.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 217,
+      "nonWhitespaceCharacterCount": 182,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1705105443691,
+      "modifiedDate": 1705105505684,
+      "sizeInBytes": 217,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11666666666666667,
+        "wordCount": 35,
+        "characterCount": 217,
+        "nonWhitespaceCharacterCount": 182
+      }
+    },
+    "30. Discordant Plains/Features/The Solemn Flutes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 438,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.46,
+      "characterCount": 2614,
+      "nonWhitespaceCharacterCount": 2162,
+      "readingTimeInMinutes": 1.6528301886792454,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1704954520380,
+      "modifiedDate": 1727500188851,
+      "sizeInBytes": 2614,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.46,
+        "wordCount": 438,
+        "characterCount": 2614,
+        "nonWhitespaceCharacterCount": 2162
+      }
+    },
+    "30. Discordant Plains/Events/The Dissonant Ringing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 599,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9966666666666666,
+      "characterCount": 3599,
+      "nonWhitespaceCharacterCount": 2892,
+      "readingTimeInMinutes": 2.260377358490566,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520380,
+      "modifiedDate": 1706822974663,
+      "sizeInBytes": 3599,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.9966666666666666,
+        "wordCount": 599,
+        "characterCount": 3599,
+        "nonWhitespaceCharacterCount": 2892
       }
     },
     "20. Greenheart Wldrnss/Towns, Cities/Feller's Nook.md": {
@@ -7397,6 +7622,31 @@
         "nonWhitespaceCharacterCount": 702
       }
     },
+    "20. Greenheart Wldrnss/Towns, Cities/Dark Hunters Lodge.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 73,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 479,
+      "nonWhitespaceCharacterCount": 396,
+      "readingTimeInMinutes": 0.27547169811320754,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520390,
+      "modifiedDate": 1735676242051,
+      "sizeInBytes": 479,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.24333333333333335,
+        "wordCount": 73,
+        "characterCount": 479,
+        "nonWhitespaceCharacterCount": 396
+      }
+    },
     "20. Greenheart Wldrnss/The Wildwoods/The Wildwoods.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7422,29 +7672,79 @@
         "nonWhitespaceCharacterCount": 2067
       }
     },
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/The Luminary Regent.md": {
+    "20. Greenheart Wldrnss/The Wildwoods/The Verdant Groves.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 58,
+      "wordCount": 68,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19333333333333333,
-      "characterCount": 450,
-      "nonWhitespaceCharacterCount": 384,
-      "readingTimeInMinutes": 0.2188679245283019,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 466,
+      "nonWhitespaceCharacterCount": 397,
+      "readingTimeInMinutes": 0.25660377358490566,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520385,
+      "modifiedDate": 1727500268407,
+      "sizeInBytes": 466,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.22666666666666666,
+        "wordCount": 68,
+        "characterCount": 466,
+        "nonWhitespaceCharacterCount": 397
+      }
+    },
+    "20. Greenheart Wldrnss/The Wildwoods/The Providing Orchard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 159,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.53,
+      "characterCount": 971,
+      "nonWhitespaceCharacterCount": 808,
+      "readingTimeInMinutes": 0.6,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1705370603176,
+      "modifiedDate": 1727500279106,
+      "sizeInBytes": 971,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.53,
+        "wordCount": 159,
+        "characterCount": 971,
+        "nonWhitespaceCharacterCount": 808
+      }
+    },
+    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Mycoria.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 139,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4633333333333333,
+      "characterCount": 1100,
+      "nonWhitespaceCharacterCount": 947,
+      "readingTimeInMinutes": 0.5245283018867924,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1735697816182,
-      "modifiedDate": 1735697949359,
-      "sizeInBytes": 450,
+      "createdDate": 1704954520390,
+      "modifiedDate": 1735697055660,
+      "sizeInBytes": 1100,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.19333333333333333,
-        "wordCount": 58,
-        "characterCount": 450,
-        "nonWhitespaceCharacterCount": 384
+        "pageCount": 0.4633333333333333,
+        "wordCount": 139,
+        "characterCount": 1100,
+        "nonWhitespaceCharacterCount": 947
       }
     },
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/The Nexus Feeders.md": {
@@ -7470,6 +7770,31 @@
         "wordCount": 56,
         "characterCount": 379,
         "nonWhitespaceCharacterCount": 320
+      }
+    },
+    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/The Luminary Regent.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 58,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 450,
+      "nonWhitespaceCharacterCount": 384,
+      "readingTimeInMinutes": 0.2188679245283019,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1735697816182,
+      "modifiedDate": 1735697949359,
+      "sizeInBytes": 450,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19333333333333333,
+        "wordCount": 58,
+        "characterCount": 450,
+        "nonWhitespaceCharacterCount": 384
       }
     },
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Government of Mycoria/The Fungal Nexus.md": {
@@ -7572,31 +7897,6 @@
         "nonWhitespaceCharacterCount": 365
       }
     },
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Mycoria.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 139,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4633333333333333,
-      "characterCount": 1100,
-      "nonWhitespaceCharacterCount": 947,
-      "readingTimeInMinutes": 0.5245283018867924,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520390,
-      "modifiedDate": 1735697055660,
-      "sizeInBytes": 1100,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4633333333333333,
-        "wordCount": 139,
-        "characterCount": 1100,
-        "nonWhitespaceCharacterCount": 947
-      }
-    },
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities/Luminark.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7620,31 +7920,6 @@
         "wordCount": 29,
         "characterCount": 219,
         "nonWhitespaceCharacterCount": 184
-      }
-    },
-    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities/Bellaveil.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 57,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.19,
-      "characterCount": 399,
-      "nonWhitespaceCharacterCount": 336,
-      "readingTimeInMinutes": 0.21509433962264152,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735697068518,
-      "modifiedDate": 1735697219736,
-      "sizeInBytes": 399,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.19,
-        "wordCount": 57,
-        "characterCount": 399,
-        "nonWhitespaceCharacterCount": 336
       }
     },
     "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities/Capthorn.md": {
@@ -7672,54 +7947,29 @@
         "nonWhitespaceCharacterCount": 311
       }
     },
-    "20. Greenheart Wldrnss/The Wildwoods/The Verdant Groves.md": {
+    "20. Greenheart Wldrnss/The Wildwoods/Nation of Mycoria/Cities/Bellaveil.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 68,
+      "wordCount": 57,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22666666666666666,
-      "characterCount": 466,
-      "nonWhitespaceCharacterCount": 397,
-      "readingTimeInMinutes": 0.25660377358490566,
-      "linkCount": 5,
+      "pageCount": 0.19,
+      "characterCount": 399,
+      "nonWhitespaceCharacterCount": 336,
+      "readingTimeInMinutes": 0.21509433962264152,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704954520385,
-      "modifiedDate": 1727500268407,
-      "sizeInBytes": 466,
+      "createdDate": 1735697068518,
+      "modifiedDate": 1735697219736,
+      "sizeInBytes": 399,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.22666666666666666,
-        "wordCount": 68,
-        "characterCount": 466,
-        "nonWhitespaceCharacterCount": 397
-      }
-    },
-    "20. Greenheart Wldrnss/The Wildwoods/The Providing Orchard.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 159,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.53,
-      "characterCount": 971,
-      "nonWhitespaceCharacterCount": 808,
-      "readingTimeInMinutes": 0.6,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1705370603176,
-      "modifiedDate": 1727500279106,
-      "sizeInBytes": 971,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.53,
-        "wordCount": 159,
-        "characterCount": 971,
-        "nonWhitespaceCharacterCount": 808
+        "pageCount": 0.19,
+        "wordCount": 57,
+        "characterCount": 399,
+        "nonWhitespaceCharacterCount": 336
       }
     },
     "20. Greenheart Wldrnss/The Umbrawood/The Umbrawood.md": {
@@ -7822,31 +8072,6 @@
         "nonWhitespaceCharacterCount": 125
       }
     },
-    "20. Greenheart Wldrnss/The Starwoods/The Starwoods.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 643,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.1433333333333335,
-      "characterCount": 3929,
-      "nonWhitespaceCharacterCount": 3271,
-      "readingTimeInMinutes": 2.4264150943396228,
-      "linkCount": 4,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1704954520385,
-      "modifiedDate": 1727500268392,
-      "sizeInBytes": 3929,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.1433333333333335,
-        "wordCount": 643,
-        "characterCount": 3929,
-        "nonWhitespaceCharacterCount": 3271
-      }
-    },
     "20. Greenheart Wldrnss/The Starwoods/The Lake of Constellations.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7872,6 +8097,31 @@
         "nonWhitespaceCharacterCount": 674
       }
     },
+    "20. Greenheart Wldrnss/The Starwoods/The Starwoods.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 643,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1433333333333335,
+      "characterCount": 3929,
+      "nonWhitespaceCharacterCount": 3271,
+      "readingTimeInMinutes": 2.4264150943396228,
+      "linkCount": 4,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1704954520385,
+      "modifiedDate": 1727500268392,
+      "sizeInBytes": 3929,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1433333333333335,
+        "wordCount": 643,
+        "characterCount": 3929,
+        "nonWhitespaceCharacterCount": 3271
+      }
+    },
     "20. Greenheart Wldrnss/The Starwoods/Mount Starlight.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7895,6 +8145,31 @@
         "wordCount": 113,
         "characterCount": 716,
         "nonWhitespaceCharacterCount": 600
+      }
+    },
+    "20. Greenheart Wldrnss/The Greenheart Wilderness.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 37,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 260,
+      "nonWhitespaceCharacterCount": 217,
+      "readingTimeInMinutes": 0.13962264150943396,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700979750348,
+      "modifiedDate": 1735698250663,
+      "sizeInBytes": 260,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12333333333333334,
+        "wordCount": 37,
+        "characterCount": 260,
+        "nonWhitespaceCharacterCount": 217
       }
     },
     "20. Greenheart Wldrnss/The Green Order/The Green Order.md": {
@@ -8047,31 +8322,6 @@
         "nonWhitespaceCharacterCount": 1461
       }
     },
-    "20. Greenheart Wldrnss/The Greenheart Wilderness.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 37,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.12333333333333334,
-      "characterCount": 260,
-      "nonWhitespaceCharacterCount": 217,
-      "readingTimeInMinutes": 0.13962264150943396,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1700979750348,
-      "modifiedDate": 1735698250663,
-      "sizeInBytes": 260,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.12333333333333334,
-        "wordCount": 37,
-        "characterCount": 260,
-        "nonWhitespaceCharacterCount": 217
-      }
-    },
     "20. Greenheart Wldrnss/Features/The Bog Beast Swamps.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8097,206 +8347,6 @@
         "nonWhitespaceCharacterCount": 540
       }
     },
-    "30. Discordant Plains/The Discordant Plains.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520381,
-      "modifiedDate": 1704954520381,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "30. Discordant Plains/Towns, Cities/Sand-Shelf Heights.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 103,
-      "nonWhitespaceCharacterCount": 87,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520382,
-      "modifiedDate": 1706822974667,
-      "sizeInBytes": 103,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05,
-        "wordCount": 15,
-        "characterCount": 103,
-        "nonWhitespaceCharacterCount": 87
-      }
-    },
-    "30. Discordant Plains/Features/The Wild River.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 126,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.42,
-      "characterCount": 808,
-      "nonWhitespaceCharacterCount": 677,
-      "readingTimeInMinutes": 0.47547169811320755,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1706822974665,
-      "modifiedDate": 1727500268366,
-      "sizeInBytes": 808,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.42,
-        "wordCount": 126,
-        "characterCount": 808,
-        "nonWhitespaceCharacterCount": 677
-      }
-    },
-    "30. Discordant Plains/Features/The Vast Sand Shelf.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 173,
-      "nonWhitespaceCharacterCount": 150,
-      "readingTimeInMinutes": 0.07924528301886792,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520381,
-      "modifiedDate": 1727500195762,
-      "sizeInBytes": 173,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07,
-        "wordCount": 21,
-        "characterCount": 173,
-        "nonWhitespaceCharacterCount": 150
-      }
-    },
-    "30. Discordant Plains/Features/The Solemn Flutes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 438,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.46,
-      "characterCount": 2614,
-      "nonWhitespaceCharacterCount": 2162,
-      "readingTimeInMinutes": 1.6528301886792454,
-      "linkCount": 7,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1704954520380,
-      "modifiedDate": 1727500188851,
-      "sizeInBytes": 2614,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.46,
-        "wordCount": 438,
-        "characterCount": 2614,
-        "nonWhitespaceCharacterCount": 2162
-      }
-    },
-    "30. Discordant Plains/Features/The Tamed River.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 166,
-      "nonWhitespaceCharacterCount": 145,
-      "readingTimeInMinutes": 0.07547169811320754,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520381,
-      "modifiedDate": 1727500189598,
-      "sizeInBytes": 166,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06666666666666667,
-        "wordCount": 20,
-        "characterCount": 166,
-        "nonWhitespaceCharacterCount": 145
-      }
-    },
-    "30. Discordant Plains/Features/The Dried Viaduct.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 35,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 217,
-      "nonWhitespaceCharacterCount": 182,
-      "readingTimeInMinutes": 0.1320754716981132,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1705105443691,
-      "modifiedDate": 1705105505684,
-      "sizeInBytes": 217,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11666666666666667,
-        "wordCount": 35,
-        "characterCount": 217,
-        "nonWhitespaceCharacterCount": 182
-      }
-    },
-    "30. Discordant Plains/Events/The Dissonant Ringing.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 599,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.9966666666666666,
-      "characterCount": 3599,
-      "nonWhitespaceCharacterCount": 2892,
-      "readingTimeInMinutes": 2.260377358490566,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520380,
-      "modifiedDate": 1706822974663,
-      "sizeInBytes": 3599,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.9966666666666666,
-        "wordCount": 599,
-        "characterCount": 3599,
-        "nonWhitespaceCharacterCount": 2892
-      }
-    },
     "10. Whitecliff Plateau/Towns, Cities/Trawlrock.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8313,31 +8363,6 @@
       "aliases": null,
       "createdDate": 1704954520402,
       "modifiedDate": 1727498172432,
-      "sizeInBytes": 171,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07,
-        "wordCount": 21,
-        "characterCount": 171,
-        "nonWhitespaceCharacterCount": 143
-      }
-    },
-    "10. Whitecliff Plateau/Towns, Cities/Schooner's End.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 171,
-      "nonWhitespaceCharacterCount": 143,
-      "readingTimeInMinutes": 0.07924528301886792,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520402,
-      "modifiedDate": 1727498172426,
       "sizeInBytes": 171,
       "sessionStart": {
         "noteCount": 1,
@@ -8370,6 +8395,31 @@
         "wordCount": 3312,
         "characterCount": 19185,
         "nonWhitespaceCharacterCount": 15600
+      }
+    },
+    "10. Whitecliff Plateau/Towns, Cities/Schooner's End.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 171,
+      "nonWhitespaceCharacterCount": 143,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520402,
+      "modifiedDate": 1727498172426,
+      "sizeInBytes": 171,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07,
+        "wordCount": 21,
+        "characterCount": 171,
+        "nonWhitespaceCharacterCount": 143
       }
     },
     "10. Whitecliff Plateau/Towns, Cities/Saddle-Port.md": {
@@ -8572,31 +8622,6 @@
         "nonWhitespaceCharacterCount": 122
       }
     },
-    "10. Whitecliff Plateau/The Aquan Nations.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 75,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.25,
-      "characterCount": 522,
-      "nonWhitespaceCharacterCount": 442,
-      "readingTimeInMinutes": 0.2830188679245283,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736640810630,
-      "modifiedDate": 1736640810630,
-      "sizeInBytes": 522,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.25,
-        "wordCount": 75,
-        "characterCount": 522,
-        "nonWhitespaceCharacterCount": 442
-      }
-    },
     "10. Whitecliff Plateau/The Whitecliff Plateau.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8622,29 +8647,29 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "10. Whitecliff Plateau/North West Town Ordering.md": {
+    "10. Whitecliff Plateau/The Aquan Nations.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 60,
+      "wordCount": 75,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2,
-      "characterCount": 450,
-      "nonWhitespaceCharacterCount": 388,
-      "readingTimeInMinutes": 0.22641509433962265,
-      "linkCount": 13,
+      "pageCount": 0.25,
+      "characterCount": 522,
+      "nonWhitespaceCharacterCount": 442,
+      "readingTimeInMinutes": 0.2830188679245283,
+      "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1706822974678,
-      "modifiedDate": 1727498172397,
-      "sizeInBytes": 450,
+      "createdDate": 1736640810630,
+      "modifiedDate": 1736640810630,
+      "sizeInBytes": 522,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.2,
-        "wordCount": 60,
-        "characterCount": 450,
-        "nonWhitespaceCharacterCount": 388
+        "pageCount": 0.25,
+        "wordCount": 75,
+        "characterCount": 522,
+        "nonWhitespaceCharacterCount": 442
       }
     },
     "10. Whitecliff Plateau/NPCs/Yugo Stolid.md": {
@@ -9097,29 +9122,29 @@
         "nonWhitespaceCharacterCount": 518
       }
     },
-    "10. Whitecliff Plateau/NPCs/Arnov Vasilov.md": {
+    "10. Whitecliff Plateau/NPCs/Alsolace Cult/Tennyson Heralds.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 35,
+      "wordCount": 127,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 253,
-      "nonWhitespaceCharacterCount": 212,
-      "readingTimeInMinutes": 0.1320754716981132,
-      "linkCount": 2,
+      "pageCount": 0.42333333333333334,
+      "characterCount": 831,
+      "nonWhitespaceCharacterCount": 691,
+      "readingTimeInMinutes": 0.47924528301886793,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1721721660064,
-      "modifiedDate": 1727498172195,
-      "sizeInBytes": 253,
+      "createdDate": 1706153895413,
+      "modifiedDate": 1728544075245,
+      "sizeInBytes": 831,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.11666666666666667,
-        "wordCount": 35,
-        "characterCount": 253,
-        "nonWhitespaceCharacterCount": 212
+        "pageCount": 0.42333333333333334,
+        "wordCount": 127,
+        "characterCount": 831,
+        "nonWhitespaceCharacterCount": 691
       }
     },
     "10. Whitecliff Plateau/NPCs/Alsolace Cult/The Following of Alsolace.md": {
@@ -9145,31 +9170,6 @@
         "wordCount": 575,
         "characterCount": 3506,
         "nonWhitespaceCharacterCount": 2891
-      }
-    },
-    "10. Whitecliff Plateau/NPCs/Alsolace Cult/Tennyson Heralds.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 127,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.42333333333333334,
-      "characterCount": 831,
-      "nonWhitespaceCharacterCount": 691,
-      "readingTimeInMinutes": 0.47924528301886793,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1706153895413,
-      "modifiedDate": 1728544075245,
-      "sizeInBytes": 831,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.42333333333333334,
-        "wordCount": 127,
-        "characterCount": 831,
-        "nonWhitespaceCharacterCount": 691
       }
     },
     "10. Whitecliff Plateau/NPCs/Alsolace Cult/Erstorndin.md": {
@@ -9220,6 +9220,56 @@
         "wordCount": 145,
         "characterCount": 849,
         "nonWhitespaceCharacterCount": 699
+      }
+    },
+    "10. Whitecliff Plateau/NPCs/Arnov Vasilov.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 253,
+      "nonWhitespaceCharacterCount": 212,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1721721660064,
+      "modifiedDate": 1727498172195,
+      "sizeInBytes": 253,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11666666666666667,
+        "wordCount": 35,
+        "characterCount": 253,
+        "nonWhitespaceCharacterCount": 212
+      }
+    },
+    "10. Whitecliff Plateau/North West Town Ordering.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 60,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2,
+      "characterCount": 450,
+      "nonWhitespaceCharacterCount": 388,
+      "readingTimeInMinutes": 0.22641509433962265,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706822974678,
+      "modifiedDate": 1727498172397,
+      "sizeInBytes": 450,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2,
+        "wordCount": 60,
+        "characterCount": 450,
+        "nonWhitespaceCharacterCount": 388
       }
     },
     "10. Whitecliff Plateau/Gandoras City/Organizations/The Weaver's Ring.md": {
@@ -9395,6 +9445,56 @@
         "wordCount": 85,
         "characterCount": 537,
         "nonWhitespaceCharacterCount": 451
+      }
+    },
+    "10. Whitecliff Plateau/Events/The Vanishings in the North-West.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1108,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.6933333333333334,
+      "characterCount": 7153,
+      "nonWhitespaceCharacterCount": 5988,
+      "readingTimeInMinutes": 4.181132075471698,
+      "linkCount": 65,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520391,
+      "modifiedDate": 1735505701929,
+      "sizeInBytes": 7153,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.6933333333333334,
+        "wordCount": 1108,
+        "characterCount": 7153,
+        "nonWhitespaceCharacterCount": 5988
+      }
+    },
+    "10. Whitecliff Plateau/Events/Karak-Ulgurath Town Raid Example.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 870,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.9,
+      "characterCount": 5540,
+      "nonWhitespaceCharacterCount": 4640,
+      "readingTimeInMinutes": 3.2830188679245285,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1719717187613,
+      "modifiedDate": 1727498172184,
+      "sizeInBytes": 5540,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.9,
+        "wordCount": 870,
+        "characterCount": 5540,
+        "nonWhitespaceCharacterCount": 4640
       }
     },
     "10. Whitecliff Plateau/Features/The Startup Compound of The Many.md": {
@@ -9747,31 +9847,6 @@
         "nonWhitespaceCharacterCount": 441
       }
     },
-    "10. Whitecliff Plateau/Features/The Distant Overlook.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 78,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.26,
-      "characterCount": 523,
-      "nonWhitespaceCharacterCount": 442,
-      "readingTimeInMinutes": 0.2943396226415094,
-      "linkCount": 5,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1721797921254,
-      "modifiedDate": 1727498172317,
-      "sizeInBytes": 523,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.26,
-        "wordCount": 78,
-        "characterCount": 523,
-        "nonWhitespaceCharacterCount": 442
-      }
-    },
     "10. Whitecliff Plateau/Features/The Distant Sea.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -9795,6 +9870,31 @@
         "wordCount": 101,
         "characterCount": 633,
         "nonWhitespaceCharacterCount": 530
+      }
+    },
+    "10. Whitecliff Plateau/Features/The Distant Overlook.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 78,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26,
+      "characterCount": 523,
+      "nonWhitespaceCharacterCount": 442,
+      "readingTimeInMinutes": 0.2943396226415094,
+      "linkCount": 5,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1721797921254,
+      "modifiedDate": 1727498172317,
+      "sizeInBytes": 523,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.26,
+        "wordCount": 78,
+        "characterCount": 523,
+        "nonWhitespaceCharacterCount": 442
       }
     },
     "10. Whitecliff Plateau/Features/The Bay of Kelp.md": {
@@ -9872,6 +9972,56 @@
         "nonWhitespaceCharacterCount": 1835
       }
     },
+    "10. Whitecliff Plateau/Features/Farming/Veggieville.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 94,
+      "nonWhitespaceCharacterCount": 82,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1722668002918,
+      "modifiedDate": 1727498172513,
+      "sizeInBytes": 94,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.043333333333333335,
+        "wordCount": 13,
+        "characterCount": 94,
+        "nonWhitespaceCharacterCount": 82
+      }
+    },
+    "10. Whitecliff Plateau/Features/Farming/The Great Middle Growers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 94,
+      "nonWhitespaceCharacterCount": 82,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1722668002918,
+      "modifiedDate": 1727498172518,
+      "sizeInBytes": 94,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.043333333333333335,
+        "wordCount": 13,
+        "characterCount": 94,
+        "nonWhitespaceCharacterCount": 82
+      }
+    },
     "10. Whitecliff Plateau/Features/Farming/The Fruity Orchards.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -9920,56 +10070,6 @@
         "wordCount": 21,
         "characterCount": 154,
         "nonWhitespaceCharacterCount": 132
-      }
-    },
-    "10. Whitecliff Plateau/Features/Farming/The Great Middle Growers.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 82,
-      "readingTimeInMinutes": 0.04905660377358491,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1722668002918,
-      "modifiedDate": 1727498172518,
-      "sizeInBytes": 94,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.043333333333333335,
-        "wordCount": 13,
-        "characterCount": 94,
-        "nonWhitespaceCharacterCount": 82
-      }
-    },
-    "10. Whitecliff Plateau/Features/Farming/Veggieville.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 82,
-      "readingTimeInMinutes": 0.04905660377358491,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1722668002918,
-      "modifiedDate": 1727498172513,
-      "sizeInBytes": 94,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.043333333333333335,
-        "wordCount": 13,
-        "characterCount": 94,
-        "nonWhitespaceCharacterCount": 82
       }
     },
     "10. Whitecliff Plateau/Features/Farming/Southern Farms Oddities.md": {
@@ -10072,54 +10172,29 @@
         "nonWhitespaceCharacterCount": 82
       }
     },
-    "10. Whitecliff Plateau/Events/The Vanishings in the North-West.md": {
+    "0. Puzzles/Puzzle Master Document.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1108,
+      "wordCount": 497,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.6933333333333334,
-      "characterCount": 7153,
-      "nonWhitespaceCharacterCount": 5988,
-      "readingTimeInMinutes": 4.181132075471698,
-      "linkCount": 65,
+      "pageCount": 1.6566666666666667,
+      "characterCount": 2886,
+      "nonWhitespaceCharacterCount": 2379,
+      "readingTimeInMinutes": 1.8754716981132076,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704954520391,
-      "modifiedDate": 1735505701929,
-      "sizeInBytes": 7153,
+      "createdDate": 1735521245961,
+      "modifiedDate": 1735522786040,
+      "sizeInBytes": 2887,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.6933333333333334,
-        "wordCount": 1108,
-        "characterCount": 7153,
-        "nonWhitespaceCharacterCount": 5988
-      }
-    },
-    "10. Whitecliff Plateau/Events/Karak-Ulgurath Town Raid Example.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 870,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.9,
-      "characterCount": 5540,
-      "nonWhitespaceCharacterCount": 4640,
-      "readingTimeInMinutes": 3.2830188679245285,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1719717187613,
-      "modifiedDate": 1727498172184,
-      "sizeInBytes": 5540,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.9,
-        "wordCount": 870,
-        "characterCount": 5540,
-        "nonWhitespaceCharacterCount": 4640
+        "pageCount": 1.6566666666666667,
+        "wordCount": 497,
+        "characterCount": 2886,
+        "nonWhitespaceCharacterCount": 2379
       }
     },
     "0. The Many/The Many.md": {
@@ -10172,31 +10247,6 @@
         "nonWhitespaceCharacterCount": 1830
       }
     },
-    "0. The Many/Members/Relationships of the Many.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 422,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4066666666666667,
-      "characterCount": 2746,
-      "nonWhitespaceCharacterCount": 2288,
-      "readingTimeInMinutes": 1.5924528301886793,
-      "linkCount": 47,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735456194848,
-      "modifiedDate": 1735939621418,
-      "sizeInBytes": 2746,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.4066666666666667,
-        "wordCount": 422,
-        "characterCount": 2746,
-        "nonWhitespaceCharacterCount": 2288
-      }
-    },
     "0. The Many/Members/Sprague.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -10247,29 +10297,29 @@
         "nonWhitespaceCharacterCount": 71
       }
     },
-    "0. The Many/Members/DeAngelo.md": {
+    "0. The Many/Members/Relationships of the Many.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 97,
+      "wordCount": 422,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 602,
-      "nonWhitespaceCharacterCount": 503,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 7,
+      "pageCount": 1.4066666666666667,
+      "characterCount": 2746,
+      "nonWhitespaceCharacterCount": 2288,
+      "readingTimeInMinutes": 1.5924528301886793,
+      "linkCount": 47,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1719717187594,
-      "modifiedDate": 1735456177535,
-      "sizeInBytes": 602,
+      "createdDate": 1735456194848,
+      "modifiedDate": 1735939621418,
+      "sizeInBytes": 2746,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.3233333333333333,
-        "wordCount": 97,
-        "characterCount": 602,
-        "nonWhitespaceCharacterCount": 503
+        "pageCount": 1.4066666666666667,
+        "wordCount": 422,
+        "characterCount": 2746,
+        "nonWhitespaceCharacterCount": 2288
       }
     },
     "0. The Many/Members/Mansfield.md": {
@@ -10345,6 +10395,31 @@
         "wordCount": 113,
         "characterCount": 686,
         "nonWhitespaceCharacterCount": 568
+      }
+    },
+    "0. The Many/Members/DeAngelo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 602,
+      "nonWhitespaceCharacterCount": 503,
+      "readingTimeInMinutes": 0.3660377358490566,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1719717187594,
+      "modifiedDate": 1735456177535,
+      "sizeInBytes": 602,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3233333333333333,
+        "wordCount": 97,
+        "characterCount": 602,
+        "nonWhitespaceCharacterCount": 503
       }
     },
     "0. The Many/Members/Bernhard.md": {
@@ -10622,81 +10697,6 @@
         "nonWhitespaceCharacterCount": 343
       }
     },
-    "0. Puzzles/Puzzle Master Document.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 497,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6566666666666667,
-      "characterCount": 2886,
-      "nonWhitespaceCharacterCount": 2379,
-      "readingTimeInMinutes": 1.8754716981132076,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735521245961,
-      "modifiedDate": 1735522786040,
-      "sizeInBytes": 2887,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.6566666666666667,
-        "wordCount": 497,
-        "characterCount": 2886,
-        "nonWhitespaceCharacterCount": 2379
-      }
-    },
-    "0. Mist Chapter 2/Beyond the Mists.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 269,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8966666666666666,
-      "characterCount": 1850,
-      "nonWhitespaceCharacterCount": 1548,
-      "readingTimeInMinutes": 1.0150943396226415,
-      "linkCount": 25,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735526426353,
-      "modifiedDate": 1735531851346,
-      "sizeInBytes": 1850,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8966666666666666,
-        "wordCount": 269,
-        "characterCount": 1850,
-        "nonWhitespaceCharacterCount": 1548
-      }
-    },
-    "0. Mist Chapter 1/Pantheon of Mist/The Betrayer Gods.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 64,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 477,
-      "nonWhitespaceCharacterCount": 410,
-      "readingTimeInMinutes": 0.24150943396226415,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1719717187607,
-      "modifiedDate": 1721375630800,
-      "sizeInBytes": 477,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.21333333333333335,
-        "wordCount": 64,
-        "characterCount": 477,
-        "nonWhitespaceCharacterCount": 410
-      }
-    },
     "0. Mist Chapter 1/Pantheon of Mist/The Prime Deities.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -10745,6 +10745,31 @@
         "wordCount": 219,
         "characterCount": 1334,
         "nonWhitespaceCharacterCount": 1112
+      }
+    },
+    "0. Mist Chapter 1/Pantheon of Mist/The Betrayer Gods.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 64,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 477,
+      "nonWhitespaceCharacterCount": 410,
+      "readingTimeInMinutes": 0.24150943396226415,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1719717187607,
+      "modifiedDate": 1721375630800,
+      "sizeInBytes": 477,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21333333333333335,
+        "wordCount": 64,
+        "characterCount": 477,
+        "nonWhitespaceCharacterCount": 410
       }
     },
     "0. Mist Chapter 1/Pantheon of Mist/Shrines to the Pantheon.md": {
@@ -11422,31 +11447,6 @@
         "nonWhitespaceCharacterCount": 399
       }
     },
-    "0. Mist Chapter 1/Great Events/The Moon-Fall Resurgence.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 295,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9833333333333333,
-      "characterCount": 1819,
-      "nonWhitespaceCharacterCount": 1516,
-      "readingTimeInMinutes": 1.1132075471698113,
-      "linkCount": 20,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1719717187577,
-      "modifiedDate": 1727500279084,
-      "sizeInBytes": 1819,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9833333333333333,
-        "wordCount": 295,
-        "characterCount": 1819,
-        "nonWhitespaceCharacterCount": 1516
-      }
-    },
     "0. Mist Chapter 1/Great Events/The Red Moon.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11470,6 +11470,31 @@
         "wordCount": 134,
         "characterCount": 869,
         "nonWhitespaceCharacterCount": 733
+      }
+    },
+    "0. Mist Chapter 1/Great Events/The Moon-Fall Resurgence.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 295,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9833333333333333,
+      "characterCount": 1819,
+      "nonWhitespaceCharacterCount": 1516,
+      "readingTimeInMinutes": 1.1132075471698113,
+      "linkCount": 20,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1719717187577,
+      "modifiedDate": 1727500279084,
+      "sizeInBytes": 1819,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9833333333333333,
+        "wordCount": 295,
+        "characterCount": 1819,
+        "nonWhitespaceCharacterCount": 1516
       }
     },
     "0. Mist Chapter 1/Great Events/One-off/The Calamitous Typhoon.md": {
@@ -11522,29 +11547,54 @@
         "nonWhitespaceCharacterCount": 322
       }
     },
-    "0. Items & Things/Working Item Brainstorming.md": {
+    "0. Mist Chapter 2/Beyond the Mists.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 77,
+      "wordCount": 269,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.25666666666666665,
-      "characterCount": 458,
-      "nonWhitespaceCharacterCount": 366,
-      "readingTimeInMinutes": 0.29056603773584905,
-      "linkCount": 1,
+      "pageCount": 0.8966666666666666,
+      "characterCount": 1850,
+      "nonWhitespaceCharacterCount": 1548,
+      "readingTimeInMinutes": 1.0150943396226415,
+      "linkCount": 25,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1736644086122,
-      "modifiedDate": 1736708312784,
-      "sizeInBytes": 458,
+      "createdDate": 1735526426353,
+      "modifiedDate": 1735531851346,
+      "sizeInBytes": 1850,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.25666666666666665,
-        "wordCount": 77,
-        "characterCount": 458,
-        "nonWhitespaceCharacterCount": 366
+        "pageCount": 0.8966666666666666,
+        "wordCount": 269,
+        "characterCount": 1850,
+        "nonWhitespaceCharacterCount": 1548
+      }
+    },
+    "0. Items & Things/Vehicles & Ships/Mist-Cutter Ship.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 104,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 612,
+      "nonWhitespaceCharacterCount": 505,
+      "readingTimeInMinutes": 0.39245283018867927,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520395,
+      "modifiedDate": 1727498172754,
+      "sizeInBytes": 612,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3466666666666667,
+        "wordCount": 104,
+        "characterCount": 612,
+        "nonWhitespaceCharacterCount": 505
       }
     },
     "0. Items & Things/Weapons/Trident of Returning (Manual).md": {
@@ -11597,31 +11647,6 @@
         "nonWhitespaceCharacterCount": 4968
       }
     },
-    "0. Items & Things/Weapons/Red-Moon Blade.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 176,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5866666666666667,
-      "characterCount": 1016,
-      "nonWhitespaceCharacterCount": 835,
-      "readingTimeInMinutes": 0.6641509433962264,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520386,
-      "modifiedDate": 1727500279072,
-      "sizeInBytes": 1016,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5866666666666667,
-        "wordCount": 176,
-        "characterCount": 1016,
-        "nonWhitespaceCharacterCount": 835
-      }
-    },
     "0. Items & Things/Weapons/Reaver Blade.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11645,6 +11670,31 @@
         "wordCount": 659,
         "characterCount": 3789,
         "nonWhitespaceCharacterCount": 3085
+      }
+    },
+    "0. Items & Things/Weapons/Red-Moon Blade.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 176,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5866666666666667,
+      "characterCount": 1016,
+      "nonWhitespaceCharacterCount": 835,
+      "readingTimeInMinutes": 0.6641509433962264,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520386,
+      "modifiedDate": 1727500279072,
+      "sizeInBytes": 1016,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5866666666666667,
+        "wordCount": 176,
+        "characterCount": 1016,
+        "nonWhitespaceCharacterCount": 835
       }
     },
     "0. Items & Things/Weapons/Cavarra Weapons.md": {
@@ -11672,54 +11722,29 @@
         "nonWhitespaceCharacterCount": 92
       }
     },
-    "0. Items & Things/Vehicles & Ships/Mist-Cutter Ship.md": {
+    "0. Items & Things/Working Item Brainstorming.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 104,
+      "wordCount": 77,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3466666666666667,
-      "characterCount": 612,
-      "nonWhitespaceCharacterCount": 505,
-      "readingTimeInMinutes": 0.39245283018867927,
-      "linkCount": 4,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 458,
+      "nonWhitespaceCharacterCount": 366,
+      "readingTimeInMinutes": 0.29056603773584905,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704954520395,
-      "modifiedDate": 1727498172754,
-      "sizeInBytes": 612,
+      "createdDate": 1736644086122,
+      "modifiedDate": 1736708312784,
+      "sizeInBytes": 458,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.3466666666666667,
-        "wordCount": 104,
-        "characterCount": 612,
-        "nonWhitespaceCharacterCount": 505
-      }
-    },
-    "0. Items & Things/Simple Prayer Mat.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 68,
-      "nonWhitespaceCharacterCount": 60,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736757301325,
-      "modifiedDate": 1736757328493,
-      "sizeInBytes": 68,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 68,
-        "nonWhitespaceCharacterCount": 60
+        "pageCount": 0.25666666666666665,
+        "wordCount": 77,
+        "characterCount": 458,
+        "nonWhitespaceCharacterCount": 366
       }
     },
     "0. Items & Things/Prospecting Compass.md": {
@@ -11747,7 +11772,82 @@
         "nonWhitespaceCharacterCount": 412
       }
     },
-    "0. Items & Things/Gilded Pirate Dentures.md": {
+    "0. Items & Things/Fedorov's Legion/Mild Incense of Recovery.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 86,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 533,
+      "nonWhitespaceCharacterCount": 440,
+      "readingTimeInMinutes": 0.32452830188679244,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736713038421,
+      "modifiedDate": 1736713359791,
+      "sizeInBytes": 533,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2866666666666667,
+        "wordCount": 86,
+        "characterCount": 533,
+        "nonWhitespaceCharacterCount": 440
+      }
+    },
+    "0. Items & Things/Fedorov's Legion/Tapestry of Deafening.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 123,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.41,
+      "characterCount": 783,
+      "nonWhitespaceCharacterCount": 657,
+      "readingTimeInMinutes": 0.4641509433962264,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736498905477,
+      "modifiedDate": 1736499133052,
+      "sizeInBytes": 783,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.41,
+        "wordCount": 123,
+        "characterCount": 783,
+        "nonWhitespaceCharacterCount": 657
+      }
+    },
+    "0. Items & Things/Fedorov's Legion/Lantern of Revealing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 614,
+      "nonWhitespaceCharacterCount": 511,
+      "readingTimeInMinutes": 0.3660377358490566,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736713647977,
+      "modifiedDate": 1736713946745,
+      "sizeInBytes": 614,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3233333333333333,
+        "wordCount": 97,
+        "characterCount": 614,
+        "nonWhitespaceCharacterCount": 511
+      }
+    },
+    "0. Items & Things/Fedorov's Legion/Gilded Pirate Dentures.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -11770,6 +11870,56 @@
         "wordCount": 99,
         "characterCount": 679,
         "nonWhitespaceCharacterCount": 571
+      }
+    },
+    "0. Items & Things/Fedorov's Legion/Kobold's Firecrackers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 55,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736713411898,
+      "modifiedDate": 1736713426820,
+      "sizeInBytes": 61,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 61,
+        "nonWhitespaceCharacterCount": 55
+      }
+    },
+    "0. Items & Things/Fedorov's Legion/Don't Rattle 'em Bones.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 88,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 544,
+      "nonWhitespaceCharacterCount": 449,
+      "readingTimeInMinutes": 0.3320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736654637104,
+      "modifiedDate": 1736655233309,
+      "sizeInBytes": 544,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29333333333333333,
+        "wordCount": 88,
+        "characterCount": 544,
+        "nonWhitespaceCharacterCount": 449
       }
     },
     "0. Items & Things/Magebreaker Gauntlets.md": {
@@ -11797,31 +11947,6 @@
         "nonWhitespaceCharacterCount": 936
       }
     },
-    "0. Items & Things/General Items/The Tent of Many Things.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 39,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 242,
-      "nonWhitespaceCharacterCount": 202,
-      "readingTimeInMinutes": 0.1471698113207547,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1732261997667,
-      "modifiedDate": 1735505701489,
-      "sizeInBytes": 242,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13,
-        "wordCount": 39,
-        "characterCount": 242,
-        "nonWhitespaceCharacterCount": 202
-      }
-    },
     "0. Items & Things/General Items/Weavebreaker Ring.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11845,6 +11970,31 @@
         "wordCount": 231,
         "characterCount": 1377,
         "nonWhitespaceCharacterCount": 1133
+      }
+    },
+    "0. Items & Things/General Items/The Tent of Many Things.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 242,
+      "nonWhitespaceCharacterCount": 202,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1732261997667,
+      "modifiedDate": 1735505701489,
+      "sizeInBytes": 242,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13,
+        "wordCount": 39,
+        "characterCount": 242,
+        "nonWhitespaceCharacterCount": 202
       }
     },
     "0. Items & Things/General Items/Soul Siphon Ring.md": {
@@ -11972,131 +12122,6 @@
         "nonWhitespaceCharacterCount": 336
       }
     },
-    "0. Items & Things/Fedorov's Legion/Lantern of Revealing.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 97,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 614,
-      "nonWhitespaceCharacterCount": 511,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736713647977,
-      "modifiedDate": 1736713946745,
-      "sizeInBytes": 614,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3233333333333333,
-        "wordCount": 97,
-        "characterCount": 614,
-        "nonWhitespaceCharacterCount": 511
-      }
-    },
-    "0. Items & Things/Fedorov's Legion/Tapestry of Deafening.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 123,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.41,
-      "characterCount": 783,
-      "nonWhitespaceCharacterCount": 657,
-      "readingTimeInMinutes": 0.4641509433962264,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736498905477,
-      "modifiedDate": 1736499133052,
-      "sizeInBytes": 783,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.41,
-        "wordCount": 123,
-        "characterCount": 783,
-        "nonWhitespaceCharacterCount": 657
-      }
-    },
-    "0. Items & Things/Fedorov's Legion/Mild Incense of Recovery.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 86,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2866666666666667,
-      "characterCount": 533,
-      "nonWhitespaceCharacterCount": 440,
-      "readingTimeInMinutes": 0.32452830188679244,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736713038421,
-      "modifiedDate": 1736713359791,
-      "sizeInBytes": 533,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.2866666666666667,
-        "wordCount": 86,
-        "characterCount": 533,
-        "nonWhitespaceCharacterCount": 440
-      }
-    },
-    "0. Items & Things/Fedorov's Legion/Kobold's Firecrackers.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 61,
-      "nonWhitespaceCharacterCount": 55,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736713411898,
-      "modifiedDate": 1736713426820,
-      "sizeInBytes": 61,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 61,
-        "nonWhitespaceCharacterCount": 55
-      }
-    },
-    "0. Items & Things/Don't Rattle 'em Bones.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 88,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.29333333333333333,
-      "characterCount": 544,
-      "nonWhitespaceCharacterCount": 449,
-      "readingTimeInMinutes": 0.3320754716981132,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736654637104,
-      "modifiedDate": 1736655233309,
-      "sizeInBytes": 544,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.29333333333333333,
-        "wordCount": 88,
-        "characterCount": 544,
-        "nonWhitespaceCharacterCount": 449
-      }
-    },
     "0. Items & Things/Aquan Nation/Cloak of Volatility.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12116,10 +12141,10 @@
       "sizeInBytes": 717,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.043333333333333335,
-        "wordCount": 13,
-        "characterCount": 91,
-        "nonWhitespaceCharacterCount": 78
+        "pageCount": 0.3933333333333333,
+        "wordCount": 118,
+        "characterCount": 717,
+        "nonWhitespaceCharacterCount": 592
       }
     },
     "0. Items & Things/Aquan Nation/Martial/Tidecleaver Greatsword.md": {
@@ -12141,10 +12166,10 @@
       "sizeInBytes": 1027,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.5833333333333334,
-        "wordCount": 175,
-        "characterCount": 1033,
-        "nonWhitespaceCharacterCount": 849
+        "pageCount": 0.5766666666666667,
+        "wordCount": 173,
+        "characterCount": 1027,
+        "nonWhitespaceCharacterCount": 845
       }
     },
     "0. Items & Things/Aquan Nation/Martial/Octopus Bracers.md": {
@@ -12222,31 +12247,6 @@
         "nonWhitespaceCharacterCount": 650
       }
     },
-    "0. Items & Things/Aquan Nation/Caster/Rod of Bubbling.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 203,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6766666666666666,
-      "characterCount": 1183,
-      "nonWhitespaceCharacterCount": 970,
-      "readingTimeInMinutes": 0.7660377358490567,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1736708776380,
-      "modifiedDate": 1736710015239,
-      "sizeInBytes": 1183,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.6766666666666666,
-        "wordCount": 203,
-        "characterCount": 1183,
-        "nonWhitespaceCharacterCount": 970
-      }
-    },
     "0. Items & Things/Aquan Nation/Caster/The Tome of Blood Sacrifice.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12297,29 +12297,29 @@
         "nonWhitespaceCharacterCount": 1103
       }
     },
-    "0. Items & Things/Aquan Nation/Caster/Nautilus Tablet.md": {
+    "0. Items & Things/Aquan Nation/Caster/Rod of Bubbling.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 60,
+      "wordCount": 203,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2,
-      "characterCount": 409,
-      "nonWhitespaceCharacterCount": 346,
-      "readingTimeInMinutes": 0.22641509433962265,
-      "linkCount": 3,
+      "pageCount": 0.6766666666666666,
+      "characterCount": 1183,
+      "nonWhitespaceCharacterCount": 970,
+      "readingTimeInMinutes": 0.7660377358490567,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1736645734466,
-      "modifiedDate": 1736651103736,
-      "sizeInBytes": 409,
+      "createdDate": 1736708776380,
+      "modifiedDate": 1736710015239,
+      "sizeInBytes": 1183,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.2,
-        "wordCount": 60,
-        "characterCount": 409,
-        "nonWhitespaceCharacterCount": 346
+        "pageCount": 0.6766666666666666,
+        "wordCount": 203,
+        "characterCount": 1183,
+        "nonWhitespaceCharacterCount": 970
       }
     },
     "0. Items & Things/Aquan Nation/Caster/Pendant of the Leviathan.md": {
@@ -12347,29 +12347,29 @@
         "nonWhitespaceCharacterCount": 705
       }
     },
-    "0. Items & Things/Aquan Nation/Caster/Cloak of the Eel.md": {
+    "0. Items & Things/Aquan Nation/Caster/Nautilus Tablet.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 142,
+      "wordCount": 60,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.47333333333333333,
-      "characterCount": 857,
-      "nonWhitespaceCharacterCount": 708,
-      "readingTimeInMinutes": 0.5358490566037736,
-      "linkCount": 2,
+      "pageCount": 0.2,
+      "characterCount": 409,
+      "nonWhitespaceCharacterCount": 346,
+      "readingTimeInMinutes": 0.22641509433962265,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1736710399513,
-      "modifiedDate": 1736712382302,
-      "sizeInBytes": 857,
+      "createdDate": 1736645734466,
+      "modifiedDate": 1736651103736,
+      "sizeInBytes": 409,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.47333333333333333,
-        "wordCount": 142,
-        "characterCount": 857,
-        "nonWhitespaceCharacterCount": 708
+        "pageCount": 0.2,
+        "wordCount": 60,
+        "characterCount": 409,
+        "nonWhitespaceCharacterCount": 346
       }
     },
     "0. Items & Things/Aquan Nation/Caster/Bubble Shield.md": {
@@ -12397,6 +12397,31 @@
         "nonWhitespaceCharacterCount": 744
       }
     },
+    "0. Items & Things/Aquan Nation/Caster/Cloak of the Eel.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 142,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 857,
+      "nonWhitespaceCharacterCount": 708,
+      "readingTimeInMinutes": 0.5358490566037736,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1736710399513,
+      "modifiedDate": 1736712382302,
+      "sizeInBytes": 857,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.47333333333333333,
+        "wordCount": 142,
+        "characterCount": 857,
+        "nonWhitespaceCharacterCount": 708
+      }
+    },
     "0. Items & Things/Aquan Nation/Caster/Aquamancer Bracers.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12420,6 +12445,156 @@
         "wordCount": 138,
         "characterCount": 968,
         "nonWhitespaceCharacterCount": 822
+      }
+    },
+    "0. Books/Vivian's Spell Journal.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 149,
+      "nonWhitespaceCharacterCount": 126,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1722140319457,
+      "modifiedDate": 1727500279088,
+      "sizeInBytes": 149,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 149,
+        "nonWhitespaceCharacterCount": 126
+      }
+    },
+    "0. Books/Planar Questions - I. Valis.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 304,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0133333333333334,
+      "characterCount": 1753,
+      "nonWhitespaceCharacterCount": 1444,
+      "readingTimeInMinutes": 1.1471698113207547,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1721283513956,
+      "modifiedDate": 1721377172980,
+      "sizeInBytes": 1753,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0133333333333334,
+        "wordCount": 304,
+        "characterCount": 1753,
+        "nonWhitespaceCharacterCount": 1444
+      }
+    },
+    "0. Books/The Codex of The Storm.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 470,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5666666666666667,
+      "characterCount": 2774,
+      "nonWhitespaceCharacterCount": 2296,
+      "readingTimeInMinutes": 1.7735849056603774,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1719717187589,
+      "modifiedDate": 1727497276455,
+      "sizeInBytes": 2774,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5666666666666667,
+        "wordCount": 470,
+        "characterCount": 2774,
+        "nonWhitespaceCharacterCount": 2296
+      }
+    },
+    "0. Books/The Greatest of the Great.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 639,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.13,
+      "characterCount": 3818,
+      "nonWhitespaceCharacterCount": 3159,
+      "readingTimeInMinutes": 2.4113207547169813,
+      "linkCount": 20,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1719717187589,
+      "modifiedDate": 1735454819063,
+      "sizeInBytes": 3818,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.13,
+        "wordCount": 639,
+        "characterCount": 3818,
+        "nonWhitespaceCharacterCount": 3159
+      }
+    },
+    "0. Beastiary/Test Beastiary Creatures.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 76,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 616,
+      "nonWhitespaceCharacterCount": 427,
+      "readingTimeInMinutes": 0.28679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1735856853175,
+      "modifiedDate": 1735858083383,
+      "sizeInBytes": 616,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.25333333333333335,
+        "wordCount": 76,
+        "characterCount": 616,
+        "nonWhitespaceCharacterCount": 427
+      }
+    },
+    "0. Creatures/The Lost Prowlers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 79,
+      "nonWhitespaceCharacterCount": 70,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704954520381,
+      "modifiedDate": 1721888158674,
+      "sizeInBytes": 79,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03333333333333333,
+        "wordCount": 10,
+        "characterCount": 79,
+        "nonWhitespaceCharacterCount": 70
       }
     },
     "0. Creatures/Yellow Cap Killers.md": {
@@ -12497,54 +12672,29 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "0. Creatures/The Lost Prowlers.md": {
+    "0. Creatures/Glisters/Foundling Glister.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 79,
-      "nonWhitespaceCharacterCount": 70,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704954520381,
-      "modifiedDate": 1721888158674,
-      "sizeInBytes": 79,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 79,
-        "nonWhitespaceCharacterCount": 70
-      }
-    },
-    "0. Creatures/He, The Sepulcherer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 152,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5066666666666667,
-      "characterCount": 911,
-      "nonWhitespaceCharacterCount": 727,
-      "readingTimeInMinutes": 0.5735849056603773,
+      "pageCount": 0.01,
+      "characterCount": 31,
+      "nonWhitespaceCharacterCount": 28,
+      "readingTimeInMinutes": 0.011320754716981131,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1735270611480,
-      "modifiedDate": 1735270853855,
-      "sizeInBytes": 911,
+      "createdDate": 1719717187592,
+      "modifiedDate": 1719984979768,
+      "sizeInBytes": 31,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.5066666666666667,
-        "wordCount": 152,
-        "characterCount": 911,
-        "nonWhitespaceCharacterCount": 727
+        "pageCount": 0.01,
+        "wordCount": 3,
+        "characterCount": 31,
+        "nonWhitespaceCharacterCount": 28
       }
     },
     "0. Creatures/Glisters/Glisters.md": {
@@ -12572,29 +12722,29 @@
         "nonWhitespaceCharacterCount": 684
       }
     },
-    "0. Creatures/Glisters/Foundling Glister.md": {
+    "0. Creatures/Glisters/Crimson Glister.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 62,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 31,
-      "nonWhitespaceCharacterCount": 28,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 403,
+      "nonWhitespaceCharacterCount": 338,
+      "readingTimeInMinutes": 0.2339622641509434,
+      "linkCount": 3,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1719717187592,
-      "modifiedDate": 1719984979768,
-      "sizeInBytes": 31,
+      "modifiedDate": 1727500258607,
+      "sizeInBytes": 403,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 31,
-        "nonWhitespaceCharacterCount": 28
+        "pageCount": 0.20666666666666667,
+        "wordCount": 62,
+        "characterCount": 403,
+        "nonWhitespaceCharacterCount": 338
       }
     },
     "0. Creatures/Glisters/Emotion Glister.md": {
@@ -12622,29 +12772,29 @@
         "nonWhitespaceCharacterCount": 28
       }
     },
-    "0. Creatures/Glisters/Crimson Glister.md": {
+    "0. Creatures/He, The Sepulcherer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 62,
+      "wordCount": 152,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.20666666666666667,
-      "characterCount": 403,
-      "nonWhitespaceCharacterCount": 338,
-      "readingTimeInMinutes": 0.2339622641509434,
-      "linkCount": 3,
-      "embedCount": 1,
+      "pageCount": 0.5066666666666667,
+      "characterCount": 911,
+      "nonWhitespaceCharacterCount": 727,
+      "readingTimeInMinutes": 0.5735849056603773,
+      "linkCount": 0,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1719717187592,
-      "modifiedDate": 1727500258607,
-      "sizeInBytes": 403,
+      "createdDate": 1735270611480,
+      "modifiedDate": 1735270853855,
+      "sizeInBytes": 911,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.20666666666666667,
-        "wordCount": 62,
-        "characterCount": 403,
-        "nonWhitespaceCharacterCount": 338
+        "pageCount": 0.5066666666666667,
+        "wordCount": 152,
+        "characterCount": 911,
+        "nonWhitespaceCharacterCount": 727
       }
     },
     "0. Creatures/Frost-Bound Wardens.md": {
@@ -12722,31 +12872,6 @@
         "nonWhitespaceCharacterCount": 290
       }
     },
-    "0. Creatures/Dragons/Agnedelo the Plague-Bringer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 329,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0966666666666667,
-      "characterCount": 2036,
-      "nonWhitespaceCharacterCount": 1697,
-      "readingTimeInMinutes": 1.241509433962264,
-      "linkCount": 20,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1719717187613,
-      "modifiedDate": 1735458150603,
-      "sizeInBytes": 2036,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.0966666666666667,
-        "wordCount": 329,
-        "characterCount": 2036,
-        "nonWhitespaceCharacterCount": 1697
-      }
-    },
     "0. Creatures/Dragons/Bazemore, The Earth-Shaker.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12772,148 +12897,123 @@
         "nonWhitespaceCharacterCount": 272
       }
     },
-    "0. Books/Vivian's Spell Journal.md": {
+    "0. Creatures/Dragons/Agnedelo the Plague-Bringer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 329,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 149,
-      "nonWhitespaceCharacterCount": 126,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1722140319457,
-      "modifiedDate": 1727500279088,
-      "sizeInBytes": 149,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 149,
-        "nonWhitespaceCharacterCount": 126
-      }
-    },
-    "0. Books/The Greatest of the Great.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 639,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.13,
-      "characterCount": 3818,
-      "nonWhitespaceCharacterCount": 3159,
-      "readingTimeInMinutes": 2.4113207547169813,
+      "pageCount": 1.0966666666666667,
+      "characterCount": 2036,
+      "nonWhitespaceCharacterCount": 1697,
+      "readingTimeInMinutes": 1.241509433962264,
       "linkCount": 20,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1719717187589,
-      "modifiedDate": 1735454819063,
-      "sizeInBytes": 3818,
+      "createdDate": 1719717187613,
+      "modifiedDate": 1735458150603,
+      "sizeInBytes": 2036,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.13,
-        "wordCount": 639,
-        "characterCount": 3818,
-        "nonWhitespaceCharacterCount": 3159
+        "pageCount": 1.0966666666666667,
+        "wordCount": 329,
+        "characterCount": 2036,
+        "nonWhitespaceCharacterCount": 1697
       }
     },
-    "0. Books/The Codex of The Storm.md": {
+    "GM Screen/Ethan's Gambling Games/Fantasy Liar's Dice.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 470,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5666666666666667,
-      "characterCount": 2774,
-      "nonWhitespaceCharacterCount": 2296,
-      "readingTimeInMinutes": 1.7735849056603774,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1719717187589,
-      "modifiedDate": 1727497276455,
-      "sizeInBytes": 2774,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.5666666666666667,
-        "wordCount": 470,
-        "characterCount": 2774,
-        "nonWhitespaceCharacterCount": 2296
-      }
-    },
-    "0. Books/Planar Questions - I. Valis.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 304,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0133333333333334,
-      "characterCount": 1753,
-      "nonWhitespaceCharacterCount": 1444,
-      "readingTimeInMinutes": 1.1471698113207547,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1721283513956,
-      "modifiedDate": 1721377172980,
-      "sizeInBytes": 1753,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.0133333333333334,
-        "wordCount": 304,
-        "characterCount": 1753,
-        "nonWhitespaceCharacterCount": 1444
-      }
-    },
-    "0. Beastiary/Test Beastiary Creatures.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 76,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.25333333333333335,
-      "characterCount": 616,
-      "nonWhitespaceCharacterCount": 427,
-      "readingTimeInMinutes": 0.28679245283018867,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1735856853175,
-      "modifiedDate": 1735858083383,
-      "sizeInBytes": 616,
+      "createdDate": 1737249775399,
+      "modifiedDate": 1737249775399,
+      "sizeInBytes": 0,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.25333333333333335,
-        "wordCount": 76,
-        "characterCount": 616,
-        "nonWhitespaceCharacterCount": 427
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
-    "Daily Notes/2025-01-15.md": {
+    "0. Items & Things/Simple Runic Prayer Mat.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 117,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 43,
-      "nonWhitespaceCharacterCount": 38,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 1,
+      "pageCount": 0.39,
+      "characterCount": 654,
+      "nonWhitespaceCharacterCount": 532,
+      "readingTimeInMinutes": 0.44150943396226416,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1736993546039,
-      "modifiedDate": 1736993546047,
-      "sizeInBytes": 43,
+      "createdDate": 1736757301325,
+      "modifiedDate": 1737250148046,
+      "sizeInBytes": 654,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0. Items & Things/Terracotta Amulet.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 108,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36,
+      "characterCount": 630,
+      "nonWhitespaceCharacterCount": 516,
+      "readingTimeInMinutes": 0.4075471698113208,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737251481701,
+      "modifiedDate": 1737251674805,
+      "sizeInBytes": 630,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0. Items & Things/Terracotta Shield.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 129,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43,
+      "characterCount": 788,
+      "nonWhitespaceCharacterCount": 652,
+      "readingTimeInMinutes": 0.4867924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737252116659,
+      "modifiedDate": 1737252564018,
+      "sizeInBytes": 788,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

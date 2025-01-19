@@ -56,17 +56,17 @@
             }
           },
           {
-            "id": "506405f929d01b6e",
+            "id": "81e5bb26b486437d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Whitecliff Plateau/Towns, Cities/Gullhook/Gullhook.md",
+                "file": "0. Items & Things/Terracotta Shield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gullhook"
+              "title": "Terracotta Shield"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Whitecliff Plateau/Towns, Cities/Gullhook/Gullhook.md"
+                "file": "Daily Notes/2025-01-15.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Gullhook"
+              "title": "Outline of 2025-01-15"
             }
           },
           {
@@ -134,8 +134,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,38 +233,39 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "print:Print note": false
     }
   },
-  "active": "0e8d91e3b1b901c2",
+  "active": "81e5bb26b486437d",
   "lastOpenFiles": [
-    "0. Items & Things/Aquan Nation/Cloak of Volatility.md",
-    "0. Items & Things/Aquan Nation/Cloak of the Savant.md",
-    "0. Items & Things/Aquan Nation/Martial/Tidecleaver Greatsword.md",
-    "0. Items & Things/Aquan Nation/Caster/Nautilus Tablet.md",
-    "0. Items & Things/Aquan Nation/Caster/Cloak of the Eel.md",
-    "0. Items & Things/Aquan Nation/Caster/Bubble Shield.md",
-    "0. Items & Things/Aquan Nation/Caster/Aquamancer Bracers.md",
+    "GM Screen/Ethan's Gambling Games/Black-wing's Duels.md",
+    "0. Items & Things/Terracotta Shield.md",
     "0. Items & Things/Aquan Nation/Caster/Siren's Locket.md",
     "0. Items & Things/Aquan Nation/Caster/Rod of Bubbling.md",
-    "0. Items & Things/Aquan Nation/Caster/Pendant of the Leviathan.md",
-    "98. Quests/Mist Side Quests.md",
-    "Daily Notes/2025-01-15.md",
-    "Daily Notes/2025-01-05.md",
-    "Daily Notes/2025-01-06.md",
-    "0. Items & Things/Simple Prayer Mat.md",
-    "0. Items & Things/Don't Rattle 'em Bones.md",
-    "0. Items & Things/Gilded Pirate Dentures.md",
-    "0. Items & Things/Aquan Nation/Martial/Octopus Bracers.md",
-    "Daily Notes/2025-01-12.md",
-    "Daily Notes/2025-01-14.md",
-    "0. Items & Things/Prospecting Compass.md",
-    "0. Items & Things/Fedorov's Legion/Lantern of Revealing.md",
-    "0. Items & Things/Fedorov's Legion/Kobold's Firecrackers.md",
+    "0. Items & Things/Aquan Nation/Caster/Aquamancer Bracers.md",
+    "0. Items & Things/Aquan Nation/Caster/Bubble Shield.md",
+    "0. Items & Things/Terracotta Amulet.md",
     "0. Items & Things/Fedorov's Legion/Mild Incense of Recovery.md",
+    "0. Items & Things/Fedorov's Legion/Don't Rattle 'em Bones.md",
+    "GM Screen/Combat Actions/counterspell rules.md",
+    "0. Items & Things/General Items/Mistway Compass.md",
+    "0. Items & Things/General Items/Weavebreaker Ring.md",
+    "0. Items & Things/General Items/The Tent of Many Things.md",
+    "0. Items & Things/General Items/Soul Siphon Ring.md",
+    "0. Items & Things/Weapons/Cavarra Weapons.md",
+    "0. Items & Things/Weapons/Reaver Blade.md",
+    "0. Items & Things/Weapons/Shard.md",
+    "0. Items & Things/Weapons/Trident of Returning (Manual).md",
+    "0. Items & Things/Weapons/Red-Moon Blade.md",
+    "0. Items & Things/Simple Runic Prayer Mat.md",
+    "98. Quests/Mist Side Quests.md",
+    "GM Screen/Ethan's Gambling Games/Fantasy Liar's Dice.md",
+    "GM Screen/Ethan's Gambling Games/Dragon's Hoard Twenty-One.md",
+    "GM Screen/Ethan's Gambling Games/Hands of Fate.md",
+    "GM Screen/Ethan's Gambling Games/Silver-wing's Duels.md",
+    "GM Screen/Ethan's Gambling Games/Tamora's Twisted Twenty.md",
     "0. Items & Things/Fedorov's Legion",
-    "0. Items & Things/Working Item Brainstorming.md",
-    "GM Screen/Ethan's Useful Links.md",
     "0. Items & Things/Aquan Nation/Martial",
     "0. Items & Things/Aquan Nation/Caster",
     "0. Items & Things/Aquan Nation",
