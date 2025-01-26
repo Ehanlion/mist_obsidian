@@ -8,4 +8,4 @@ Subsection: [[The Aquan Nations]]
 **Properties.**
 - This cloak is created to allow sorcerers to tap into the power vested them through their lineage. This cloak gives a Sorcerer attuned to it access to extended depths of sorcerous magic. 
 - This cloak gives the wearer access to an additional sorcery points equal to the wearer's proficiency bonus. 
-- This cloak gives the wearer access to an additional metamagic option of the wearer's choice. 
+- This cloak gives the wearer access to an additional metamagic option of the wearer's choice. (*Distant Spell*)
