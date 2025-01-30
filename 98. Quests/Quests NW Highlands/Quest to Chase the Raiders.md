@@ -136,14 +136,14 @@ Makes sure to allude to them, especially the Sahuaguin.
 ### The Cult of Alsolace
 Okay I cooked this ages ago and its time for it to appear in [[Gullhook]].
 In [[Gullhook]] there is a place called *temple glade*. It is run by [[Tennyson Heralds]].
-[[Tennyson Heralds]] leads [[The Following of Alsolace]] who follow their (100% fake) god of [[Alsolace]]
+[[Tennyson Heralds]] leads [[The Followers of Alsolace]] who follow their (100% fake) god of [[Alsolace]]
 [[Alsolace]] protects from [[Erstorndin]] (also 100% fake). 
 Their goals are to: 
 - Drug and enslave villagers for [[Livy Revals]] and [[Livy's Livestock]]
 - Take as much gold as possible for shrine to [[Alsolace]]
 - Push idea that [[Alsolace]] can save people from [[Erstorndin]], who is "attacking poor people"
 	- [[Erstorndin]] targets the *Dirge quarters and Hovels* in [[Gullhook]]
-	- He is not real, his "followers" are just [[The Following of Alsolace]] dressed in black 
+	- He is not real, his "followers" are just [[The Followers of Alsolace]] dressed in black 
 	- This scheme is used to get more gold
 - Work with Sahuaguin as *someone* has paid [[Tennyson Heralds]] to do it
 	- That someone is [[Ignel Valis]] (Silvan Gile), but no one apart from [[Tennyson Heralds]] know it

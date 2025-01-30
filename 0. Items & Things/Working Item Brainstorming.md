@@ -10,3 +10,6 @@ What can I add to the [[Nautilus Tablet]]
 - it has the ability to prepare additional spells
 - So it needs something non-spell related
 - maybe need to look at one of the magic item book lists of items
+
+Add to [[Extra Devout Robes]]:
+- some divine advantage stuff on checks for fun haha 

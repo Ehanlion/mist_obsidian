@@ -1,0 +1,2 @@
+**Skirmishes**
+Most fights in D&D are [[Skirmish Battle]]s. These are just open plain fights, maybe with gimmicks or obstacles. But at their core, these are the enemy versus the players and the better force wins. No strategy apart from what the foe would naturally do. 

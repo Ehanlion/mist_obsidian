@@ -42,7 +42,7 @@ I want to keep this *very* well organized because it will track mini and even bi
 - [ ] The Other Way and [[Arnov Vasilov]] can help with the Mind Rock and some info about that. He can tell tales about the South east coast? Maybe allude to [[Ignel Valis]] as Sylvan Gile here? Just say like, oh powerful magic, knew a wizard from the coast who did that, name was Sylvan, Sylvan Gile or something.
 	- [ ] good way to seed that SG is after powerful artifacts since maybe Arnov helped him?
 	- [ ] DO NOT include a connection to NW because that would be leading towards SG = IV 
-- [x] People going missing in town, specifically those who have already lost loved ones. Connected to [[Tennyson Heralds]] and [[The Following of Alsolace]] who are abducting people and sending them to [[Livy's Livestock]]. This connect to [[Dmitri Mironov]], who is gone from [[Gullhook]] because he is taking some abductees to [[Livy's Livestock]] and [[Igor Larionov]] who is helping but is hiding out in [[Gullhook]]. 
+- [x] People going missing in town, specifically those who have already lost loved ones. Connected to [[Tennyson Heralds]] and [[The Followers of Alsolace]] who are abducting people and sending them to [[Livy's Livestock]]. This connect to [[Dmitri Mironov]], who is gone from [[Gullhook]] because he is taking some abductees to [[Livy's Livestock]] and [[Igor Larionov]] who is helping but is hiding out in [[Gullhook]]. 
 	- [x] [[Igor Larionov]] and [[Dmitri Mironov]] are helping because the slaves get shipped back to [[Fedorov's Legion]] or to [[The Sunken Caverns]] for [[The Followers of Karak-Ulgurath]], as per [[Fedorov Barovick VII]] orders. 
 - [ ] Potion maker from Dozy Brewer's needs help getting ingredients from market 
 	- [ ] hunt for specific alchemic ingredients and acquire them to get paid out
@@ -125,7 +125,7 @@ The table falls quiet for a moment, the weight of the challenge settling in. "Th
 ### Quick Running
 1. Use the *Traps and Tactics* section for in-yard ambushes
 2. Use the *Sahuaguin Hideout* section for entering the hideout
-3. Use *Double Dealing* to add [[The Following of Alsolace]] into the mix
+3. Use *Double Dealing* to add [[The Followers of Alsolace]] into the mix
 4. Reference *Creatures to Use* for combat stat blocks
 5. Gideon's Book of Mysteries is in *Sahuaguin Hideout*
 
@@ -135,7 +135,7 @@ The table falls quiet for a moment, the weight of the challenge settling in. "Th
 Start by letting the group explore the Salvage Yards.
 Seed the idea that they see Sahuaguin hiding and dashing around.
 Make the traps well telegraphed to high perception creatures.
-Seed the idea that they see some of [[The Following of Alsolace]] sneaking into the Yards
+Seed the idea that they see some of [[The Followers of Alsolace]] sneaking into the Yards
 Work from here, building to an encounter.
 ### Description
 > [!NOTE] Quest Hook
@@ -187,16 +187,16 @@ The Sahuagin Interlopers are cunning and ruthless, employing a variety of deadly
 **Ambush Points**: Around the main chamber, the Sahuagin have set up several ambush points, including elevated perches made from stacked crates and debris, where brutes can rain down attacks from above. These perches also serve as lookouts, giving the Sahuagin an early warning system against intruders.
 **Escape Routes**: The hideout features multiple escape routes, including narrow tunnels leading out to various points in the Salvage Yards. These tunnels are well hidden and can be collapsed in an emergency, sealing off the Sahuagin's retreat and trapping any pursuers.
 **Defensive Measures**: The entrance to the hideout is heavily guarded by traps and sentries. The Sahuagin have also trained several of the Salvage Yard’s native creatures—such as the Rustmonger Crabs and Scuttleweavers—to patrol the area, adding another layer of defense against intruders.
-**Prisoner Cages**: This is optional! If you wish to add [[The Following of Alsolace]] visiting, include multiple children in cages, Alice can be one of them. They are trapped and if listened to, it appears the Sahuaguin priestess negotiates with [[The Following of Alsolace]]. 
+**Prisoner Cages**: This is optional! If you wish to add [[The Followers of Alsolace]] visiting, include multiple children in cages, Alice can be one of them. They are trapped and if listened to, it appears the Sahuaguin priestess negotiates with [[The Followers of Alsolace]]. 
 
 This hideout serves as a well-fortified base for the Sahuagin, allowing them to spy on the town while remaining hidden and protected by the chaos of the Salvage Yards.
 #### Double Dealing
-**[[The Following of Alsolace]]**:
+**[[The Followers of Alsolace]]**:
 The followers work with either [[Livy's Livestock]] or [[The Followers of Karak-Ulgurath]], in this case the Sahaguin, to trade slaves for gold. The followers want gold, the Sahuaguin want workers and Livy's wants slaves. They do business with both. Both [[Livy's Livestock]] and [[The Followers of Karak-Ulgurath]] tie directly back to [[Fedorov's Legion]]. You can introduce [[Igor Larionov]] who works with [[Fedorov's Legion]] as apart of this. 
 
-**Meetings:** The Sahuaguin do not work alone. For information and capturing additional slaves, the Sahuaguin provide [[Tennyson Heralds]] and [[The Following of Alsolace]] with gold and precious goods that they have stole from town. They have short meetings with [[Tennyson Heralds]] while Temple Guards stand watch and lookout over the Salvage Yards. Sometimes general followers will do these deals instead. If the guards are asked about the nature of the meeting, or what they are doing in the yards, they simply say they were looking to go for a nice stroll, which is deliberately total bullshit. 
+**Meetings:** The Sahuaguin do not work alone. For information and capturing additional slaves, the Sahuaguin provide [[Tennyson Heralds]] and [[The Followers of Alsolace]] with gold and precious goods that they have stole from town. They have short meetings with [[Tennyson Heralds]] while Temple Guards stand watch and lookout over the Salvage Yards. Sometimes general followers will do these deals instead. If the guards are asked about the nature of the meeting, or what they are doing in the yards, they simply say they were looking to go for a nice stroll, which is deliberately total bullshit. 
 
-It would be great to show [[The Following of Alsolace]] bringing in some children secretly, in exchange for a deal. Make sure there is a way for the group to stalk these guys. If they are encounter, they split up and try to run to find the meeting spot unseen. 
+It would be great to show [[The Followers of Alsolace]] bringing in some children secretly, in exchange for a deal. Make sure there is a way for the group to stalk these guys. If they are encounter, they split up and try to run to find the meeting spot unseen. 
 
 This could also be a good place to introduce [[Igor Larionov]], a target of [[Wake Tiraus]]. He could show up to explore the wreckage to meet with the Sahuaguin or as a part of [[Tennyson Heralds]] group since he works with them, as a correspondent from [[Fedorov's Legion]]. 
 
@@ -217,7 +217,7 @@ This could also be a good place to introduce [[Igor Larionov]], a target of [[Wa
 > [!NOTE] Quest Hook
 > In the heart of town, a prominent notice catches the eye, detailing an upcoming grand funeral to honor the memory of a 'dear friend of [[Tennyson Heralds]],' the esteemed [[Dmitri Mironov]]. The ceremony, dedicated to the golden god [[Alsolace]], will take place in the sacred Temple Glade at sundown tomorrow. [[Dmitri Mironov]] is depicted as a figure of immense importance within the temple, a pillar of the religious community, tragically cut down by a fearsome entity known as the "Wraith of the Night." This malevolent being, described as a shifting, shadowy figure armed with scything steel blades, is said to serve the mysterious dark god [[Erstorndin]]. According to the details, [[Tennyson Heralds]] warns that the "Wraith of the Night" can only be vanquished by the golden power of [[Alsolace]]. To this end, he urges the faithful to make gold donations at [[Alsolace]]'s shrine in Temple Glade, so that the god might be empowered to defeat this dark threat.
 >
-> The posting invites all who wish to pay their respects to [[Dmitri Mironov]], a revered member of [[The Following of Alsolace]], the guardians of Temple Glade and its sacred rites. Attendees are asked to don the traditional white and gold hooded robes as a sign of reverence and solidarity with the holy practices of the temple.
+> The posting invites all who wish to pay their respects to [[Dmitri Mironov]], a revered member of [[The Followers of Alsolace]], the guardians of Temple Glade and its sacred rites. Attendees are asked to don the traditional white and gold hooded robes as a sign of reverence and solidarity with the holy practices of the temple.
 
 ### Possible Objectives
 1. **Attend the Funeral (Optional):**  
@@ -227,10 +227,10 @@ This could also be a good place to introduce [[Igor Larionov]], a target of [[Wa
 3. **Confront [[Tennyson Heralds]]:** If the group uncovers enough evidence or decides that they have seen enough, they can confront [[Tennyson Heralds]] either during or after the funeral. They may choose to expose his deception to the assembled crowd, revealing the truth about [[Alsolace]] and the fabricated threats posed by [[Erstorndin]]. This confrontation could lead to a dramatic showdown, either verbally or physically, depending on how [[Tennyson Heralds]] and his followers react.
 4. **Disrupt the Ceremony (Optional):** If the group believes that the funeral is merely a cover for more of [[Tennyson Heralds]]’s schemes, they might choose to disrupt the ceremony itself. This could involve sabotaging the shrine of [[Alsolace]], secretly turning the crowd against [[Tennyson Heralds]], or even revealing the truth about [[Dmitri Mironov]]'s death. They might find unexpected allies among the attendees who have also begun to doubt the cult’s teachings.
 5. **Expose [[Tennyson Heralds]]’s Deception:**  
-    The ultimate goal is to expose [[Tennyson Heralds]] and [[The Following of Alsolace]] as frauds, bringing the truth to light and putting an end to their schemes. This might involve publicizing the truth in [[Gullhook]], rallying the townsfolk against [[Tennyson Heralds]], or turning key followers of [[Alsolace]] against him. The group may also choose to expose the dark connections between the cult and [[Fedorov's Legion]], as well as their involvement in the slave trade with [[Livy's Livestock]]
+    The ultimate goal is to expose [[Tennyson Heralds]] and [[The Followers of Alsolace]] as frauds, bringing the truth to light and putting an end to their schemes. This might involve publicizing the truth in [[Gullhook]], rallying the townsfolk against [[Tennyson Heralds]], or turning key followers of [[Alsolace]] against him. The group may also choose to expose the dark connections between the cult and [[Fedorov's Legion]], as well as their involvement in the slave trade with [[Livy's Livestock]]
 ### Possible Outcomes
 1. **Successful Exposure:**  
-    If the group successfully exposes [[Tennyson Heralds]] and [[Alsolace]] as frauds, [[The Following of Alsolace]] will be thrown into disarray. The townsfolk of [[Gullhook]] might rise against [[Tennyson Heralds]], leading to his downfall or escape. Temple Glade could return to its original purpose as a place of worship for the true gods, or it could fall into ruin as the faith of the people crumbles. The exposure of the slave trade might lead to further conflicts with [[Fedorov's Legion]] and [[Livy's Livestock]].    
+    If the group successfully exposes [[Tennyson Heralds]] and [[Alsolace]] as frauds, [[The Followers of Alsolace]] will be thrown into disarray. The townsfolk of [[Gullhook]] might rise against [[Tennyson Heralds]], leading to his downfall or escape. Temple Glade could return to its original purpose as a place of worship for the true gods, or it could fall into ruin as the faith of the people crumbles. The exposure of the slave trade might lead to further conflicts with [[Fedorov's Legion]] and [[Livy's Livestock]].    
 2. **Failed Confrontation:**  
     If the group is unable to gather enough evidence or is outmatched by [[Tennyson Heralds]] and his followers, they may be forced to flee or fight their way out of Temple Glade. [[Tennyson Heralds]] could use this opportunity to solidify his power, painting the group as enemies of the faith and further manipulating the people of [[Gullhook]]. This failure might strengthen [[Fedorov's Legion]]'s influence in the region and solidify the slave trade operation.    
 3. **Silent Sabotage:**  
@@ -242,12 +242,12 @@ This could also be a good place to introduce [[Igor Larionov]], a target of [[Wa
 >
 The statue, which dominates the glade, is a sight to behold. Appearing to be made of pure gold, it gleams brilliantly in the fading light of the day, casting long shadows across the crowd. Its radiant surface reflects the last rays of the setting sun, creating an almost divine halo around it. The townspeople believe this statue to be the ultimate symbol of their faith, a testament to the power of their god and the protection he offers against the encroaching darkness.
 >
-The funeral procession, led by [[Tennyson Heralds]] and flanked by [[The Following of Alsolace]], moves solemnly through the quadrangle towards the statue. The crowd is dressed in white and gold robes, the traditional garb for such ceremonies, their faces a mix of grief and reverence as they watch the proceedings unfold. The atmosphere is one of heavy solemnity, the quiet only broken by the soft music played by hidden musicians and the occasional toll of a distant bell.
+The funeral procession, led by [[Tennyson Heralds]] and flanked by [[The Followers of Alsolace]], moves solemnly through the quadrangle towards the statue. The crowd is dressed in white and gold robes, the traditional garb for such ceremonies, their faces a mix of grief and reverence as they watch the proceedings unfold. The atmosphere is one of heavy solemnity, the quiet only broken by the soft music played by hidden musicians and the occasional toll of a distant bell.
 ### Sinister things in the Glade
 #### Statue to Alsolace
 **The Statue:**  In reality, the statue is nothing more than a wooden structure, hastily covered in cheap gold foil to deceive the faithful and maintain the illusion of [[Alsolace]]’s power. 
 #### The Children are Missing
-**The Ceremony is a Cover:** Beneath the surface of this carefully orchestrated ceremony, however, lies a dark and insidious purpose. Unbeknownst to the gathered townsfolk, children attending the ceremony are being quietly abducted by [[The Following of Alsolace]], taken to hidden passages within Temple Glade where they will be spirited away to [[Livy's Livestock]]. As [[Tennyson Heralds]] delivers his impassioned speech, the true horror of the event goes unnoticed, cloaked in the false light of [[Alsolace]]’s supposed benevolence.
+**The Ceremony is a Cover:** Beneath the surface of this carefully orchestrated ceremony, however, lies a dark and insidious purpose. Unbeknownst to the gathered townsfolk, children attending the ceremony are being quietly abducted by [[The Followers of Alsolace]], taken to hidden passages within Temple Glade where they will be spirited away to [[Livy's Livestock]]. As [[Tennyson Heralds]] delivers his impassioned speech, the true horror of the event goes unnoticed, cloaked in the false light of [[Alsolace]]’s supposed benevolence.
 #### Devotees Diving in the Crocodile Infested Lake
 You can see Devotees down from the temple glade by the edge of the lake feeding the crocodiles. You see another devotee drying off and another one clambering out of the lake, a shining golden key around her neck. 
 #### Dmitri Lives

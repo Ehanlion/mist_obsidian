@@ -18,7 +18,7 @@ These blades have some deep lore which can be either told to players or can be r
 - Cursed weapon, once attuned to, cannot be willingly unattuned to. Wielding any other blade drives the creature to a frenzy, only focusing on reacquiring the blade into their hands. 
 - The blade is a *+3 great sword*
 - It deals 2d6 slashing damage as base
-- **Rend:** recharged upon letting the blade drink and unwilling soul
+- **Rend:** recharged upon letting the blade drink and consume an unwilling soul
 	- When you hit with an attack with this weapon, you can invoke the blade's power to Rend a target of their soul. The target makes 3 Con saves, versus DC 20.
 		- First Save: [[paralyzed]]
 		- Second Save: [[blinded]]

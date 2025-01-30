@@ -1,0 +1,7 @@
+**The Targeted Strike**
+The [[Targeted Strike Battle]] should be used to incentivize the players to think very strategically about taking out just a single foe. In these scenarios, the combat should feel like a coordinated, targeted strike against an enemy that the group is fighting. Alternatively, this could be a direct attack on one of the players, but this is more well categorized as an [[Assassination Battle]] instead. 
+
+I wrongly assumed that a [[Targeted Strike Battle]] was a battle where *the enemy* directly targets one player. That is not the case. This battle is the players against a powerful enemy and his friends and the players should feel the need to quickly take care of one specific enemy.
+
+*Example:*
+Orcish the Krug is sitting by the fire with his minions. Their loud boasts are audible from the party's safe vantage point, and from there they hear the group yammering about how they are going to annihilate a nearby town at dawn. That town will be destroyed unless the party kills the leader. This group is too spread out and too large to be tackled outright. But, if the group were to kill Orcish the Krug, it would leave the group leaderless. Thus, they choose to ready their spells and weapons and make a powerful, targeted attack against Orcish the Krug from a safe distance. They lean on their instantaneous damage and quick burst to render him dead before the group, and Orcish the Krug, rally to defeat the party. 

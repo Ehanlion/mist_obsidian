@@ -1,0 +1,2 @@
+**The Assassination**
+Instead of a spread out series of attacks against the party, a vicious foes singles out just one party member. This attack focuses, at all costs, at killing that player fully. No other player should be targeted and all attacks should be made against that player unless attacking another creature directly assists this goal. Maybe a spell is keeping this player up and attacking a different caster could get rid of the spell, then the assassins will quickly go for that caster. 

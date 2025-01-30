@@ -1,0 +1,2 @@
+**The Stomping Grounds**
+This battle type is effectively a gimme for the party. A threat of something far beneath their level comes their way and instead of a close battle, the party utterly eviscerates the foe, leading to a bloodbath or a resounding surrender, Either way, the party is easily victorious and gives them a good sense of power. The GM needs to lose horribly, but gracefully. It is the GM's job to make the players feel good. 

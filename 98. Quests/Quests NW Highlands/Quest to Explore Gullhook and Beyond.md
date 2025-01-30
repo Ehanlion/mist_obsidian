@@ -2,7 +2,7 @@ Campaign: [[Mist Sessions]]
 Prior Quest: [[Quest to Chase the Raiders]]
 # Session Hit Points
 1. Complete Salvage Yard Mission
-	1. Beat: scene of [[The Following of Alsolace]] entering Yards
+	1. Beat: scene of [[The Followers of Alsolace]] entering Yards
 	2. Beat: chase or stalking to lead to negotiations with Sahaguin
 2. Sahuagin Fight
 3. Temple Glade

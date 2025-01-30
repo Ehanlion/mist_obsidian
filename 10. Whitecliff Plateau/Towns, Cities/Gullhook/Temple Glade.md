@@ -23,11 +23,11 @@ The entire area is surrounded by water, kind of like a ring that you cross via a
 
 The island is covered with rocks, ancient stone paths, and large trees. The paths are covered in moss and lichen. The paths are winding and crooked, the stones uneven and worn from ages of use. 
 # Old Religious Shrines
-[[Temple Glade]] used to be under stewardship of a benevolent and loving order of monks who tended to all of both [[The Prime Deities]] and [[The Betrayer Gods]]. Their dedication resulted in shrines to each of these gods surrounding the temple. These have since fallen into disrepair and ruin after [[The Following of Alsolace]] supplanted the once-kind monks for their more aggressive campaign for [[Alsolace]]. Nevertheless the statutes remain. 
+[[Temple Glade]] used to be under stewardship of a benevolent and loving order of monks who tended to all of both [[The Prime Deities]] and [[The Betrayer Gods]]. Their dedication resulted in shrines to each of these gods surrounding the temple. These have since fallen into disrepair and ruin after [[The Followers of Alsolace]] supplanted the once-kind monks for their more aggressive campaign for [[Alsolace]]. Nevertheless the statutes remain. 
 
 ![[Shrines to the Pantheon]]
 # The Temple Residence
-The old monks, and now [[Tennyson Heralds]] and [[The Following of Alsolace]], live in the alcove  that make up the middle part of the island. There are healing domes, rooms, and prayer chambers. There are also preaching rooms for sermons.
+The old monks, and now [[Tennyson Heralds]] and [[The Followers of Alsolace]], live in the alcove  that make up the middle part of the island. There are healing domes, rooms, and prayer chambers. There are also preaching rooms for sermons.
 
 Rooms to highlight:
 - [[Tennyson Heralds]]'s rooms
