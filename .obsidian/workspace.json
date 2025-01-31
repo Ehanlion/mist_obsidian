@@ -61,16 +61,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Brainstorming/Combat Ideas/Scorvorria Fight.md",
+                "file": "99. Brainstorming/Combat Ideas/The 5 Room Dungeon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scorvorria Fight"
+              "title": "The 5 Room Dungeon"
+            }
+          },
+          {
+            "id": "51622764cb0c1542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99. Brainstorming/Dungeons/5RD Aquan Battalion Dungeon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5RD Aquan Battalion Dungeon"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5026054382324
+    "width": 326.5026054382324
   },
   "right": {
     "id": "7b7aee8262e2b7e9",
@@ -173,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Brainstorming/Combat Ideas/Scorvorria Fight.md",
+                "file": "99. Brainstorming/Dungeons/5RD Aquan Battalion Dungeon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scorvorria Fight"
+              "title": "Outgoing links from 5RD Aquan Battalion Dungeon"
             }
           },
           {
@@ -221,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +250,17 @@
       "print:Print note": false
     }
   },
-  "active": "c1c4dc66dbb296ef",
+  "active": "51622764cb0c1542",
   "lastOpenFiles": [
+    "99. Brainstorming/Combat Ideas/The 5 Room Dungeon.md",
+    "99. Brainstorming/Dungeons/5RD Aquan Battalion Dungeon.md",
+    "GM Screen/Ethan's Useful Links.md",
+    "10. Whitecliff Plateau/North West Town Ordering.md",
+    "99. Brainstorming/Dungeons",
+    "99. Brainstorming/Combat Ideas/Scorvorria Fight.md",
+    "Daily Notes/2025-01-30.md",
     "98. Quests/Mist Side Quests.md",
     "README.md",
-    "99. Brainstorming/Combat Ideas/Scorvorria Fight.md",
     "0. Items & Things/Working Item Brainstorming.md",
     "0. Items & Things/_storage/Extra Devout Robes.md",
     "10. Whitecliff Plateau/NPCs/Alsolace Cult/The Exalted Devotees.md",
@@ -264,16 +284,10 @@
     "20. Greenheart Wldrnss/The Umbral Cabal",
     "30. Discordant Plains/Towns, Cities/Sand-Shelf Heights.md",
     "50. Chromatic Fangs/The Mountains/The Scorvorian Peaks.md",
-    "50. Chromatic Fangs/The Mountains/Frigid Crucible",
     "60. Stormlocked Frontier/Towns, Cities/NML Towns/The Sprawls.md",
     "60. Stormlocked Frontier/The Black Guard/The Cutthroat Authority.md",
     "60. Stormlocked Frontier/NPCs/Black Guard/Baroness Von Azarov.md",
     "60. Stormlocked Frontier/NPCs/Hugo the Great.md",
-    "60. Stormlocked Frontier/Features/No Man's Land/No Man's Land.md",
-    "60. Stormlocked Frontier/NPCs/Untitled.md",
-    "60. Stormlocked Frontier/The Black Guard/The Black Guard.md",
-    "0. The Many/Architecture/Archaic Storm Conduits.md",
-    "0. Puzzles/Puzzle Master Document.md",
     "_Monsters/Frost Bound Warden Stat Block.png",
     "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
     "_Assets/Temple to the Returned Lord.png",
