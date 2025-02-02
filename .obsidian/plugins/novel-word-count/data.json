@@ -14221,6 +14221,31 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "99. Brainstorming/Combat Ideas/Karak-Ulgurath Fight.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 412,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3733333333333333,
+      "characterCount": 2581,
+      "nonWhitespaceCharacterCount": 2147,
+      "readingTimeInMinutes": 1.5547169811320756,
+      "linkCount": 42,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738492121507,
+      "modifiedDate": 1738492675831,
+      "sizeInBytes": 2581,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }

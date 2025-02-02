@@ -103,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Mist Chapter 1/World Plot/Act 1 Plot Plans.md",
+                "file": "99. Brainstorming/Combat Ideas/Karak-Ulgurath Fight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Act 1 Plot Plans"
+              "title": "Karak-Ulgurath Fight"
             }
           }
         ],
@@ -216,12 +216,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Mist Chapter 1/World Plot/Act 1 Plot Plans.md",
+                "file": "99. Brainstorming/Combat Ideas/Karak-Ulgurath Fight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Act 1 Plot Plans"
+              "title": "Outgoing links from Karak-Ulgurath Fight"
             }
           },
           {
@@ -281,8 +281,9 @@
   },
   "active": "e15e1bd95857a891",
   "lastOpenFiles": [
-    "10. Whitecliff Plateau/The Aquan Nations.md",
     "0. Mist Chapter 1/World Plot/Act 1 Plot Plans.md",
+    "99. Brainstorming/Combat Ideas/Karak-Ulgurath Fight.md",
+    "10. Whitecliff Plateau/The Aquan Nations.md",
     "0. Mist Chapter 1/World Plot",
     "99. Brainstorming/Dungeons/5RD Amphibious Inhibitor.md",
     "99. Brainstorming/Dungeons/5RD Aquan Battalion Dungeon.md",
@@ -309,7 +310,6 @@
     "10. Whitecliff Plateau/NPCs/Alsolace Cult/Erstorndin.md",
     "10. Whitecliff Plateau/NPCs/Alsolace Cult/The Followers of Alsolace.md",
     "20. Greenheart Wldrnss/The Umbral Cabal/The Darkfire Sanctum.md",
-    "10. Whitecliff Plateau/NPCs/Gullhook/Glorval.md",
     "10. Whitecliff Plateau/NPCs/Saddle-port",
     "10. Whitecliff Plateau/NPCs/Gullhook",
     "10. Whitecliff Plateau/Towns, Cities/Smearsburrow",
