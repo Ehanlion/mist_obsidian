@@ -10,7 +10,7 @@ A small battalion of [[The Aquan Nations]] soldiers are camped by the coast. The
 	5. Attacking leads to a large scale battle that can visibly be ascertained to be extremely deadly. 
 	6. However, exploring the campsite in silence could lead to discovery of some loot, or some information about the plans of [[The Aquan Nations]] and [[Fedorov's Legion]]. 
 	7. Moving past the entrance area requires entering the caves which snake back towards a large open room a ways back from the cliff. 
-2. *Puzzle*: T
+2. *Puzzle*: 
 	1. There is a priestess and a couple other krugs guarding the room at the back of the caves. These creatures attack on sight, but the fight is contained here because no one can hear.
 	2. The priestess magically opens the door for the soldiers to enter and leave. They can force her to give up the secret, or solve the riddle themselves. 
 	3. This riddle involves the chitinous creatures (lobster, clams, urchins) seen being carried in by the soldiers. 

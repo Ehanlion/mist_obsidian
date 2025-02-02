@@ -12,5 +12,6 @@
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }

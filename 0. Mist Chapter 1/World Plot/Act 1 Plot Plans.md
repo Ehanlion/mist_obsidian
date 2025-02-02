@@ -1,0 +1,61 @@
+**Act 1 Overview**
+- In this act, my players start at level 3 and end at level 9.
+- This act introduces [[Fedorov's Legion]], [[The Iron-fist Marauders]], and [[The Followers of Alsolace]] as enemies to the world
+- This act introduces [[The Aquan Nations]] as the current, primary antagonist with [[Fedorov's Legion]] as the secondary
+- This act focuses on saving [[Kelswin Lovejoy]]'s mother from [[The Aquan Nations]]
+- We introduce the following key Antagonists:
+	- [[Fedorov Barovick VII]]
+	- [[Garrick Blackthorn]]
+	- [[Silvan Gile]]
+	- [[Tennyson Heralds]]
+- We introduce the following key factions:
+	- [[Fedorov's Legion]]: *antagonist*, allied
+	- [[The Iron-fist Marauders]]: *antagonist*, allied
+	- [[The Followers of Alsolace]]: *antagonist*, allied
+	- [[The Aquan Nations]]: *antagonist*, proxy
+	- [[The Umbral Cabal]]: *antagonist*, allied
+	- [[The Green Order]]: ally
+	- [[The Seat of Stone]]: neutral
+	- [[The Blue Coat Brigade]]: ally
+	- [[The Chromatic Delegation]]: neutral
+	- [[The Syndicate of Ice]]: neutral
+- We should introduce the following key Allies:
+	- [[Yugo Stolid]]
+	- [[King Hyranthara]]
+	- [[Vivian Lovejoy]]
+	- [[Pavel Hard]]
+- This act will span the capture of [[Vivian Lovejoy]], to the discovery of the alliance between [[The Aquan Nations]], [[Fedorov's Legion]], [[The Followers of Alsolace]], and [[The Iron-fist Marauders]], and their plan with [[Karak-Ulgurath]] as a catalyst for an invasion of [[The Whitecliff Plateau]] and the eventual capture of [[Gandoras City]]. 
+- This act ends with the confrontation of [[Karak-Ulgurath]] and the freeing of [[Vivian Lovejoy]] in [[The Sunken Caverns]], the main hold of [[The Aquan Nations]] efforts
+
+**Who has done what**
+- [[Fedorov's Legion]] approached [[The Iron-fist Marauders]] for an alliance
+- They then brought in [[Tennyson Heralds]] and [[The Followers of Alsolace]]
+- They crafted a plan:
+	- Use the mighty Archmagi [[Silvan Gile]]'s powers (who is really [[Ignel Valis]] in disguise) to craft a form for [[Karak-Ulgurath]]
+	- Use the divine powers of [[Tennyson Heralds]] to empower [[Karak-Ulgurath]]
+	- Use [[Fedorov's Legion]] as a method of communication
+- This would bring in [[The Aquan Nations]] because of [[Karak-Ulgurath]]
+- [[Karak-Ulgurath]] is the prophesized arrival of [[The Stormlord]], who is said to rise every 500 years
+- By raising this aspect early, [[Fedorov Barovick VII]], [[Tennyson Heralds]], and [[Silvan Gile]], through the guise of [[Fedorov's Legion]] and associated parties, can gain the full support of [[The Aquan Nations]] and their vast armies of Aquan Troops. 
+- In return, [[The Aquan Nations]] offer their support for conquest of [[The Whitecliff Plateau]] and [[Gandoras City]], but also offer their elite casters to harbor prisoners of [[The Whitecliff Plateau]] to both mine [[The Sunken Caverns]] for an artifact called a **[[Shard]]**, and research that [[Shard]] through a network of captured Librarians, [[Vivian Lovejoy]] included. 
+- This plan to attack [[The Whitecliff Plateau]] starts with raids for prisoners: Librarians and Miners. This is first
+- Then after a while, intimidation raids will occur to scare people. There are bigger, bolder attacks on fishing fleets and whole towns. 
+- Then they launch full scale destruction efforts, aiming to wipe out the Western most towns, further from [[Gandoras City]]
+- This will force [[Gandoras City]] to enact its legions and spread them over [[The Whitecliff Plateau]] in a drawn out war effort.
+- This is drawn out and long, in order to weaken the reserves of forces that [[Gandoras City]], [[The Seat of Stone]], and [[King Hyranthara]] have at their disposal. 
+- In 9 months, far past the scope of [[Act 1 Plot Plans]], a full scale battle will rage with [[Fedorov's Legion]] and [[Gandoras City]] leveraging powerful, ancient allies, to destroy, capture, and assert [[Garrick Blackthorn]] the new ruler of [[The Seat of Stone]] and [[Fedorov's Legion]] the keepers of [[The Chromatic Fangs]] and [[The Stormlocked Frontier]] as [[The Cutthroat Authority]], in joint leadership with [[The Black Guard]].
+
+**Where will this act end**
+- The party should aim to kill [[Karak-Ulgurath]], and weaken the forces of [[The Aquan Nations]]
+- They will not confront either [[Tennyson Heralds]], [[Fedorov Barovick VII]], or [[Garrick Blackthorn]] yet. These are campaign-wide villains and end arcs for [[Deion Deus]]. 
+- By killing [[Karak-Ulgurath]], the casters lose their potency and moral is lowered
+- It will NOT stop an all out attack, but in the long term, it will make combating the war easier for [[Gandoras City]], and they will expend less troops, leaving more for the final attack on [[Gandoras City]] by the rest of the Antagonizing forces. 
+
+**Stuff to Do**
+- introduce more meaningful connections to [[The Umbral Cabal]] for [[Valyra Malzan]]
+- Workout a connection from the devils of [[The Umbral Cabal]] to [[Fedorov's Legion]]
+- Begin to frame the big 3: [[Fedorov Barovick VII]], [[Tennyson Heralds]], and [[Garrick Blackthorn]] as the true masterminds and the real villains as the group kills [[Karak-Ulgurath]] and frees [[Vivian Lovejoy]]. 
+- Begin to introduce connections to [[The Chromatic Fangs]], and potential ancient things the Antagonists can leverage:
+	- [[Scorvorria the Ember Greatwyrm]] as an ally to [[Garrick Blackthorn]]
+	- An ancient magic staff to raise armies of the undead for [[Silvan Gile]]
+- Begin to seed [[Tennyson Heralds]] as a dangerous character to be dealt with in [[Gandoras City]] and have this be his next position of power after [[Gullhook]]
