@@ -30,3 +30,9 @@ Never to forget her round face.
 And when blade comes to heart,
 And blood seeps to stone,
 I'll pray to be back on the coast. 
+
+**Before the Battle**
+I sharp my sword against oil slick iron,
+As the call of war horns bellow. 
+I stand beside my friends in steel,
+I know most will be buried today. 

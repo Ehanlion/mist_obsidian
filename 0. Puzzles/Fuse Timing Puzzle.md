@@ -1,0 +1,1 @@
+Based on this video from Ted Talks: [The Fuse Riddle](https://www.youtube.com/watch?v=9uZ-jeZS8d0)
