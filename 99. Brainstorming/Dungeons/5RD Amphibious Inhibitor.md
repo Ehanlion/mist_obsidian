@@ -33,17 +33,60 @@ The Inhibitor causes the following effects in [[The Sunken Caverns]]:
 7. *Climax*
 	1. Inside the final room, there are two main things: a powerful golem, conjured by an Archmage [[Silvan Gile]], and the inhibitor, which is fully activated. 
 	2. This room is dry and airtight, apart from the entrance. There are conduits on the ceiling that channel the inhibitor's power. 
-	3. The Inhibitor: A tall, blue crystal monolith in the center of the room. A channel into the ground rings it. There are three "islands" spaced at 120 degree intervals around it. Each has a pedestal and a floating, spinning orb on top of it. It looks like those orbs could rest perfectly atop each pedestal, but they levitate now. One is Red, one is Purple, one is Blue. Each is 5 ft in diameter. The monolith shimmers a mix of all three colors and large, pulsing runes glow a faint sea-green upon its form. 
+	3. The Inhibitor: A tall, blue crystal monolith in the center of the room. A channel into the ground rings it. There are three "islands" spaced at 120 degree intervals around it. Each has a pedestal and a floating, spinning orb on top of it. It looks like those orbs could rest perfectly atop each pedestal, but they levitate now. All 3 are blue. Each is 5 ft in diameter. The monolith shimmers a mix of blues and large, pulsing runes glow a faint sea-green upon its form. 
+		1. Each orb empowers the monolith
+		2. if all three are destroyed, it is deactivated
+		3. Each orb has 40 hit points, is only damageable with lightning damage and automatically fails all saving throws. 
 	4. The Golem: A huge Stone Golem with thick iron bands and a gargantuan metal sword. It has powerful enchantments on its body. In one hand is a gruesome looking claw with some prototype-looking attachment. It looks to be swirling with magic. A DC 20 Arcana check reveals an enchantment in some way similar to Counterspell. The Sword is huge, far too large to wield by any normal creature. The golem needs to have a VERY clear weakness, but not one the group can just stumble upon blindly. There should be three secrets, findable through the dungeon: one that can reduce the damage of its magical attacks, one that can reduce its AC, and one that removes some of its resistances. 
-		1. Force Damage: Blasts apart its stone form creating cracks in armor, reducing the AC
-		2. Acid Damage: reduces damage of magical attacks as sword corrodes, 
-		3. Cold Damage: freezes over some of the runes, will inhibit its resistances and immunities
-		4. Lightning Damage: empowers the golem, increases its movement speed and damage
-		5. The Golem is immune to Force, Fire, Acid, Psychic, Poison damage, but not cold. Cold blocks enchantments that grant all of these
-		6. *Maybe there is a way to factor in flooding this dungeon*. Maybe flooding water in can give some benefit to the fight??
+		1. *Maybe there is a way to factor in flooding this dungeon*. Maybe flooding water in can give some benefit to the fight??
+		2. stat block ideas detailed later
+	5. Types of Golems that could be used for the fight:
+		2. [Smaragadine Golem](https://dr-eigenvalue.github.io/bestiary/creature/smaragdine-golem) - I like the magic absorb ability quite a bit, especially considering the golem was created by [[Silvan Gile]]
+		3. The Mage Hunter Golem from Tal'Dorei - I like the Antimagic Jolt ability, might twist to be an ability that deals (2d6) psychic per level of spell slot, for the highest spell slot still unused.  So a creature with an un-expended 4th level spell slot would make a DC 18 Wisdom save against (8d6) psychic damage, and then lose that spell slot on a fail. Half damage on a success 
 8. *Resolution*
 	1. The Inhibitor deactivates and the buffs granted to [[The Aquan Nations]] disappear
 	2. The depth tolerability in the water goes away
 	3. The vision in the water goes away
 	4. The warmth of the water goes away
 	5. The faint glowing of the water goes away. 
+
+
+**Some Ideas for the Golem**
+- Looking for ways to make an MMORPG battle with the golem in the final room
+- *Statistics*
+	- Golem will have an AC of 22, enhanced by a shield spell (base would be 17)
+	- Golem will have stat array STR DEX CON INT WIS CHA of 26 6 26 3 11 1
+		- Very strong, not agile at all
+		- Bad intelligence, moderate wisdom to understand instructions, bad charisma its a golem
+	- Has Multiattack
+		- one part is a Single Target Attack
+		- one part is an Antimagic ability
+		- The single target attack can be replace by the AoE charge attack
+	- Movement speed of 35 feet. 
+	- Skills: Athletics +16 (expertise) 
+- *Hammer Attack*
+	- AoE Charge attack: Massive hammer will slam into the ground. We can have a recharge ability (5-6) that gets used instead of an attack. Will always do at the end of the turn. Instead of immediately hitting a single target with the hammer, it charges up a massive AoE which triggers at the start of the golem's next turn. 
+		- 60 foot radius centered on the golem 
+		- DC 18 Strength saving throw, full damage and displaced on a failed save, half damage and no displacement on a success
+		- Combine [Gravity Sinkhole](https://dnd5e.wikidot.com/spell:gravity-sinkhole) (7d10) (39) force damage and facilitates the pull, and [Earth Tremor](https://dnd5e.wikidot.com/spell:earth-tremor) to knock prone
+		- Creatures that fail are pulled directly next to the golem and knocked prone
+		- Staggerable: The golem looses all resistance OR doesn't but regardless, if 50 damage is dealt to the golem is is staggered, and is stunned until the end of its next turn. This is a risk-reward attack. If the golem is staggered it looses its next turn and if it isn't the attack is devastating. 
+	- Single Target Attack: Single target, +12 (26 Strength, CR 12, prof +4) to hit, (2d12) (13) + 8 bludgeoning damage + (6d6) force damage. Conditional: if hit by lightning damage, next attack deals that lightning damage back to target. On a hit, releases a level 1 Magic Missile. On a hit, each creature in 15 foot radius of target makes DC 16 Dexterity save or take (1d12) + 8 bludgeoning damage as well. 
+- *Magic Abilities*
+	- Magic absorb: As a bonus action, the golem targets any creature, object, or magical effect within 10 feet of it. The golem chooses a spell already cast on the target. If the spell is of 3rd level or lower, the golem absorbs the spell and it ends. If the spell is of 4th level or higher, the golem must make a check with a +9 modifier. The DC equals 10 + the spell’s level. On a successful check, the golem absorbs the spell and it ends. The golem’s body glows when it absorbs a spell, as if under the effect of a light spell. Can only hold one absorbed spell at a time.
+	- Magic release: twin of magic absorb. The golem can release an absorbed spell effect as a blast of green energy, which blasts out as a sphere centered on the golem with a radius of 10 feet per level of the absorbed spell. All creatures in the area of effect other than the golem takes 7 (2d6) lightning damage per level of the absorbed spell, or half damage with a successful DC 18 Dexterity saving throw. Creatures that fail the saving throw are also blinded until the end of the golem’s next turn
+- *Rebuttal*
+	- The Golem is shrouded with the magic of a [Fire Shield](https://roll20.net/compendium/dnd5e/Fire%20Shield#content) spell, set to warm shield. This deals (2d8) fire damage whenever the golem is hit with a melee attack.
+	- I homebrew that this gives resistance to fire, not cold, damage. 
+- *Inhibition*
+	- The Golem, if it takes certain damage types, loses some of its powers. 
+		- Thunder Damage: Slows the movement speed of the golem by 10 feet. This effect ends at the end of its next turn. This stacks. 
+		- Acid Damage: Reduces magically enhanced AC of the golem and the base damage of the sword and 15 foot radius AoE of single target. 
+		- Cold Damage: Freezes some runes. This deactivates *rebuttal* and the extra force damage / magic missiles that are apart of Single Target Attack
+		- Lightning Damage: Heals the golem for the amount of damage taken and empowers its next Single Target Attack
+		- *Resistances:* Fire, Force, Non-magical bludgeoning slashing piercing
+		- *Immunities:* Lightning, Psychic, Poison
+		- *Vulnerabilities:* Acid, Cold, Thunder
+		- No condition immunities. 
+
+This golem can be made much more powerful which translates to [[Silvan Gile]] improving on his original design. When it is improved, add more powerful attacks, less vulnerabilities and less weakness from those vulnerabilities as well as add condition immunities. 
