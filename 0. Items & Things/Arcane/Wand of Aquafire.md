@@ -2,7 +2,7 @@ Regional Location: [[Mist]]
 
 **Description.** 
 
-*Requires attunement by a spellcaster.*
+*Requires attunement by a spellcaster.* Uncommon
 
 **Properties.** 
 - This wand has 5 charges. 

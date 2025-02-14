@@ -38,6 +38,10 @@
 - [[Karak-Ulgurath]] is the prophesized arrival of [[The Stormlord]], who is said to rise every 500 years
 - By raising this aspect early, [[Fedorov Barovick VII]], [[Tennyson Heralds]], and [[Silvan Gile]], through the guise of [[Fedorov's Legion]] and associated parties, can gain the full support of [[The Aquan Nations]] and their vast armies of Aquan Troops. 
 - In return, [[The Aquan Nations]] offer their support for conquest of [[The Whitecliff Plateau]] and [[Gandoras City]], but also offer their elite casters to harbor prisoners of [[The Whitecliff Plateau]] to both mine [[The Sunken Caverns]] for an artifact called a **[[Shard]]**, and research that [[Shard]] through a network of captured Librarians, [[Vivian Lovejoy]] included. 
+	- This is why the miners from [[Saddle-Port]] and [[Vivian Lovejoy]] are imprisoned
+	- The miners excavate the caved in ruins of underground complexes of [[The Many]]
+	- The librarians are controlled as a think tank to research old texts research the monuments of [[The Many]]
+	- The librarians also are forced to enchant for [[Fedorov's Legion]], used as grunt work for long, laborious, and draining enchantment rituals 
 - This plan to attack [[The Whitecliff Plateau]] starts with raids for prisoners: Librarians and Miners. This is first
 - Then after a while, intimidation raids will occur to scare people. There are bigger, bolder attacks on fishing fleets and whole towns. 
 - Then they launch full scale destruction efforts, aiming to wipe out the Western most towns, further from [[Gandoras City]]
@@ -53,8 +57,18 @@
 
 **Stuff to Do**
 - introduce more meaningful connections to [[The Umbral Cabal]] for [[Valyra Malzan]]
-- Workout a connection from the devils of [[The Umbral Cabal]] to [[Fedorov's Legion]]
+	- This means adding a series of known devils to [[The Umbral Cabal]]
+	- Make sure to include relevance to [[Yugo Stolid]]
+- Workout a connection from the devils of [[The Umbral Cabal]] to [[Fedorov's Legion]], [[The Iron-fist Marauders]], and [[The Followers of Alsolace]]
+	- The Devils of [[The Umbral Cabal]] can be assisting them with recruitment
+	- The Devils are associated with [[The Lord of the Hells]] as their deity
+	- Maybe they know rituals to raise powerful forces of devils and the undead
+	- Then we can tie this to [[Tennyson Heralds]] drawing his powers from [[The Lord of the Hells]]
 - Begin to frame the big 3: [[Fedorov Barovick VII]], [[Tennyson Heralds]], and [[Garrick Blackthorn]] as the true masterminds and the real villains as the group kills [[Karak-Ulgurath]] and frees [[Vivian Lovejoy]]. 
+	- [[The Iron-fist Marauders]] are henchmen of [[Garrick Blackthorn]]
+	- [[The Followers of Alsolace]] are henchmen of [[Tennyson Heralds]]
+	- [[Fedorov's Legion]] and eventually [[The Black Guard]] are henchmen to [[Fedorov Barovick VII]]
+	- [[The Umbral Cabal]] are direct consultants to [[Fedorov Barovick VII]]
 - Begin to introduce connections to [[The Chromatic Fangs]], and potential ancient things the Antagonists can leverage:
 	- [[Scorvorria the Ember Greatwyrm]] as an ally to [[Garrick Blackthorn]]
 	- An ancient magic staff to raise armies of the undead for [[Silvan Gile]]
