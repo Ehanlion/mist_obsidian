@@ -6,5 +6,7 @@
   "showInlineTitle": true,
   "showLineNumber": false,
   "rightToLeft": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "trashOption": "local",
+  "newFileLocation": "current"
 }

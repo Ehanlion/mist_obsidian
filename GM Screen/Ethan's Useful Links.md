@@ -10,3 +10,4 @@ What follows is a list of sources that I found as I worked on this adventure. Th
 8. [Link to cool Magic Staffs etc.](https://www.5esrd.com/gamemastering/magic-items/rods-staves-wands/) - This can add a lot of cool magical staffs for the party to get or learn about. 
 9. [5esrd Master Magic Items List](https://www.5esrd.com/database/magicitem/) - This is a full list of every possible magic item that the players could use. It is both RAW and add-on rules sets, as well as some home-brew (I think).
 10. [Wikidot RAW Magic Items List](https://dnd5e.wikidot.com/wondrous-items) - list of RAW available magic items that can be offered to players, sorted by rarity which is nice. 
+11. [Rainworld Creatures](https://rainworld.miraheze.org/wiki/Creatures) and [Rainworld Regions](https://rainworld.miraheze.org/wiki/Regions) - links to the Rainworld wiki pages because I love the style of their content

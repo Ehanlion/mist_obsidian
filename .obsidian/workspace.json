@@ -24,21 +24,55 @@
             }
           },
           {
-            "id": "8937ac3dcbb82f08",
+            "id": "c8d5c7c134c406e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Mist Chapter 1/World Plot/How to Manifest the Many.md",
+                "file": "10. Whitecliff Plateau/NPCs/Crab Time/Karak-Ulgurath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Manifest the Many"
+              "title": "Karak-Ulgurath"
+            }
+          },
+          {
+            "id": "6fb25b417062e2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. The Many/Architecture/Types/Shrine of The Many.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shrine of The Many"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7daa07ee36dd8011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61011b8da51584bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Mist Chapter 1/World Plot/Act 1 Plot Plans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Act 1 Plot Plans"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "karak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Mist Chapter 1/World Plot/How to Manifest the Many.md",
+                "file": "10. Whitecliff Plateau/NPCs/Crab Time/Karak-Ulgurath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to Manifest the Many"
+              "title": "Outgoing links from Karak-Ulgurath"
             }
           },
           {
@@ -190,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,44 +240,44 @@
       "print:Print note": false
     }
   },
-  "active": "8937ac3dcbb82f08",
+  "active": "c8d5c7c134c406e0",
   "lastOpenFiles": [
     "0. Mist Chapter 1/World Plot/Act 1 Plot Plans.md",
-    "0. Mist Chapter 1/World Plot/How to Manifest the Many.md",
-    "0. Mist Chapter 1/World Plot/Untitled",
-    "71. Scorchsand Wastes/Dangers of the Wastes/Creatures of the Wastes.md",
+    "10. Whitecliff Plateau/NPCs/Crab Time/Karak-Ulgurath.md",
+    "0. The Many/Architecture/Types/Shrine of The Many.md",
+    "0. The Many/Architecture/Types/Monument of The Many.md",
+    "0. The Many/Architecture/Types/Compound of  The Many.md",
+    "0. The Many/Architecture/Types",
+    "0. The Many/Planning the Mystery of The Many.md",
+    "99. Brainstorming/Combat Ideas/Karak-Ulgurath Fight.md",
+    "99. Player Data/Ashley T/Valyra Malzan.md",
+    "99. Player Data/Ashley T/Valyra Contract Terms.md",
+    "20. Greenheart Wldrnss/The Umbral Cabal/Cabal Devils/Kilvaroth.md",
+    "20. Greenheart Wldrnss/The Umbral Cabal/Cabal Devils/Voramas.md",
+    "20. Greenheart Wldrnss/The Umbral Cabal/Handout Umbral Cabal.md",
+    "0. Beastiary/Rainworld/Lizards/Strawberry Lizard.md",
     "GM Screen/Ethan's Useful Links.md",
-    "Daily Notes/2025-02-13.md",
-    "0. Items & Things/_handout/Handout_s28_5rd_items.md",
-    "Daily Notes/2025-02-12.md",
-    "Daily Notes/2025-02-09.md",
-    "99. Brainstorming/Dungeons/5RD Aquan Battalion Dungeon.md",
+    "0. Beastiary/Rainworld/Lizards/Green Lizard.md",
+    "10. Whitecliff Plateau/NPCs/Crab Time/Dmitri Mironov.md",
+    "10. Whitecliff Plateau/NPCs/Crab Time/Igor Larionov.md",
+    "10. Whitecliff Plateau/NPCs/Crab Time/The Followers of Karak-Ulgurath.md",
+    "0. Beastiary/Rainworld/Lizards/Train Lizard.md",
+    "0. Beastiary/Rainworld/Lizards/Caramel Lizard.md",
+    "0. Beastiary/Rainworld/Lizards",
+    "0. Beastiary/Rainworld/Lizards/Blue Lizards.md",
+    "0. Beastiary/Rainworld/Lizards/Cyan Lizard.md",
+    "0. Beastiary/Rainworld/Lizards/Red Lizard.md",
+    "0. Beastiary/Rainworld/Lizards/Yellow Lizards.md",
+    "0. Beastiary/Rainworld/Lizards/Black Lizards.md",
+    "0. Beastiary/Rainworld/Lizards/White Lizards.md",
+    "0. Beastiary/Rainworld",
+    "20. Greenheart Wldrnss/The Umbral Cabal/Cabal Devils",
+    "20. Greenheart Wldrnss/Greenheart Woods",
+    "0. Mist Chapter 1/World Plot/Untitled",
     "0. Items & Things/_handout",
-    "0. Items & Things/_handout/Handout_s27_the_brothel_items.md",
-    "0. Items & Things/Arcane/Terracotta Amulet.md",
-    "0. Items & Things/Arcane/Don't Rattle My Bones.md",
-    "0. Items & Things/Arcane/Wand of Aquafire.md",
-    "0. Items & Things/Implements/Ashen Treaders.md",
-    "0. Items & Things/Arcane/Eldritch Rod.md",
-    "Daily Notes/2025-02-07.md",
-    "Daily Notes/2025-02-08.md",
-    "99. Brainstorming/Folklore/Hymns.md",
-    "99. Brainstorming/Dungeons/5RD Amphibious Inhibitor.md",
-    "0. Items & Things/Arcane/Nautilus Tablet.md",
-    "Daily Notes/2025-02-05.md",
-    "Daily Notes/2025-02-04.md",
-    "0. Puzzles/The Penniless Pilgrim Riddle.md",
-    "Daily Notes/2025-02-03.md",
-    "98. Quests/Mist Campaign Framework.md",
-    "_Trimmings/Mist Sessions.md",
     "0. Mist Chapter 1/World Plot",
     "99. Brainstorming/Folklore",
     "99. Brainstorming/Dungeons",
-    "10. Whitecliff Plateau/NPCs/Saddle-port",
-    "10. Whitecliff Plateau/NPCs/Gullhook",
-    "10. Whitecliff Plateau/Towns, Cities/Smearsburrow",
-    "10. Whitecliff Plateau/Towns, Cities/Trawlrock",
-    "10. Whitecliff Plateau/Towns, Cities/Schooner",
     "_Monsters/Frost Bound Warden Stat Block.png",
     "_Monsters/Ignel Valis and Sylvan Gile Stat Block.png",
     "_Assets/Temple to the Returned Lord.png",

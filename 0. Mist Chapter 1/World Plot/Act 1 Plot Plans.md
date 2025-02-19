@@ -4,24 +4,27 @@
 - This act introduces [[The Aquan Nations]] as the current, primary antagonist with [[Fedorov's Legion]] as the secondary
 - This act focuses on saving [[Kelswin Lovejoy]]'s mother from [[The Aquan Nations]]
 - We introduce the following key Antagonists:
-	- [[Fedorov Barovick VII]]
-	- [[Garrick Blackthorn]]
-	- [[Silvan Gile]]
-	- [[Tennyson Heralds]]
+	- [[Fedorov Barovick VII]] - leader of [[Fedorov's Legion]]
+	- [[Garrick Blackthorn]] - leader of [[The Iron-fist Marauders]]
+	- [[Silvan Gile]] - Archmagi to [[Fedorov's Legion]]
+	- [[Tennyson Heralds]] - leader of [[The Followers of Alsolace]]
+	- [[Voramas]] - Archdevil of [[The Umbral Cabal]]
 - We introduce the following key factions:
 	- [[Fedorov's Legion]]: *antagonist*, allied
 	- [[The Iron-fist Marauders]]: *antagonist*, allied
 	- [[The Followers of Alsolace]]: *antagonist*, allied
-	- [[The Aquan Nations]]: *antagonist*, proxy
 	- [[The Umbral Cabal]]: *antagonist*, allied
-	- [[The Green Order]]: ally
+	- [[The Aquan Nations]]: *antagonist*, proxy
+	- [[The Cutthroat Authority]]: *hidden antagonist*, allied group
+	- [[The Green Order]]: friendly
+	-  [[The Blue Coat Brigade]]: friendly
 	- [[The Seat of Stone]]: neutral
-	- [[The Blue Coat Brigade]]: ally
 	- [[The Chromatic Delegation]]: neutral
 	- [[The Syndicate of Ice]]: neutral
 - We should introduce the following key Allies:
 	- [[Yugo Stolid]]
 	- [[King Hyranthara]]
+	- [[His Majesty]]
 	- [[Vivian Lovejoy]]
 	- [[Pavel Hard]]
 - This act will span the capture of [[Vivian Lovejoy]], to the discovery of the alliance between [[The Aquan Nations]], [[Fedorov's Legion]], [[The Followers of Alsolace]], and [[The Iron-fist Marauders]], and their plan with [[Karak-Ulgurath]] as a catalyst for an invasion of [[The Whitecliff Plateau]] and the eventual capture of [[Gandoras City]]. 
@@ -31,13 +34,25 @@
 - [[Fedorov's Legion]] approached [[The Iron-fist Marauders]] for an alliance
 - They then brought in [[Tennyson Heralds]] and [[The Followers of Alsolace]]
 - They crafted a plan:
-	- Use the mighty Archmagi [[Silvan Gile]]'s powers (who is really [[Ignel Valis]] in disguise) to craft a form for [[Karak-Ulgurath]]
-	- Use the divine powers of [[Tennyson Heralds]] to empower [[Karak-Ulgurath]]
-	- Use [[Fedorov's Legion]] as a method of communication
+	- They would levy the mighty Archmagi [[Silvan Gile]]'s powers (who is really [[Ignel Valis]] in disguise) to raise the aspect of [[The Stormlord]], dubbed [[Karak-Ulgurath]]
+	- [[Silvan Gile]] requested more help, and sought out the knowledge of the Infernal, making a friendly agreement with [[Voramas]], Archdevil of [[The Umbral Cabal]]
+	- [[Voramas]] joined in good standing because he recognized the might of the alliance forming and wishes to preserve [[The Umbral Cabal]], regardless of moral or side
+	- They would use a Shrine, a [[Shrine of The Many]], to [[The Stormlord]] as a conduit for [[Karak-Ulgurath]]'s power
+	- They would use [[Fedorov's Legion]] as a method of communication
+	- [[Tennyson Heralds]] would act to rally the people of [[The Whitecliff Plateau]] to his word, and eventually use his influence to rally the people to the new alliance's side 
+	- This would be the founding of [[The Cutthroat Authority]]
 - This would bring in [[The Aquan Nations]] because of [[Karak-Ulgurath]]
-- [[Karak-Ulgurath]] is the prophesized arrival of [[The Stormlord]], who is said to rise every 500 years
-- By raising this aspect early, [[Fedorov Barovick VII]], [[Tennyson Heralds]], and [[Silvan Gile]], through the guise of [[Fedorov's Legion]] and associated parties, can gain the full support of [[The Aquan Nations]] and their vast armies of Aquan Troops. 
-- In return, [[The Aquan Nations]] offer their support for conquest of [[The Whitecliff Plateau]] and [[Gandoras City]], but also offer their elite casters to harbor prisoners of [[The Whitecliff Plateau]] to both mine [[The Sunken Caverns]] for an artifact called a **[[Shard]]**, and research that [[Shard]] through a network of captured Librarians, [[Vivian Lovejoy]] included. 
+- In [[The Aquan Nations]], it was prophesized that every 500 years, an aspect of [[The Stormlord]] would rise to proclaim a new prophecy and future for all [[The Aquan Nations]] for the next 500 years
+- This time, when raised, the prophecy (forced by [[Fedorov's Legion]]) was that [[The Aquan Nations]] would rise to conquer [[The Whitecliff Plateau]] as their own territory, flooding the lands and turning them into a marshland to live in. 
+	- While [[The Aquan Nations]] see [[Karak-Ulgurath]]'s raising as a gesture of peace, [[Fedorov's Legion]] leadership has other motives
+	- By raising the aspect themselves, [[Silvan Gile]], 
+- [[The Aquan Nations]] now seek the conquest of [[The Whitecliff Plateau]] and [[Gandoras City]] and [[Fedorov's Legion]] will offer support
+- In return, [[Fedorov Barovick VII]] and [[Silvan Gile]] request the might of [[The Aquan Nations]] to search for a lost artifact that they call a [[Shard]]
+	- This is a [[Shard]] of [[The Many]]
+	- There are two in [[The Whitecliff Plateau]]
+		- One in [[The First Compound]] bordering [[The Bay of Kelp]]
+		- One in [[The Sunken Caverns]] where the Main Hold is and the lair of [[Karak-Ulgurath]]
+- [[The Aquan Nations]] offer their elite casters to harbor prisoners of [[The Whitecliff Plateau]] to both mine [[The Sunken Caverns]] for an artifact called a **[[Shard]]**, and research that [[Shard]] through a network of captured Librarians, [[Vivian Lovejoy]] included. 
 	- This is why the miners from [[Saddle-Port]] and [[Vivian Lovejoy]] are imprisoned
 	- The miners excavate the caved in ruins of underground complexes of [[The Many]]
 	- The librarians are controlled as a think tank to research old texts research the monuments of [[The Many]]

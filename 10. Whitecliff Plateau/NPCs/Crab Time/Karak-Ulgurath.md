@@ -1,16 +1,23 @@
 Regional Location: [[The Whitecliff Plateau]]
 Subsection: [[The Sunken Caverns]]
-# The Crab Overlord:
-![[karak-ulgurath the crab lord.png]]
-# Description
-[[Karak-Ulgurath]] is a massive, sentient crustacean that dwells deep within [[The Sunken Caverns]]. Amidst a plethora of notable features, the stone embedded within the crowning of its shell is distinct. This stone is a [[Mind Rock]] and it enable the crab to be controlled by its master. Beyond that the physical elements of [[Karak-Ulgurath]] are magnificent.
 
-The crab is immense, towering over those who inevitably bow before it. Its shell is iridescent and illustrious, enchanting and bewitching any who regard it without caution. Its massive pincers could each crush a sailing vessel with ease. Its massive eyes, arranged on its broad crowning of its shell, pierce at you if you look at them. It almost compels you to obey it. It almost compels you to bow to [[Karak-Ulgurath]]. 
-## True Nature
-A crustacean this powerful or this massive in size is not normal. [[Ignel Valis]], a once-prominent hero was famous for his power as a mage and his love for crabs. In many of his journeys detailed in [[The Greatest of the Great]], [[Ignel Valis]] brought his pet crab named Karak with him. This crab is that very same crab, enhanced through some magical means and bonded with a [[Master Mind Rock]], controlled by [[Ignel Valis]]. Now though, the crab bows to [[Silvan Gile]], the new identity of [[Ignel Valis]]. 
-## The Voice of Two
-When [[Karak-Ulgurath]] speaks in its rumbly, ancient voice it is accompanies by another voice, a more sophisticated and *human voice*. This is the voice of [[Silvan Gile]] (really [[Ignel Valis]], but who's counting). They are layered upon each other and speak in harmony, almost. It is like the voice of [[Silvan Gile]], silky and smooth, comes *just before* the ancient and crackly voice of [[Karak-Ulgurath]] itself. It is notable that when this occurs, the speech patterns are far more eloquent, smooth, and educated whilst without the effect, they are curt, abrupt, and jittery. 
-### Why does this happen?
-[[Karak-Ulgurath]] has been embedded with a special [[Mind Rock]] which responds directly to A [[Master Mind Rock]], held and controlled by [[Silvan Gile]]. It allows the great mage to take special control of the crustacean pet he once adventured with. When required, he speaks through [[Karak-Ulgurath]], leading it in speech. 
-# Mission
-The crab is on a mission sent from [[Silvan Gile]]. It has been ordered to search for one of the [[Shard]] and [[Silvan Gile]] believes that it lies somewhere deep within [[The Sunken Caverns]]. [[Karak-Ulgurath]] is now using its mind-powering influence and abductions to power its underwater scouring of [[The Sunken Caverns]] in search of this one of the [[Shard]]. 
+**Creating [[Karak-Ulgurath]]**
+- [[Karak-Ulgurath]] is an *aspect* of [[The Stormlord]]
+- Powers are derived from a transmuted variant of a [[Shrine of The Many]]
+	- This is a shrines containing replicated powers of [[The Stormlord]]
+	- [[Silvan Gile]] and [[Voramas]], Archdevil of [[The Umbral Cabal]], crafted powerful enchantments that harness the magic of this [[Shrine of The Many]]
+	- The [[Shrine of The Many]] grants [[Karak-Ulgurath]] powers of the storm, the sea, and the cold
+	- The enchantments from [[Voramas]] grant [[Karak-Ulgurath]] the Infernal creature type and innate spellcasting of a lesser devil
+	- The enchantments from [[Silvan Gile]] grant [[Karak-Ulgurath]] innate spellcasting of a wizard, the mental acuity of [[Silvan Gile]] himself, and telepathy with [[Silvan Gile]]
+	- Furthermore, [[Silvan Gile]] melded a [[Master Mind Rock]] with [[Karak-Ulgurath]], allowing [[Karak-Ulgurath]] to create and control crabs with [[Mind Rock]]s embedded within the carapace. 
+- [[Karak-Ulgurath]] was created as a peace offering for [[The Aquan Nations]]
+- By bringing about the herald and aspect of [[The Stormlord]] early, this brokered a peace between [[Fedorov's Legion]] and [[The Aquan Nations]]
+- It was prophesized that every 500 years, an aspect of [[The Stormlord]] would rise to proclaim a new prophecy and future for all [[The Aquan Nations]] for the next 500 years
+- This time, when raised, the prophecy (forced by [[Fedorov's Legion]]) was that [[The Aquan Nations]] would rise to conquer [[The Whitecliff Plateau]] as their own territory, flooding the lands and turning them into a marshland to live in. 
+
+**Killing [[Karak-Ulgurath]]**
+- [[Karak-Ulgurath]] is the patron of all [[The Aquan Nations]] and enrages them in his death
+- [[The Aquan Nations]] will not stop their conquest, [[Karak-Ulgurath]] simply proclaims a new prophecy and does not need to stick around to see it to fruition
+	- [[Karak-Ulgurath]] merely serves as a inspirational symbol
+	- If it dies, there is less morale in [[The Aquan Nations]] but they have been gifted a prophecy
+	- They will follow this prophecy like scripture until absolute failure
