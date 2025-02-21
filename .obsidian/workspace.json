@@ -6,6 +6,7 @@
       {
         "id": "e6c5fb2f1d5383fa",
         "type": "tabs",
+        "dimension": 49.716231555051074,
         "children": [
           {
             "id": "244aaff5af8e925b",
@@ -24,31 +25,31 @@
             }
           },
           {
-            "id": "c8d5c7c134c406e0",
+            "id": "ecf6288dfaa8b4d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Whitecliff Plateau/NPCs/Crab Time/Karak-Ulgurath.md",
+                "file": "0. The Many/Architecture/The First Compound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Karak-Ulgurath"
+              "title": "The First Compound"
             }
           },
           {
-            "id": "6fb25b417062e2bc",
+            "id": "37400f0ca3e5678c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. The Many/Architecture/Types/Shrine of The Many.md",
+                "file": "0. The Many/Members/Relationships of the Many.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shrine of The Many"
+              "title": "Relationships of the Many"
             }
           }
         ],
@@ -57,7 +58,22 @@
       {
         "id": "7daa07ee36dd8011",
         "type": "tabs",
+        "dimension": 50.28376844494892,
         "children": [
+          {
+            "id": "54d0d2befe5c6ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025-01-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-04"
+            }
+          },
           {
             "id": "61011b8da51584bb",
             "type": "leaf",
@@ -126,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "karak",
+                "query": "relation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,13 +256,25 @@
       "print:Print note": false
     }
   },
-  "active": "c8d5c7c134c406e0",
+  "active": "ecf6288dfaa8b4d9",
   "lastOpenFiles": [
-    "0. Mist Chapter 1/World Plot/Act 1 Plot Plans.md",
-    "10. Whitecliff Plateau/NPCs/Crab Time/Karak-Ulgurath.md",
-    "0. The Many/Architecture/Types/Shrine of The Many.md",
-    "0. The Many/Architecture/Types/Monument of The Many.md",
+    "0. The Many/Members/Relationships of the Many.md",
+    "0. The Many/Architecture/The First Compound.md",
+    "0. The Many/Architecture/Untitled.md",
+    "GM Screen/Ethan's Useful Links.md",
     "0. The Many/Architecture/Types/Compound of  The Many.md",
+    "Daily Notes/2025-01-04.md",
+    "Daily Notes/2025-01-05.md",
+    "Daily Notes/2024-12-28.md",
+    "Daily Notes/2024-12-29.md",
+    "Daily Notes/2025-02-20.md",
+    "0. The Many/Architecture/Types/Shrine of The Many.md",
+    "10. Whitecliff Plateau/Features/The Bay of Kelp.md",
+    "99. Player Data/Morgan/Kiro Greenhide.md",
+    "_Assets/Kiro_family_location_bog.png",
+    "10. Whitecliff Plateau/NPCs/Crab Time/Karak-Ulgurath.md",
+    "0. Mist Chapter 1/World Plot/Act 1 Plot Plans.md",
+    "0. The Many/Architecture/Types/Monument of The Many.md",
     "0. The Many/Architecture/Types",
     "0. The Many/Planning the Mystery of The Many.md",
     "99. Brainstorming/Combat Ideas/Karak-Ulgurath Fight.md",
@@ -256,20 +284,9 @@
     "20. Greenheart Wldrnss/The Umbral Cabal/Cabal Devils/Voramas.md",
     "20. Greenheart Wldrnss/The Umbral Cabal/Handout Umbral Cabal.md",
     "0. Beastiary/Rainworld/Lizards/Strawberry Lizard.md",
-    "GM Screen/Ethan's Useful Links.md",
     "0. Beastiary/Rainworld/Lizards/Green Lizard.md",
     "10. Whitecliff Plateau/NPCs/Crab Time/Dmitri Mironov.md",
-    "10. Whitecliff Plateau/NPCs/Crab Time/Igor Larionov.md",
-    "10. Whitecliff Plateau/NPCs/Crab Time/The Followers of Karak-Ulgurath.md",
-    "0. Beastiary/Rainworld/Lizards/Train Lizard.md",
-    "0. Beastiary/Rainworld/Lizards/Caramel Lizard.md",
     "0. Beastiary/Rainworld/Lizards",
-    "0. Beastiary/Rainworld/Lizards/Blue Lizards.md",
-    "0. Beastiary/Rainworld/Lizards/Cyan Lizard.md",
-    "0. Beastiary/Rainworld/Lizards/Red Lizard.md",
-    "0. Beastiary/Rainworld/Lizards/Yellow Lizards.md",
-    "0. Beastiary/Rainworld/Lizards/Black Lizards.md",
-    "0. Beastiary/Rainworld/Lizards/White Lizards.md",
     "0. Beastiary/Rainworld",
     "20. Greenheart Wldrnss/The Umbral Cabal/Cabal Devils",
     "20. Greenheart Wldrnss/Greenheart Woods",
@@ -286,7 +303,6 @@
     "_Assets/Twilight woods 1.png",
     "_Assets/Twilight woods and plains border.png",
     "_Assets/blood-red glister.png",
-    "_Assets/dark woods 1.png",
-    "_Assets/Deep woods and twilight woods border.png"
+    "_Assets/dark woods 1.png"
   ]
 }

@@ -1,11 +1,43 @@
 Regional Location: [[The Whitecliff Plateau]]
-Subsection: First compound of the many, located under [[The Widow-maker's Stands]]
+Subsection: First compound of [[The Many]], located under [[The Widow-maker's Stands]]
 
-**Purpose:**
-- This compound was the first created, it served as an early living space
-- It had rudimentary test areas but was predominantly a short-term living space that went unused after a while
-- It was eventually used as a just a living space for one member of [[The Many]], who [[Shard]]
+**Description**
+- Basic with *clean cut and precise* stone passages and simple rooms.
+- Hallways and rooms are decorated with *mosaics* depicting the early days of [[The Many]] as they made [[Mist]] their home. While they were hunted and deeply military, there are plenty of instances of warmth and humanity, hence the bounty of mosaics. 
+- The areas of [[The First Compound]] that were created by [[The Many]] are exact. 
+- The areas of [[The First Compound]] that were created from mining by [[The Aquan Nations]] are rough, a clear sign that they were created quickly and with rough labor. 
+- *Scents*: aromatic spice aromas from the areas with [[Fedorov's Legion]], potent fish smell from the areas with [[The Aquan Nations]], sulphiric odors from the hot springs, stagnant wood from the storages areas, pungent cooking scents from the kitchens, and musty odors of decay from the cages holding the entrapped miners. 
 
-**Loot Items:**
-- A [[Shard]], hidden behind a series of puzzles
-- Mosaics depicting early event in Mist 
+This dungeon should feel like it has *two levels*. Firstly, there are the obvious lived-in areas from staked-out members of [[Fedorov's Legion]] and the numerous sea creatures of [[The Aquan Nations]]. But beneath that there is the distinct sense that this is a compound, not a cave, and its creation was deliberate and exact, indicative of highly knowledgeable and powerful architects. Whether or not its precise passages were hewn by hand or with magic cannot be inferred. 
+
+**Original Purpose**
+- *Basic Living* - Make sure there are descriptions of what once could have been bedroom, kitchens, food storage, pantries, and common areas. Also include bathing and hygiene such as water sources. 
+- *Simple Planning* - Rooms for planning meetings and mapping, hence the map room and training areas.
+- *Initial Concept Testing* - Test teleportation circle, simple puzzle rooms and vaults for the wedding ring. 
+
+**Core Loot**
+- Originally, I considered having a [[Shard]] be here, but I think as I write this, that it is a poor idea. I want [[Shard]]s to have a distinct aura; the areas where they reside should have significant and regional magic that surrounds them. 
+- Instead, after solving the puzzle that leads to the single main door, the players will be rewarded with a *note, a name, and a powerful magic ring*. 
+- This ring was a wedding ring left behind.
+- The note alludes to it having a matching pair.
+- The couple alluded to is [[Mansfield]] and [[Valentino]]. This compound's entrance is the name [[Valentino]] in cipher text, so this compound was originally created by [[Mansfield]], hence [[Valentino]] as the password. The ring found would have been given to [[Valentino]] from [[Mansfield]].
+- The note would be to [[Valentino]] and from [[Mansfield]], describing a "dark day soon ahead," their "desire to make it through this battle," and that "when it is all over, I shall take your hand in marriage as I know you should want to take mine." It is *written in common.* 
+- In the note, write that "I know you enjoyed writing your notes in the cipher text we all created, but I should like to write this one in the tongue of the original creatures of this beautiful land of [[Mist]]."
+
+**Combat**
+- Make sure combats are isolated, unique, and simple.
+- Keep fights out of the hallways unless they happen to run into a patrol.
+- Make sure patrols are basic Sahuaguin only with a max of one specialized troop of [[The Aquan Nations]]. Do not reinforce groups that are encountered in this way.
+- Clearly telegraph if an enemy is trying to retreat and get help. They should try to stop this. Loose ends are loose ends, but it is up to me to telegraph them easily and let the group handle them.  
+- Do not add too many gimmicks and for an area, always telegraph the gimmicks ahead of time with description read-aloud text for the group.
+- Make sure areas allow for time to breath between encounters.
+- If areas are close together, ramp up the pressure. If they rest when they shouldn't punish this with a roving ambush of a few small grunts. 
+- All fights result in some lootables, at minimum gold or simple potions, at best a magic item or two. 
+- They will use fireball, make sure it doesn't burn an entire room. Keep stuff in iron chests or in protected alcoves. Fire can destroy some stuff but not everything. 
+
+**Exploration**
+- Ensure that every room has:
+	- A combat or an encounter
+	- A tidbit of lore or information to help in the dungeon
+	- A puzzle to solve or an obstacle to overcome
+	- Something the group has to deliberate to work around
