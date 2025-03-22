@@ -1,0 +1,2 @@
+# Ignore tracking of .obsidian folder for per-workspace files
+.obsidian/
