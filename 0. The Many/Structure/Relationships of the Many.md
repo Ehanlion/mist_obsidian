@@ -1,4 +1,4 @@
-**The Idea**
+ **The Idea**
 - I have had the idea that members of the Many were in relationships with each other
 - In theory, this makes sense, they were close proximity, high stress living and so many of the couples would have been naturally formed
 
@@ -24,9 +24,10 @@ I have the following puzzle pieces that I think will work well together
 - Because of the close proximity on [[Mist]] and the high stress, [[Bernhard]] and [[Valentino]] often took on objectives together
 - As such they spent much time in each other's company which led to them falling in love with each other
 - By the time of the final battle, they had only been dating for a couple months 
+- [[Bernhard]] created [[The First Compound]] and set the entrance password to be [[Valentino]], as a sign of their love
 - [[Bernhard]]'s [[Shard]] captured final thoughts of a first date
 - [[Valentino]]'s [[Shard]] captured final thoughts of a family with [[Bernhard]]
-- Both of their [[Shard]]s were rings and both were meant to be used in their wedding. When both are worn by creatures, they interact with each other. 
+- They also left rings for each other, a matched set. [[Bernhard]]'s ring, to be given to [[Valentino]] is left in [[The First Compound]]
 ## 4. [[DeAngelo]] and [[Cleophas]] (unrealized lovers)
 - [[DeAngelo]] and [[Cleophas]] were the least closely exposed to each other's company on [[Mist]] since their objectives never really overlapped 
 - However they were friends and messaged each other with disappearing paper notes and sending stones 

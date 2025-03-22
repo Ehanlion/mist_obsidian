@@ -37,7 +37,7 @@
 	- They would levy the mighty Archmagi [[Silvan Gile]]'s powers (who is really [[Ignel Valis]] in disguise) to raise the aspect of [[The Stormlord]], dubbed [[Karak-Ulgurath]]
 	- [[Silvan Gile]] requested more help, and sought out the knowledge of the Infernal, making a friendly agreement with [[Voramas]], Archdevil of [[The Umbral Cabal]]
 	- [[Voramas]] joined in good standing because he recognized the might of the alliance forming and wishes to preserve [[The Umbral Cabal]], regardless of moral or side
-	- They would use a Shrine, a [[Shrine of The Many]], to [[The Stormlord]] as a conduit for [[Karak-Ulgurath]]'s power
+	- They would use a Shrine, a [[Shrines of The Many]], to [[The Stormlord]] as a conduit for [[Karak-Ulgurath]]'s power
 	- They would use [[Fedorov's Legion]] as a method of communication
 	- [[Tennyson Heralds]] would act to rally the people of [[The Whitecliff Plateau]] to his word, and eventually use his influence to rally the people to the new alliance's side 
 	- This would be the founding of [[The Cutthroat Authority]]

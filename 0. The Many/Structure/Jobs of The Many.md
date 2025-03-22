@@ -1,0 +1,34 @@
+**The Idea**
+- [[The Many]] were highly organized and also efficient
+- They were not only a large group of friends, but an orderly unit of workers too
+- When they were apart of [[The Runewilds]], they were master techno magical architects, focused on creating vast structures that fused architecture and technology with magic and the arcane. Thus this group innately is quite experiences with magic.
+- In D&D we have the primary casters as follows:
+	- Wizard
+	- Warlock
+	- Sorcerer
+	- Bard
+	- Druid
+	- Cleric
+- And we have the secondary casters as follows:
+	- Ranger
+	- Paladin
+- Now which of these make sense for [[The Many]]:
+	- *Wizard* - pure knowledge, reading, and literature
+	- *Sorcerer* - inherited power and casting given by bloodline inheritance
+	- *Druid* - powerful knowledge of the forest and nature
+	- *Bard* - inspirations casting and powerful support
+	- [[The Many]] would not have relied on any class fueled by a *Patron* or *the Divine*. As such we can eliminate *Cleric, Paladin, Warlock* from the possible class pool.
+	- [[The Many]] were also pure magic, they would not rely on any martial class, as such we can eliminate *Ranger*
+	- Thus we are left with the list of: *Wizard, Sorcerer, Druid, Bard* as the classes to be distributed over the 8 members of [[The Many]]
+
+**Deciding Class Specialties and Requirements**
+- Is is important to remember the *goal* of [[The Many]] when it comes to logically assigning classes
+- They were *fortifying* [[Mist]]. This was not a vacation or a for-fun hideout. 
+- [[The Many]] murdered the Queen of [[The Runewilds]] and were marked for execution over all time by [[The Scintillating Order]]
+- [[Mist]] was their *project*, and they came here for *sanctuary* and to hide from [[The Scintillating Order]]
+- Thus their efforts as a group revolve around the following:
+	- Fortification: They must be able to create and maintain points of defense across the island 
+	- Empowerment: They must be able to tap into and access the natural power of [[Mist]] and use it for their creations
+	- Social Engineering: They must be able to control, manipulate, but also uplift the native population to aid them in their coming times
+	- Combat: They must have prowess in combat, so that if push comes to shove they would be ready for a battle against [[The Scintillating Order]]
+- 

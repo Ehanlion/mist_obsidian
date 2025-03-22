@@ -1,6 +1,9 @@
 Regional Location: [[The Many]]
 Subsection: One of the eight
 
+In love with [[Bernhard]] (female Moon Druid)
+Nickname: "Moonstar"
+
 **Creating His [[Shard]]**
 - [[Valentino]] worked on [[The Mist Codex]] and did a lot of rune programming to help build it
 - he would have needed vast intelligence, focus, and rune carving abilities

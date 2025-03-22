@@ -16,13 +16,19 @@ This dungeon should feel like it has *two levels*. Firstly, there are the obviou
 - *Initial Concept Testing* - Test teleportation circle, simple puzzle rooms and vaults for the wedding ring. 
 
 **Core Loot**
-- Originally, I considered having a [[Shard]] be here, but I think as I write this, that it is a poor idea. I want [[Shard]]s to have a distinct aura; the areas where they reside should have significant and regional magic that surrounds them. 
-- Instead, after solving the puzzle that leads to the single main door, the players will be rewarded with a *note, a name, and a powerful magic ring*. 
-- This ring was a wedding ring left behind.
-- The note alludes to it having a matching pair.
-- The couple alluded to is [[Mansfield]] and [[Valentino]]. This compound's entrance is the name [[Valentino]] in cipher text, so this compound was originally created by [[Mansfield]], hence [[Valentino]] as the password. The ring found would have been given to [[Valentino]] from [[Mansfield]].
-- The note would be to [[Valentino]] and from [[Mansfield]], describing a "dark day soon ahead," their "desire to make it through this battle," and that "when it is all over, I shall take your hand in marriage as I know you should want to take mine." It is *written in common.* 
-- In the note, write that "I know you enjoyed writing your notes in the cipher text we all created, but I should like to write this one in the tongue of the original creatures of this beautiful land of [[Mist]]."
+- [[Coral Lance]] - on a martial, maybe a baron
+- [[Siren's Locket]] - on a caster, cold damage
+- [[Pendant of the Leviathan]] - on a caster
+- [[Lantern of Revealing]] - [[Fedorov's Legion]] item
+- [[Red Rock Pipe]] - [[Fedorov's Legion]] item
+- [[Simple Runic Prayer Mat]] - [[Fedorov's Legion]] item
+- *The Wedding ring:* Reward for solving the 5 puzzle rooms and opening the main door
+	- Solving the puzzle that leads to the single main door, the players will be rewarded with a *note, a name, and two powerful magic rings*. 
+	- These rings are wedding rings left behind. 
+	- The couple alluded to is [[Bernhard]] and [[Valentino]]. This compound's entrance is the name [[Valentino]] in cipher text, so this compound was originally created by [[Bernhard]], hence [[Valentino]] as the password. The rings found would have been created by [[Bernhard]] for their marriage, 
+	- [[Valentino]]'s name is not mentioned directly in the text
+	- The note would be to [[Valentino]] and from [[Bernhard]].
+	- There are two rings that are found, created by [[Bernhard]] for both her and [[Valentino]]. 
 
 **Combat**
 - Make sure combats are isolated, unique, and simple.

@@ -1,4 +1,4 @@
-[[The Bog Beast Swamps]]
+[[The Bogbeast Swamps]]
 
 Talking over patron ideas:
 - celestial
@@ -18,7 +18,7 @@ Working on a name for Kiro's people:
 - Kiro's family is the head of it
 
 Kiro's location:
-- Kiro is from [[The Bog Beast Swamps]]
+- Kiro is from [[The Bogbeast Swamps]]
 - This borders [[The Wildwoods]] and [[The Umbrawood]] and [[The Discordant Plains]]
 	- spirits from [[The Umbrawood]]
 	- spirts and aberrations from [[The Discordant Plains]]

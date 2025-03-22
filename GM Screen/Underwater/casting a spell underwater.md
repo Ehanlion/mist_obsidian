@@ -1,5 +1,3 @@
 Rules Index: [[D&D Game Mechanics]]
 # Mechanics
-While submerged underwater and holding its breath, a creature can cast a spell that requires a verbal component with a casting time of a reaction, bonus action, or action. After casting the spell, If the creature can’t breathe underwater, it must make a DC 20 Constitution saving throw otherwise it loses one minutes worth of breath.
-
-If a creature can breathe underwater it cannot lose breath from casting a spell underwater since it can breathe. 
+While submerged underwater and holding its breath, a creature can cast a spell that requires a verbal component with a casting time of a reaction, bonus action, or action. After casting the spell, If the creature can’t breathe underwater, it must make a DC 20 Constitution saving throw otherwise it loses one minutes worth of breath. If a creature can breathe underwater it cannot lose breath from casting a spell underwater since it can breathe. 

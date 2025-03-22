@@ -1,0 +1,7 @@
+This letter was found in [[The First Compound]]. It is located on [[The Whitecliff Plateau]], underneath [[The Widow-maker's Stands]], adjacent to [[The Bay of Kelp]]. 
+
+To my beloved "Val",
+
+It has only been a few months, but I know in my heart I must seek your hand in marriage. For I love you. In such a short time too, it surprises me. I even keyed our group's first compound, this compound, to your name. A gesture of one hopelessly in love. I don't think you know we will be married, but you'll come around soon. Men are always so clueless. I have created and hidden the rings we shall be wed with here in this compound. I know you love writing your notes in our new cipher, but I enjoyed writing this one in the native tongue of the beautiful creatures of this strange new land. Oh what great and mighty things we will build to transform this place. To empower the natives. To protect ourselves. To shield ourselves. To save ourselves. From them, those who seek to end us. Those who will hunt us to here. The Many shall endure. We shall endure. One day, you and I shall be wed and endure this all together, as this ring shall endure not only my everlasting love, but the invariable ticking of time. 
+
+Soon to be yours, Bernhard 

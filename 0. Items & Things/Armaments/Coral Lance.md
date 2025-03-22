@@ -15,4 +15,4 @@ While underwater, the lance can be used to summon a friendly shark to your side.
 
 *Innate Spellcasting:*
 - Cantrip: The wielder of the [[Coral Lance]] can cast the cantrip [Shape Water](https://dnd5e.wikidot.com/spell:shape-water)
-- 1/day: While underwater, or above water, the lance can be used to cast the spell [Watery Sphere](https://dnd5e.wikidot.com/spell:watery-sphere), and the save is made against a DC of 16. This spell is not considered to be concentration, as the [[Coral Lance]] holds concentration for its wielder.
+- 1/day: While underwater, the lance can be used to cast the spell [Watery Sphere](https://dnd5e.wikidot.com/spell:watery-sphere), and the save is made against a DC of 16. 
